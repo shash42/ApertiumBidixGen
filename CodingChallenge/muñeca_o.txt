@@ -1,0 +1,976 @@
+Number of words: 50
+Number of edges: 117
+Number of languages: 12
+
+Confidence score matchings for lemma: muñeca-n-es
+Inferred: pupo-n-eo: 0.833333
+Existing: doll-n-en: 1
+Existing: moñeca-n-ast: 1
+Existing: muñeca-n-ast: 1
+Existing: ncheietur-n-ro: 1
+Existing: ppu-n-ro: 1
+Existing: monyica-n-ca: 1
+Existing: boneca-n-gl: 1
+Existing: pipa-n-oc: 1
+Existing: pojno-n-eo: 1
+Existing: nina-n-ca: 1
+Existing: wrist-n-en: 1
+Existing: canell-n-ca: 1
+Existing: moneca-n-gl: 1
+Existing: poupée-n-fr: 1
+Existing: eskumutur-n-eu: 1
+Existing: poignet-n-fr: 1
+In context: manartiko-n-eo: 0.666667
+In context: manradiko-n-eo: 0.666667
+In context: nimfa-n-ca: 0
+In context: chrysalide-n-fr: 0
+In context: manchette-n-fr: 0
+In context: punyet-n-ca: 0
+In context: pulse-n-en: 0
+In context: boneco-n-gl: 0
+In context: prunelle-n-fr: 0
+In context: pupille-n-fr: 0
+In context: pupilla-n-ca: 0
+In context: nineta-n-ca: 0
+In context: pulso-n-gl: 0
+In context: pupa-n-ca: 0
+In context: marionnette-n-fr: 0
+In context: pupilo-n-eo: 0
+In context: boneco-n-pt: 0
+In context: ninot-n-ca: 0
+In context: polso-n-it: 0
+In context: bambola-n-it: 0
+In context: pugno-n-eo: 0
+In context: poing-n-fr: 0
+In context: punh-n-oc: 0
+In context: ponh-n-oc: 0
+In context: fist-n-en: 0
+In context: pugno-n-it: 0
+In context: punho-n-pt: 0
+In context: puny-n-ca: 0
+In context: manumo-n-eo: 0
+
+Confidence score matchings for lemma: pojno-n-eo
+Inferred: moneca-n-gl: 0.833333
+Inferred: nina-n-ca: 0.833333
+Inferred: eskumutur-n-eu: 0.833333
+Inferred: pipa-n-oc: 0.7
+Inferred: doll-n-en: 0.7
+Existing: wrist-n-en: 1
+Existing: puny-n-ca: 1
+Existing: poupée-n-fr: 1
+Existing: canell-n-ca: 1
+Existing: muñeca-n-es: 1
+Existing: poignet-n-fr: 1
+In context: boneca-n-gl: 0.6
+In context: punyet-n-ca: 0
+In context: moñeca-n-ast: 0
+In context: pupilo-n-eo: 0
+In context: chrysalide-n-fr: 0
+In context: marionnette-n-fr: 0
+In context: pupa-n-ca: 0
+In context: nimfa-n-ca: 0
+In context: manchette-n-fr: 0
+In context: pulse-n-en: 0
+In context: monyica-n-ca: 0
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: boneco-n-pt: 0
+In context: polso-n-it: 0
+In context: bambola-n-it: 0
+In context: pugno-n-eo: 0
+In context: poing-n-fr: 0
+In context: punh-n-oc: 0
+In context: ponh-n-oc: 0
+In context: fist-n-en: 0
+In context: pugno-n-it: 0
+In context: punho-n-pt: 0
+In context: pupo-n-eo: 0
+In context: manumo-n-eo: 0
+In context: manartiko-n-eo: 0
+In context: manradiko-n-eo: 0
+In context: pulso-n-gl: 0
+
+Confidence score matchings for lemma: wrist-n-en
+Inferred: poupée-n-fr: 0.833333
+Inferred: poignet-n-fr: 0.833333
+Inferred: nina-n-ca: 0.7
+Existing: pojno-n-eo: 1
+Existing: muñeca-n-es: 1
+Existing: eskumutur-n-eu: 1
+Existing: manartiko-n-eo: 1
+Existing: manradiko-n-eo: 1
+Existing: moneca-n-gl: 1
+Existing: pulso-n-gl: 1
+Existing: canell-n-ca: 1
+In context: pipa-n-oc: 0.6
+In context: moñeca-n-ast: 0
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: monyica-n-ca: 0
+In context: pulse-n-en: 0
+In context: boneca-n-gl: 0
+In context: pupilo-n-eo: 0
+In context: boneco-n-pt: 0
+In context: doll-n-en: 0
+In context: polso-n-it: 0
+In context: bambola-n-it: 0
+In context: pugno-n-eo: 0
+In context: poing-n-fr: 0
+In context: punh-n-oc: 0
+In context: ponh-n-oc: 0
+In context: fist-n-en: 0
+In context: pugno-n-it: 0
+In context: punho-n-pt: 0
+In context: puny-n-ca: 0
+In context: pupo-n-eo: 0
+In context: manumo-n-eo: 0
+
+Confidence score matchings for lemma: canell-n-ca
+Inferred: poupée-n-fr: 0.833333
+Inferred: moneca-n-gl: 0.833333
+Inferred: poignet-n-fr: 0.833333
+Inferred: eskumutur-n-eu: 0.833333
+Existing: pojno-n-eo: 1
+Existing: bambola-n-it: 1
+Existing: polso-n-it: 1
+Existing: muñeca-n-es: 1
+Existing: wrist-n-en: 1
+In context: manartiko-n-eo: 0.6
+In context: manradiko-n-eo: 0.6
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: monyica-n-ca: 0
+In context: pulse-n-en: 0
+In context: boneca-n-gl: 0
+In context: pupilo-n-eo: 0
+In context: pipa-n-oc: 0
+In context: boneco-n-pt: 0
+In context: doll-n-en: 0
+In context: moñeca-n-ast: 0
+In context: pugno-n-eo: 0
+In context: poing-n-fr: 0
+In context: punh-n-oc: 0
+In context: ponh-n-oc: 0
+In context: fist-n-en: 0
+In context: pugno-n-it: 0
+In context: punho-n-pt: 0
+In context: puny-n-ca: 0
+In context: pupo-n-eo: 0
+In context: nina-n-ca: 0
+In context: manumo-n-eo: 0
+In context: pulso-n-gl: 0
+
+Confidence score matchings for lemma: pulso-n-gl
+Existing: wrist-n-en: 1
+Existing: pulse-n-en: 1
+In context: puny-n-ca: 0
+In context: moñeca-n-ast: 0
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: monyica-n-ca: 0
+In context: boneca-n-gl: 0
+In context: pipa-n-oc: 0
+In context: doll-n-en: 0
+In context: polso-n-it: 0
+In context: bambola-n-it: 0
+In context: muñeca-n-es: 0
+In context: nina-n-ca: 0
+In context: poupée-n-fr: 0
+In context: poignet-n-fr: 0
+In context: eskumutur-n-eu: 0
+In context: manartiko-n-eo: 0
+In context: manradiko-n-eo: 0
+In context: moneca-n-gl: 0
+In context: canell-n-ca: 0
+In context: pojno-n-eo: 0
+
+Confidence score matchings for lemma: moneca-n-gl
+Inferred: pojno-n-eo: 0.833333
+Inferred: nina-n-ca: 0.833333
+Inferred: eskumutur-n-eu: 0.833333
+Inferred: canell-n-ca: 0.833333
+Inferred: pipa-n-oc: 0.7
+Inferred: pupo-n-eo: 0.7
+Inferred: poignet-n-fr: 0.7
+Inferred: poupée-n-fr: 0.7
+Existing: muñeca-n-es: 1
+Existing: doll-n-en: 1
+Existing: wrist-n-en: 1
+In context: manartiko-n-eo: 0.6
+In context: manradiko-n-eo: 0.6
+In context: muñeca-n-ast: 0
+In context: moñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: monyica-n-ca: 0
+In context: pulse-n-en: 0
+In context: boneca-n-gl: 0
+In context: nimfa-n-ca: 0
+In context: pupa-n-ca: 0
+In context: marionnette-n-fr: 0
+In context: chrysalide-n-fr: 0
+In context: pupilo-n-eo: 0
+In context: boneco-n-pt: 0
+In context: polso-n-it: 0
+In context: bambola-n-it: 0
+In context: puny-n-ca: 0
+In context: manumo-n-eo: 0
+In context: pulso-n-gl: 0
+
+Confidence score matchings for lemma: manradiko-n-eo
+Existing: wrist-n-en: 1
+Existing: poignet-n-fr: 1
+In context: muñeca-n-es: 0.666667
+In context: canell-n-ca: 0.6
+In context: moneca-n-gl: 0.6
+In context: eskumutur-n-eu: 0.6
+In context: bambola-n-it: 0
+In context: moñeca-n-ast: 0
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: monyica-n-ca: 0
+In context: pulse-n-en: 0
+In context: boneca-n-gl: 0
+In context: punyet-n-ca: 0
+In context: manchette-n-fr: 0
+In context: pipa-n-oc: 0
+In context: doll-n-en: 0
+In context: polso-n-it: 0
+In context: puny-n-ca: 0
+In context: nina-n-ca: 0
+In context: poupée-n-fr: 0
+In context: manumo-n-eo: 0
+In context: manartiko-n-eo: 0
+In context: pulso-n-gl: 0
+In context: pojno-n-eo: 0
+
+Confidence score matchings for lemma: manartiko-n-eo
+Existing: wrist-n-en: 1
+Existing: poignet-n-fr: 1
+In context: muñeca-n-es: 0.666667
+In context: canell-n-ca: 0.6
+In context: moneca-n-gl: 0.6
+In context: eskumutur-n-eu: 0.6
+In context: bambola-n-it: 0
+In context: moñeca-n-ast: 0
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: monyica-n-ca: 0
+In context: pulse-n-en: 0
+In context: boneca-n-gl: 0
+In context: punyet-n-ca: 0
+In context: manchette-n-fr: 0
+In context: pipa-n-oc: 0
+In context: doll-n-en: 0
+In context: polso-n-it: 0
+In context: puny-n-ca: 0
+In context: nina-n-ca: 0
+In context: poupée-n-fr: 0
+In context: manumo-n-eo: 0
+In context: manradiko-n-eo: 0
+In context: pulso-n-gl: 0
+In context: pojno-n-eo: 0
+
+Confidence score matchings for lemma: eskumutur-n-eu
+Inferred: pojno-n-eo: 0.833333
+Inferred: canell-n-ca: 0.833333
+Inferred: moneca-n-gl: 0.833333
+Inferred: poignet-n-fr: 0.7
+Inferred: poupée-n-fr: 0.7
+Existing: wrist-n-en: 1
+Existing: muñeca-n-es: 1
+In context: manradiko-n-eo: 0.6
+In context: manartiko-n-eo: 0.6
+In context: nina-n-ca: 0.6
+In context: pipa-n-oc: 0.52381
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: monyica-n-ca: 0
+In context: pulse-n-en: 0
+In context: boneca-n-gl: 0
+In context: pupilo-n-eo: 0
+In context: moñeca-n-ast: 0
+In context: boneco-n-pt: 0
+In context: doll-n-en: 0
+In context: polso-n-it: 0
+In context: bambola-n-it: 0
+In context: puny-n-ca: 0
+In context: pupo-n-eo: 0
+In context: manumo-n-eo: 0
+In context: pulso-n-gl: 0
+
+Confidence score matchings for lemma: poignet-n-fr
+Inferred: wrist-n-en: 0.833333
+Inferred: canell-n-ca: 0.833333
+Inferred: moneca-n-gl: 0.7
+Inferred: eskumutur-n-eu: 0.7
+Existing: pojno-n-eo: 1
+Existing: muñeca-n-es: 1
+Existing: manradiko-n-eo: 1
+Existing: manartiko-n-eo: 1
+Existing: manumo-n-eo: 1
+In context: polso-n-it: 0
+In context: moñeca-n-ast: 0
+In context: doll-n-en: 0
+In context: boneco-n-pt: 0
+In context: pipa-n-oc: 0
+In context: pupilo-n-eo: 0
+In context: manchette-n-fr: 0
+In context: punyet-n-ca: 0
+In context: boneca-n-gl: 0
+In context: monyica-n-ca: 0
+In context: ppu-n-ro: 0
+In context: ncheietur-n-ro: 0
+In context: muñeca-n-ast: 0
+In context: bambola-n-it: 0
+In context: pugno-n-eo: 0
+In context: poing-n-fr: 0
+In context: punh-n-oc: 0
+In context: ponh-n-oc: 0
+In context: fist-n-en: 0
+In context: pugno-n-it: 0
+In context: punho-n-pt: 0
+In context: puny-n-ca: 0
+In context: pupo-n-eo: 0
+In context: nina-n-ca: 0
+In context: poupée-n-fr: 0
+In context: pulso-n-gl: 0
+
+Confidence score matchings for lemma: manumo-n-eo
+Existing: punyet-n-ca: 1
+Existing: poignet-n-fr: 1
+Existing: manchette-n-fr: 1
+Existing: puny-n-ca: 1
+In context: fist-n-en: 0
+In context: moñeca-n-ast: 0
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: monyica-n-ca: 0
+In context: boneca-n-gl: 0
+In context: pipa-n-oc: 0
+In context: doll-n-en: 0
+In context: pugno-n-eo: 0
+In context: poing-n-fr: 0
+In context: punh-n-oc: 0
+In context: ponh-n-oc: 0
+In context: muñeca-n-es: 0
+In context: pugno-n-it: 0
+In context: punho-n-pt: 0
+In context: nina-n-ca: 0
+In context: poupée-n-fr: 0
+In context: eskumutur-n-eu: 0
+In context: manartiko-n-eo: 0
+In context: manradiko-n-eo: 0
+In context: moneca-n-gl: 0
+In context: canell-n-ca: 0
+In context: wrist-n-en: 0
+In context: pojno-n-eo: 0
+
+Confidence score matchings for lemma: poupée-n-fr
+Inferred: pipa-n-oc: 0.833333
+Inferred: wrist-n-en: 0.833333
+Inferred: canell-n-ca: 0.833333
+Inferred: doll-n-en: 0.833333
+Inferred: moneca-n-gl: 0.7
+Inferred: boneca-n-gl: 0.7
+Inferred: eskumutur-n-eu: 0.7
+Existing: pojno-n-eo: 1
+Existing: pupo-n-eo: 1
+Existing: nina-n-ca: 1
+Existing: muñeca-n-es: 1
+In context: nineta-n-ca: 0
+In context: ppu-n-ro: 0
+In context: ncheietur-n-ro: 0
+In context: pupilla-n-ca: 0
+In context: pupille-n-fr: 0
+In context: prunelle-n-fr: 0
+In context: boneco-n-gl: 0
+In context: monyica-n-ca: 0
+In context: muñeca-n-ast: 0
+In context: nimfa-n-ca: 0
+In context: pupa-n-ca: 0
+In context: marionnette-n-fr: 0
+In context: chrysalide-n-fr: 0
+In context: pupilo-n-eo: 0
+In context: moñeca-n-ast: 0
+In context: fist-n-en: 0
+In context: pulso-n-gl: 0
+In context: manradiko-n-eo: 0
+In context: manartiko-n-eo: 0
+In context: poignet-n-fr: 0
+In context: manumo-n-eo: 0
+In context: puny-n-ca: 0
+In context: punho-n-pt: 0
+In context: pugno-n-it: 0
+In context: boneco-n-pt: 0
+In context: ponh-n-oc: 0
+In context: punh-n-oc: 0
+In context: poing-n-fr: 0
+In context: pugno-n-eo: 0
+In context: bambola-n-it: 0
+In context: polso-n-it: 0
+In context: ninot-n-ca: 0
+
+Confidence score matchings for lemma: nina-n-ca
+Inferred: pojno-n-eo: 0.833333
+Inferred: boneca-n-gl: 0.833333
+Inferred: moneca-n-gl: 0.833333
+Inferred: wrist-n-en: 0.7
+Existing: boneco-n-pt: 1
+Existing: pupilo-n-eo: 1
+Existing: pipa-n-oc: 1
+Existing: muñeca-n-es: 1
+Existing: doll-n-en: 1
+Existing: bambola-n-it: 1
+Existing: pupo-n-eo: 1
+Existing: poupée-n-fr: 1
+In context: eskumutur-n-eu: 0.6
+In context: pupa-n-ca: 0
+In context: moñeca-n-ast: 0
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: nineta-n-ca: 0
+In context: pupilla-n-ca: 0
+In context: pupille-n-fr: 0
+In context: prunelle-n-fr: 0
+In context: boneco-n-gl: 0
+In context: monyica-n-ca: 0
+In context: canell-n-ca: 0
+In context: nimfa-n-ca: 0
+In context: marionnette-n-fr: 0
+In context: chrysalide-n-fr: 0
+In context: pulso-n-gl: 0
+In context: manradiko-n-eo: 0
+In context: manartiko-n-eo: 0
+In context: ninot-n-ca: 0
+In context: polso-n-it: 0
+In context: poignet-n-fr: 0
+In context: puny-n-ca: 0
+In context: manumo-n-eo: 0
+
+Confidence score matchings for lemma: pupo-n-eo
+Inferred: muñeca-n-es: 0.833333
+Inferred: boneca-n-gl: 0.7
+Inferred: moneca-n-gl: 0.7
+Inferred: pipa-n-oc: 0.7
+Existing: nimfa-n-ca: 1
+Existing: pupa-n-ca: 1
+Existing: marionnette-n-fr: 1
+Existing: chrysalide-n-fr: 1
+Existing: poupée-n-fr: 1
+Existing: nina-n-ca: 1
+Existing: doll-n-en: 1
+In context: pupille-n-fr: 0
+In context: boneco-n-gl: 0
+In context: prunelle-n-fr: 0
+In context: pupilo-n-eo: 0
+In context: pupilla-n-ca: 0
+In context: nineta-n-ca: 0
+In context: ppu-n-ro: 0
+In context: ncheietur-n-ro: 0
+In context: muñeca-n-ast: 0
+In context: moñeca-n-ast: 0
+In context: monyica-n-ca: 0
+In context: boneco-n-pt: 0
+In context: ninot-n-ca: 0
+In context: bambola-n-it: 0
+In context: puny-n-ca: 0
+In context: poignet-n-fr: 0
+In context: eskumutur-n-eu: 0
+In context: canell-n-ca: 0
+In context: wrist-n-en: 0
+In context: pojno-n-eo: 0
+
+Confidence score matchings for lemma: puny-n-ca
+Existing: pojno-n-eo: 1
+Existing: pugno-n-eo: 1
+Existing: poing-n-fr: 1
+Existing: punh-n-oc: 1
+Existing: ponh-n-oc: 1
+Existing: fist-n-en: 1
+Existing: pugno-n-it: 1
+Existing: punho-n-pt: 1
+Existing: manumo-n-eo: 1
+In context: bambola-n-it: 0
+In context: moñeca-n-ast: 0
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: monyica-n-ca: 0
+In context: boneca-n-gl: 0
+In context: punyet-n-ca: 0
+In context: manchette-n-fr: 0
+In context: pipa-n-oc: 0
+In context: doll-n-en: 0
+In context: polso-n-it: 0
+In context: poignet-n-fr: 0
+In context: muñeca-n-es: 0
+In context: wrist-n-en: 0
+In context: canell-n-ca: 0
+In context: pulso-n-gl: 0
+In context: moneca-n-gl: 0
+In context: manradiko-n-eo: 0
+In context: manartiko-n-eo: 0
+In context: pupo-n-eo: 0
+In context: nina-n-ca: 0
+In context: poupée-n-fr: 0
+In context: eskumutur-n-eu: 0
+
+Confidence score matchings for lemma: punho-n-pt
+
+Confidence score matchings for lemma: pugno-n-it
+
+Confidence score matchings for lemma: fist-n-en
+
+Confidence score matchings for lemma: ponh-n-oc
+
+Confidence score matchings for lemma: punh-n-oc
+
+Confidence score matchings for lemma: poing-n-fr
+
+Confidence score matchings for lemma: pugno-n-eo
+
+Confidence score matchings for lemma: bambola-n-it
+Existing: canell-n-ca: 1
+Existing: monyica-n-ca: 1
+Existing: nina-n-ca: 1
+In context: prunelle-n-fr: 0
+In context: pupilo-n-eo: 0
+In context: chrysalide-n-fr: 0
+In context: marionnette-n-fr: 0
+In context: pupa-n-ca: 0
+In context: nimfa-n-ca: 0
+In context: boneca-n-gl: 0
+In context: boneco-n-gl: 0
+In context: boneco-n-pt: 0
+In context: pupille-n-fr: 0
+In context: pupilla-n-ca: 0
+In context: nineta-n-ca: 0
+In context: ppu-n-ro: 0
+In context: ncheietur-n-ro: 0
+In context: muñeca-n-ast: 0
+In context: moñeca-n-ast: 0
+In context: pipa-n-oc: 0
+In context: muñeca-n-es: 0
+In context: ninot-n-ca: 0
+In context: doll-n-en: 0
+In context: polso-n-it: 0
+In context: puny-n-ca: 0
+In context: pupo-n-eo: 0
+In context: poupée-n-fr: 0
+In context: poignet-n-fr: 0
+In context: eskumutur-n-eu: 0
+In context: manartiko-n-eo: 0
+In context: manradiko-n-eo: 0
+In context: moneca-n-gl: 0
+In context: pulso-n-gl: 0
+In context: wrist-n-en: 0
+In context: pojno-n-eo: 0
+
+Confidence score matchings for lemma: polso-n-it
+Existing: canell-n-ca: 1
+In context: nina-n-ca: 0
+In context: moñeca-n-ast: 0
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: monyica-n-ca: 0
+In context: boneca-n-gl: 0
+In context: pipa-n-oc: 0
+In context: doll-n-en: 0
+In context: bambola-n-it: 0
+In context: puny-n-ca: 0
+In context: muñeca-n-es: 0
+In context: poupée-n-fr: 0
+In context: poignet-n-fr: 0
+In context: eskumutur-n-eu: 0
+In context: manartiko-n-eo: 0
+In context: manradiko-n-eo: 0
+In context: moneca-n-gl: 0
+In context: pulso-n-gl: 0
+In context: wrist-n-en: 0
+In context: pojno-n-eo: 0
+
+Confidence score matchings for lemma: muñeco-n-es
+Existing: boneco-n-pt: 1
+Existing: pipòt-n-oc: 1
+Existing: moñecu-n-ast: 1
+Existing: ninot-n-ca: 1
+Existing: poupée-n-fr: 1
+Existing: doll-n-en: 1
+Existing: pupo-n-eo: 1
+In context: chrysalide-n-fr: 0
+In context: moñeca-n-ast: 0
+In context: marionnette-n-fr: 0
+In context: pupa-n-ca: 0
+In context: nimfa-n-ca: 0
+In context: boneca-n-gl: 0
+In context: monyica-n-ca: 0
+In context: boneco-n-gl: 0
+In context: ppu-n-ro: 0
+In context: ncheietur-n-ro: 0
+In context: muñeca-n-ast: 0
+In context: muñeca-n-es: 0
+In context: pupilo-n-eo: 0
+In context: pipa-n-oc: 0
+In context: bambola-n-it: 0
+In context: puny-n-ca: 0
+In context: nina-n-ca: 0
+In context: poignet-n-fr: 0
+In context: eskumutur-n-eu: 0
+In context: moneca-n-gl: 0
+In context: canell-n-ca: 0
+In context: wrist-n-en: 0
+In context: pojno-n-eo: 0
+
+Confidence score matchings for lemma: doll-n-en
+Inferred: pipa-n-oc: 0.833333
+Inferred: poupée-n-fr: 0.833333
+Inferred: pojno-n-eo: 0.7
+Existing: muñeca-n-es: 1
+Existing: moneca-n-gl: 1
+Existing: boneca-n-gl: 1
+Existing: nina-n-ca: 1
+Existing: pupo-n-eo: 1
+In context: marionnette-n-fr: 0
+In context: moñeca-n-ast: 0
+In context: pupa-n-ca: 0
+In context: nimfa-n-ca: 0
+In context: monyica-n-ca: 0
+In context: boneco-n-gl: 0
+In context: prunelle-n-fr: 0
+In context: pupille-n-fr: 0
+In context: pupilla-n-ca: 0
+In context: nineta-n-ca: 0
+In context: ppu-n-ro: 0
+In context: ncheietur-n-ro: 0
+In context: muñeca-n-ast: 0
+In context: chrysalide-n-fr: 0
+In context: pupilo-n-eo: 0
+In context: boneco-n-pt: 0
+In context: ninot-n-ca: 0
+In context: polso-n-it: 0
+In context: bambola-n-it: 0
+In context: puny-n-ca: 0
+In context: manumo-n-eo: 0
+In context: poignet-n-fr: 0
+In context: eskumutur-n-eu: 0
+In context: manartiko-n-eo: 0
+In context: manradiko-n-eo: 0
+In context: pulso-n-gl: 0
+In context: canell-n-ca: 0
+In context: wrist-n-en: 0
+
+Confidence score matchings for lemma: ninot-n-ca
+
+Confidence score matchings for lemma: moñecu-n-ast
+
+Confidence score matchings for lemma: pipòt-n-oc
+
+Confidence score matchings for lemma: boneco-n-pt
+Existing: nina-n-ca: 1
+Existing: boneco-n-gl: 1
+Existing: ninot-n-ca: 1
+In context: chrysalide-n-fr: 0
+In context: moñeca-n-ast: 0
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: nineta-n-ca: 0
+In context: pupilla-n-ca: 0
+In context: pupille-n-fr: 0
+In context: prunelle-n-fr: 0
+In context: monyica-n-ca: 0
+In context: boneca-n-gl: 0
+In context: nimfa-n-ca: 0
+In context: pupa-n-ca: 0
+In context: marionnette-n-fr: 0
+In context: muñeca-n-es: 0
+In context: pupilo-n-eo: 0
+In context: pipa-n-oc: 0
+In context: doll-n-en: 0
+In context: bambola-n-it: 0
+In context: pupo-n-eo: 0
+In context: poupée-n-fr: 0
+In context: poignet-n-fr: 0
+In context: eskumutur-n-eu: 0
+In context: moneca-n-gl: 0
+In context: canell-n-ca: 0
+In context: wrist-n-en: 0
+In context: pojno-n-eo: 0
+
+Confidence score matchings for lemma: pipa-n-oc
+Inferred: doll-n-en: 0.833333
+Inferred: poupée-n-fr: 0.833333
+Inferred: pojno-n-eo: 0.7
+Inferred: boneca-n-gl: 0.7
+Inferred: pupo-n-eo: 0.7
+Inferred: moneca-n-gl: 0.7
+Existing: nina-n-ca: 1
+Existing: muñeca-n-es: 1
+In context: wrist-n-en: 0.6
+In context: eskumutur-n-eu: 0.52381
+In context: pupa-n-ca: 0
+In context: nimfa-n-ca: 0
+In context: moñeca-n-ast: 0
+In context: monyica-n-ca: 0
+In context: boneco-n-gl: 0
+In context: prunelle-n-fr: 0
+In context: pupille-n-fr: 0
+In context: muñeca-n-ast: 0
+In context: pupilla-n-ca: 0
+In context: nineta-n-ca: 0
+In context: ppu-n-ro: 0
+In context: ncheietur-n-ro: 0
+In context: marionnette-n-fr: 0
+In context: chrysalide-n-fr: 0
+In context: pupilo-n-eo: 0
+In context: boneco-n-pt: 0
+In context: ninot-n-ca: 0
+In context: polso-n-it: 0
+In context: bambola-n-it: 0
+In context: puny-n-ca: 0
+In context: manumo-n-eo: 0
+In context: poignet-n-fr: 0
+In context: manartiko-n-eo: 0
+In context: manradiko-n-eo: 0
+In context: pulso-n-gl: 0
+In context: canell-n-ca: 0
+
+Confidence score matchings for lemma: pupilo-n-eo
+Existing: nineta-n-ca: 1
+Existing: pupilla-n-ca: 1
+Existing: pupille-n-fr: 1
+Existing: nina-n-ca: 1
+Existing: prunelle-n-fr: 1
+In context: chrysalide-n-fr: 0
+In context: moñeca-n-ast: 0
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: boneco-n-gl: 0
+In context: monyica-n-ca: 0
+In context: boneca-n-gl: 0
+In context: nimfa-n-ca: 0
+In context: pupa-n-ca: 0
+In context: marionnette-n-fr: 0
+In context: muñeca-n-es: 0
+In context: pipa-n-oc: 0
+In context: boneco-n-pt: 0
+In context: ninot-n-ca: 0
+In context: doll-n-en: 0
+In context: bambola-n-it: 0
+In context: pupo-n-eo: 0
+In context: poupée-n-fr: 0
+In context: poignet-n-fr: 0
+In context: eskumutur-n-eu: 0
+In context: moneca-n-gl: 0
+In context: canell-n-ca: 0
+In context: wrist-n-en: 0
+In context: pojno-n-eo: 0
+
+Confidence score matchings for lemma: chrysalide-n-fr
+
+Confidence score matchings for lemma: marionnette-n-fr
+
+Confidence score matchings for lemma: pupa-n-ca
+
+Confidence score matchings for lemma: nimfa-n-ca
+
+Confidence score matchings for lemma: manchette-n-fr
+
+Confidence score matchings for lemma: punyet-n-ca
+
+Confidence score matchings for lemma: boneca-n-gl
+Inferred: nina-n-ca: 0.833333
+Inferred: pipa-n-oc: 0.7
+Inferred: pupo-n-eo: 0.7
+Inferred: poupée-n-fr: 0.7
+Existing: doll-n-en: 1
+Existing: muñeca-n-es: 1
+In context: pojno-n-eo: 0.6
+In context: nimfa-n-ca: 0
+In context: pupa-n-ca: 0
+In context: marionnette-n-fr: 0
+In context: chrysalide-n-fr: 0
+In context: monyica-n-ca: 0
+In context: ppu-n-ro: 0
+In context: ncheietur-n-ro: 0
+In context: pupilo-n-eo: 0
+In context: muñeca-n-ast: 0
+In context: boneco-n-pt: 0
+In context: moñeca-n-ast: 0
+In context: polso-n-it: 0
+In context: bambola-n-it: 0
+In context: puny-n-ca: 0
+In context: manumo-n-eo: 0
+In context: poignet-n-fr: 0
+In context: eskumutur-n-eu: 0
+In context: manartiko-n-eo: 0
+In context: manradiko-n-eo: 0
+In context: moneca-n-gl: 0
+In context: pulso-n-gl: 0
+In context: canell-n-ca: 0
+In context: wrist-n-en: 0
+
+Confidence score matchings for lemma: pulse-n-en
+
+Confidence score matchings for lemma: monyica-n-ca
+Existing: bambola-n-it: 1
+Existing: muñeca-n-es: 1
+In context: pupo-n-eo: 0
+In context: moñeca-n-ast: 0
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: boneca-n-gl: 0
+In context: pupilo-n-eo: 0
+In context: pipa-n-oc: 0
+In context: boneco-n-pt: 0
+In context: doll-n-en: 0
+In context: polso-n-it: 0
+In context: puny-n-ca: 0
+In context: nina-n-ca: 0
+In context: poupée-n-fr: 0
+In context: manumo-n-eo: 0
+In context: poignet-n-fr: 0
+In context: eskumutur-n-eu: 0
+In context: manartiko-n-eo: 0
+In context: manradiko-n-eo: 0
+In context: moneca-n-gl: 0
+In context: pulso-n-gl: 0
+In context: canell-n-ca: 0
+In context: wrist-n-en: 0
+In context: pojno-n-eo: 0
+
+Confidence score matchings for lemma: boneco-n-gl
+
+Confidence score matchings for lemma: prunelle-n-fr
+
+Confidence score matchings for lemma: pupille-n-fr
+
+Confidence score matchings for lemma: pupilla-n-ca
+
+Confidence score matchings for lemma: nineta-n-ca
+
+Confidence score matchings for lemma: ppu-n-ro
+Existing: muñeca-n-es: 1
+In context: pupo-n-eo: 0
+In context: moñeca-n-ast: 0
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: monyica-n-ca: 0
+In context: boneca-n-gl: 0
+In context: pupilo-n-eo: 0
+In context: pipa-n-oc: 0
+In context: boneco-n-pt: 0
+In context: doll-n-en: 0
+In context: polso-n-it: 0
+In context: bambola-n-it: 0
+In context: puny-n-ca: 0
+In context: nina-n-ca: 0
+In context: poupée-n-fr: 0
+In context: manumo-n-eo: 0
+In context: poignet-n-fr: 0
+In context: eskumutur-n-eu: 0
+In context: manartiko-n-eo: 0
+In context: manradiko-n-eo: 0
+In context: moneca-n-gl: 0
+In context: pulso-n-gl: 0
+In context: canell-n-ca: 0
+In context: wrist-n-en: 0
+In context: pojno-n-eo: 0
+
+Confidence score matchings for lemma: ncheietur-n-ro
+Existing: muñeca-n-es: 1
+In context: pupo-n-eo: 0
+In context: moñeca-n-ast: 0
+In context: muñeca-n-ast: 0
+In context: ppu-n-ro: 0
+In context: monyica-n-ca: 0
+In context: boneca-n-gl: 0
+In context: pupilo-n-eo: 0
+In context: pipa-n-oc: 0
+In context: boneco-n-pt: 0
+In context: doll-n-en: 0
+In context: polso-n-it: 0
+In context: bambola-n-it: 0
+In context: puny-n-ca: 0
+In context: nina-n-ca: 0
+In context: poupée-n-fr: 0
+In context: manumo-n-eo: 0
+In context: poignet-n-fr: 0
+In context: eskumutur-n-eu: 0
+In context: manartiko-n-eo: 0
+In context: manradiko-n-eo: 0
+In context: moneca-n-gl: 0
+In context: pulso-n-gl: 0
+In context: canell-n-ca: 0
+In context: wrist-n-en: 0
+In context: pojno-n-eo: 0
+
+Confidence score matchings for lemma: muñeca-n-ast
+Existing: muñeca-n-es: 1
+In context: pupo-n-eo: 0
+In context: moñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: monyica-n-ca: 0
+In context: boneca-n-gl: 0
+In context: pupilo-n-eo: 0
+In context: pipa-n-oc: 0
+In context: boneco-n-pt: 0
+In context: doll-n-en: 0
+In context: polso-n-it: 0
+In context: bambola-n-it: 0
+In context: puny-n-ca: 0
+In context: nina-n-ca: 0
+In context: poupée-n-fr: 0
+In context: manumo-n-eo: 0
+In context: poignet-n-fr: 0
+In context: eskumutur-n-eu: 0
+In context: manartiko-n-eo: 0
+In context: manradiko-n-eo: 0
+In context: moneca-n-gl: 0
+In context: pulso-n-gl: 0
+In context: canell-n-ca: 0
+In context: wrist-n-en: 0
+In context: pojno-n-eo: 0
+
+Confidence score matchings for lemma: moñeca-n-ast
+Existing: muñeca-n-es: 1
+In context: pupo-n-eo: 0
+In context: muñeca-n-ast: 0
+In context: ncheietur-n-ro: 0
+In context: ppu-n-ro: 0
+In context: monyica-n-ca: 0
+In context: boneca-n-gl: 0
+In context: pupilo-n-eo: 0
+In context: pipa-n-oc: 0
+In context: boneco-n-pt: 0
+In context: doll-n-en: 0
+In context: polso-n-it: 0
+In context: bambola-n-it: 0
+In context: puny-n-ca: 0
+In context: nina-n-ca: 0
+In context: poupée-n-fr: 0
+In context: manumo-n-eo: 0
+In context: poignet-n-fr: 0
+In context: eskumutur-n-eu: 0
+In context: manartiko-n-eo: 0
+In context: manradiko-n-eo: 0
+In context: moneca-n-gl: 0
+In context: pulso-n-gl: 0
+In context: canell-n-ca: 0
+In context: wrist-n-en: 0
+In context: pojno-n-eo: 0

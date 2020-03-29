@@ -1,0 +1,1429 @@
+Number of words: 88
+Number of edges: 161
+Number of languages: 12
+
+Confidence score matchings for lemma: forest-n-en
+Inferred: fort-n-fr: 0.9
+Inferred: bois-n-fr: 0.9
+Inferred: bosque-n-pt: 0.833333
+Inferred: bòsc-n-oc: 0.833333
+Existing: forsto-n-eo: 1
+Existing: fraga-n-gl: 1
+Existing: pinarbaro-n-eo: 1
+Existing: abiarbaro-n-eo: 1
+Existing: baso-n-eu: 1
+Existing: arbaro-n-eo: 1
+Existing: bosc-n-ca: 1
+Existing: bosque-n-es: 1
+Existing: bosque-n-gl: 1
+In context: selva-n-es: 0.533333
+In context: sèuva-n-oc: 0
+In context: selva-n-pt: 0
+In context: floresta-n-es: 0
+In context: floresta-n-pt: 0
+In context: angalo-n-eo: 0
+In context: selva-n-gl: 0
+In context: pineda-n-ca: 0
+In context: pinar-n-es: 0
+In context: monte-n-es: 0
+In context: exploitationforestière-n-fr: 0
+In context: glaso-n-eo: 0
+In context: verre-n-fr: 0
+In context: got-n-ca: 0
+In context: vas-n-ca: 0
+In context: pahar-n-ro: 0
+In context: vasu-n-ast: 0
+In context: vaso-n-gl: 0
+In context: veire-n-oc: 0
+In context: copo-n-pt: 0
+In context: selva-n-ast: 0
+In context: viesca-n-ast: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: boscatge-n-ca: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: ligno-n-eo: 0
+In context: bosko-n-eo: 0
+In context: pdure-n-ro: 0
+In context: codru-n-ro: 0
+In context: monte-n-ast: 0
+In context: mata-n-ast: 0
+In context: montaña-n-es: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: arbreda-n-ca: 0
+In context: selva-n-ca: 0
+In context: vaso-n-es: 0
+
+Confidence score matchings for lemma: bosc-n-ca
+Inferred: fraga-n-gl: 0.833333
+Inferred: bosque-n-gl: 0.833333
+Inferred: baso-n-eu: 0.833333
+Existing: arbaro-n-eo: 1
+Existing: bòsc-n-oc: 1
+Existing: fort-n-fr: 1
+Existing: bois-n-fr: 1
+Existing: forest-n-en: 1
+Existing: foresta-n-it: 1
+Existing: bosco-n-it: 1
+Existing: bosque-n-es: 1
+Existing: bosque-n-pt: 1
+In context: selva-n-es: 0.533333
+In context: selva-n-gl: 0
+In context: arbreda-n-ca: 0
+In context: praarbaro-n-eo: 0
+In context: selva-n-ca: 0
+In context: vaso-n-es: 0
+In context: montaña-n-es: 0
+In context: monte-n-es: 0
+In context: floresta-n-pt: 0
+In context: selva-n-pt: 0
+In context: sèuva-n-oc: 0
+In context: angalo-n-eo: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: pineda-n-ca: 0
+In context: forsto-n-eo: 0
+In context: exploitationforestière-n-fr: 0
+In context: selva-n-ast: 0
+In context: mata-n-ast: 0
+In context: boscatge-n-ca: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: ligno-n-eo: 0
+In context: bosko-n-eo: 0
+In context: pdure-n-ro: 0
+In context: codru-n-ro: 0
+In context: monte-n-ast: 0
+In context: fuorto-n-eo: 0
+In context: viesca-n-ast: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+
+Confidence score matchings for lemma: bosque-n-pt
+Inferred: forest-n-en: 0.833333
+Inferred: bòsc-n-oc: 0.833333
+Inferred: fort-n-fr: 0.833333
+Inferred: bois-n-fr: 0.833333
+Inferred: arbaro-n-eo: 0.833333
+Inferred: fraga-n-gl: 0.7
+Inferred: baso-n-eu: 0.7
+Existing: bosc-n-ca: 1
+Existing: bosque-n-gl: 1
+Existing: bosque-n-es: 1
+In context: selva-n-es: 0.392857
+In context: selva-n-ca: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: arbreda-n-ca: 0
+In context: llenya-n-ca: 0
+In context: vaso-n-es: 0
+In context: montaña-n-es: 0
+In context: monte-n-es: 0
+In context: floresta-n-pt: 0
+In context: floresta-n-es: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: forsto-n-eo: 0
+In context: kornobranaro-n-eo: 0
+In context: madera-n-es: 0
+In context: arboleda-n-es: 0
+In context: leña-n-es: 0
+In context: viesca-n-ast: 0
+In context: mata-n-ast: 0
+In context: monte-n-ast: 0
+In context: codru-n-ro: 0
+In context: pdure-n-ro: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: boscatge-n-ca: 0
+In context: bosko-n-eo: 0
+In context: fusta-n-ca: 0
+In context: ligno-n-eo: 0
+
+Confidence score matchings for lemma: bosque-n-gl
+Inferred: bosc-n-ca: 0.833333
+Inferred: baso-n-eu: 0.833333
+Inferred: arbaro-n-eo: 0.833333
+Inferred: bois-n-fr: 0.733333
+Inferred: fort-n-fr: 0.733333
+Inferred: bòsc-n-oc: 0.7
+Existing: forest-n-en: 1
+Existing: bosque-n-es: 1
+Existing: bosque-n-pt: 1
+Existing: floresta-n-pt: 1
+In context: selva-n-es: 0.392857
+In context: monte-n-es: 0
+In context: kornaro-n-eo: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: arbreda-n-ca: 0
+In context: selva-n-ca: 0
+In context: vaso-n-es: 0
+In context: montaña-n-es: 0
+In context: forsto-n-eo: 0
+In context: exploitationforestière-n-fr: 0
+In context: floresta-n-es: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: pineda-n-ca: 0
+In context: monte-n-ast: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: ligno-n-eo: 0
+In context: bosko-n-eo: 0
+In context: pdure-n-ro: 0
+In context: codru-n-ro: 0
+In context: brulligno-n-eo: 0
+In context: mata-n-ast: 0
+In context: viesca-n-ast: 0
+In context: fraga-n-gl: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+
+Confidence score matchings for lemma: bosque-n-es
+Existing: bosc-n-ca: 1
+Existing: bòsc-n-oc: 1
+Existing: fraga-n-gl: 1
+Existing: viesca-n-ast: 1
+Existing: mata-n-ast: 1
+Existing: monte-n-ast: 1
+Existing: codru-n-ro: 1
+Existing: pdure-n-ro: 1
+Existing: fort-n-fr: 1
+Existing: bois-n-fr: 1
+Existing: baso-n-eu: 1
+Existing: arbaro-n-eo: 1
+Existing: forest-n-en: 1
+Existing: bosque-n-gl: 1
+Existing: bosque-n-pt: 1
+In context: floresta-n-pt: 0
+In context: pahar-n-ro: 0
+In context: floresta-n-es: 0
+In context: selva-n-pt: 0
+In context: sèuva-n-oc: 0
+In context: angalo-n-eo: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: pineda-n-ca: 0
+In context: forsto-n-eo: 0
+In context: exploitationforestière-n-fr: 0
+In context: glaso-n-eo: 0
+In context: verre-n-fr: 0
+In context: got-n-ca: 0
+In context: vas-n-ca: 0
+In context: selva-n-gl: 0
+In context: selva-n-ast: 0
+In context: copo-n-pt: 0
+In context: veire-n-oc: 0
+In context: vaso-n-gl: 0
+In context: vasu-n-ast: 0
+In context: kornobranaro-n-eo: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: boscatge-n-ca: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: ligno-n-eo: 0
+In context: bosko-n-eo: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: monte-n-es: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+In context: selva-n-es: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: arbreda-n-ca: 0
+In context: selva-n-ca: 0
+In context: vaso-n-es: 0
+In context: montaña-n-es: 0
+
+Confidence score matchings for lemma: bosco-n-it
+Existing: bosc-n-ca: 1
+In context: viesca-n-ast: 0
+In context: forsto-n-eo: 0
+In context: fraga-n-gl: 0
+In context: bòsc-n-oc: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+In context: selva-n-es: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: arbreda-n-ca: 0
+In context: selva-n-ca: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: forest-n-en: 0
+In context: arbaro-n-eo: 0
+In context: bosque-n-pt: 0
+In context: bosque-n-gl: 0
+In context: bosque-n-es: 0
+In context: foresta-n-it: 0
+In context: boscatge-n-ca: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: ligno-n-eo: 0
+In context: mata-n-ast: 0
+In context: bosko-n-eo: 0
+In context: baso-n-eu: 0
+In context: bois-n-fr: 0
+In context: fort-n-fr: 0
+In context: pdure-n-ro: 0
+In context: codru-n-ro: 0
+In context: monte-n-ast: 0
+
+Confidence score matchings for lemma: foresta-n-it
+Existing: bosc-n-ca: 1
+Existing: boscatge-n-ca: 1
+In context: fraga-n-gl: 0
+In context: forsto-n-eo: 0
+In context: bòsc-n-oc: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+In context: selva-n-es: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: arbreda-n-ca: 0
+In context: selva-n-ca: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: forest-n-en: 0
+In context: bosko-n-eo: 0
+In context: bosque-n-pt: 0
+In context: bosque-n-gl: 0
+In context: bosque-n-es: 0
+In context: bosco-n-it: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: ligno-n-eo: 0
+In context: arbaro-n-eo: 0
+In context: viesca-n-ast: 0
+In context: baso-n-eu: 0
+In context: bois-n-fr: 0
+In context: fort-n-fr: 0
+In context: pdure-n-ro: 0
+In context: codru-n-ro: 0
+In context: monte-n-ast: 0
+In context: mata-n-ast: 0
+
+Confidence score matchings for lemma: boscatge-n-ca
+
+Confidence score matchings for lemma: wood-n-en
+Existing: bosc-n-ca: 1
+Existing: zur-n-eu: 1
+Existing: baso-n-eu: 1
+Existing: bosko-n-eo: 1
+Existing: arbareto-n-eo: 1
+Existing: arbaro-n-eo: 1
+Existing: ligno-n-eo: 1
+Existing: madeira-n-gl: 1
+Existing: madera-n-es: 1
+Existing: llenyam-n-ca: 1
+Existing: fustam-n-ca: 1
+Existing: fusta-n-ca: 1
+Existing: bosque-n-es: 1
+Existing: bosque-n-gl: 1
+In context: monte-n-es: 0
+In context: montaña-n-es: 0
+In context: vaso-n-es: 0
+In context: selva-n-gl: 0
+In context: selva-n-ca: 0
+In context: floresta-n-pt: 0
+In context: floresta-n-es: 0
+In context: selva-n-pt: 0
+In context: sèuva-n-oc: 0
+In context: angalo-n-eo: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: forsto-n-eo: 0
+In context: glaso-n-eo: 0
+In context: verre-n-fr: 0
+In context: got-n-ca: 0
+In context: vas-n-ca: 0
+In context: pahar-n-ro: 0
+In context: vasu-n-ast: 0
+In context: vaso-n-gl: 0
+In context: veire-n-oc: 0
+In context: copo-n-pt: 0
+In context: selva-n-ast: 0
+In context: forest-n-en: 0
+In context: fraga-n-gl: 0
+In context: bosque-n-pt: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: boscatge-n-ca: 0
+In context: bois-n-fr: 0
+In context: fort-n-fr: 0
+In context: pdure-n-ro: 0
+In context: codru-n-ro: 0
+In context: monte-n-ast: 0
+In context: mata-n-ast: 0
+In context: viesca-n-ast: 0
+In context: arbreda-n-ca: 0
+In context: bòsc-n-oc: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+In context: selva-n-es: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+
+Confidence score matchings for lemma: fusta-n-ca
+
+Confidence score matchings for lemma: fustam-n-ca
+
+Confidence score matchings for lemma: llenyam-n-ca
+
+Confidence score matchings for lemma: madera-n-es
+
+Confidence score matchings for lemma: madeira-n-gl
+
+Confidence score matchings for lemma: ligno-n-eo
+
+Confidence score matchings for lemma: arbaro-n-eo
+Inferred: bosque-n-pt: 0.833333
+Inferred: bosque-n-gl: 0.833333
+Inferred: bòsc-n-oc: 0.833333
+Inferred: fraga-n-gl: 0.833333
+Inferred: baso-n-eu: 0.833333
+Existing: bosc-n-ca: 1
+Existing: arbreda-n-ca: 1
+Existing: selva-n-ca: 1
+Existing: fort-n-fr: 1
+Existing: bois-n-fr: 1
+Existing: bosque-n-es: 1
+Existing: forest-n-en: 1
+In context: selva-n-es: 0.533333
+In context: monte-n-es: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: selva-n-gl: 0
+In context: vaso-n-es: 0
+In context: montaña-n-es: 0
+In context: selva-n-ast: 0
+In context: pinarbaro-n-eo: 0
+In context: floresta-n-pt: 0
+In context: selva-n-pt: 0
+In context: sèuva-n-oc: 0
+In context: angalo-n-eo: 0
+In context: exploitationforestière-n-fr: 0
+In context: forsto-n-eo: 0
+In context: pineda-n-ca: 0
+In context: abiarbaro-n-eo: 0
+In context: codru-n-ro: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: boscatge-n-ca: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: ligno-n-eo: 0
+In context: bosko-n-eo: 0
+In context: pdure-n-ro: 0
+In context: kornaro-n-eo: 0
+In context: monte-n-ast: 0
+In context: mata-n-ast: 0
+In context: viesca-n-ast: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+In context: brulligno-n-eo: 0
+
+Confidence score matchings for lemma: arbareto-n-eo
+
+Confidence score matchings for lemma: bosko-n-eo
+
+Confidence score matchings for lemma: baso-n-eu
+Inferred: bosc-n-ca: 0.833333
+Inferred: bosque-n-gl: 0.833333
+Inferred: fraga-n-gl: 0.833333
+Inferred: arbaro-n-eo: 0.833333
+Inferred: fort-n-fr: 0.733333
+Inferred: bois-n-fr: 0.733333
+Inferred: bosque-n-pt: 0.7
+Inferred: bòsc-n-oc: 0.7
+Existing: selva-n-es: 1
+Existing: vaso-n-es: 1
+Existing: forest-n-en: 1
+Existing: bosque-n-es: 1
+In context: glaso-n-eo: 0
+In context: monte-n-es: 0
+In context: floresta-n-pt: 0
+In context: selva-n-pt: 0
+In context: sèuva-n-oc: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: pineda-n-ca: 0
+In context: forsto-n-eo: 0
+In context: exploitationforestière-n-fr: 0
+In context: selva-n-gl: 0
+In context: verre-n-fr: 0
+In context: got-n-ca: 0
+In context: vas-n-ca: 0
+In context: pahar-n-ro: 0
+In context: vasu-n-ast: 0
+In context: vaso-n-gl: 0
+In context: veire-n-oc: 0
+In context: copo-n-pt: 0
+In context: selva-n-ast: 0
+In context: bosko-n-eo: 0
+In context: arboleda-n-es: 0
+In context: ligno-n-eo: 0
+In context: madera-n-es: 0
+In context: pdure-n-ro: 0
+In context: codru-n-ro: 0
+In context: monte-n-ast: 0
+In context: mata-n-ast: 0
+In context: viesca-n-ast: 0
+In context: fusta-n-ca: 0
+In context: foresta-n-it: 0
+In context: leña-n-es: 0
+In context: montaña-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+In context: bosco-n-it: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: arbreda-n-ca: 0
+In context: selva-n-ca: 0
+
+Confidence score matchings for lemma: zur-n-eu
+
+Confidence score matchings for lemma: bois-n-fr
+Inferred: forest-n-en: 0.9
+Inferred: bosque-n-pt: 0.833333
+Inferred: bòsc-n-oc: 0.833333
+Inferred: bosque-n-gl: 0.733333
+Inferred: fraga-n-gl: 0.733333
+Inferred: baso-n-eu: 0.733333
+Existing: bosc-n-ca: 1
+Existing: kornaro-n-eo: 1
+Existing: brulligno-n-eo: 1
+Existing: kornobranaro-n-eo: 1
+Existing: llenya-n-ca: 1
+Existing: arboleda-n-es: 1
+Existing: leña-n-es: 1
+Existing: bosko-n-eo: 1
+Existing: bosque-n-es: 1
+Existing: arbaro-n-eo: 1
+Existing: ligno-n-eo: 1
+Existing: madera-n-es: 1
+Existing: fusta-n-ca: 1
+In context: selva-n-ca: 0
+In context: selva-n-es: 0
+In context: vaso-n-es: 0
+In context: montaña-n-es: 0
+In context: monte-n-es: 0
+In context: floresta-n-pt: 0
+In context: selva-n-pt: 0
+In context: sèuva-n-oc: 0
+In context: angalo-n-eo: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: forsto-n-eo: 0
+In context: arbreda-n-ca: 0
+In context: praarbaro-n-eo: 0
+In context: fuorto-n-eo: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: boscatge-n-ca: 0
+In context: viesca-n-ast: 0
+In context: mata-n-ast: 0
+In context: monte-n-ast: 0
+In context: codru-n-ro: 0
+In context: pdure-n-ro: 0
+In context: fort-n-fr: 0
+
+Confidence score matchings for lemma: fort-n-fr
+Inferred: forest-n-en: 0.9
+Inferred: bosque-n-pt: 0.833333
+Inferred: bòsc-n-oc: 0.833333
+Inferred: bosque-n-gl: 0.733333
+Inferred: fraga-n-gl: 0.733333
+Inferred: baso-n-eu: 0.733333
+Existing: bosc-n-ca: 1
+Existing: selva-n-es: 1
+Existing: fuorto-n-eo: 1
+Existing: praarbaro-n-eo: 1
+Existing: arbaro-n-eo: 1
+Existing: bosque-n-es: 1
+In context: angalo-n-eo: 0
+In context: sèuva-n-oc: 0
+In context: abiarbaro-n-eo: 0
+In context: selva-n-pt: 0
+In context: floresta-n-pt: 0
+In context: monte-n-es: 0
+In context: montaña-n-es: 0
+In context: vaso-n-es: 0
+In context: selva-n-ca: 0
+In context: pinarbaro-n-eo: 0
+In context: forsto-n-eo: 0
+In context: arbreda-n-ca: 0
+In context: selva-n-ast: 0
+In context: selva-n-gl: 0
+In context: kornaro-n-eo: 0
+In context: pdure-n-ro: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: boscatge-n-ca: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: ligno-n-eo: 0
+In context: bosko-n-eo: 0
+In context: bois-n-fr: 0
+In context: brulligno-n-eo: 0
+In context: codru-n-ro: 0
+In context: monte-n-ast: 0
+In context: mata-n-ast: 0
+In context: viesca-n-ast: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+
+Confidence score matchings for lemma: pdure-n-ro
+Existing: bosque-n-es: 1
+In context: arbreda-n-ca: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+In context: selva-n-es: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: fraga-n-gl: 0
+In context: selva-n-ca: 0
+In context: vaso-n-es: 0
+In context: montaña-n-es: 0
+In context: monte-n-es: 0
+In context: floresta-n-pt: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: forsto-n-eo: 0
+In context: bosko-n-eo: 0
+In context: bosc-n-ca: 0
+In context: bosque-n-pt: 0
+In context: bosque-n-gl: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: ligno-n-eo: 0
+In context: arbaro-n-eo: 0
+In context: bòsc-n-oc: 0
+In context: baso-n-eu: 0
+In context: bois-n-fr: 0
+In context: fort-n-fr: 0
+In context: codru-n-ro: 0
+In context: monte-n-ast: 0
+In context: mata-n-ast: 0
+In context: viesca-n-ast: 0
+In context: forest-n-en: 0
+
+Confidence score matchings for lemma: codru-n-ro
+Existing: bosque-n-es: 1
+In context: arbreda-n-ca: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+In context: selva-n-es: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: fraga-n-gl: 0
+In context: selva-n-ca: 0
+In context: vaso-n-es: 0
+In context: montaña-n-es: 0
+In context: monte-n-es: 0
+In context: floresta-n-pt: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: forsto-n-eo: 0
+In context: bosko-n-eo: 0
+In context: bosc-n-ca: 0
+In context: bosque-n-pt: 0
+In context: bosque-n-gl: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: ligno-n-eo: 0
+In context: arbaro-n-eo: 0
+In context: bòsc-n-oc: 0
+In context: baso-n-eu: 0
+In context: bois-n-fr: 0
+In context: fort-n-fr: 0
+In context: pdure-n-ro: 0
+In context: monte-n-ast: 0
+In context: mata-n-ast: 0
+In context: viesca-n-ast: 0
+In context: forest-n-en: 0
+
+Confidence score matchings for lemma: monte-n-ast
+Existing: bosque-n-es: 1
+Existing: monte-n-es: 1
+Existing: montaña-n-es: 1
+In context: arbreda-n-ca: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+In context: selva-n-es: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: fraga-n-gl: 0
+In context: selva-n-ca: 0
+In context: vaso-n-es: 0
+In context: floresta-n-pt: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: forsto-n-eo: 0
+In context: bosko-n-eo: 0
+In context: bosc-n-ca: 0
+In context: bosque-n-pt: 0
+In context: bosque-n-gl: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: ligno-n-eo: 0
+In context: arbaro-n-eo: 0
+In context: bòsc-n-oc: 0
+In context: baso-n-eu: 0
+In context: bois-n-fr: 0
+In context: fort-n-fr: 0
+In context: pdure-n-ro: 0
+In context: codru-n-ro: 0
+In context: mata-n-ast: 0
+In context: viesca-n-ast: 0
+In context: forest-n-en: 0
+
+Confidence score matchings for lemma: mata-n-ast
+Existing: bosque-n-es: 1
+In context: arbreda-n-ca: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+In context: selva-n-es: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: fraga-n-gl: 0
+In context: selva-n-ca: 0
+In context: vaso-n-es: 0
+In context: montaña-n-es: 0
+In context: monte-n-es: 0
+In context: floresta-n-pt: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: forsto-n-eo: 0
+In context: bosko-n-eo: 0
+In context: bosc-n-ca: 0
+In context: bosque-n-pt: 0
+In context: bosque-n-gl: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: ligno-n-eo: 0
+In context: arbaro-n-eo: 0
+In context: bòsc-n-oc: 0
+In context: baso-n-eu: 0
+In context: bois-n-fr: 0
+In context: fort-n-fr: 0
+In context: pdure-n-ro: 0
+In context: codru-n-ro: 0
+In context: monte-n-ast: 0
+In context: viesca-n-ast: 0
+In context: forest-n-en: 0
+
+Confidence score matchings for lemma: viesca-n-ast
+Existing: bosque-n-es: 1
+In context: arbreda-n-ca: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+In context: selva-n-es: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: fraga-n-gl: 0
+In context: selva-n-ca: 0
+In context: vaso-n-es: 0
+In context: montaña-n-es: 0
+In context: monte-n-es: 0
+In context: floresta-n-pt: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: forsto-n-eo: 0
+In context: bosko-n-eo: 0
+In context: bosc-n-ca: 0
+In context: bosque-n-pt: 0
+In context: bosque-n-gl: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: ligno-n-eo: 0
+In context: arbaro-n-eo: 0
+In context: bòsc-n-oc: 0
+In context: baso-n-eu: 0
+In context: bois-n-fr: 0
+In context: fort-n-fr: 0
+In context: pdure-n-ro: 0
+In context: codru-n-ro: 0
+In context: monte-n-ast: 0
+In context: mata-n-ast: 0
+In context: forest-n-en: 0
+
+Confidence score matchings for lemma: fraga-n-gl
+Inferred: bosc-n-ca: 0.833333
+Inferred: baso-n-eu: 0.833333
+Inferred: arbaro-n-eo: 0.833333
+Inferred: fort-n-fr: 0.733333
+Inferred: bois-n-fr: 0.733333
+Inferred: bòsc-n-oc: 0.7
+Inferred: bosque-n-pt: 0.7
+Existing: bosque-n-es: 1
+Existing: floresta-n-pt: 1
+Existing: forest-n-en: 1
+In context: floresta-n-es: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: exploitationforestière-n-fr: 0
+In context: pineda-n-ca: 0
+In context: forsto-n-eo: 0
+In context: monte-n-es: 0
+In context: montaña-n-es: 0
+In context: vaso-n-es: 0
+In context: selva-n-ca: 0
+In context: arbreda-n-ca: 0
+In context: praarbaro-n-eo: 0
+In context: fuorto-n-eo: 0
+In context: selva-n-es: 0
+In context: kornaro-n-eo: 0
+In context: codru-n-ro: 0
+In context: bosque-n-gl: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: ligno-n-eo: 0
+In context: bosko-n-eo: 0
+In context: pdure-n-ro: 0
+In context: brulligno-n-eo: 0
+In context: monte-n-ast: 0
+In context: mata-n-ast: 0
+In context: viesca-n-ast: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+
+Confidence score matchings for lemma: bòsc-n-oc
+Inferred: bosque-n-pt: 0.833333
+Inferred: forest-n-en: 0.833333
+Inferred: fort-n-fr: 0.833333
+Inferred: bois-n-fr: 0.833333
+Inferred: arbaro-n-eo: 0.833333
+Inferred: bosque-n-gl: 0.7
+Inferred: fraga-n-gl: 0.7
+Inferred: baso-n-eu: 0.7
+Existing: bosc-n-ca: 1
+Existing: bosque-n-es: 1
+In context: praarbaro-n-eo: 0
+In context: kornobranaro-n-eo: 0
+In context: fuorto-n-eo: 0
+In context: selva-n-es: 0
+In context: kornaro-n-eo: 0
+In context: brulligno-n-eo: 0
+In context: forsto-n-eo: 0
+In context: arbreda-n-ca: 0
+In context: selva-n-ca: 0
+In context: vaso-n-es: 0
+In context: montaña-n-es: 0
+In context: monte-n-es: 0
+In context: floresta-n-pt: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: llenya-n-ca: 0
+In context: arboleda-n-es: 0
+In context: leña-n-es: 0
+In context: viesca-n-ast: 0
+In context: mata-n-ast: 0
+In context: monte-n-ast: 0
+In context: codru-n-ro: 0
+In context: pdure-n-ro: 0
+In context: bosko-n-eo: 0
+In context: ligno-n-eo: 0
+In context: madera-n-es: 0
+In context: fusta-n-ca: 0
+In context: boscatge-n-ca: 0
+In context: foresta-n-it: 0
+In context: bosco-n-it: 0
+
+Confidence score matchings for lemma: leña-n-es
+
+Confidence score matchings for lemma: arboleda-n-es
+
+Confidence score matchings for lemma: llenya-n-ca
+
+Confidence score matchings for lemma: kornobranaro-n-eo
+
+Confidence score matchings for lemma: brulligno-n-eo
+
+Confidence score matchings for lemma: kornaro-n-eo
+
+Confidence score matchings for lemma: selva-n-es
+Existing: praarbaro-n-eo: 1
+Existing: selva-n-gl: 1
+Existing: selva-n-ast: 1
+Existing: sèuva-n-oc: 1
+Existing: selva-n-pt: 1
+Existing: fort-n-fr: 1
+Existing: baso-n-eu: 1
+In context: bosc-n-ca: 0.533333
+In context: arbaro-n-eo: 0.533333
+In context: forest-n-en: 0.533333
+In context: bosque-n-gl: 0.392857
+In context: bosque-n-pt: 0.392857
+In context: veire-n-oc: 0
+In context: vaso-n-gl: 0
+In context: vasu-n-ast: 0
+In context: pahar-n-ro: 0
+In context: vas-n-ca: 0
+In context: got-n-ca: 0
+In context: verre-n-fr: 0
+In context: glaso-n-eo: 0
+In context: copo-n-pt: 0
+In context: forsto-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: abiarbaro-n-eo: 0
+In context: bosque-n-es: 0
+In context: vaso-n-es: 0
+In context: selva-n-ca: 0
+In context: arbreda-n-ca: 0
+In context: fuorto-n-eo: 0
+In context: bòsc-n-oc: 0
+In context: fraga-n-gl: 0
+In context: viesca-n-ast: 0
+In context: mata-n-ast: 0
+In context: monte-n-ast: 0
+In context: codru-n-ro: 0
+In context: pdure-n-ro: 0
+In context: bosco-n-it: 0
+In context: bois-n-fr: 0
+In context: foresta-n-it: 0
+
+Confidence score matchings for lemma: fuorto-n-eo
+
+Confidence score matchings for lemma: praarbaro-n-eo
+
+Confidence score matchings for lemma: arbreda-n-ca
+Existing: arbaro-n-eo: 1
+In context: fraga-n-gl: 0
+In context: viesca-n-ast: 0
+In context: bòsc-n-oc: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+In context: selva-n-es: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: selva-n-ca: 0
+In context: selva-n-pt: 0
+In context: sèuva-n-oc: 0
+In context: angalo-n-eo: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: forsto-n-eo: 0
+In context: ligno-n-eo: 0
+In context: bosc-n-ca: 0
+In context: bosque-n-pt: 0
+In context: bosque-n-gl: 0
+In context: bosque-n-es: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: forest-n-en: 0
+In context: bosko-n-eo: 0
+In context: baso-n-eu: 0
+In context: bois-n-fr: 0
+In context: fort-n-fr: 0
+In context: pdure-n-ro: 0
+In context: codru-n-ro: 0
+In context: monte-n-ast: 0
+In context: mata-n-ast: 0
+
+Confidence score matchings for lemma: selva-n-ca
+Existing: angalo-n-eo: 1
+Existing: sèuva-n-oc: 1
+Existing: selva-n-pt: 1
+Existing: arbaro-n-eo: 1
+In context: fraga-n-gl: 0
+In context: viesca-n-ast: 0
+In context: bòsc-n-oc: 0
+In context: leña-n-es: 0
+In context: arboleda-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+In context: selva-n-es: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: arbreda-n-ca: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: forsto-n-eo: 0
+In context: ligno-n-eo: 0
+In context: bosc-n-ca: 0
+In context: bosque-n-pt: 0
+In context: bosque-n-gl: 0
+In context: bosque-n-es: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: forest-n-en: 0
+In context: bosko-n-eo: 0
+In context: baso-n-eu: 0
+In context: bois-n-fr: 0
+In context: fort-n-fr: 0
+In context: pdure-n-ro: 0
+In context: codru-n-ro: 0
+In context: monte-n-ast: 0
+In context: mata-n-ast: 0
+
+Confidence score matchings for lemma: woodland-n-en
+Existing: bosque-n-gl: 1
+Existing: bosque-n-es: 1
+Existing: arbaro-n-eo: 1
+In context: monte-n-es: 0
+In context: llenya-n-ca: 0
+In context: kornobranaro-n-eo: 0
+In context: brulligno-n-eo: 0
+In context: kornaro-n-eo: 0
+In context: selva-n-es: 0
+In context: fuorto-n-eo: 0
+In context: praarbaro-n-eo: 0
+In context: arbreda-n-ca: 0
+In context: selva-n-ca: 0
+In context: vaso-n-es: 0
+In context: montaña-n-es: 0
+In context: leña-n-es: 0
+In context: floresta-n-pt: 0
+In context: floresta-n-es: 0
+In context: selva-n-pt: 0
+In context: sèuva-n-oc: 0
+In context: angalo-n-eo: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: forsto-n-eo: 0
+In context: bois-n-fr: 0
+In context: bosc-n-ca: 0
+In context: bosque-n-pt: 0
+In context: bosco-n-it: 0
+In context: foresta-n-it: 0
+In context: fusta-n-ca: 0
+In context: madera-n-es: 0
+In context: ligno-n-eo: 0
+In context: bosko-n-eo: 0
+In context: baso-n-eu: 0
+In context: arboleda-n-es: 0
+In context: fort-n-fr: 0
+In context: pdure-n-ro: 0
+In context: codru-n-ro: 0
+In context: monte-n-ast: 0
+In context: mata-n-ast: 0
+In context: viesca-n-ast: 0
+In context: fraga-n-gl: 0
+In context: bòsc-n-oc: 0
+In context: forest-n-en: 0
+
+Confidence score matchings for lemma: vaso-n-es
+Existing: copo-n-pt: 1
+Existing: veire-n-oc: 1
+Existing: vaso-n-gl: 1
+Existing: baso-n-eu: 1
+Existing: vasu-n-ast: 1
+Existing: pahar-n-ro: 1
+Existing: vas-n-ca: 1
+Existing: got-n-ca: 1
+Existing: verre-n-fr: 1
+Existing: glaso-n-eo: 1
+In context: selva-n-pt: 0
+In context: praarbaro-n-eo: 0
+In context: sèuva-n-oc: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: forsto-n-eo: 0
+In context: selva-n-ast: 0
+In context: selva-n-gl: 0
+In context: forest-n-en: 0
+In context: selva-n-es: 0
+In context: bòsc-n-oc: 0
+In context: fraga-n-gl: 0
+In context: viesca-n-ast: 0
+In context: mata-n-ast: 0
+In context: monte-n-ast: 0
+In context: codru-n-ro: 0
+In context: pdure-n-ro: 0
+In context: fort-n-fr: 0
+In context: bois-n-fr: 0
+In context: arbaro-n-eo: 0
+In context: bosque-n-es: 0
+In context: bosque-n-gl: 0
+In context: bosque-n-pt: 0
+In context: bosc-n-ca: 0
+
+Confidence score matchings for lemma: montaña-n-es
+
+Confidence score matchings for lemma: monte-n-es
+
+Confidence score matchings for lemma: floresta-n-pt
+Existing: bosque-n-gl: 1
+Existing: floresta-n-es: 1
+Existing: fraga-n-gl: 1
+In context: codru-n-ro: 0
+In context: forsto-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: abiarbaro-n-eo: 0
+In context: bòsc-n-oc: 0
+In context: viesca-n-ast: 0
+In context: mata-n-ast: 0
+In context: monte-n-ast: 0
+In context: forest-n-en: 0
+In context: pdure-n-ro: 0
+In context: fort-n-fr: 0
+In context: bois-n-fr: 0
+In context: baso-n-eu: 0
+In context: arbaro-n-eo: 0
+In context: bosque-n-es: 0
+In context: bosque-n-pt: 0
+In context: bosc-n-ca: 0
+
+Confidence score matchings for lemma: floresta-n-es
+
+Confidence score matchings for lemma: selva-n-pt
+
+Confidence score matchings for lemma: sèuva-n-oc
+
+Confidence score matchings for lemma: angalo-n-eo
+
+Confidence score matchings for lemma: abiarbaro-n-eo
+Existing: forest-n-en: 1
+In context: monte-n-ast: 0
+In context: exploitationforestière-n-fr: 0
+In context: forsto-n-eo: 0
+In context: pineda-n-ca: 0
+In context: pinarbaro-n-eo: 0
+In context: floresta-n-pt: 0
+In context: vaso-n-es: 0
+In context: selva-n-ca: 0
+In context: arbreda-n-ca: 0
+In context: selva-n-es: 0
+In context: bòsc-n-oc: 0
+In context: fraga-n-gl: 0
+In context: viesca-n-ast: 0
+In context: mata-n-ast: 0
+In context: codru-n-ro: 0
+In context: pdure-n-ro: 0
+In context: fort-n-fr: 0
+In context: bois-n-fr: 0
+In context: baso-n-eu: 0
+In context: arbaro-n-eo: 0
+In context: foresta-n-it: 0
+In context: bosco-n-it: 0
+In context: bosque-n-es: 0
+In context: bosque-n-gl: 0
+In context: bosque-n-pt: 0
+In context: bosc-n-ca: 0
+
+Confidence score matchings for lemma: pinarbaro-n-eo
+Existing: pineda-n-ca: 1
+Existing: forest-n-en: 1
+In context: mata-n-ast: 0
+In context: exploitationforestière-n-fr: 0
+In context: forsto-n-eo: 0
+In context: pinar-n-es: 0
+In context: abiarbaro-n-eo: 0
+In context: floresta-n-pt: 0
+In context: vaso-n-es: 0
+In context: selva-n-ca: 0
+In context: arbreda-n-ca: 0
+In context: selva-n-es: 0
+In context: bòsc-n-oc: 0
+In context: fraga-n-gl: 0
+In context: viesca-n-ast: 0
+In context: monte-n-ast: 0
+In context: codru-n-ro: 0
+In context: pdure-n-ro: 0
+In context: fort-n-fr: 0
+In context: bois-n-fr: 0
+In context: baso-n-eu: 0
+In context: arbaro-n-eo: 0
+In context: foresta-n-it: 0
+In context: bosco-n-it: 0
+In context: bosque-n-es: 0
+In context: bosque-n-gl: 0
+In context: bosque-n-pt: 0
+In context: bosc-n-ca: 0
+
+Confidence score matchings for lemma: pineda-n-ca
+Existing: pinarbaro-n-eo: 1
+Existing: pinar-n-es: 1
+In context: forest-n-en: 0
+In context: bosc-n-ca: 0
+In context: bosque-n-gl: 0
+In context: bosque-n-es: 0
+In context: arbaro-n-eo: 0
+In context: baso-n-eu: 0
+In context: fraga-n-gl: 0
+In context: abiarbaro-n-eo: 0
+In context: forsto-n-eo: 0
+
+Confidence score matchings for lemma: pinar-n-es
+
+Confidence score matchings for lemma: forsto-n-eo
+Existing: exploitationforestière-n-fr: 1
+Existing: forest-n-en: 1
+In context: monte-n-ast: 0
+In context: pineda-n-ca: 0
+In context: pinarbaro-n-eo: 0
+In context: abiarbaro-n-eo: 0
+In context: floresta-n-pt: 0
+In context: vaso-n-es: 0
+In context: selva-n-ca: 0
+In context: arbreda-n-ca: 0
+In context: selva-n-es: 0
+In context: bòsc-n-oc: 0
+In context: fraga-n-gl: 0
+In context: viesca-n-ast: 0
+In context: mata-n-ast: 0
+In context: codru-n-ro: 0
+In context: pdure-n-ro: 0
+In context: fort-n-fr: 0
+In context: bois-n-fr: 0
+In context: baso-n-eu: 0
+In context: arbaro-n-eo: 0
+In context: foresta-n-it: 0
+In context: bosco-n-it: 0
+In context: bosque-n-es: 0
+In context: bosque-n-gl: 0
+In context: bosque-n-pt: 0
+In context: bosc-n-ca: 0
+
+Confidence score matchings for lemma: exploitationforestière-n-fr
+Existing: forsto-n-eo: 1
+In context: forest-n-en: 0
+In context: bosc-n-ca: 0
+In context: bosque-n-gl: 0
+In context: bosque-n-es: 0
+In context: arbaro-n-eo: 0
+In context: baso-n-eu: 0
+In context: fraga-n-gl: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+
+Confidence score matchings for lemma: glaso-n-eo
+
+Confidence score matchings for lemma: verre-n-fr
+
+Confidence score matchings for lemma: got-n-ca
+
+Confidence score matchings for lemma: vas-n-ca
+
+Confidence score matchings for lemma: pahar-n-ro
+
+Confidence score matchings for lemma: vasu-n-ast
+
+Confidence score matchings for lemma: vaso-n-gl
+
+Confidence score matchings for lemma: veire-n-oc
+
+Confidence score matchings for lemma: copo-n-pt
+
+Confidence score matchings for lemma: selva-n-ast
+
+Confidence score matchings for lemma: selva-n-gl
+
+Confidence score matchings for lemma: glass-n-en
+Existing: vidre-n-ca: 1
+Existing: glaso-n-eo: 1
+Existing: got-n-ca: 1
+Existing: vaso-n-es: 1
+Existing: vaso-n-gl: 1
+Existing: copa-n-ca: 1
+Existing: cristal-n-es: 1
+Existing: copa-n-es: 1
+Existing: cristal-n-gl: 1
+Existing: kristal-n-eu: 1
+Existing: beira-n-eu: 1
+Existing: vitro-n-eo: 1
+Existing: copa-n-gl: 1
+Existing: vidro-n-gl: 1
+Existing: baso-n-eu: 1
+Existing: vidrio-n-es: 1
+In context: selva-n-gl: 0
+In context: selva-n-ast: 0
+In context: copo-n-pt: 0
+In context: veire-n-oc: 0
+In context: forsto-n-eo: 0
+In context: vasu-n-ast: 0
+In context: pahar-n-ro: 0
+In context: vas-n-ca: 0
+In context: verre-n-fr: 0
+In context: mata-n-ast: 0
+In context: bosc-n-ca: 0
+In context: bosque-n-pt: 0
+In context: bosque-n-gl: 0
+In context: bosque-n-es: 0
+In context: arbaro-n-eo: 0
+In context: bois-n-fr: 0
+In context: fort-n-fr: 0
+In context: pdure-n-ro: 0
+In context: codru-n-ro: 0
+In context: monte-n-ast: 0
+In context: forest-n-en: 0
+In context: viesca-n-ast: 0
+In context: fraga-n-gl: 0
+In context: bòsc-n-oc: 0
+In context: selva-n-es: 0
+In context: praarbaro-n-eo: 0
+In context: selva-n-pt: 0
+In context: sèuva-n-oc: 0
+In context: abiarbaro-n-eo: 0
+In context: pinarbaro-n-eo: 0
+
+Confidence score matchings for lemma: vidre-n-ca
+
+Confidence score matchings for lemma: copa-n-ca
+
+Confidence score matchings for lemma: cristal-n-es
+
+Confidence score matchings for lemma: copa-n-es
+
+Confidence score matchings for lemma: vidrio-n-es
+
+Confidence score matchings for lemma: cristal-n-gl
+
+Confidence score matchings for lemma: vidro-n-gl
+
+Confidence score matchings for lemma: copa-n-gl
+
+Confidence score matchings for lemma: vitro-n-eo
+
+Confidence score matchings for lemma: beira-n-eu
+
+Confidence score matchings for lemma: kristal-n-eu
+
+Confidence score matchings for lemma: vase-n-en
+Existing: vazo-n-eo: 1
+Existing: gerro-n-ca: 1
+Existing: pitxer-n-ca: 1
+Existing: búcaro-n-es: 1
+Existing: jarro-n-es: 1
+Existing: baso-n-eu: 1
+Existing: jarrón-n-es: 1
+Existing: xerro-n-gl: 1
+Existing: floreiro-n-gl: 1
+Existing: ornamavazo-n-eo: 1
+In context: forsto-n-eo: 0
+In context: pinarbaro-n-eo: 0
+In context: glaso-n-eo: 0
+In context: verre-n-fr: 0
+In context: got-n-ca: 0
+In context: vas-n-ca: 0
+In context: pahar-n-ro: 0
+In context: vasu-n-ast: 0
+In context: vaso-n-gl: 0
+In context: veire-n-oc: 0
+In context: copo-n-pt: 0
+In context: selva-n-ast: 0
+In context: selva-n-gl: 0
+In context: mata-n-ast: 0
+In context: bosc-n-ca: 0
+In context: bosque-n-pt: 0
+In context: bosque-n-gl: 0
+In context: bosque-n-es: 0
+In context: arbaro-n-eo: 0
+In context: bois-n-fr: 0
+In context: fort-n-fr: 0
+In context: pdure-n-ro: 0
+In context: codru-n-ro: 0
+In context: monte-n-ast: 0
+In context: forest-n-en: 0
+In context: viesca-n-ast: 0
+In context: fraga-n-gl: 0
+In context: bòsc-n-oc: 0
+In context: selva-n-es: 0
+In context: praarbaro-n-eo: 0
+In context: vaso-n-es: 0
+In context: selva-n-pt: 0
+In context: sèuva-n-oc: 0
+In context: abiarbaro-n-eo: 0
+
+Confidence score matchings for lemma: gerro-n-ca
+
+Confidence score matchings for lemma: pitxer-n-ca
+
+Confidence score matchings for lemma: búcaro-n-es
+
+Confidence score matchings for lemma: jarro-n-es
+
+Confidence score matchings for lemma: jarrón-n-es
+
+Confidence score matchings for lemma: xerro-n-gl
+
+Confidence score matchings for lemma: floreiro-n-gl
+
+Confidence score matchings for lemma: ornamavazo-n-eo
+
+Confidence score matchings for lemma: vazo-n-eo

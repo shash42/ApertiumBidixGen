@@ -1,0 +1,213 @@
+Number of words: 14
+Number of edges: 40
+Number of languages: 13
+
+Confidence score matchings for lemma: academy-n-en
+Inferred: académie-n-fr: 0.9
+Inferred: academia-n-oc: 0.833333
+Existing: acadèmia-n-ca: 1
+Existing: academia-n-es: 1
+Existing: akademio-n-eo: 1
+Existing: akademia-n-eu: 1
+Existing: academia-n-gl: 1
+In context: accademia-n-it: 0
+In context: academie-n-ro: 0
+In context: academia-n-an: 0
+In context: academia-n-ast: 0
+In context: academia-n-pt: 0
+In context: sociétésavante-n-fr: 0
+
+Confidence score matchings for lemma: acadèmia-n-ca
+Inferred: akademia-n-eu: 0.833333
+Existing: academy-n-en: 1
+Existing: accademia-n-it: 1
+Existing: academia-n-es: 1
+Existing: akademio-n-eo: 1
+Existing: académie-n-fr: 1
+Existing: academia-n-oc: 1
+In context: academie-n-ro: 0
+In context: academia-n-an: 0
+In context: academia-n-ast: 0
+In context: academia-n-pt: 0
+In context: sociétésavante-n-fr: 0
+In context: academia-n-gl: 0
+
+Confidence score matchings for lemma: accademia-n-it
+Existing: acadèmia-n-ca: 1
+In context: academy-n-en: 0
+In context: academia-n-es: 0
+In context: akademio-n-eo: 0
+In context: académie-n-fr: 0
+In context: akademia-n-eu: 0
+In context: academie-n-ro: 0
+In context: academia-n-an: 0
+In context: academia-n-ast: 0
+In context: academia-n-oc: 0
+In context: academia-n-pt: 0
+In context: sociétésavante-n-fr: 0
+In context: academia-n-gl: 0
+
+Confidence score matchings for lemma: academia-n-es
+Existing: academy-n-en: 1
+Existing: acadèmia-n-ca: 1
+Existing: akademio-n-eo: 1
+Existing: académie-n-fr: 1
+Existing: akademia-n-eu: 1
+Existing: academie-n-ro: 1
+Existing: academia-n-an: 1
+Existing: academia-n-ast: 1
+Existing: academia-n-oc: 1
+Existing: academia-n-pt: 1
+In context: accademia-n-it: 0
+In context: sociétésavante-n-fr: 0
+In context: academia-n-gl: 0
+
+Confidence score matchings for lemma: akademio-n-eo
+Inferred: akademia-n-eu: 0.833333
+Inferred: academia-n-oc: 0.833333
+Existing: academy-n-en: 1
+Existing: acadèmia-n-ca: 1
+Existing: academia-n-es: 1
+Existing: académie-n-fr: 1
+Existing: sociétésavante-n-fr: 1
+In context: accademia-n-it: 0
+In context: academie-n-ro: 0
+In context: academia-n-an: 0
+In context: academia-n-ast: 0
+In context: academia-n-pt: 0
+In context: academia-n-gl: 0
+
+Confidence score matchings for lemma: académie-n-fr
+Inferred: academy-n-en: 0.9
+Inferred: academia-n-oc: 0.833333
+Inferred: akademia-n-eu: 0.733333
+Existing: acadèmia-n-ca: 1
+Existing: academia-n-es: 1
+Existing: akademio-n-eo: 1
+In context: accademia-n-it: 0
+In context: academie-n-ro: 0
+In context: academia-n-an: 0
+In context: academia-n-ast: 0
+In context: academia-n-pt: 0
+In context: sociétésavante-n-fr: 0
+In context: academia-n-gl: 0
+
+Confidence score matchings for lemma: akademia-n-eu
+Inferred: acadèmia-n-ca: 0.833333
+Inferred: akademio-n-eo: 0.833333
+Inferred: académie-n-fr: 0.733333
+Inferred: academia-n-oc: 0.7
+Existing: academy-n-en: 1
+Existing: academia-n-es: 1
+In context: accademia-n-it: 0
+In context: academie-n-ro: 0
+In context: academia-n-an: 0
+In context: academia-n-ast: 0
+In context: academia-n-pt: 0
+In context: sociétésavante-n-fr: 0
+In context: academia-n-gl: 0
+
+Confidence score matchings for lemma: academie-n-ro
+Existing: academia-n-es: 1
+In context: academy-n-en: 0
+In context: acadèmia-n-ca: 0
+In context: accademia-n-it: 0
+In context: akademio-n-eo: 0
+In context: académie-n-fr: 0
+In context: akademia-n-eu: 0
+In context: academia-n-an: 0
+In context: academia-n-ast: 0
+In context: academia-n-oc: 0
+In context: academia-n-pt: 0
+In context: sociétésavante-n-fr: 0
+In context: academia-n-gl: 0
+
+Confidence score matchings for lemma: academia-n-an
+Existing: academia-n-es: 1
+In context: academy-n-en: 0
+In context: acadèmia-n-ca: 0
+In context: accademia-n-it: 0
+In context: akademio-n-eo: 0
+In context: académie-n-fr: 0
+In context: akademia-n-eu: 0
+In context: academie-n-ro: 0
+In context: academia-n-ast: 0
+In context: academia-n-oc: 0
+In context: academia-n-pt: 0
+In context: sociétésavante-n-fr: 0
+In context: academia-n-gl: 0
+
+Confidence score matchings for lemma: academia-n-ast
+Existing: academia-n-es: 1
+In context: academy-n-en: 0
+In context: acadèmia-n-ca: 0
+In context: accademia-n-it: 0
+In context: akademio-n-eo: 0
+In context: académie-n-fr: 0
+In context: akademia-n-eu: 0
+In context: academie-n-ro: 0
+In context: academia-n-an: 0
+In context: academia-n-oc: 0
+In context: academia-n-pt: 0
+In context: sociétésavante-n-fr: 0
+In context: academia-n-gl: 0
+
+Confidence score matchings for lemma: academia-n-oc
+Inferred: academy-n-en: 0.833333
+Inferred: akademio-n-eo: 0.833333
+Inferred: académie-n-fr: 0.833333
+Inferred: akademia-n-eu: 0.7
+Existing: acadèmia-n-ca: 1
+Existing: academia-n-es: 1
+In context: accademia-n-it: 0
+In context: academie-n-ro: 0
+In context: academia-n-an: 0
+In context: academia-n-ast: 0
+In context: academia-n-pt: 0
+In context: sociétésavante-n-fr: 0
+In context: academia-n-gl: 0
+
+Confidence score matchings for lemma: academia-n-pt
+Existing: academia-n-es: 1
+In context: academy-n-en: 0
+In context: acadèmia-n-ca: 0
+In context: accademia-n-it: 0
+In context: akademio-n-eo: 0
+In context: académie-n-fr: 0
+In context: akademia-n-eu: 0
+In context: academie-n-ro: 0
+In context: academia-n-an: 0
+In context: academia-n-ast: 0
+In context: academia-n-oc: 0
+In context: sociétésavante-n-fr: 0
+In context: academia-n-gl: 0
+
+Confidence score matchings for lemma: sociétésavante-n-fr
+Existing: akademio-n-eo: 1
+In context: academy-n-en: 0
+In context: acadèmia-n-ca: 0
+In context: accademia-n-it: 0
+In context: academia-n-es: 0
+In context: académie-n-fr: 0
+In context: akademia-n-eu: 0
+In context: academie-n-ro: 0
+In context: academia-n-an: 0
+In context: academia-n-ast: 0
+In context: academia-n-oc: 0
+In context: academia-n-pt: 0
+In context: academia-n-gl: 0
+
+Confidence score matchings for lemma: academia-n-gl
+Existing: academy-n-en: 1
+In context: acadèmia-n-ca: 0
+In context: accademia-n-it: 0
+In context: academia-n-es: 0
+In context: akademio-n-eo: 0
+In context: académie-n-fr: 0
+In context: akademia-n-eu: 0
+In context: academie-n-ro: 0
+In context: academia-n-an: 0
+In context: academia-n-ast: 0
+In context: academia-n-oc: 0
+In context: academia-n-pt: 0
+In context: sociétésavante-n-fr: 0

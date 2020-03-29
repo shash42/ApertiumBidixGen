@@ -1,0 +1,14 @@
+alpha-n-en alfa-n-ca
+alfa-n-ca alpha-n-en
+alfa-n-ca alfa-n-es
+alfa-n-es alpha-n-en
+alfa-n-es alfa-n-ca
+alfa-n-es alfa-n-ast
+alfa-n-es alfa-n-pt
+alpha-n-en alfa-n-es
+alfa-n-ast alfa-n-es
+alfa-n-pt alfa-n-gl
+alfa-n-pt alfa-n-es
+alpha-n-en alfa-n-gl
+alfa-n-gl alfa-n-pt
+alfa-n-gl alpha-n-en

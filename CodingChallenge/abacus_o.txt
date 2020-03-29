@@ -1,0 +1,185 @@
+Number of words: 16
+Number of edges: 33
+Number of languages: 8
+
+Confidence score matchings for lemma: abacus-n-en
+Inferred: abac-n-oc: 0.833333
+Existing: àbac-n-ca: 1
+Existing: ábaco-n-es: 1
+Existing: abako-n-eo: 1
+In context: abaco-n-it: 0
+In context: abac-n-ro: 0
+In context: abaque-n-fr: 0
+In context: boulier-n-fr: 0
+In context: nomogramme-n-fr: 0
+In context: table-n-fr: 0
+In context: tabla-n-es: 0
+In context: mesa-n-es: 0
+In context: taula-n-ca: 0
+In context: tablo-n-eo: 0
+In context: tabulo-n-eo: 0
+
+Confidence score matchings for lemma: àbac-n-ca
+Existing: abacus-n-en: 1
+Existing: abaco-n-it: 1
+Existing: ábaco-n-es: 1
+Existing: abako-n-eo: 1
+Existing: abac-n-oc: 1
+In context: abac-n-ro: 0
+In context: abaque-n-fr: 0
+In context: boulier-n-fr: 0
+In context: nomogramme-n-fr: 0
+In context: table-n-fr: 0
+In context: tabla-n-es: 0
+In context: mesa-n-es: 0
+In context: taula-n-ca: 0
+In context: tablo-n-eo: 0
+In context: tabulo-n-eo: 0
+
+Confidence score matchings for lemma: abaco-n-it
+Existing: àbac-n-ca: 1
+In context: abacus-n-en: 0
+In context: ábaco-n-es: 0
+In context: abako-n-eo: 0
+In context: abac-n-ro: 0
+In context: abac-n-oc: 0
+In context: abaque-n-fr: 0
+In context: boulier-n-fr: 0
+In context: nomogramme-n-fr: 0
+In context: table-n-fr: 0
+
+Confidence score matchings for lemma: ábaco-n-es
+Existing: abacus-n-en: 1
+Existing: àbac-n-ca: 1
+Existing: abako-n-eo: 1
+Existing: abac-n-ro: 1
+Existing: abac-n-oc: 1
+In context: abaco-n-it: 0
+In context: abaque-n-fr: 0
+In context: boulier-n-fr: 0
+In context: nomogramme-n-fr: 0
+In context: table-n-fr: 0
+In context: tabla-n-es: 0
+In context: mesa-n-es: 0
+In context: taula-n-ca: 0
+In context: tablo-n-eo: 0
+In context: tabulo-n-eo: 0
+
+Confidence score matchings for lemma: abako-n-eo
+Inferred: abac-n-oc: 0.833333
+Existing: abacus-n-en: 1
+Existing: àbac-n-ca: 1
+Existing: ábaco-n-es: 1
+Existing: abaque-n-fr: 1
+Existing: boulier-n-fr: 1
+Existing: nomogramme-n-fr: 1
+Existing: table-n-fr: 1
+In context: abaco-n-it: 0
+In context: abac-n-ro: 0
+In context: tabla-n-es: 0
+In context: mesa-n-es: 0
+In context: taula-n-ca: 0
+In context: tablo-n-eo: 0
+In context: tabulo-n-eo: 0
+
+Confidence score matchings for lemma: abac-n-ro
+Existing: ábaco-n-es: 1
+In context: abacus-n-en: 0
+In context: àbac-n-ca: 0
+In context: abaco-n-it: 0
+In context: abako-n-eo: 0
+In context: abac-n-oc: 0
+In context: abaque-n-fr: 0
+In context: boulier-n-fr: 0
+In context: nomogramme-n-fr: 0
+In context: table-n-fr: 0
+
+Confidence score matchings for lemma: abac-n-oc
+Inferred: abacus-n-en: 0.833333
+Inferred: abako-n-eo: 0.833333
+Existing: àbac-n-ca: 1
+Existing: ábaco-n-es: 1
+In context: abaco-n-it: 0
+In context: abac-n-ro: 0
+In context: abaque-n-fr: 0
+In context: boulier-n-fr: 0
+In context: nomogramme-n-fr: 0
+In context: table-n-fr: 0
+
+Confidence score matchings for lemma: abaque-n-fr
+Existing: abako-n-eo: 1
+In context: abacus-n-en: 0
+In context: àbac-n-ca: 0
+In context: abaco-n-it: 0
+In context: ábaco-n-es: 0
+In context: abac-n-ro: 0
+In context: abac-n-oc: 0
+In context: boulier-n-fr: 0
+In context: nomogramme-n-fr: 0
+In context: table-n-fr: 0
+In context: tabla-n-es: 0
+In context: mesa-n-es: 0
+In context: taula-n-ca: 0
+In context: tablo-n-eo: 0
+In context: tabulo-n-eo: 0
+
+Confidence score matchings for lemma: boulier-n-fr
+Existing: abako-n-eo: 1
+In context: abacus-n-en: 0
+In context: àbac-n-ca: 0
+In context: abaco-n-it: 0
+In context: ábaco-n-es: 0
+In context: abac-n-ro: 0
+In context: abac-n-oc: 0
+In context: abaque-n-fr: 0
+In context: nomogramme-n-fr: 0
+In context: table-n-fr: 0
+In context: tabla-n-es: 0
+In context: mesa-n-es: 0
+In context: taula-n-ca: 0
+In context: tablo-n-eo: 0
+In context: tabulo-n-eo: 0
+
+Confidence score matchings for lemma: nomogramme-n-fr
+Existing: abako-n-eo: 1
+In context: abacus-n-en: 0
+In context: àbac-n-ca: 0
+In context: abaco-n-it: 0
+In context: ábaco-n-es: 0
+In context: abac-n-ro: 0
+In context: abac-n-oc: 0
+In context: abaque-n-fr: 0
+In context: boulier-n-fr: 0
+In context: table-n-fr: 0
+In context: tabla-n-es: 0
+In context: mesa-n-es: 0
+In context: taula-n-ca: 0
+In context: tablo-n-eo: 0
+In context: tabulo-n-eo: 0
+
+Confidence score matchings for lemma: table-n-fr
+Existing: abako-n-eo: 1
+Existing: tabla-n-es: 1
+Existing: mesa-n-es: 1
+Existing: taula-n-ca: 1
+Existing: tablo-n-eo: 1
+Existing: tabulo-n-eo: 1
+In context: abacus-n-en: 0
+In context: àbac-n-ca: 0
+In context: abaco-n-it: 0
+In context: ábaco-n-es: 0
+In context: abac-n-ro: 0
+In context: abac-n-oc: 0
+In context: abaque-n-fr: 0
+In context: boulier-n-fr: 0
+In context: nomogramme-n-fr: 0
+
+Confidence score matchings for lemma: tabla-n-es
+
+Confidence score matchings for lemma: mesa-n-es
+
+Confidence score matchings for lemma: taula-n-ca
+
+Confidence score matchings for lemma: tablo-n-eo
+
+Confidence score matchings for lemma: tabulo-n-eo

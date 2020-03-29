@@ -1,0 +1,45 @@
+Number of words: 6
+Number of edges: 14
+Number of languages: 6
+
+Confidence score matchings for lemma: alpha-n-en
+Existing: alfa-n-ca: 1
+Existing: alfa-n-es: 1
+Existing: alfa-n-gl: 1
+In context: alfa-n-pt: 0.666667
+In context: alfa-n-ast: 0
+
+Confidence score matchings for lemma: alfa-n-ca
+Existing: alpha-n-en: 1
+Existing: alfa-n-es: 1
+In context: alfa-n-pt: 0.6
+In context: alfa-n-gl: 0.6
+In context: alfa-n-ast: 0
+
+Confidence score matchings for lemma: alfa-n-es
+Existing: alpha-n-en: 1
+Existing: alfa-n-ca: 1
+Existing: alfa-n-ast: 1
+Existing: alfa-n-pt: 1
+In context: alfa-n-gl: 0.666667
+
+Confidence score matchings for lemma: alfa-n-ast
+Existing: alfa-n-es: 1
+In context: alpha-n-en: 0
+In context: alfa-n-ca: 0
+In context: alfa-n-pt: 0
+In context: alfa-n-gl: 0
+
+Confidence score matchings for lemma: alfa-n-pt
+Existing: alfa-n-es: 1
+Existing: alfa-n-gl: 1
+In context: alpha-n-en: 0.666667
+In context: alfa-n-ca: 0.6
+In context: alfa-n-ast: 0
+
+Confidence score matchings for lemma: alfa-n-gl
+Existing: alpha-n-en: 1
+Existing: alfa-n-pt: 1
+In context: alfa-n-es: 0.666667
+In context: alfa-n-ca: 0.6
+In context: alfa-n-ast: 0

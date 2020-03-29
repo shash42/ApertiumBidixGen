@@ -1,0 +1,1275 @@
+Number of words: 74
+Number of edges: 142
+Number of languages: 13
+
+Confidence score matchings for lemma: ability-n-en
+Inferred: habilidade-n-pt: 0.833333
+Inferred: abiletat-n-oc: 0.833333
+Inferred: mestreg-n-oc: 0.833333
+Existing: habilitat-n-ca: 1
+Existing: habilidad-n-es: 1
+Existing: habilidade-n-gl: 1
+Existing: abilezia-n-eu: 1
+Existing: trebetasun-n-eu: 1
+Existing: kapableco-n-eo: 1
+In context: aptitú-n-ast: 0
+In context: kapacitanco-n-eo: 0
+In context: capacitat-n-ca: 0
+In context: capacidad-n-es: 0
+In context: kompetenteco-n-eo: 0
+In context: kompetento-n-eo: 0
+In context: aptitud-n-ca: 0
+In context: aptido-n-pt: 0
+In context: aptitud-n-oc: 0
+In context: aptitude-n-gl: 0
+In context: adretia-n-oc: 0
+In context: enhaveco-n-eo: 0
+In context: kapacito-n-eo: 0
+In context: primor-n-es: 0
+In context: meravella-n-ca: 0
+In context: ndemnare-n-ro: 0
+In context: pricepere-n-ro: 0
+In context: destoinicie-n-ro: 0
+In context: maña-n-ast: 0
+In context: arte-n-ast: 0
+In context: remangu-n-ast: 0
+In context: destreza-n-gl: 0
+In context: maña-n-gl: 0
+In context: habilidá-n-ast: 0
+In context: abilità-n-it: 0
+In context: destreza-n-es: 0
+In context: kapablo-n-eo: 0
+In context: lerto-n-eo: 0
+In context: lerteco-n-eo: 0
+In context: habilité-n-fr: 0
+In context: abilitate-n-ro: 0
+In context: dexteritate-n-ro: 0
+In context: capabilidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: abilidat-n-an: 0
+In context: aptitudine-n-ro: 0
+In context: habileza-n-ast: 0
+In context: aptitud-n-es: 0
+In context: aptitude-n-fr: 0
+In context: capacité-n-fr: 0
+In context: habileté-n-fr: 0
+In context: agilidad-n-es: 0
+In context: adresse-n-fr: 0
+In context: agilité-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: souplesse-n-fr: 0
+In context: destresa-n-ca: 0
+
+Confidence score matchings for lemma: habilitat-n-ca
+Inferred: habilidade-n-gl: 0.833333
+Inferred: trebetasun-n-eu: 0.833333
+Existing: habilidade-n-pt: 1
+Existing: habilidad-n-es: 1
+Existing: abilità-n-it: 1
+Existing: ability-n-en: 1
+Existing: abiletat-n-oc: 1
+Existing: kapableco-n-eo: 1
+Existing: mestreg-n-oc: 1
+In context: aptitud-n-oc: 0
+In context: agilité-n-fr: 0
+In context: aptitude-n-gl: 0
+In context: aptitú-n-ast: 0
+In context: aptitudine-n-ro: 0
+In context: destresa-n-ca: 0
+In context: souplesse-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: primor-n-es: 0
+In context: aptido-n-pt: 0
+In context: aptitud-n-ca: 0
+In context: kompetento-n-eo: 0
+In context: kompetenteco-n-eo: 0
+In context: capacidad-n-es: 0
+In context: capacitat-n-ca: 0
+In context: kapacitanco-n-eo: 0
+In context: enhaveco-n-eo: 0
+In context: kapacito-n-eo: 0
+In context: abilezia-n-eu: 0
+In context: abelidat-n-an: 0
+In context: destreza-n-es: 0
+In context: kapablo-n-eo: 0
+In context: lerto-n-eo: 0
+In context: lerteco-n-eo: 0
+In context: habilité-n-fr: 0
+In context: abilitate-n-ro: 0
+In context: dexteritate-n-ro: 0
+In context: capabilidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: adresse-n-fr: 0
+In context: abilidat-n-an: 0
+In context: habilidá-n-ast: 0
+In context: habileza-n-ast: 0
+In context: aptitud-n-es: 0
+In context: aptitude-n-fr: 0
+In context: capacité-n-fr: 0
+In context: habileté-n-fr: 0
+In context: agilidad-n-es: 0
+
+Confidence score matchings for lemma: habilidade-n-pt
+Inferred: abiletat-n-oc: 0.833333
+Inferred: mestreg-n-oc: 0.833333
+Inferred: kapableco-n-eo: 0.833333
+Inferred: ability-n-en: 0.833333
+Inferred: trebetasun-n-eu: 0.7
+Existing: habilitat-n-ca: 1
+Existing: habilidad-n-es: 1
+Existing: habilidade-n-gl: 1
+In context: destresa-n-ca: 0
+In context: souplesse-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: agilité-n-fr: 0
+In context: adresse-n-fr: 0
+In context: agilidad-n-es: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: abilezia-n-eu: 0
+In context: habileza-n-ast: 0
+In context: habilidá-n-ast: 0
+In context: abilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: capabilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: lerteco-n-eo: 0
+In context: destreza-n-es: 0
+In context: abilità-n-it: 0
+
+Confidence score matchings for lemma: habilidade-n-gl
+Inferred: habilitat-n-ca: 0.833333
+Inferred: kapableco-n-eo: 0.833333
+Inferred: trebetasun-n-eu: 0.833333
+Inferred: mestreg-n-oc: 0.7
+Inferred: abiletat-n-oc: 0.7
+Existing: ability-n-en: 1
+Existing: habilidad-n-es: 1
+Existing: habilidade-n-pt: 1
+In context: abilezia-n-eu: 0
+In context: destresa-n-ca: 0
+In context: souplesse-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: agilité-n-fr: 0
+In context: adresse-n-fr: 0
+In context: agilidad-n-es: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: primor-n-es: 0
+In context: habileza-n-ast: 0
+In context: habilidá-n-ast: 0
+In context: abilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: capabilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: lerteco-n-eo: 0
+In context: destreza-n-es: 0
+In context: abilità-n-it: 0
+
+Confidence score matchings for lemma: habilidad-n-es
+Existing: habilitat-n-ca: 1
+Existing: mestreg-n-oc: 1
+Existing: abiletat-n-oc: 1
+Existing: habileza-n-ast: 1
+Existing: habilidá-n-ast: 1
+Existing: abilidat-n-an: 1
+Existing: abelidat-n-an: 1
+Existing: habilidat-n-an: 1
+Existing: capabilidat-n-an: 1
+Existing: dexteritate-n-ro: 1
+Existing: abilitate-n-ro: 1
+Existing: kapableco-n-eo: 1
+Existing: lerteco-n-eo: 1
+Existing: trebetasun-n-eu: 1
+Existing: habilité-n-fr: 1
+Existing: ability-n-en: 1
+Existing: habilidade-n-gl: 1
+Existing: habilidade-n-pt: 1
+In context: aptitud-n-ca: 0
+In context: kompetento-n-eo: 0
+In context: kompetenteco-n-eo: 0
+In context: capacidad-n-es: 0
+In context: capacitat-n-ca: 0
+In context: kapacitanco-n-eo: 0
+In context: enhaveco-n-eo: 0
+In context: kapacito-n-eo: 0
+In context: abilezia-n-eu: 0
+In context: primor-n-es: 0
+In context: ndemnare-n-ro: 0
+In context: pricepere-n-ro: 0
+In context: destoinicie-n-ro: 0
+In context: maña-n-ast: 0
+In context: arte-n-ast: 0
+In context: adretia-n-oc: 0
+In context: maña-n-gl: 0
+In context: destreza-n-gl: 0
+In context: remangu-n-ast: 0
+In context: adresse-n-fr: 0
+In context: abilità-n-it: 0
+In context: destreza-n-es: 0
+In context: kapablo-n-eo: 0
+In context: lerto-n-eo: 0
+In context: aptitud-n-es: 0
+In context: aptitude-n-fr: 0
+In context: capacité-n-fr: 0
+In context: habileté-n-fr: 0
+In context: agilidad-n-es: 0
+In context: aptido-n-pt: 0
+In context: agilité-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: souplesse-n-fr: 0
+In context: destresa-n-ca: 0
+In context: aptitudine-n-ro: 0
+In context: aptitú-n-ast: 0
+In context: aptitude-n-gl: 0
+In context: aptitud-n-oc: 0
+
+Confidence score matchings for lemma: abilità-n-it
+Existing: habilitat-n-ca: 1
+In context: abilezia-n-eu: 0
+In context: ability-n-en: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: mestreg-n-oc: 0
+In context: abiletat-n-oc: 0
+In context: habileza-n-ast: 0
+In context: habilidá-n-ast: 0
+In context: abilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: capabilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: kapableco-n-eo: 0
+In context: lerteco-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: habilidad-n-es: 0
+In context: habilidade-n-gl: 0
+In context: habilidade-n-pt: 0
+
+Confidence score matchings for lemma: craft-n-en
+Existing: habilitat-n-ca: 1
+Existing: ofizio-n-eu: 1
+Existing: metio-n-eo: 1
+Existing: hejmmetio-n-eo: 1
+Existing: artesanía-n-gl: 1
+Existing: embarcación-n-gl: 1
+Existing: oficio-n-gl: 1
+Existing: embarcación-n-es: 1
+Existing: ofici-n-ca: 1
+Existing: embarcació-n-ca: 1
+Existing: oficio-n-es: 1
+Existing: habilidad-n-es: 1
+Existing: habilidade-n-gl: 1
+In context: habileza-n-ast: 0
+In context: abiletat-n-oc: 0
+In context: mestreg-n-oc: 0
+In context: aptitud-n-es: 0
+In context: aptitude-n-fr: 0
+In context: capacité-n-fr: 0
+In context: habileté-n-fr: 0
+In context: agilidad-n-es: 0
+In context: adresse-n-fr: 0
+In context: agilité-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: souplesse-n-fr: 0
+In context: abilezia-n-eu: 0
+In context: ability-n-en: 0
+In context: destresa-n-ca: 0
+In context: habilidá-n-ast: 0
+In context: abilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: capabilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: kapableco-n-eo: 0
+In context: lerteco-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: destreza-n-es: 0
+In context: abilità-n-it: 0
+In context: habilidade-n-pt: 0
+
+Confidence score matchings for lemma: embarcació-n-ca
+
+Confidence score matchings for lemma: ofici-n-ca
+
+Confidence score matchings for lemma: oficio-n-es
+
+Confidence score matchings for lemma: embarcación-n-es
+
+Confidence score matchings for lemma: oficio-n-gl
+
+Confidence score matchings for lemma: embarcación-n-gl
+
+Confidence score matchings for lemma: artesanía-n-gl
+
+Confidence score matchings for lemma: hejmmetio-n-eo
+
+Confidence score matchings for lemma: metio-n-eo
+
+Confidence score matchings for lemma: ofizio-n-eu
+
+Confidence score matchings for lemma: knack-n-en
+Existing: habilitat-n-ca: 1
+Existing: maña-n-es: 1
+Existing: povoscio-n-eo: 1
+In context: abilezia-n-eu: 0
+In context: ability-n-en: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: mestreg-n-oc: 0
+In context: abiletat-n-oc: 0
+In context: habileza-n-ast: 0
+In context: habilidá-n-ast: 0
+In context: abilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: capabilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: kapableco-n-eo: 0
+In context: lerteco-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: abilità-n-it: 0
+In context: habilidad-n-es: 0
+In context: habilidade-n-gl: 0
+In context: habilidade-n-pt: 0
+
+Confidence score matchings for lemma: maña-n-es
+
+Confidence score matchings for lemma: povoscio-n-eo
+
+Confidence score matchings for lemma: skill-n-en
+Existing: habilitat-n-ca: 1
+Existing: trebetasun-n-eu: 1
+Existing: lerto-n-eo: 1
+Existing: kapablo-n-eo: 1
+Existing: destreza-n-es: 1
+Existing: maña-n-es: 1
+Existing: habilidad-n-es: 1
+Existing: habilidade-n-gl: 1
+In context: agilidad-n-es: 0
+In context: adretia-n-oc: 0
+In context: habileté-n-fr: 0
+In context: adresse-n-fr: 0
+In context: agilité-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: souplesse-n-fr: 0
+In context: destresa-n-ca: 0
+In context: abilezia-n-eu: 0
+In context: ndemnare-n-ro: 0
+In context: pricepere-n-ro: 0
+In context: destoinicie-n-ro: 0
+In context: maña-n-ast: 0
+In context: arte-n-ast: 0
+In context: remangu-n-ast: 0
+In context: destreza-n-gl: 0
+In context: maña-n-gl: 0
+In context: ability-n-en: 0
+In context: habilidat-n-an: 0
+In context: habilidade-n-pt: 0
+In context: abilità-n-it: 0
+In context: lerteco-n-eo: 0
+In context: kapableco-n-eo: 0
+In context: habilité-n-fr: 0
+In context: abilitate-n-ro: 0
+In context: dexteritate-n-ro: 0
+In context: capabilidat-n-an: 0
+In context: capacité-n-fr: 0
+In context: abelidat-n-an: 0
+In context: abilidat-n-an: 0
+In context: habilidá-n-ast: 0
+In context: habileza-n-ast: 0
+In context: abiletat-n-oc: 0
+In context: mestreg-n-oc: 0
+In context: aptitud-n-es: 0
+In context: aptitude-n-fr: 0
+
+Confidence score matchings for lemma: destreza-n-es
+Existing: adretia-n-oc: 1
+Existing: dextérité-n-fr: 1
+Existing: destresa-n-ca: 1
+Existing: ndemnare-n-ro: 1
+Existing: pricepere-n-ro: 1
+Existing: destoinicie-n-ro: 1
+Existing: maña-n-ast: 1
+Existing: lerteco-n-eo: 1
+Existing: trebetasun-n-eu: 1
+Existing: arte-n-ast: 1
+Existing: remangu-n-ast: 1
+Existing: destreza-n-gl: 1
+Existing: maña-n-gl: 1
+In context: abilezia-n-eu: 0
+In context: souplesse-n-fr: 0
+In context: abiletat-n-oc: 0
+In context: agilité-n-fr: 0
+In context: adresse-n-fr: 0
+In context: agilidad-n-es: 0
+In context: habileté-n-fr: 0
+In context: dexteritate-n-ro: 0
+In context: habilitat-n-ca: 0
+In context: habilidade-n-pt: 0
+In context: habilidade-n-gl: 0
+In context: habilidad-n-es: 0
+In context: lerto-n-eo: 0
+In context: kapableco-n-eo: 0
+In context: habilité-n-fr: 0
+In context: abilitate-n-ro: 0
+In context: mestreg-n-oc: 0
+In context: capabilidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: abilidat-n-an: 0
+In context: habilidá-n-ast: 0
+In context: habileza-n-ast: 0
+In context: ability-n-en: 0
+
+Confidence score matchings for lemma: kapablo-n-eo
+
+Confidence score matchings for lemma: lerto-n-eo
+
+Confidence score matchings for lemma: trebetasun-n-eu
+Inferred: habilitat-n-ca: 0.833333
+Inferred: habilidade-n-gl: 0.833333
+Inferred: kapableco-n-eo: 0.833333
+Inferred: habilidade-n-pt: 0.7
+Inferred: mestreg-n-oc: 0.7
+Inferred: abiletat-n-oc: 0.7
+Existing: habilidad-n-es: 1
+Existing: ability-n-en: 1
+Existing: destreza-n-es: 1
+In context: adresse-n-fr: 0
+In context: adretia-n-oc: 0
+In context: agilité-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: souplesse-n-fr: 0
+In context: destresa-n-ca: 0
+In context: abilezia-n-eu: 0
+In context: primor-n-es: 0
+In context: ndemnare-n-ro: 0
+In context: pricepere-n-ro: 0
+In context: destoinicie-n-ro: 0
+In context: maña-n-ast: 0
+In context: arte-n-ast: 0
+In context: remangu-n-ast: 0
+In context: destreza-n-gl: 0
+In context: maña-n-gl: 0
+In context: agilidad-n-es: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: habileza-n-ast: 0
+In context: habilidá-n-ast: 0
+In context: abilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: capabilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: lerteco-n-eo: 0
+In context: abilità-n-it: 0
+
+Confidence score matchings for lemma: lerteco-n-eo
+Existing: habileté-n-fr: 1
+Existing: agilidad-n-es: 1
+Existing: habilidad-n-es: 1
+Existing: adresse-n-fr: 1
+Existing: destreza-n-es: 1
+Existing: agilité-n-fr: 1
+Existing: dextérité-n-fr: 1
+Existing: souplesse-n-fr: 1
+Existing: habilité-n-fr: 1
+Existing: destresa-n-ca: 1
+In context: pricepere-n-ro: 0
+In context: capacité-n-fr: 0
+In context: abilezia-n-eu: 0
+In context: ndemnare-n-ro: 0
+In context: mestreg-n-oc: 0
+In context: destoinicie-n-ro: 0
+In context: maña-n-ast: 0
+In context: arte-n-ast: 0
+In context: remangu-n-ast: 0
+In context: destreza-n-gl: 0
+In context: maña-n-gl: 0
+In context: adretia-n-oc: 0
+In context: capabilidat-n-an: 0
+In context: habilitat-n-ca: 0
+In context: habilidade-n-pt: 0
+In context: habilidade-n-gl: 0
+In context: abilità-n-it: 0
+In context: lerto-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: kapableco-n-eo: 0
+In context: abilitate-n-ro: 0
+In context: dexteritate-n-ro: 0
+In context: aptitude-n-fr: 0
+In context: habilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: abilidat-n-an: 0
+In context: habilidá-n-ast: 0
+In context: habileza-n-ast: 0
+In context: abiletat-n-oc: 0
+In context: ability-n-en: 0
+In context: aptitud-n-es: 0
+
+Confidence score matchings for lemma: kapableco-n-eo
+Inferred: habilidade-n-pt: 0.833333
+Inferred: habilidade-n-gl: 0.833333
+Inferred: mestreg-n-oc: 0.833333
+Inferred: abiletat-n-oc: 0.833333
+Inferred: trebetasun-n-eu: 0.833333
+Existing: habilitat-n-ca: 1
+Existing: habileté-n-fr: 1
+Existing: capacité-n-fr: 1
+Existing: aptitude-n-fr: 1
+Existing: aptitud-n-es: 1
+Existing: ability-n-en: 1
+Existing: habilidad-n-es: 1
+In context: aptitud-n-ca: 0
+In context: souplesse-n-fr: 0
+In context: destresa-n-ca: 0
+In context: aptitudine-n-ro: 0
+In context: aptitú-n-ast: 0
+In context: aptitude-n-gl: 0
+In context: aptitud-n-oc: 0
+In context: aptido-n-pt: 0
+In context: agilité-n-fr: 0
+In context: kompetento-n-eo: 0
+In context: kompetenteco-n-eo: 0
+In context: capacidad-n-es: 0
+In context: capacitat-n-ca: 0
+In context: kapacitanco-n-eo: 0
+In context: enhaveco-n-eo: 0
+In context: kapacito-n-eo: 0
+In context: abilezia-n-eu: 0
+In context: primor-n-es: 0
+In context: habileza-n-ast: 0
+In context: habilité-n-fr: 0
+In context: abilitate-n-ro: 0
+In context: dexteritate-n-ro: 0
+In context: capabilidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: abilidat-n-an: 0
+In context: habilidá-n-ast: 0
+In context: dextérité-n-fr: 0
+In context: lerto-n-eo: 0
+In context: kapablo-n-eo: 0
+In context: destreza-n-es: 0
+In context: abilità-n-it: 0
+In context: agilidad-n-es: 0
+In context: adresse-n-fr: 0
+In context: lerteco-n-eo: 0
+
+Confidence score matchings for lemma: habilité-n-fr
+Existing: habilidad-n-es: 1
+Existing: lerteco-n-eo: 1
+In context: ndemnare-n-ro: 0
+In context: aptitude-n-fr: 0
+In context: capacité-n-fr: 0
+In context: habileté-n-fr: 0
+In context: agilidad-n-es: 0
+In context: adresse-n-fr: 0
+In context: agilité-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: souplesse-n-fr: 0
+In context: destresa-n-ca: 0
+In context: abilezia-n-eu: 0
+In context: mestreg-n-oc: 0
+In context: pricepere-n-ro: 0
+In context: destoinicie-n-ro: 0
+In context: maña-n-ast: 0
+In context: arte-n-ast: 0
+In context: remangu-n-ast: 0
+In context: destreza-n-gl: 0
+In context: maña-n-gl: 0
+In context: adretia-n-oc: 0
+In context: dexteritate-n-ro: 0
+In context: habilitat-n-ca: 0
+In context: habilidade-n-pt: 0
+In context: habilidade-n-gl: 0
+In context: abilità-n-it: 0
+In context: destreza-n-es: 0
+In context: lerto-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: kapableco-n-eo: 0
+In context: abilitate-n-ro: 0
+In context: aptitud-n-es: 0
+In context: capabilidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: abilidat-n-an: 0
+In context: habilidá-n-ast: 0
+In context: habileza-n-ast: 0
+In context: abiletat-n-oc: 0
+In context: ability-n-en: 0
+
+Confidence score matchings for lemma: abilitate-n-ro
+Existing: habilidad-n-es: 1
+In context: abilidat-n-an: 0
+In context: abilezia-n-eu: 0
+In context: destresa-n-ca: 0
+In context: souplesse-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: agilité-n-fr: 0
+In context: adresse-n-fr: 0
+In context: agilidad-n-es: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: mestreg-n-oc: 0
+In context: abiletat-n-oc: 0
+In context: habileza-n-ast: 0
+In context: habilidá-n-ast: 0
+In context: ability-n-en: 0
+In context: abelidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: capabilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: kapableco-n-eo: 0
+In context: lerteco-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: destreza-n-es: 0
+In context: abilità-n-it: 0
+In context: habilidade-n-gl: 0
+In context: habilidade-n-pt: 0
+In context: habilitat-n-ca: 0
+
+Confidence score matchings for lemma: dexteritate-n-ro
+Existing: habilidad-n-es: 1
+In context: abilidat-n-an: 0
+In context: abilezia-n-eu: 0
+In context: destresa-n-ca: 0
+In context: souplesse-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: agilité-n-fr: 0
+In context: adresse-n-fr: 0
+In context: agilidad-n-es: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: mestreg-n-oc: 0
+In context: abiletat-n-oc: 0
+In context: habileza-n-ast: 0
+In context: habilidá-n-ast: 0
+In context: ability-n-en: 0
+In context: abelidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: capabilidat-n-an: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: kapableco-n-eo: 0
+In context: lerteco-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: destreza-n-es: 0
+In context: abilità-n-it: 0
+In context: habilidade-n-gl: 0
+In context: habilidade-n-pt: 0
+In context: habilitat-n-ca: 0
+
+Confidence score matchings for lemma: capabilidat-n-an
+Existing: habilidad-n-es: 1
+In context: abilidat-n-an: 0
+In context: abilezia-n-eu: 0
+In context: destresa-n-ca: 0
+In context: souplesse-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: agilité-n-fr: 0
+In context: adresse-n-fr: 0
+In context: agilidad-n-es: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: mestreg-n-oc: 0
+In context: abiletat-n-oc: 0
+In context: habileza-n-ast: 0
+In context: habilidá-n-ast: 0
+In context: ability-n-en: 0
+In context: abelidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: kapableco-n-eo: 0
+In context: lerteco-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: destreza-n-es: 0
+In context: abilità-n-it: 0
+In context: habilidade-n-gl: 0
+In context: habilidade-n-pt: 0
+In context: habilitat-n-ca: 0
+
+Confidence score matchings for lemma: habilidat-n-an
+Existing: habilidad-n-es: 1
+In context: abilidat-n-an: 0
+In context: abilezia-n-eu: 0
+In context: destresa-n-ca: 0
+In context: souplesse-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: agilité-n-fr: 0
+In context: adresse-n-fr: 0
+In context: agilidad-n-es: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: mestreg-n-oc: 0
+In context: abiletat-n-oc: 0
+In context: habileza-n-ast: 0
+In context: habilidá-n-ast: 0
+In context: ability-n-en: 0
+In context: abelidat-n-an: 0
+In context: capabilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: kapableco-n-eo: 0
+In context: lerteco-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: destreza-n-es: 0
+In context: abilità-n-it: 0
+In context: habilidade-n-gl: 0
+In context: habilidade-n-pt: 0
+In context: habilitat-n-ca: 0
+
+Confidence score matchings for lemma: abelidat-n-an
+Existing: habilidad-n-es: 1
+In context: abilidat-n-an: 0
+In context: abilezia-n-eu: 0
+In context: destresa-n-ca: 0
+In context: souplesse-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: agilité-n-fr: 0
+In context: adresse-n-fr: 0
+In context: agilidad-n-es: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: mestreg-n-oc: 0
+In context: abiletat-n-oc: 0
+In context: habileza-n-ast: 0
+In context: habilidá-n-ast: 0
+In context: ability-n-en: 0
+In context: habilidat-n-an: 0
+In context: capabilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: kapableco-n-eo: 0
+In context: lerteco-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: destreza-n-es: 0
+In context: abilità-n-it: 0
+In context: habilidade-n-gl: 0
+In context: habilidade-n-pt: 0
+In context: habilitat-n-ca: 0
+
+Confidence score matchings for lemma: abilidat-n-an
+Existing: habilidad-n-es: 1
+In context: abelidat-n-an: 0
+In context: abilezia-n-eu: 0
+In context: destresa-n-ca: 0
+In context: souplesse-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: agilité-n-fr: 0
+In context: adresse-n-fr: 0
+In context: agilidad-n-es: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: mestreg-n-oc: 0
+In context: abiletat-n-oc: 0
+In context: habileza-n-ast: 0
+In context: habilidá-n-ast: 0
+In context: ability-n-en: 0
+In context: habilidat-n-an: 0
+In context: capabilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: kapableco-n-eo: 0
+In context: lerteco-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: destreza-n-es: 0
+In context: abilità-n-it: 0
+In context: habilidade-n-gl: 0
+In context: habilidade-n-pt: 0
+In context: habilitat-n-ca: 0
+
+Confidence score matchings for lemma: habilidá-n-ast
+Existing: habilidad-n-es: 1
+In context: abelidat-n-an: 0
+In context: abilezia-n-eu: 0
+In context: destresa-n-ca: 0
+In context: souplesse-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: agilité-n-fr: 0
+In context: adresse-n-fr: 0
+In context: agilidad-n-es: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: mestreg-n-oc: 0
+In context: abiletat-n-oc: 0
+In context: habileza-n-ast: 0
+In context: abilidat-n-an: 0
+In context: ability-n-en: 0
+In context: habilidat-n-an: 0
+In context: capabilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: kapableco-n-eo: 0
+In context: lerteco-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: destreza-n-es: 0
+In context: abilità-n-it: 0
+In context: habilidade-n-gl: 0
+In context: habilidade-n-pt: 0
+In context: habilitat-n-ca: 0
+
+Confidence score matchings for lemma: habileza-n-ast
+Existing: habilidad-n-es: 1
+In context: abelidat-n-an: 0
+In context: abilezia-n-eu: 0
+In context: destresa-n-ca: 0
+In context: souplesse-n-fr: 0
+In context: dextérité-n-fr: 0
+In context: agilité-n-fr: 0
+In context: adresse-n-fr: 0
+In context: agilidad-n-es: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: mestreg-n-oc: 0
+In context: abiletat-n-oc: 0
+In context: habilidá-n-ast: 0
+In context: abilidat-n-an: 0
+In context: ability-n-en: 0
+In context: habilidat-n-an: 0
+In context: capabilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: kapableco-n-eo: 0
+In context: lerteco-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: destreza-n-es: 0
+In context: abilità-n-it: 0
+In context: habilidade-n-gl: 0
+In context: habilidade-n-pt: 0
+In context: habilitat-n-ca: 0
+
+Confidence score matchings for lemma: abiletat-n-oc
+Inferred: kapableco-n-eo: 0.833333
+Inferred: habilidade-n-pt: 0.833333
+Inferred: ability-n-en: 0.833333
+Inferred: habilidade-n-gl: 0.7
+Inferred: trebetasun-n-eu: 0.7
+Existing: habilitat-n-ca: 1
+Existing: habilidad-n-es: 1
+In context: destresa-n-ca: 0
+In context: souplesse-n-fr: 0
+In context: abilezia-n-eu: 0
+In context: dextérité-n-fr: 0
+In context: agilité-n-fr: 0
+In context: adresse-n-fr: 0
+In context: agilidad-n-es: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: mestreg-n-oc: 0
+In context: habileza-n-ast: 0
+In context: habilidá-n-ast: 0
+In context: abilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: capabilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: lerteco-n-eo: 0
+In context: destreza-n-es: 0
+In context: abilità-n-it: 0
+
+Confidence score matchings for lemma: mestreg-n-oc
+Inferred: kapableco-n-eo: 0.833333
+Inferred: habilidade-n-pt: 0.833333
+Inferred: ability-n-en: 0.833333
+Inferred: habilidade-n-gl: 0.7
+Inferred: trebetasun-n-eu: 0.7
+Existing: habilitat-n-ca: 1
+Existing: habilidad-n-es: 1
+In context: destresa-n-ca: 0
+In context: souplesse-n-fr: 0
+In context: abilezia-n-eu: 0
+In context: dextérité-n-fr: 0
+In context: agilité-n-fr: 0
+In context: adresse-n-fr: 0
+In context: agilidad-n-es: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: abiletat-n-oc: 0
+In context: habileza-n-ast: 0
+In context: habilidá-n-ast: 0
+In context: abilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: capabilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: lerteco-n-eo: 0
+In context: destreza-n-es: 0
+In context: abilità-n-it: 0
+
+Confidence score matchings for lemma: aptitud-n-es
+Existing: aptitude-n-fr: 1
+Existing: aptitudine-n-ro: 1
+Existing: aptitú-n-ast: 1
+Existing: aptitude-n-gl: 1
+Existing: aptitud-n-oc: 1
+Existing: aptido-n-pt: 1
+Existing: kapableco-n-eo: 1
+In context: mestreg-n-oc: 0
+In context: habileza-n-ast: 0
+In context: capacité-n-fr: 0
+In context: habileté-n-fr: 0
+In context: aptitud-n-ca: 0
+In context: kompetento-n-eo: 0
+In context: kompetenteco-n-eo: 0
+In context: capacidad-n-es: 0
+In context: capacitat-n-ca: 0
+In context: kapacitanco-n-eo: 0
+In context: enhaveco-n-eo: 0
+In context: kapacito-n-eo: 0
+In context: abilezia-n-eu: 0
+In context: habilité-n-fr: 0
+In context: habilitat-n-ca: 0
+In context: habilidade-n-pt: 0
+In context: habilidade-n-gl: 0
+In context: habilidad-n-es: 0
+In context: abilità-n-it: 0
+In context: kapablo-n-eo: 0
+In context: lerto-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: lerteco-n-eo: 0
+In context: abiletat-n-oc: 0
+In context: abilitate-n-ro: 0
+In context: dexteritate-n-ro: 0
+In context: capabilidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: abilidat-n-an: 0
+In context: habilidá-n-ast: 0
+In context: ability-n-en: 0
+
+Confidence score matchings for lemma: aptitude-n-fr
+Existing: aptitud-n-es: 1
+Existing: kapablo-n-eo: 1
+Existing: kompetenteco-n-eo: 1
+Existing: kompetento-n-eo: 1
+Existing: kapableco-n-eo: 1
+Existing: aptitud-n-ca: 1
+In context: mestreg-n-oc: 0
+In context: habileza-n-ast: 0
+In context: capacité-n-fr: 0
+In context: habileté-n-fr: 0
+In context: aptitudine-n-ro: 0
+In context: aptitú-n-ast: 0
+In context: aptitude-n-gl: 0
+In context: aptitud-n-oc: 0
+In context: aptido-n-pt: 0
+In context: capacidad-n-es: 0
+In context: capacitat-n-ca: 0
+In context: kapacitanco-n-eo: 0
+In context: enhaveco-n-eo: 0
+In context: kapacito-n-eo: 0
+In context: abilezia-n-eu: 0
+In context: habilité-n-fr: 0
+In context: habilitat-n-ca: 0
+In context: habilidade-n-pt: 0
+In context: habilidade-n-gl: 0
+In context: habilidad-n-es: 0
+In context: abilità-n-it: 0
+In context: lerto-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: lerteco-n-eo: 0
+In context: abiletat-n-oc: 0
+In context: abilitate-n-ro: 0
+In context: dexteritate-n-ro: 0
+In context: capabilidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: abilidat-n-an: 0
+In context: habilidá-n-ast: 0
+In context: ability-n-en: 0
+
+Confidence score matchings for lemma: capacité-n-fr
+Existing: kapacito-n-eo: 1
+Existing: enhaveco-n-eo: 1
+Existing: kapacitanco-n-eo: 1
+Existing: capacitat-n-ca: 1
+Existing: kapablo-n-eo: 1
+Existing: capacidad-n-es: 1
+Existing: kompetenteco-n-eo: 1
+Existing: kompetento-n-eo: 1
+Existing: kapableco-n-eo: 1
+In context: mestreg-n-oc: 0
+In context: habileza-n-ast: 0
+In context: aptitud-n-es: 0
+In context: aptitude-n-fr: 0
+In context: habileté-n-fr: 0
+In context: aptitudine-n-ro: 0
+In context: aptitú-n-ast: 0
+In context: aptitude-n-gl: 0
+In context: aptitud-n-oc: 0
+In context: aptido-n-pt: 0
+In context: aptitud-n-ca: 0
+In context: abilezia-n-eu: 0
+In context: habilité-n-fr: 0
+In context: habilitat-n-ca: 0
+In context: habilidade-n-pt: 0
+In context: habilidade-n-gl: 0
+In context: habilidad-n-es: 0
+In context: abilità-n-it: 0
+In context: lerto-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: lerteco-n-eo: 0
+In context: abiletat-n-oc: 0
+In context: abilitate-n-ro: 0
+In context: dexteritate-n-ro: 0
+In context: capabilidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: abilidat-n-an: 0
+In context: habilidá-n-ast: 0
+In context: ability-n-en: 0
+
+Confidence score matchings for lemma: habileté-n-fr
+Existing: lerto-n-eo: 1
+Existing: lerteco-n-eo: 1
+Existing: kapableco-n-eo: 1
+In context: kapacito-n-eo: 0
+In context: souplesse-n-fr: 0
+In context: destresa-n-ca: 0
+In context: aptitudine-n-ro: 0
+In context: aptitú-n-ast: 0
+In context: aptitude-n-gl: 0
+In context: aptitud-n-oc: 0
+In context: aptido-n-pt: 0
+In context: aptitud-n-ca: 0
+In context: kompetento-n-eo: 0
+In context: kompetenteco-n-eo: 0
+In context: capacidad-n-es: 0
+In context: capacitat-n-ca: 0
+In context: kapacitanco-n-eo: 0
+In context: enhaveco-n-eo: 0
+In context: adresse-n-fr: 0
+In context: abilezia-n-eu: 0
+In context: ndemnare-n-ro: 0
+In context: pricepere-n-ro: 0
+In context: destoinicie-n-ro: 0
+In context: maña-n-ast: 0
+In context: arte-n-ast: 0
+In context: remangu-n-ast: 0
+In context: destreza-n-gl: 0
+In context: maña-n-gl: 0
+In context: adretia-n-oc: 0
+In context: habilidat-n-an: 0
+In context: habilitat-n-ca: 0
+In context: habilidade-n-pt: 0
+In context: habilidade-n-gl: 0
+In context: habilidad-n-es: 0
+In context: abilità-n-it: 0
+In context: destreza-n-es: 0
+In context: kapablo-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: habilité-n-fr: 0
+In context: abilitate-n-ro: 0
+In context: dexteritate-n-ro: 0
+In context: capabilidat-n-an: 0
+In context: dextérité-n-fr: 0
+In context: abelidat-n-an: 0
+In context: abilidat-n-an: 0
+In context: habilidá-n-ast: 0
+In context: habileza-n-ast: 0
+In context: abiletat-n-oc: 0
+In context: mestreg-n-oc: 0
+In context: aptitud-n-es: 0
+In context: aptitude-n-fr: 0
+In context: capacité-n-fr: 0
+In context: agilidad-n-es: 0
+In context: ability-n-en: 0
+In context: agilité-n-fr: 0
+
+Confidence score matchings for lemma: agilidad-n-es
+
+Confidence score matchings for lemma: adresse-n-fr
+
+Confidence score matchings for lemma: agilité-n-fr
+
+Confidence score matchings for lemma: dextérité-n-fr
+
+Confidence score matchings for lemma: souplesse-n-fr
+
+Confidence score matchings for lemma: destresa-n-ca
+
+Confidence score matchings for lemma: aptitudine-n-ro
+
+Confidence score matchings for lemma: aptitú-n-ast
+
+Confidence score matchings for lemma: aptitude-n-gl
+
+Confidence score matchings for lemma: aptitud-n-oc
+
+Confidence score matchings for lemma: aptido-n-pt
+
+Confidence score matchings for lemma: aptitude-n-en
+Existing: aptitud-n-es: 1
+Existing: aptitude-n-gl: 1
+Existing: aptitud-n-ca: 1
+Existing: kapableco-n-eo: 1
+In context: mestreg-n-oc: 0
+In context: abiletat-n-oc: 0
+In context: aptitude-n-fr: 0
+In context: capacité-n-fr: 0
+In context: habileté-n-fr: 0
+In context: aptitudine-n-ro: 0
+In context: aptitú-n-ast: 0
+In context: aptitud-n-oc: 0
+In context: aptido-n-pt: 0
+In context: kompetento-n-eo: 0
+In context: kompetenteco-n-eo: 0
+In context: capacidad-n-es: 0
+In context: capacitat-n-ca: 0
+In context: kapacitanco-n-eo: 0
+In context: enhaveco-n-eo: 0
+In context: kapacito-n-eo: 0
+In context: abilezia-n-eu: 0
+In context: habilité-n-fr: 0
+In context: habilitat-n-ca: 0
+In context: habilidade-n-pt: 0
+In context: habilidade-n-gl: 0
+In context: habilidad-n-es: 0
+In context: abilità-n-it: 0
+In context: kapablo-n-eo: 0
+In context: lerto-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: lerteco-n-eo: 0
+In context: ability-n-en: 0
+In context: abilitate-n-ro: 0
+In context: dexteritate-n-ro: 0
+In context: capabilidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: abilidat-n-an: 0
+In context: habilidá-n-ast: 0
+In context: habileza-n-ast: 0
+
+Confidence score matchings for lemma: aptitud-n-ca
+
+Confidence score matchings for lemma: kompetento-n-eo
+
+Confidence score matchings for lemma: kompetenteco-n-eo
+
+Confidence score matchings for lemma: capacidad-n-es
+
+Confidence score matchings for lemma: capacitat-n-ca
+
+Confidence score matchings for lemma: kapacitanco-n-eo
+
+Confidence score matchings for lemma: enhaveco-n-eo
+
+Confidence score matchings for lemma: kapacito-n-eo
+
+Confidence score matchings for lemma: abilezia-n-eu
+Existing: primor-n-es: 1
+Existing: ability-n-en: 1
+In context: capabilidat-n-an: 0
+In context: meravella-n-ca: 0
+In context: habileté-n-fr: 0
+In context: capacité-n-fr: 0
+In context: aptitude-n-fr: 0
+In context: aptitud-n-es: 0
+In context: mestreg-n-oc: 0
+In context: abiletat-n-oc: 0
+In context: habileza-n-ast: 0
+In context: habilidá-n-ast: 0
+In context: abilidat-n-an: 0
+In context: abelidat-n-an: 0
+In context: habilidat-n-an: 0
+In context: dexteritate-n-ro: 0
+In context: abilitate-n-ro: 0
+In context: habilité-n-fr: 0
+In context: kapableco-n-eo: 0
+In context: lerteco-n-eo: 0
+In context: trebetasun-n-eu: 0
+In context: destreza-n-es: 0
+In context: abilità-n-it: 0
+In context: habilidad-n-es: 0
+In context: habilidade-n-gl: 0
+In context: habilidade-n-pt: 0
+In context: habilitat-n-ca: 0
+
+Confidence score matchings for lemma: primor-n-es
+Existing: abilezia-n-eu: 1
+Existing: meravella-n-ca: 1
+In context: ability-n-en: 0
+In context: habilitat-n-ca: 0
+In context: habilidade-n-gl: 0
+In context: habilidad-n-es: 0
+In context: trebetasun-n-eu: 0
+In context: kapableco-n-eo: 0
+
+Confidence score matchings for lemma: meravella-n-ca
+
+Confidence score matchings for lemma: ndemnare-n-ro
+
+Confidence score matchings for lemma: pricepere-n-ro
+
+Confidence score matchings for lemma: destoinicie-n-ro
+
+Confidence score matchings for lemma: maña-n-ast
+
+Confidence score matchings for lemma: arte-n-ast
+
+Confidence score matchings for lemma: remangu-n-ast
+
+Confidence score matchings for lemma: destreza-n-gl
+
+Confidence score matchings for lemma: maña-n-gl
+
+Confidence score matchings for lemma: adretia-n-oc

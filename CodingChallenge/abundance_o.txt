@@ -1,0 +1,419 @@
+Number of words: 23
+Number of edges: 60
+Number of languages: 12
+
+Confidence score matchings for lemma: abundance-n-en
+Inferred: abundncia-n-pt: 0.833333
+Inferred: abondance-n-fr: 0.833333
+Inferred: fartura-n-pt: 0.833333
+Existing: abundancia-n-gl: 1
+Existing: fartura-n-gl: 1
+Existing: abundancia-n-es: 1
+Existing: ugaritasun-n-eu: 1
+Existing: abundància-n-ca: 1
+In context: profuso-n-pt: 0
+In context: riqueza-n-es: 0
+In context: bonanza-n-es: 0
+In context: abundeco-n-eo: 0
+In context: abondància-n-oc: 0
+In context: profusión-n-gl: 0
+In context: opulencia-n-gl: 0
+In context: bayura-n-ast: 0
+In context: prisosin-n-ro: 0
+In context: abunden-n-ro: 0
+In context: abundo-n-eo: 0
+In context: abbondanza-n-it: 0
+In context: pletora-n-it: 0
+
+Confidence score matchings for lemma: abundància-n-ca
+Inferred: abundancia-n-gl: 0.833333
+Inferred: ugaritasun-n-eu: 0.833333
+Inferred: fartura-n-gl: 0.833333
+Existing: abundncia-n-pt: 1
+Existing: abondància-n-oc: 1
+Existing: abondance-n-fr: 1
+Existing: abbondanza-n-it: 1
+Existing: pletora-n-it: 1
+Existing: fartura-n-pt: 1
+Existing: abundancia-n-es: 1
+Existing: abundance-n-en: 1
+In context: abundo-n-eo: 0
+In context: abunden-n-ro: 0
+In context: prisosin-n-ro: 0
+In context: bayura-n-ast: 0
+In context: opulencia-n-gl: 0
+In context: profusión-n-gl: 0
+In context: abundeco-n-eo: 0
+In context: bonanza-n-es: 0
+In context: riqueza-n-es: 0
+In context: profuso-n-pt: 0
+
+Confidence score matchings for lemma: abundncia-n-pt
+Inferred: abundance-n-en: 0.833333
+Inferred: abondance-n-fr: 0.833333
+Inferred: ugaritasun-n-eu: 0.7
+Inferred: fartura-n-gl: 0.7
+Existing: abundància-n-ca: 1
+Existing: abundancia-n-es: 1
+Existing: abundancia-n-gl: 1
+In context: fartura-n-pt: 0
+In context: pletora-n-it: 0
+In context: abbondanza-n-it: 0
+In context: abundo-n-eo: 0
+In context: abunden-n-ro: 0
+In context: prisosin-n-ro: 0
+In context: bayura-n-ast: 0
+In context: opulencia-n-gl: 0
+In context: profusión-n-gl: 0
+In context: abondància-n-oc: 0
+In context: abundeco-n-eo: 0
+In context: bonanza-n-es: 0
+In context: riqueza-n-es: 0
+In context: profuso-n-pt: 0
+
+Confidence score matchings for lemma: abundancia-n-gl
+Inferred: abundància-n-ca: 0.833333
+Inferred: ugaritasun-n-eu: 0.833333
+Inferred: abondance-n-fr: 0.7
+Inferred: fartura-n-pt: 0.7
+Existing: abundncia-n-pt: 1
+Existing: abundance-n-en: 1
+Existing: abundancia-n-es: 1
+In context: prisosin-n-ro: 0
+In context: profuso-n-pt: 0
+In context: riqueza-n-es: 0
+In context: bonanza-n-es: 0
+In context: abundeco-n-eo: 0
+In context: abondància-n-oc: 0
+In context: profusión-n-gl: 0
+In context: opulencia-n-gl: 0
+In context: bayura-n-ast: 0
+In context: abunden-n-ro: 0
+In context: abundo-n-eo: 0
+In context: abbondanza-n-it: 0
+In context: pletora-n-it: 0
+In context: fartura-n-gl: 0
+
+Confidence score matchings for lemma: abundancia-n-es
+Existing: abundància-n-ca: 1
+Existing: profusión-n-gl: 1
+Existing: opulencia-n-gl: 1
+Existing: bayura-n-ast: 1
+Existing: prisosin-n-ro: 1
+Existing: abunden-n-ro: 1
+Existing: abondance-n-fr: 1
+Existing: ugaritasun-n-eu: 1
+Existing: fartura-n-gl: 1
+Existing: fartura-n-pt: 1
+Existing: abundancia-n-gl: 1
+Existing: abundncia-n-pt: 1
+Existing: abundance-n-en: 1
+In context: abundo-n-eo: 0
+In context: abbondanza-n-it: 0
+In context: pletora-n-it: 0
+In context: abondància-n-oc: 0
+In context: abundeco-n-eo: 0
+In context: bonanza-n-es: 0
+In context: riqueza-n-es: 0
+In context: profuso-n-pt: 0
+
+Confidence score matchings for lemma: fartura-n-pt
+Inferred: abundance-n-en: 0.833333
+Inferred: abondance-n-fr: 0.833333
+Inferred: abundancia-n-gl: 0.7
+Inferred: ugaritasun-n-eu: 0.7
+Existing: abundància-n-ca: 1
+Existing: fartura-n-gl: 1
+Existing: abundancia-n-es: 1
+In context: pletora-n-it: 0
+In context: abbondanza-n-it: 0
+In context: abundo-n-eo: 0
+In context: abundncia-n-pt: 0
+In context: abunden-n-ro: 0
+In context: prisosin-n-ro: 0
+In context: bayura-n-ast: 0
+In context: opulencia-n-gl: 0
+In context: profusión-n-gl: 0
+In context: abondància-n-oc: 0
+In context: abundeco-n-eo: 0
+In context: bonanza-n-es: 0
+In context: riqueza-n-es: 0
+In context: profuso-n-pt: 0
+
+Confidence score matchings for lemma: fartura-n-gl
+Inferred: abundància-n-ca: 0.833333
+Inferred: ugaritasun-n-eu: 0.833333
+Inferred: abondance-n-fr: 0.7
+Inferred: abundncia-n-pt: 0.7
+Existing: abundancia-n-es: 1
+Existing: fartura-n-pt: 1
+Existing: abundance-n-en: 1
+In context: profuso-n-pt: 0
+In context: abundancia-n-gl: 0
+In context: riqueza-n-es: 0
+In context: bonanza-n-es: 0
+In context: abundeco-n-eo: 0
+In context: abondància-n-oc: 0
+In context: profusión-n-gl: 0
+In context: opulencia-n-gl: 0
+In context: bayura-n-ast: 0
+In context: prisosin-n-ro: 0
+In context: abunden-n-ro: 0
+In context: abundo-n-eo: 0
+In context: abbondanza-n-it: 0
+In context: pletora-n-it: 0
+
+Confidence score matchings for lemma: pletora-n-it
+Existing: abundància-n-ca: 1
+In context: abundeco-n-eo: 0
+In context: abundance-n-en: 0
+In context: abondància-n-oc: 0
+In context: profusión-n-gl: 0
+In context: opulencia-n-gl: 0
+In context: bayura-n-ast: 0
+In context: prisosin-n-ro: 0
+In context: abunden-n-ro: 0
+In context: abondance-n-fr: 0
+In context: ugaritasun-n-eu: 0
+In context: abundo-n-eo: 0
+In context: abbondanza-n-it: 0
+In context: fartura-n-gl: 0
+In context: fartura-n-pt: 0
+In context: abundancia-n-es: 0
+In context: abundancia-n-gl: 0
+In context: abundncia-n-pt: 0
+
+Confidence score matchings for lemma: abbondanza-n-it
+Existing: abundància-n-ca: 1
+In context: abundeco-n-eo: 0
+In context: abundance-n-en: 0
+In context: abondància-n-oc: 0
+In context: profusión-n-gl: 0
+In context: opulencia-n-gl: 0
+In context: bayura-n-ast: 0
+In context: prisosin-n-ro: 0
+In context: abunden-n-ro: 0
+In context: abondance-n-fr: 0
+In context: ugaritasun-n-eu: 0
+In context: abundo-n-eo: 0
+In context: pletora-n-it: 0
+In context: fartura-n-gl: 0
+In context: fartura-n-pt: 0
+In context: abundancia-n-es: 0
+In context: abundancia-n-gl: 0
+In context: abundncia-n-pt: 0
+
+Confidence score matchings for lemma: plenty-n-en
+Existing: abundància-n-ca: 1
+Existing: abundancia-n-gl: 1
+Existing: abundancia-n-es: 1
+Existing: abundo-n-eo: 1
+Existing: ugaritasun-n-eu: 1
+In context: profuso-n-pt: 0
+In context: abundance-n-en: 0
+In context: riqueza-n-es: 0
+In context: bonanza-n-es: 0
+In context: abundeco-n-eo: 0
+In context: abondància-n-oc: 0
+In context: profusión-n-gl: 0
+In context: opulencia-n-gl: 0
+In context: bayura-n-ast: 0
+In context: prisosin-n-ro: 0
+In context: abunden-n-ro: 0
+In context: abondance-n-fr: 0
+In context: abbondanza-n-it: 0
+In context: pletora-n-it: 0
+In context: fartura-n-gl: 0
+In context: fartura-n-pt: 0
+In context: abundncia-n-pt: 0
+
+Confidence score matchings for lemma: abundo-n-eo
+
+Confidence score matchings for lemma: ugaritasun-n-eu
+Inferred: abundància-n-ca: 0.833333
+Inferred: fartura-n-gl: 0.833333
+Inferred: abundancia-n-gl: 0.833333
+Inferred: abondance-n-fr: 0.7
+Inferred: fartura-n-pt: 0.7
+Inferred: abundncia-n-pt: 0.7
+Existing: abundancia-n-es: 1
+Existing: abundance-n-en: 1
+In context: pletora-n-it: 0
+In context: abbondanza-n-it: 0
+In context: abundo-n-eo: 0
+In context: abunden-n-ro: 0
+In context: prisosin-n-ro: 0
+In context: bayura-n-ast: 0
+In context: opulencia-n-gl: 0
+In context: profusión-n-gl: 0
+In context: abondància-n-oc: 0
+In context: abundeco-n-eo: 0
+In context: bonanza-n-es: 0
+In context: riqueza-n-es: 0
+In context: profuso-n-pt: 0
+
+Confidence score matchings for lemma: abondance-n-fr
+Inferred: abundance-n-en: 0.833333
+Inferred: abundncia-n-pt: 0.833333
+Inferred: fartura-n-pt: 0.833333
+Inferred: abundancia-n-gl: 0.7
+Inferred: fartura-n-gl: 0.7
+Inferred: ugaritasun-n-eu: 0.7
+Existing: abundància-n-ca: 1
+Existing: abundeco-n-eo: 1
+Existing: abundo-n-eo: 1
+Existing: abundancia-n-es: 1
+In context: abbondanza-n-it: 0
+In context: pletora-n-it: 0
+In context: abunden-n-ro: 0
+In context: prisosin-n-ro: 0
+In context: bayura-n-ast: 0
+In context: opulencia-n-gl: 0
+In context: profusión-n-gl: 0
+In context: abondància-n-oc: 0
+In context: bonanza-n-es: 0
+In context: riqueza-n-es: 0
+In context: profuso-n-pt: 0
+
+Confidence score matchings for lemma: abunden-n-ro
+Existing: abundancia-n-es: 1
+In context: ugaritasun-n-eu: 0
+In context: profuso-n-pt: 0
+In context: riqueza-n-es: 0
+In context: bonanza-n-es: 0
+In context: abundeco-n-eo: 0
+In context: abondància-n-oc: 0
+In context: profusión-n-gl: 0
+In context: opulencia-n-gl: 0
+In context: bayura-n-ast: 0
+In context: prisosin-n-ro: 0
+In context: abondance-n-fr: 0
+In context: abundance-n-en: 0
+In context: abundo-n-eo: 0
+In context: abbondanza-n-it: 0
+In context: pletora-n-it: 0
+In context: fartura-n-gl: 0
+In context: fartura-n-pt: 0
+In context: abundancia-n-gl: 0
+In context: abundncia-n-pt: 0
+In context: abundància-n-ca: 0
+
+Confidence score matchings for lemma: prisosin-n-ro
+Existing: abundancia-n-es: 1
+In context: ugaritasun-n-eu: 0
+In context: profuso-n-pt: 0
+In context: riqueza-n-es: 0
+In context: bonanza-n-es: 0
+In context: abundeco-n-eo: 0
+In context: abondància-n-oc: 0
+In context: profusión-n-gl: 0
+In context: opulencia-n-gl: 0
+In context: bayura-n-ast: 0
+In context: abunden-n-ro: 0
+In context: abondance-n-fr: 0
+In context: abundance-n-en: 0
+In context: abundo-n-eo: 0
+In context: abbondanza-n-it: 0
+In context: pletora-n-it: 0
+In context: fartura-n-gl: 0
+In context: fartura-n-pt: 0
+In context: abundancia-n-gl: 0
+In context: abundncia-n-pt: 0
+In context: abundància-n-ca: 0
+
+Confidence score matchings for lemma: bayura-n-ast
+Existing: riqueza-n-es: 1
+Existing: bonanza-n-es: 1
+Existing: abundancia-n-es: 1
+In context: ugaritasun-n-eu: 0
+In context: profuso-n-pt: 0
+In context: abundeco-n-eo: 0
+In context: abondància-n-oc: 0
+In context: profusión-n-gl: 0
+In context: opulencia-n-gl: 0
+In context: prisosin-n-ro: 0
+In context: abunden-n-ro: 0
+In context: abondance-n-fr: 0
+In context: abundance-n-en: 0
+In context: abundo-n-eo: 0
+In context: abbondanza-n-it: 0
+In context: pletora-n-it: 0
+In context: fartura-n-gl: 0
+In context: fartura-n-pt: 0
+In context: abundancia-n-gl: 0
+In context: abundncia-n-pt: 0
+In context: abundància-n-ca: 0
+
+Confidence score matchings for lemma: opulencia-n-gl
+Existing: abundancia-n-es: 1
+In context: ugaritasun-n-eu: 0
+In context: profuso-n-pt: 0
+In context: riqueza-n-es: 0
+In context: bonanza-n-es: 0
+In context: abundeco-n-eo: 0
+In context: abondància-n-oc: 0
+In context: profusión-n-gl: 0
+In context: bayura-n-ast: 0
+In context: prisosin-n-ro: 0
+In context: abunden-n-ro: 0
+In context: abondance-n-fr: 0
+In context: abundance-n-en: 0
+In context: abundo-n-eo: 0
+In context: abbondanza-n-it: 0
+In context: pletora-n-it: 0
+In context: fartura-n-gl: 0
+In context: fartura-n-pt: 0
+In context: abundancia-n-gl: 0
+In context: abundncia-n-pt: 0
+In context: abundància-n-ca: 0
+
+Confidence score matchings for lemma: profusión-n-gl
+Existing: profuso-n-pt: 1
+Existing: abundancia-n-es: 1
+In context: ugaritasun-n-eu: 0
+In context: riqueza-n-es: 0
+In context: bonanza-n-es: 0
+In context: abundeco-n-eo: 0
+In context: abondància-n-oc: 0
+In context: opulencia-n-gl: 0
+In context: bayura-n-ast: 0
+In context: prisosin-n-ro: 0
+In context: abunden-n-ro: 0
+In context: abondance-n-fr: 0
+In context: abundance-n-en: 0
+In context: abundo-n-eo: 0
+In context: abbondanza-n-it: 0
+In context: pletora-n-it: 0
+In context: fartura-n-gl: 0
+In context: fartura-n-pt: 0
+In context: abundancia-n-gl: 0
+In context: abundncia-n-pt: 0
+In context: abundància-n-ca: 0
+
+Confidence score matchings for lemma: abondància-n-oc
+Existing: abundància-n-ca: 1
+In context: abundeco-n-eo: 0
+In context: abundance-n-en: 0
+In context: profusión-n-gl: 0
+In context: opulencia-n-gl: 0
+In context: bayura-n-ast: 0
+In context: prisosin-n-ro: 0
+In context: abunden-n-ro: 0
+In context: abondance-n-fr: 0
+In context: ugaritasun-n-eu: 0
+In context: abundo-n-eo: 0
+In context: abbondanza-n-it: 0
+In context: pletora-n-it: 0
+In context: fartura-n-gl: 0
+In context: fartura-n-pt: 0
+In context: abundancia-n-es: 0
+In context: abundancia-n-gl: 0
+In context: abundncia-n-pt: 0
+
+Confidence score matchings for lemma: abundeco-n-eo
+
+Confidence score matchings for lemma: bonanza-n-es
+
+Confidence score matchings for lemma: riqueza-n-es
+
+Confidence score matchings for lemma: profuso-n-pt
