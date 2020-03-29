@@ -55,26 +55,26 @@ void initNode(string s)
 
 /*Get the current index of the lemma represented in string s
 or create a new node if it doesnt already exist*/
-int getIdx(string s, map<string, int> *idx_of_word)
+int getIdx(string s, map<string, int> idx_of_word)
 {
     int idx;
     //If it is already in the map, get its index
-    if((*idx_of_word).find(s) != (*idx_of_word).end())
+    if(idx_of_word.find(s) != idx_of_word.end())
     {
-        idx = (*idx_of_word)[s];
+        idx = idx_of_word[s];
     }
     else
     {
         //Otherwise add a new node to the map and take its index
         num_nodes++;
         initNode(s);
-        (*idx_of_word)[s] = num_nodes;
+        idx_of_word[s] = num_nodes;
         idx = num_nodes;
     }
     return idx;
 }
 
-void addEdge(string u, string v, map<string, int> *idx_of_word)
+void addEdge(string u, string v, map<string, int> &idx_of_word)
 {
     int u_idx = getIdx(u, idx_of_word);
     int v_idx = getIdx(v, idx_of_word);
@@ -112,7 +112,7 @@ void getData(string sample_name, ofstream &fout)
                 TLw += edge[i]; //Else add to TL word
             }
         }
-        addEdge(SLw, TLw, &idx_of_word); //Add the edge
+        addEdge(SLw, TLw, idx_of_word); //Add the edge
     }
     set<string> langs;
     for(int i = 1; i <= num_nodes; i++)
@@ -164,16 +164,16 @@ pair< vector<int>, map< int, set<int> > > find_context(int w)
 
 /*Function to compute the confidence score (density)
 of the cycle given the context graph*/
-double compute_score(int w, vector<int> *cycle_stack, map<int, set<int> > *context)
+double compute_score(int w, vector<int> &cycle_stack, map<int, set<int> > &context)
 {
     /*Count every edge in the cycle twice (u->v)
     and (v->u). Divide by size*(size-1) for density*/
     int numerator = 0;
-    int denominator = (*cycle_stack).size() * ((*cycle_stack).size() - 1);
+    int denominator = cycle_stack.size() * (cycle_stack.size() - 1);
 
     //Iterate over all pairs of unequalcycle nodes
     set<string> langs;
-    for(auto u: *cycle_stack)
+    for(auto u: cycle_stack)
     {
         //No two words should be from same language in cycle
         if(langs.find(vertex_list[u].lang)!=langs.end())
@@ -186,11 +186,11 @@ double compute_score(int w, vector<int> *cycle_stack, map<int, set<int> > *conte
         {
             return 0;
         }*/       
-        for(auto v: *cycle_stack)
+        for(auto v: cycle_stack)
         {
             if(u==v) continue;
             //If u->v is an edge, add one to the numerator
-            if((*context)[u].find(v) != (*context)[u].end())
+            if(context[u].find(v) != context[u].end())
             {
                 numerator += 1;
             }
@@ -200,18 +200,18 @@ double compute_score(int w, vector<int> *cycle_stack, map<int, set<int> > *conte
 }
 
 //Recursive procedure that finds cycles starting/ending at w
-void dfs(int u, int w, int depth, map< int, set <int> > *context, vector<bool> *visited, map<int, double> *best_scores, vector<int> *cycle_stack)
+void dfs(int u, int w, int depth, map< int, set <int> > &context, vector<bool> &visited, map<int, double> &best_scores, vector<int> &cycle_stack)
 {
     //cout << u << endl;
-    (*visited)[u]=true; //Mark the vertex as visited
-    (*cycle_stack).push_back(u); //Put it in the stack
+    visited[u]=true; //Mark the vertex as visited
+    cycle_stack.push_back(u); //Put it in the stack
     
-    for(auto v: (*context)[u]) //Iterate over adjacent vertices
+    for(auto v: context[u]) //Iterate over adjacent vertices
     {
         /*Only if the adjacent vertex is not visited
         and the current cycle length is not equal to maximum
         Visit this node in the dfs*/
-        if((*visited)[v] == false)
+        if(visited[v] == false)
         {
             if(depth < cycle_length)
             {
@@ -226,23 +226,23 @@ void dfs(int u, int w, int depth, map< int, set <int> > *context, vector<bool> *
             //Compute confidence score of the cycle (density)
             double confidence = compute_score(w, cycle_stack, context);
             //Iterate over nodes in the cycle
-            for(auto cycle_node: *cycle_stack)
+            for(auto cycle_node: cycle_stack)
             {
                 /*If this confidence is higher than the best one for the node
                 seen till now, make this the node's current confidence*/
-                if(confidence > (*best_scores)[cycle_node])
+                if(confidence > best_scores[cycle_node])
                 {
-                    (*best_scores)[cycle_node] = confidence;
+                    best_scores[cycle_node] = confidence;
                 }
             }
         }
     }
-    (*visited)[u]=false;
-    (*cycle_stack).pop_back();
+    visited[u]=false;
+    cycle_stack.pop_back();
     return;
 }
 
-map<int, double> find_best_cycle(int w, vector<int> context_nodes, map< int, set <int> > *context)
+map<int, double> find_best_cycle(int w, vector<int> context_nodes, map< int, set <int> > context)
 {
     map<int, double> best_scores;
     vector<bool> visited(num_nodes+1); //Tracks if the nodes have been explored in the DFS
@@ -252,7 +252,7 @@ map<int, double> find_best_cycle(int w, vector<int> context_nodes, map< int, set
         // Score is 1 if there is a direct edge from w to u.
         // It is initialized to 0 otherwise.
         best_scores[u] = 0;
-        if( (*context)[w].find(u) != (*context)[w].end() )
+        if( context[w].find(u) != context[w].end() )
         {
             best_scores[u] = 1;
         }
@@ -261,8 +261,8 @@ map<int, double> find_best_cycle(int w, vector<int> context_nodes, map< int, set
     best_scores[w]=1;
     
     vector<int> cycle_stack; //Stack to store current path
-    //I use the typical dfs + stack cycle finding implementation
-    dfs(w, w, 0, context, &visited, &best_scores, &cycle_stack);
+    //I use the typical dfs + stack recursive backtracking cycle finding implementation
+    dfs(w, w, 0, context, visited, best_scores, cycle_stack);
     
     return best_scores;
 }
@@ -290,7 +290,7 @@ struct confSortDesc
 };
 
 //Output best scores for this word in descending order in <sample_name>_o.txt
-void outputFull(int w, ofstream &fout, map< int, set <int> > *context)
+void outputFull(int w, ofstream &fout, map< int, set <int> > context)
 {
     fout << endl << "Confidence score matchings for lemma: ";
     //Print string representation of w as in Input file
@@ -302,7 +302,7 @@ void outputFull(int w, ofstream &fout, map< int, set <int> > *context)
     {
         if(iter.first == w) continue; //ignore if the potential target is the same word
         bool is_new_val = false;
-        if((*context)[w].find(iter.first) == (*context)[w].end())
+        if(context[w].find(iter.first) == context[w].end())
         {
             if(iter.second >= conf_threshold) is_new_val = true;
             /*it is a new val if confidence score is higher than threshold
@@ -344,15 +344,16 @@ int main()
     string output_name = sample_name + "_o.txt";
     fout.open(output_name);
     getData(sample_name, fout); //Setup the graph from data
+    
     for(int w = 1; w <= num_nodes; w++) //Iterate over all the words
     {
-        cerr << w << endl;
+        //cerr << w << endl;
         pair< vector<int>, map<int, set<int> > > context; //The context graph for this word
         map<int, double> best_scores; //Best scores for each node in it's context
         context = find_context(w); //Get the context of the word w
-        best_scores = find_best_cycle(w, context.first, &context.second);
+        best_scores = find_best_cycle(w, context.first, context.second);
         vertex_list[w].word_confidences = best_scores; //store the best scores corresponding to this word
         //Finds the confidence score with w for each word in the context
-        outputFull(w, fout, &context.second);
+        outputFull(w, fout, context.second);
     }
 }
