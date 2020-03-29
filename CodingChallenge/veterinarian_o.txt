@@ -1,0 +1,149 @@
+Number of words: 15
+Number of edges: 31
+Number of languages: 10
+
+Confidence score matchings for lemma: veterinarian-n-en
+Existing: veterinari-n-ca: 1
+Existing: veterinaro-n-eo: 1
+Existing: veterinario-n-gl: 1
+In context: veterinario-n-es: 0.5
+In context: veterinário-n-pt: 0.5
+In context: vétérinaire-n-fr: 0.466667
+In context: veterinario-n-it: 0
+In context: manescal-n-ca: 0
+In context: bestokuracisto-n-eo: 0
+In context: bestkuracisto-n-eo: 0
+In context: veterinar-n-ro: 0
+In context: veterinariu-n-ast: 0
+
+Confidence score matchings for lemma: veterinari-n-ca
+Existing: veterinarian-n-en: 1
+Existing: veterinario-n-it: 1
+Existing: veterinaro-n-eo: 1
+In context: veterinario-n-es: 0.466667
+In context: veterinario-n-gl: 0.466667
+In context: veterinário-n-pt: 0.466667
+In context: vétérinaire-n-fr: 0.428571
+In context: manescal-n-ca: 0
+In context: bestokuracisto-n-eo: 0
+In context: bestkuracisto-n-eo: 0
+In context: veterinar-n-ro: 0
+In context: veterinariu-n-ast: 0
+
+Confidence score matchings for lemma: veterinario-n-it
+Existing: veterinari-n-ca: 1
+In context: veterinarian-n-en: 0
+In context: veterinaro-n-eo: 0
+In context: veterinario-n-es: 0
+In context: vétérinaire-n-fr: 0
+In context: manescal-n-ca: 0
+In context: veterinario-n-gl: 0
+
+Confidence score matchings for lemma: veterinaro-n-eo
+Existing: veterinarian-n-en: 1
+Existing: veterinari-n-ca: 1
+Existing: veterinario-n-es: 1
+Existing: vétérinaire-n-fr: 1
+Existing: manescal-n-ca: 1
+In context: veterinario-n-gl: 0.5
+In context: veterinário-n-pt: 0.5
+In context: veterinario-n-it: 0
+In context: bestokuracisto-n-eo: 0
+In context: bestkuracisto-n-eo: 0
+In context: veterinar-n-ro: 0
+In context: veterinariu-n-ast: 0
+
+Confidence score matchings for lemma: veterinario-n-es
+Existing: veterinaro-n-eo: 1
+Existing: vétérinaire-n-fr: 1
+Existing: veterinário-n-pt: 1
+Existing: bestokuracisto-n-eo: 1
+Existing: bestkuracisto-n-eo: 1
+Existing: veterinar-n-ro: 1
+Existing: veterinariu-n-ast: 1
+In context: veterinarian-n-en: 0.5
+In context: veterinario-n-gl: 0.5
+In context: veterinari-n-ca: 0.466667
+In context: veterinario-n-it: 0
+In context: manescal-n-ca: 0
+
+Confidence score matchings for lemma: vétérinaire-n-fr
+Existing: veterinaro-n-eo: 1
+Existing: veterinario-n-es: 1
+Existing: bestokuracisto-n-eo: 1
+Existing: bestkuracisto-n-eo: 1
+In context: veterinarian-n-en: 0.466667
+In context: veterinario-n-gl: 0.466667
+In context: veterinário-n-pt: 0.466667
+In context: veterinari-n-ca: 0.428571
+In context: veterinario-n-it: 0
+In context: manescal-n-ca: 0
+In context: veterinar-n-ro: 0
+In context: veterinariu-n-ast: 0
+
+Confidence score matchings for lemma: manescal-n-ca
+Existing: veterinaro-n-eo: 1
+In context: veterinarian-n-en: 0
+In context: veterinari-n-ca: 0
+In context: veterinario-n-it: 0
+In context: veterinario-n-es: 0
+In context: vétérinaire-n-fr: 0
+In context: veterinario-n-gl: 0
+In context: veterinário-n-pt: 0
+In context: bestokuracisto-n-eo: 0
+In context: bestkuracisto-n-eo: 0
+In context: veterinar-n-ro: 0
+In context: veterinariu-n-ast: 0
+
+Confidence score matchings for lemma: veterinario-n-gl
+Existing: veterinarian-n-en: 1
+Existing: veterinário-n-pt: 1
+In context: veterinaro-n-eo: 0.5
+In context: veterinario-n-es: 0.5
+In context: veterinari-n-ca: 0.466667
+In context: vétérinaire-n-fr: 0.466667
+In context: veterinario-n-it: 0
+In context: manescal-n-ca: 0
+In context: bestokuracisto-n-eo: 0
+In context: bestkuracisto-n-eo: 0
+In context: veterinar-n-ro: 0
+In context: veterinariu-n-ast: 0
+
+Confidence score matchings for lemma: veterinário-n-pt
+Existing: veterinario-n-es: 1
+Existing: veterinario-n-gl: 1
+In context: veterinarian-n-en: 0.5
+In context: veterinaro-n-eo: 0.5
+In context: veterinari-n-ca: 0.466667
+In context: vétérinaire-n-fr: 0.466667
+In context: manescal-n-ca: 0
+In context: bestokuracisto-n-eo: 0
+In context: bestkuracisto-n-eo: 0
+In context: veterinar-n-ro: 0
+In context: veterinariu-n-ast: 0
+
+Confidence score matchings for lemma: vet-n-en
+Existing: veterinaro-n-eo: 1
+Existing: veterinario-n-gl: 1
+Existing: eksmilitisto-n-eo: 1
+In context: veterinarian-n-en: 0
+In context: veterinari-n-ca: 0
+In context: veterinario-n-it: 0
+In context: veterinario-n-es: 0
+In context: vétérinaire-n-fr: 0
+In context: manescal-n-ca: 0
+In context: veterinário-n-pt: 0
+In context: bestokuracisto-n-eo: 0
+In context: bestkuracisto-n-eo: 0
+In context: veterinar-n-ro: 0
+In context: veterinariu-n-ast: 0
+
+Confidence score matchings for lemma: eksmilitisto-n-eo
+
+Confidence score matchings for lemma: bestokuracisto-n-eo
+
+Confidence score matchings for lemma: bestkuracisto-n-eo
+
+Confidence score matchings for lemma: veterinar-n-ro
+
+Confidence score matchings for lemma: veterinariu-n-ast

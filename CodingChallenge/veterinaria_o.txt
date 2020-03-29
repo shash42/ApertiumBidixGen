@@ -1,3 +1,0 @@
-Number of words: 0
-Number of edges: 0
-Number of languages: 0

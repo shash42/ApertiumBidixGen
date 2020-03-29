@@ -55,7 +55,7 @@ void initNode(string s)
 
 /*Get the current index of the lemma represented in string s
 or create a new node if it doesnt already exist*/
-int getIdx(string s, map<string, int> idx_of_word)
+int getIdx(string s, map<string, int> &idx_of_word)
 {
     int idx;
     //If it is already in the map, get its index
@@ -242,7 +242,7 @@ void dfs(int u, int w, int depth, map< int, set <int> > &context, vector<bool> &
     return;
 }
 
-map<int, double> find_best_cycle(int w, vector<int> context_nodes, map< int, set <int> > context)
+map<int, double> find_best_cycle(int w, vector<int> &context_nodes, map< int, set <int> > &context)
 {
     map<int, double> best_scores;
     vector<bool> visited(num_nodes+1); //Tracks if the nodes have been explored in the DFS
@@ -290,7 +290,7 @@ struct confSortDesc
 };
 
 //Output best scores for this word in descending order in <sample_name>_o.txt
-void outputFull(int w, ofstream &fout, map< int, set <int> > context)
+void outputFull(int w, ofstream &fout, map< int, set <int> > &context)
 {
     fout << endl << "Confidence score matchings for lemma: ";
     //Print string representation of w as in Input file
