@@ -36,22 +36,22 @@ This is followed by: <br>
 For each distinct lemma **w** in the Input file, all lemmas in it's "context", or the relevant subgraph that is analyzed for this input is printed. The information printed highlights the potential of translation for each listed word of the context with **w**. New translations suggested are marked "Inferred", input translations are marked "Existing" and others are just marked "In Context". With each, a confidence score is attached based on the algorithm's computation. <br>
 Example:
 
-> Confidence score matchings for lemma: poignet-n-fr
-Inferred: wrist-n-en: 0.833333
-Inferred: canell-n-ca: 0.833333
-Inferred: moneca-n-gl: 0.7
-Inferred: eskumutur-n-eu: 0.7
-Existing: pojno-n-eo: 1
-Existing: muñeca-n-es: 1
-Existing: manradiko-n-eo: 1
-Existing: manartiko-n-eo: 1
-Existing: manumo-n-eo: 1
-In context: polso-n-it: 0
-In context: moñeca-n-ast: 0
-In context: doll-n-en: 0
-In context: boneco-n-pt: 0
-.
-.
-.
+> Confidence score matchings for lemma: poignet-n-fr <br>
+Inferred: wrist-n-en: 0.833333 <br>
+Inferred: canell-n-ca: 0.833333 <br>
+Inferred: moneca-n-gl: 0.7 <br>
+Inferred: eskumutur-n-eu: 0.7 <br>
+Existing: pojno-n-eo: 1 <br>
+Existing: muñeca-n-es: 1 <br>
+Existing: manradiko-n-eo: 1 <br>
+Existing: manartiko-n-eo: 1 <br>
+Existing: manumo-n-eo: 1 <br>
+In context: polso-n-it: 0 <br> 
+In context: moñeca-n-ast: 0 <br>
+In context: doll-n-en: 0 <br>
+In context: boneco-n-pt: 0 <br>
+. <br> 
+. <br>
+. <br>
 
 This shows the potential of various lemmas as translations of poignet-n-fr. 
