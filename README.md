@@ -1,3 +1,4 @@
+
 # ApertiumBidixGen
 
 ### Bilingual Dictionary Generation via Graph Exploration for Apertium.
@@ -16,6 +17,9 @@ Graph visualizations for the input file are available in this respository.
 
 **Instructions:**<br>
 Compile codingchallenge.cpp using:<br>
-`g++ codingchallenge.cpp
+
+    g++ codingchallenge.cpp
+
 The program will ask for input file name. If the file is "file_name.txt", just add write "file_name" to input. The output file created will be "file_name_o.txt <br>
 Preferably use C++11 or higher.
+
