@@ -114,7 +114,7 @@ int runDirect(Graph &G, Config &config, string &word)
 int main()
 {
     Stopwatch timer;
-    //string word;
+    string word = "training";
     //cin >> word;
     Graph G;
     runPairs(G);
@@ -123,10 +123,10 @@ int main()
     /*ofstream debugfile;
     //debugfile.open("../Main/Results/debugG.txt");
     G.printGraph(debugfile);*/
-    /*Config config;
+    Config config;
     timer.start();
     int new_trans = runBicomp(G, config, word);
     cout << new_trans << endl;
     timer.end();
-    timer.log();*/
+    timer.log();
 }
