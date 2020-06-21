@@ -7,9 +7,9 @@
 void DensityAlgo::findContext(int source)
 {
     queue< int > bfs; // Stores the queue (node, depth) for bfs order
-    map<int, int> depth;
+    map<int, int> depth; //stores the depth of nodes
     bfs.push(source); //Start at the word w, with 0 distance
-    depth[source] = 0;
+    depth[source] = 0; //source depth is initialized as 0
     while(!bfs.empty()) //run till queue is empty
     {
         int uidx = bfs.front();
@@ -25,7 +25,7 @@ void DensityAlgo::findContext(int source)
             //The target vertex should not be visited should have distance <= context_depth defined
             if(depth.find(vidx) == depth.end() && depth[uidx] < config.context_depth)
             {
-                bfs.push(vidx);
+                bfs.push(vidx); //push target vertex into bfs queue
                 depth[vidx] = depth[uidx]+1; //depth of target node is 1 + depth of source node.
             }
         }
@@ -42,7 +42,7 @@ void DensityAlgo::getMetrics(int source) {
     for(int i = 0; i < cycle_stack.size(); i++){
         int uidx = cycle_stack[i];
         for(auto vidx: dfsG.vertices[uidx].adj){
-            //if the edge going out is to a vertex within the cycle, count the edge
+            //if the edge going out is to a vertex within the cycle, count the edge (add to degree and num_edges)
             if(vertex_list.find(vidx)!=vertex_list.end()){
                 num_edges++; deg[i]++;
             }
@@ -68,36 +68,36 @@ void DensityAlgo::getMetrics(int source) {
     }
 }
 int DensityAlgo::findTrans(int source)
-{
-    int num_trans = 0;
+{ //the source integer passed is it's index in context graph (dfsG)
+    int num_trans = 0; //stores number of predicted translations
     fout << "Confidence score matchings for lemma: " << dfsG.vertices[source].rep.surface << endl;
-    wordNode u = G.vertices[source_idx_inG];
-    for(int i = 0; i < dfsG.vertices.size(); i++)
+    wordNode u = G.vertices[source_idx_inG]; //
+    for(int i = 0; i < dfsG.vertices.size(); i++) //iterate over all vertices
     {
-        if(i==source) continue;
-        vector<Metrics> &cycles = M[source_idx_inG][i];
-        float confidence=0;
-        for(auto cyc: cycles){
-            float curr_den = cyc.density;
-            if(cyc.tldeg > 2)
+        if(i==source) continue; //if it is the source itself ignore
+        vector<Metrics> &cycles = M[source_idx_inG][i]; //the cycle metrics for this particular target
+        float confidence=0; //stores the final confidence for output
+        for(auto cyc: cycles){ //iterate over the metrics for different cycles
+            float curr_den = cyc.density; //density of cycle (temporary confidence variable)
+            if(cyc.tldeg > 2) //if target word degree is > 2 multiply the current confidence
             {
                 curr_den *= config.deg_gt2_multiplier;
-                if(curr_den > 1.0) curr_den = 1;
+                if(curr_den > 1.0) curr_den = 1; //cap it at 1.0
             }
-            if(curr_den > confidence) confidence = curr_den;
+            if(curr_den > confidence) confidence = curr_den; //if this was higher than current confidence, keep it
         }
         if(dfsG.vertices[source].adj.find(i)!=dfsG.vertices[source].adj.end())
-        {
+        { //if existing translation in input graph
             fout << "Existing: " << dfsG.vertices[i].rep.surface << endl;
             continue;
         }
-        wordNode v = dfsG.vertices[i];
+        wordNode v = dfsG.vertices[i]; //
         if(confidence >= config.conf_threshold)
-        {
-            num_trans++;
+        { //if it is higher than the threshold required predict this as a new translation
+            num_trans++; //increase count of predicted translations
             fout << "New Translation!: " << v.rep.surface << " = " << confidence << " - " << M[source_idx_inG][i].size();
         } else{
-
+            //otherwise just output as an in-context word along with confidence, not a predicted translation
             fout << "In context: " << v.rep.surface << " = " << confidence << " - " << M[source_idx_inG][i].size();
         }
         fout << endl;

@@ -7,6 +7,7 @@
 
 using namespace std::chrono;
 
+//Used to time code
 struct Stopwatch{
     decltype(high_resolution_clock::now()) sTime;
     decltype(high_resolution_clock::now()) eTime;
@@ -24,6 +25,7 @@ struct Stopwatch{
     }
 };
 
+//get statistics on the biconnected components
 void getStatsComps(Graph &G)
 {
     Biconnected B;
@@ -31,7 +33,7 @@ void getStatsComps(Graph &G)
     ofstream compfile;
     compfile.open("../Main/Analysis/TDbigcompfile-eng.txt");
     int subgraphnum = 0;
-    int mxv = 0, mxe = 0, cntg100=0, cntg1000=0;
+    int mxv = 0, mxe = 0, cntg100=0, cntg1000=0; //max size and count of comps with >100 or >1000 vertices
     for(auto SG: G.subGraphs)
     {
         if(SG.vertices.size()>=100) cntg100++;
@@ -44,7 +46,7 @@ void getStatsComps(Graph &G)
         subgraphnum++;
         compfile << subgraphnum << endl;
         set<string> engwords;
-        for(auto u: SG.vertices)
+        for(auto u: SG.vertices) //print only english words
         {
             if(u.rep.lang=="en") engwords.insert(u.rep.surface);
         }
@@ -59,6 +61,7 @@ void getStatsComps(Graph &G)
     compfile.close();
 }
 
+//load the pairs listed in LangData-List into the graph
 void runPairs(Graph &G)
 {
     int num_pairs = 11; //number of pairs of languages.
@@ -80,6 +83,7 @@ void runPairs(Graph &G)
         cout << "done" << endl;
     }
 }
+//Load a small word based context graph
 void runWords(Graph &G, string &word)
 {
     string fin_name = "../Main/SampleWord/" + word + ".txt";
@@ -88,21 +92,24 @@ void runWords(Graph &G, string &word)
     G.loadData(fin_name, fout); //unidirectional data load
     cout << "loaded" << endl;
 }
+
+//Run after precomputing biconnected components
 int runBicomp(Graph &G, Config &config, string &word)
 {
     string fileout_name = "../Main/Results/" + word + "bicomp_out.txt";
     ofstream fout;
     fout.open(fileout_name); fout.close();
     int new_trans=0;
-    Biconnected B;
+    Biconnected B; //object of biconnected computation class
     B.findBicomps(G);
-    for(auto SG: G.subGraphs)
+    for(auto SG: G.subGraphs) //iterate over components and run density algo for each
     {
         DensityAlgo D = DensityAlgo(SG, config);
         new_trans += D.run(fileout_name); //append output to fileout_name
     }
     return new_trans;
 }
+//Run directly without precomputing biconnected components
 int runDirect(Graph &G, Config &config, string &word)
 {
     string fileout_name = "../Main/Results/" + word + "_out.txt";

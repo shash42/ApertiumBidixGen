@@ -9,18 +9,21 @@
 #include "Biconnected.h"
 #include<iostream>
 
+//stores hyperparameters for ease of optimization
 class Config
 {
 public:
-    int context_depth = 3;
-    int max_cycle_length = 7;
+    int context_depth = 3; //distance to which a word's context is extracted
+    int max_cycle_length = 7; //maximum cycle length to limit compute
     bool source_lang_repeat = false; //repeating source lang is allowed (true) or not
-    int large_min_cyc_len = 5;
-    int small_min_cyc_len = 4;
-    int large_cutoff = 5;
-    float deg_gt2_multiplier = 1.4;
-    float conf_threshold = 0.7;
+    int large_cutoff = 5; //cutoff on degree of source word to decide small or large context
+    int large_min_cyc_len = 5; //min cycle length in large context
+    int small_min_cyc_len = 4; //min cycle length in smallc ontext
+    float deg_gt2_multiplier = 1.4; //multiplier if target word has sufficient degree
+    float conf_threshold = 0.7; //confidence threshold to predict it as a new translation
 };
+
+//Metrics stored for each cycle corresponding to a translation pair
 class Metrics
 {
 public:
@@ -28,27 +31,30 @@ public:
     float density=0;
     bool is_edge =  false;
 };
+
+//Class containing functions and objects for the cycle density algorithm
 class DensityAlgo
-{
+{   //TAKE CARE: indices in main graph (G) and context graph (dfsG) differ
     vector<vector<vector<Metrics>>> M; //2D matrix. M[i][j] has vector of metrics corresponding to each cycle.
-    int source_idx_inG;
-    Graph G, dfsG;
-    Config config;
-    vector<int> cycle_stack;
-    vector<bool> visited;
-    set<int> source_connected;
-    ofstream fout;
+    int source_idx_inG; //the index of the source word in the current run in the main graph G
+    Graph G, dfsG; //G is the main graph and dfsG is the context graph of the current word
+    Config config; //configuration file containing hyperparameters
+    vector<int> cycle_stack; //dfs stack to extract cycles
+    vector<bool> visited; //listed of vertices that have been visited
+    set<int> source_connected; //indices of words connected to source as in context graph
+    ofstream fout; //output file for results
 public:
+    //constructor
     DensityAlgo(Graph &passed, Config &reqconfig){
         G = passed;
         config = reqconfig;
     }
-    int run(string &passedfile);
-    void findContext(int source);
-    void findCycles(Graph &C, int source);
-    void getMetrics(int source);
-    void dfs(int uidx, int source, int depth);
-    int findTrans(int source);
+    int run(string &passedfile); //main function of the class to call other functions and run the algo
+    void findContext(int source); //finds context given index of source word in context graph
+    void findCycles(Graph &C, int source); //find cycles for source in the context graph - caller function for dfs
+    void getMetrics(int source); //get metrics for each target word from current cycle in the cycle_stack
+    void dfs(int uidx, int source, int depth); //depth first search for cycles (uidx is current node)
+    int findTrans(int source); //finalize translations and output them using metrics for each potential target
 };
 
 #endif //GSOCAPERTIUM2020_DENSITYALGO_H

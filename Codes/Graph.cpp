@@ -1,31 +1,31 @@
 #include "Graph.h"
 
 string wordData::extract_rep(int &i, string edge) {
-    string temp;
+    string temp; //stores return value (word representation)
     i++; //ignore first quotation mark
-    while(edge.substr(i, 2) != "\"-")
+    while(edge.substr(i, 2) != "\"-") //till "-
     {
         temp+=edge[i];
         i++;
     }
-    i+=2;
+    i+=2; //skip the "-
     return temp;
 }
 string wordData::extract_info(int &i, string edge) {
-    string temp;
-    while(edge[i]!='-' && edge[i]!=' ' && i<edge.length())
+    string temp; //stores the information for return
+    while(edge[i]!='-' && edge[i]!=' ' && i<edge.length()) //info ends at a '-' or ' ' or at end
     {
         temp+=edge[i];
         i++;
     }
-    i++;
+    i++; //skip the end symbol ('-' or ' ')
     return temp;
 }
 
 void Graph::initNode(wordData &s)
 {
-    wordNode v_new(s);
-    vertices.push_back(v_new);
+    wordNode v_new(s); //make a wordNode out of the data
+    vertices.push_back(v_new); //add it to the vertex list
 }
 /*Get the current index of the lemma represented in string s
 or create a new node if it doesnt already exist*/
@@ -41,12 +41,12 @@ int Graph::getIdx(wordData &s)
 void Graph::addEdge(wordData &u, wordData &v) {
     int u_idx = getIdx(u);
     int v_idx = getIdx(v);
-    //Add to to the vertex adjacency list
+    //If it is not already in the vertex adjacency list
     if(vertices[u_idx].adj.find(v_idx)==vertices[u_idx].adj.end())
     { //set ensures no multi-edges. all edges are added as bidirectional
-        num_edges++;
+        num_edges++; //increase edge count by 1
         vertices[u_idx].adj.insert(v_idx);
-        vertices[v_idx].adj.insert(u_idx);
+        vertices[v_idx].adj.insert(u_idx); //edges are assumed to be bidirectional
     }
 }
 void Graph::loadData(string &input_file, ofstream &fout)
@@ -58,25 +58,25 @@ void Graph::loadData(string &input_file, ofstream &fout)
     {
         //cerr << edge << endl;
         int i = 0;
-        wordData SLw(i, edge);
-        wordData TLw(i, edge); //Source lang word and Target lang word
+        wordData SLw(i, edge); //Source lang word
+        wordData TLw(i, edge); //Target lang word
         addEdge(SLw, TLw); //Add the edge
     }
     fout << "Number of words: " << vertices.size() << endl;
     fout << "Number of edges: " << num_edges << endl;
 }
 void Graph::printGraph(ofstream &fout)
-{
+{ //u->v v->u will both be printed but won't necessarily be together in the output
     for(auto u: vertices)
     {
         for(auto vidx: u.adj)
-        {
+        { //print edges using surface forms of the nodes they connect
             wordNode v = vertices[vidx];
             fout << u.rep.surface << " " << v.rep.surface << endl;
         }
     }
 }
-
+//clear all information of the graph
 void Graph::reset() {
     idx_of_word.clear();
     vertices.clear();
