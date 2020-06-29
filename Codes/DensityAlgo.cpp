@@ -67,7 +67,7 @@ void DensityAlgo::getMetrics(int source) {
         M[source_idx_inG][vidx].push_back(temp);
     }
 }
-int DensityAlgo::findTrans(int source)
+int DensityAlgo::findTrans(int source, map<string, Graph> &pred)
 { //the source integer passed is it's index in context graph (dfsG)
     int num_trans = 0; //stores number of predicted translations
     fout << "Confidence score matchings for lemma: " << dfsG.vertices[source].rep.surface << endl;
@@ -94,7 +94,16 @@ int DensityAlgo::findTrans(int source)
         wordNode v = dfsG.vertices[i]; //
         if(confidence >= config.conf_threshold)
         { //if it is higher than the threshold required predict this as a new translation
-            num_trans++; //increase count of predicted translations
+            string langpairUv = u.rep.lang + "-" + v.rep.lang;
+            string langpairVu = v.rep.lang + "-" + u.rep.lang;
+            bool isnew;
+            if(pred.find(langpairVu)!=pred.end()){ //if V->U is a language pair
+                isnew = pred[langpairVu].addEdge(u.rep, v.rep);
+            }
+            else{ //otherwise U->V (if already exists great, otherwise make)
+                isnew = pred[langpairUv].addEdge(u.rep, v.rep);
+            }
+            if(isnew) num_trans++; //increase count of predicted translations
             fout << "New Translation!: " << v.rep.surface << " = " << confidence << " - " << M[source_idx_inG][i].size();
         } else{
             //otherwise just output as an in-context word along with confidence, not a predicted translation
@@ -149,7 +158,7 @@ void DensityAlgo::findCycles(Graph &C, int source){
     dfsG = C; //currently, dfsG will be a reference to the context graph
     dfs(source, source, 0);
 }
-int DensityAlgo::run(string &passedfile)
+int DensityAlgo::run(string &passedfile, map<string, Graph> &pred)
 {
     fout.open(passedfile, ios::app);
     fout << G.vertices.size() << " " << G.num_edges << endl;
@@ -168,7 +177,7 @@ int DensityAlgo::run(string &passedfile)
         }
         M[i].resize(dfsG.vertices.size()); //dim2 of M = no. of vertices in context of word (dfsG)
         findCycles(dfsG, source_idx_inC); //this word is 0 in context-graph as it will be the first word added
-        num_trans += findTrans(source_idx_inC);
+        num_trans += findTrans(source_idx_inC, pred);
     }
     fout.close();
     return num_trans;

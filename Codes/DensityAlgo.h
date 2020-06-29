@@ -49,12 +49,12 @@ public:
         G = passed;
         config = reqconfig;
     }
-    int run(string &passedfile); //main function of the class to call other functions and run the algo
+    int run(string &passedfile, map<string, Graph> &pred); //main function of the class to call other functions and run the algo
     void findContext(int source); //finds context given index of source word in context graph
     void findCycles(Graph &C, int source); //find cycles for source in the context graph - caller function for dfs
     void getMetrics(int source); //get metrics for each target word from current cycle in the cycle_stack
     void dfs(int uidx, int source, int depth); //depth first search for cycles (uidx is current node)
-    int findTrans(int source); //finalize translations and output them using metrics for each potential target
+    int findTrans(int source, map<string, Graph> &pred); //finalize translations and output them using metrics for each potential target
 };
 
 #endif //GSOCAPERTIUM2020_DENSITYALGO_H

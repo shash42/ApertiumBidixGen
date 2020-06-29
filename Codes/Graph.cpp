@@ -38,7 +38,7 @@ int Graph::getIdx(wordData &s)
     }
     return idx_of_word[s];
 }
-void Graph::addEdge(wordData &u, wordData &v) {
+bool Graph::addEdge(wordData &u, wordData &v) {
     int u_idx = getIdx(u);
     int v_idx = getIdx(v);
     //If it is not already in the vertex adjacency list
@@ -47,7 +47,9 @@ void Graph::addEdge(wordData &u, wordData &v) {
         num_edges++; //increase edge count by 1
         vertices[u_idx].adj.insert(v_idx);
         vertices[v_idx].adj.insert(u_idx); //edges are assumed to be bidirectional
+        return true;
     }
+    return false;
 }
 void Graph::loadData(string &input_file, ofstream &fout)
 {

@@ -62,7 +62,7 @@ void getStatsComps(Graph &G)
 }
 
 //load the pairs listed in LangData-List into the graph
-void runPairs(Graph &G)
+void runPairs(Graph &G, int idxign)
 {
     int num_pairs = 11; //number of pairs of languages.
     string input_file;
@@ -74,6 +74,7 @@ void runPairs(Graph &G)
     for(int i = 0; i < num_pairs; i++)
     {
         file_list >> input_file;
+        if(i==idxign) continue;
         cout << input_file << endl;
         fout << input_file << endl;
         G.loadData(input_file, fout);
@@ -83,6 +84,23 @@ void runPairs(Graph &G)
         cout << "done" << endl;
     }
 }
+
+string l1, l2;
+void predByLang(string &file_pref, map<string, Graph> &pred){
+    ofstream summary; summary.open(file_pref + "-summary.txt");
+    for(auto &langpair: pred){
+        if(langpair.first!=l1 && langpair.first!=l2) continue;
+        Graph &langG = langpair.second;
+        summary << langpair.first << endl;
+        summary << "Number of vertices: " << langG.vertices.size() << endl;
+        summary << "Number of edges: " << langG.num_edges << endl;
+        string file_name = file_pref + "_" + langpair.first + ".txt";
+        ofstream outfile; outfile.open(file_name);
+        langG.printGraph(outfile);
+        summary << endl; //blank line
+    }
+}
+
 //Load a small word based context graph
 void runWords(Graph &G, string &word)
 {
@@ -94,9 +112,9 @@ void runWords(Graph &G, string &word)
 }
 
 //Run after precomputing biconnected components
-int runBicomp(Graph &G, Config &config, string &word)
+int runBicomp(Graph &G, Config &config, string &prefix, map<string, Graph> &pred)
 {
-    string fileout_name = "../Main/Results/" + word + "bicomp_out.txt";
+    string fileout_name = "../Main/Results/" + prefix + "bicomp_out.txt";
     ofstream fout;
     fout.open(fileout_name); fout.close();
     int new_trans=0;
@@ -105,26 +123,34 @@ int runBicomp(Graph &G, Config &config, string &word)
     for(auto SG: G.subGraphs) //iterate over components and run density algo for each
     {
         DensityAlgo D = DensityAlgo(SG, config);
-        new_trans += D.run(fileout_name); //append output to fileout_name
+        new_trans += D.run(fileout_name, pred); //append output to fileout_name
     }
+    string pred_file_name = "../Main/Results/RemLang/" + prefix;
+    predByLang(pred_file_name, pred);
     return new_trans;
 }
+
 //Run directly without precomputing biconnected components
-int runDirect(Graph &G, Config &config, string &word)
+int runDirect(Graph &G, Config &config, string &prefix, map<string, Graph> &pred)
 {
-    string fileout_name = "../Main/Results/" + word + "_out.txt";
+    string fileout_name = "../Main/Results/" + prefix + "_out.txt";
     ofstream fout;
     fout.open(fileout_name); fout.close();
     DensityAlgo D(G, config);
-    return D.run(fileout_name);
+    int new_trans = D.run(fileout_name, pred);
+    string pred_file_name = "../Main/Results/" + prefix;
+    predByLang(pred_file_name, pred);
+    return new_trans;
 }
+
 int main()
 {
     Stopwatch timer;
-    string word = "training";
+    l1 = "oc-ca"; l2="ca-oc";
+    string word = "rem_" + l1;
     //cin >> word;
     Graph G;
-    runPairs(G);
+    runPairs(G, 8);
     //getStatsComps(G);
     //runWords(G, word);
     /*ofstream debugfile;
@@ -132,7 +158,8 @@ int main()
     G.printGraph(debugfile);*/
     Config config;
     timer.start();
-    int new_trans = runBicomp(G, config, word);
+    map<string, Graph> predicted; //string stores language pair and maps it to a graph
+    int new_trans = runBicomp(G, config, word, predicted);
     cout << new_trans << endl;
     timer.end();
     timer.log();
