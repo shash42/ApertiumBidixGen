@@ -56,6 +56,7 @@ void Graph::loadData(string &input_file, ofstream &fout)
     ifstream fin; //input file variable;
     string edge; //stores one edge information, i.e. one line in input file
     fin.open(input_file);
+
     while(getline(fin, edge)) //get edges till EOF
     {
         //cerr << edge << endl;
@@ -64,6 +65,7 @@ void Graph::loadData(string &input_file, ofstream &fout)
         wordData TLw(i, edge); //Target lang word
         addEdge(SLw, TLw); //Add the edge
     }
+
     fout << "Number of words: " << vertices.size() << endl;
     fout << "Number of edges: " << num_edges << endl;
 }

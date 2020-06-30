@@ -10,6 +10,7 @@ void DensityAlgo::findContext(int source)
     map<int, int> depth; //stores the depth of nodes
     bfs.push(source); //Start at the word w, with 0 distance
     depth[source] = 0; //source depth is initialized as 0
+
     while(!bfs.empty()) //run till queue is empty
     {
         int uidx = bfs.front();
@@ -39,6 +40,7 @@ void DensityAlgo::getMetrics(int source) {
     }
     vector<int> deg(cycle_stack.size()); //stores degree within the cycle for each vertex
     int num_edges = 0; //number of edges within the cycle, double-counted. O(edges in dfsG)
+
     for(int i = 0; i < cycle_stack.size(); i++){
         int uidx = cycle_stack[i];
         for(auto vidx: dfsG.vertices[uidx].adj){
@@ -48,6 +50,7 @@ void DensityAlgo::getMetrics(int source) {
             }
         }
     }
+
     //denom = denominator of density formula.
     int denom = (cycle_stack.size() * (cycle_stack.size() - 1)) / 2;
     for(int i = 1; i < cycle_stack.size(); i++) //start from 1 here as first node is just the source word
@@ -71,12 +74,14 @@ int DensityAlgo::findTrans(int source, map<string, Graph> &pred)
 { //the source integer passed is it's index in context graph (dfsG)
     int num_trans = 0; //stores number of predicted translations
     fout << "Confidence score matchings for lemma: " << dfsG.vertices[source].rep.surface << endl;
-    wordNode u = G.vertices[source_idx_inG]; //
+    wordNode u = G.vertices[source_idx_inG];
+
     for(int i = 0; i < dfsG.vertices.size(); i++) //iterate over all vertices
     {
         if(i==source) continue; //if it is the source itself ignore
         vector<Metrics> &cycles = M[source_idx_inG][i]; //the cycle metrics for this particular target
         float confidence=0; //stores the final confidence for output
+
         for(auto cyc: cycles){ //iterate over the metrics for different cycles
             float curr_den = cyc.density; //density of cycle (temporary confidence variable)
             if(cyc.tldeg > 2) //if target word degree is > 2 multiply the current confidence
@@ -86,11 +91,13 @@ int DensityAlgo::findTrans(int source, map<string, Graph> &pred)
             }
             if(curr_den > confidence) confidence = curr_den; //if this was higher than current confidence, keep it
         }
+
         if(dfsG.vertices[source].adj.find(i)!=dfsG.vertices[source].adj.end())
         { //if existing translation in input graph
             fout << "Existing: " << dfsG.vertices[i].rep.surface << endl;
             continue;
         }
+
         wordNode v = dfsG.vertices[i]; //
         if(confidence >= config.conf_threshold)
         { //if it is higher than the threshold required predict this as a new translation
@@ -105,7 +112,9 @@ int DensityAlgo::findTrans(int source, map<string, Graph> &pred)
             }
             if(isnew) num_trans++; //increase count of predicted translations
             fout << "New Translation!: " << v.rep.surface << " = " << confidence << " - " << M[source_idx_inG][i].size();
-        } else{
+        }
+
+        else{
             //otherwise just output as an in-context word along with confidence, not a predicted translation
             fout << "In context: " << v.rep.surface << " = " << confidence << " - " << M[source_idx_inG][i].size();
         }
@@ -119,6 +128,7 @@ void DensityAlgo::dfs(int uidx, int source, int depth)
     visited[uidx]=true; //Mark the vertex as visited
     cycle_stack.push_back(uidx); //Put it in the stack
     wordNode &u = dfsG.vertices[uidx];
+
     for(auto vidx: u.adj) //Iterate over adjacent vertices of current vertex
     {
         wordNode &v = dfsG.vertices[vidx];
@@ -164,9 +174,10 @@ int DensityAlgo::run(string &passedfile, map<string, Graph> &pred)
     fout << G.vertices.size() << " " << G.num_edges << endl;
     M.resize(G.vertices.size()); //dim1 of M = no. of vertices in this graph - flag
     int num_trans = 0;
+
     for(int i = 0; i < G.vertices.size(); i++)
     {
-        if(i%1000==0 && i) cout << i << endl;
+        if(i%1000==0 && i) cout << i << endl; //output every 1000th node just to check progress
         source_idx_inG = i;
         dfsG.reset();
         findContext(i); //get the context graph

@@ -45,6 +45,7 @@ void Biconnected::findArtPt(int u, Graph &G)
     int num_child = 0; //number of children of u (previously unvisited)
     disc[u]=low[u]=++currtime; //set discovery time and lowest depth reachable for current node
     visited[u]=true; //mark current vertex as visited
+
     for(int v: G.vertices[u].adj) //iterate on u's adjacency list
     {
         pair<int, int> curr_edge = {u, v}; //current edge is u->v
@@ -54,6 +55,7 @@ void Biconnected::findArtPt(int u, Graph &G)
             parent[v] = u; //set v's parent to u
             findArtPt(v, G); //recurse from v
             low[u] = min(low[u], low[v]); //lowest u can reach is min. from the lowest for subtree of v
+
             if(parent[u]==-1 && num_child>1) //if u is the root (for this dfs run) and more than one child now
             {
                 addComp(curr_edge, G); //u is now an articulation point and new biconnected comp found
@@ -63,6 +65,7 @@ void Biconnected::findArtPt(int u, Graph &G)
                 addComp(curr_edge, G); //add the BCC
             }
         }
+
         else if(parent[u]!=v){ //if v has already been visited and isn't the direct back-edge of u
             low[u] = min(low[u], disc[v]); //lowest in subtree of u is min of v's discovery time and itself
             if(disc[v] < disc[u]) temp_comp.push(curr_edge); //if it is a proper "back" edge, add it.
