@@ -1,5 +1,6 @@
 
 
+
 # ApertiumBidixGen
 
 ### Bilingual Dictionary Generation via Graph Exploration for Apertium.
@@ -13,7 +14,7 @@
 <li>LangData - Language pairs in the format which the main codes can currently read.
 <li>SampleWord - Some sample words as used in [Leveraging RDF Graphs for Crossing Multiple Bilingual Dictionaries](https://www.aclweb.org/anthology/L16-1140/) used for word-by-word sanity-checks and initial testing.
 <li>VisualAnalysisByCategory.ipynb - A Jupyter Notebook with analysis of experimental results at the end of Phase 1. In this experiment, 11 language pairs were procured, and each was removed and generated using the other 10 independently. Results were analyzed for different POS categories based on 2 metrics: Percentage of verifiably correct predictions from excluded data, Percentage of predictions as compared to excluded data. Quantiative results and Qualitative inferences are both presented.
-<\ul>
+</ul>
 This will be changing over time.
 
 #### Understanding the Algorithms Used
@@ -25,11 +26,10 @@ Biconnected Components of the input graph are computed before finding cycles due
 <li> If 2 vertices belong to the same component, there is atleast one cycle that goes through both.
 </ol>
 This allows independent handling of each biconnected component, breaking down the large language graph into smaller subgraphs on which the Cycle Density algorithm can be applied.<br>
-Further Reading:
-<ul>
-<li>[Theory](https://www.ics.uci.edu/~goodrich/teach/cs260P/notes/Biconnectivity.pdf) 
-<li>[Implementation details](https://www.hackerearth.com/practice/algorithms/graphs/biconnected-components/tutorial/)
-</ul>
+Further Reading:<br>
+[Theory](https://www.ics.uci.edu/~goodrich/teach/cs260P/notes/Biconnectivity.pdf) <br>
+[Implementation details](https://www.hackerearth.com/practice/algorithms/graphs/biconnected-components/tutorial/)
+
 Using Depth First Search to find all cycles (easy to add modifications for pruning): [Short explanation](https://stackoverflow.com/a/549312) <br>
 
 It might also be helpful to understand and internalize the concept of a [DFS-Tree](https://codeforces.com/blog/entry/68138) <br>
