@@ -13,7 +13,9 @@
 <li>LangData - Language pairs in the format which the main codes can currently read.
 <li>SampleWord - Some sample words as used in [Leveraging RDF Graphs for Crossing Multiple Bilingual Dictionaries](https://www.aclweb.org/anthology/L16-1140/) used for word-by-word sanity-checks and initial testing.
 <li>VisualAnalysisByCategory.ipynb - A Jupyter Notebook with analysis of experimental results at the end of Phase 1. In this experiment, 11 language pairs were procured, and each was removed and generated using the other 10 independently. Results were analyzed for different POS categories based on 2 metrics: Percentage of verifiably correct predictions from excluded data, Percentage of predictions as compared to excluded data. Quantiative results and Qualitative inferences are both presented.
-</ul>
+<\ul>
+This will be changing over time.
+
 #### Understanding the Algorithms Used
 The algorithm is largely based on the Cycle Density-based translation inference approach described here: [Leveraging  RDF  Graphs for Crossing Multiple Bilingual Dictionaries](https://www.aclweb.org/anthology/L16-1140.pdf). Background on the problem as well as the algorithmic details and intuition can be found here.
 
