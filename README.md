@@ -26,7 +26,8 @@ Biconnected Components of the input graph are computed before finding cycles due
 <li> If 2 vertices belong to the same component, there is atleast one cycle that goes through both.
 </ol>
 This allows independent handling of each biconnected component, breaking down the large language graph into smaller subgraphs on which the Cycle Density algorithm can be applied.<br>
-Further Reading:<br>
+Further Reading: <br>
+
 [Theory](https://www.ics.uci.edu/~goodrich/teach/cs260P/notes/Biconnectivity.pdf) <br>
 [Implementation details](https://www.hackerearth.com/practice/algorithms/graphs/biconnected-components/tutorial/)
 
