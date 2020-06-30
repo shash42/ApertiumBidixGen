@@ -1,0 +1,11 @@
+../Main/LangData/Data-en-es.txt
+../Main/LangData/Data-en-ca.txt
+../Main/LangData/Data-fr-es.txt
+../Main/LangData/Data-fr-ca.txt
+../Main/LangData/Data-eo-fr.txt
+../Main/LangData/Data-eo-ca.txt
+../Main/LangData/Data-eo-en.txt
+../Main/LangData/Data-eo-es.txt
+../Main/LangData/Data-oc-ca.txt
+../Main/LangData/Data-oc-es.txt
+../Main/LangData/Data-oc-fr.txt
