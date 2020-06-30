@@ -1,4 +1,5 @@
-Currently contains only the Coding Challenge for the Google Summer of Code 2020 Proposal<br>
+
+Contains my Coding Challenge for the [Google Summer of Code 2020 Proposal](https://wiki.apertium.org/wiki/User:Shash42/GSoC_2020_Proposal:_Bilingual_Dictionary_Discovery)<br>
 
 **File Information:**<br>
 C++ Code: /CodingChallenge/codingchallenge.cpp<br>
