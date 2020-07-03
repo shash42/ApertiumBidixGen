@@ -4,66 +4,124 @@
 #include<iostream>
 
 //Compare predictions to actual data. Takes 2-3 mins to run.
+
+string l1, l2;
+int idxign;
+
+void getUsedData(Graph &GD)
+{
+    int num_pairs = 11; //number of pairs of languages.
+    string input_file;
+    ifstream file_list;
+    file_list.open("../Main/LangData-List.txt"); //file with names of lang pairs
+    ofstream fout;
+    fout.open("../Main/Analysis/Tempfile.txt");
+    for(int i = 0; i < num_pairs; i++){
+        file_list >> input_file;
+        if(i==idxign) continue; //ignore this language pair (incase of removal and generation tests)
+        cout << input_file << endl; //output current input file for tracking progress
+        fout << input_file << endl;
+        GD.loadData(input_file, fout);
+    }
+}
+
+//which extra graph to put in based on common vertices: 0-none, 1-lang1 vertex, 2-lang2 vertex, 3-both vertices
+void putInExtra(Graph &divG, Graph GE[], wordData u, wordData v){
+    int missedClass = 0;
+    if(divG.idx_of_word.find(u)!=divG.idx_of_word.end()){
+        missedClass |= (u.lang==l1)*1 + (u.lang==l2)*2;
+    }
+    if(divG.idx_of_word.find(v)!=divG.idx_of_word.end()){
+        missedClass |= (v.lang==l1)*1 + (v.lang==l2)*2;
+    }
+    GE[missedClass].addEdge(u, v);
+}
+//If translation in inG is not in notInG, classify extra class based on common vertices with divG and put in GE.
+void getStats(Graph &inG, Graph &notInG, Graph &divG, Graph GE[], Graph &GC, set<string> &VC, set<string> &VE){
+    for(auto u: inG.vertices){ //iterate over inG words
+        for(auto vidx: u.adj){ //iterate over translations
+            //if translation is there, add to GC, else add to appropriate GE.
+            wordData &v = inG.vertices[vidx].rep; //get the word representation
+            auto notThere = notInG.idx_of_word.end();
+            if(notInG.idx_of_word.find(u.rep)==notThere){ //if u is not there in notInG
+                VE.insert(u.rep.surface);
+                putInExtra(divG, GE, u.rep, v); //obviously it is a translation not in notInG
+            }
+            else if(notInG.idx_of_word.find(v)==notThere){ //if v is not there in notInG
+                VE.insert(v.surface);
+                putInExtra(divG, GE, u.rep, v); //obviously it is a translation not in notInG
+            }
+
+            else{ //both u, v are there in notInG
+                VC.insert(u.rep.surface); //add to 'correct' words set
+                int uidx2 = notInG.idx_of_word[u.rep]; //get its index in notInG graph
+                wordNode &u2 = notInG.vertices[uidx2]; //get its vertex in notInG graph
+                int vidx2 = notInG.idx_of_word[v];
+
+                if(u2.adj.find(vidx2) == u2.adj.end()){ //if translation is not there
+                    putInExtra(divG, GE, u.rep, v);
+                }
+                else{
+                    GC.addEdge(u.rep, v); //otherwise add to 'correct' graph
+                }
+            }
+        }
+    }
+}
 int main()
 {
-    string lang = "oc-fr"; //language-pair to compare on
+    l1 = "oc", l2 = "fr";
+    idxign = 10;
+    string lang = l1+"-"+l2; //language-pair to compare on
     string pred = "../Main/Results/RemLang/pred_" + lang + ".txt"; //file with predictions
     string orig = "../Main/LangData/Data-" + lang + ".txt"; //file with data for comparison
-    Graph GP, GO, GC, GE; //G-prediction, G-original, G-correct, G-extra
+    Graph GP, GD, GO, GC, GE[4], GM[4]; //G-prediction, G-original, G-correct, G-extra, G-missed
     ofstream fout;
     fout.open("../Main/Analysis/Tempfile.txt"); //temporary output file for load data analytics
     GP.loadData(pred, fout);
     GO.loadData(orig, fout);
+    getUsedData(GD);
+    set<string> VC, VE, VM; //words which it got correct, words which were extra and missed
 
-    int corr=0, extra=0;
-    set<string> VC, VE; //words which it got correct, words which were extra
-    for(auto u: GP.vertices){ //iterate over predicted words
-
-        if(GO.idx_of_word.find(u.rep)==GO.idx_of_word.end())  //if the word is not in original graph
-        {
-            VE.insert(u.rep.surface); //add in set of extra predictions
-            for(auto vidx: u.adj){ //iterate over translations
-                wordData &v = GP.vertices[vidx].rep; //get the word representation
-                GE.addEdge(u.rep, v); //add edge in extras graph
-            }
-            continue;
-        }
-
-        //otherwise word is in original graph (apertium data)
-        VC.insert(u.rep.surface); //add to 'correct' words set
-        int uidxO = GO.idx_of_word[u.rep]; //get its index in original graph
-        wordNode &uO = GO.vertices[uidxO]; //get its vertex in original graph
-        for(auto vidx: u.adj){ //iterate over adjacent nodes in predictions (Translations)
-            wordData &v = GP.vertices[vidx].rep;
-            if(GO.idx_of_word.find(v) == GO.idx_of_word.end()){ //if this translation word itself is not in original
-                GE.addEdge(u.rep, v); //add edge in extras graph
-                continue;
-            }
-            int vidxO = GO.idx_of_word[v]; //get index of translation word in original graph
-            if(uO.adj.find(vidxO)==uO.adj.end()){ //if this translation edge is not in original graph
-                GE.addEdge(u.rep, v); //add to extras graph
-            }
-            else{
-                GC.addEdge(u.rep, v); //otherwise add to 'correct' graph
-            }
-        }
-    }
+    getStats(GP, GO, GO, GE, GC, VC, VE); //Get Precision Stats
+    getStats(GO, GP, GD, GM, GC, VC, VM); //Get Recall Stats
 
     fout.close();
     ofstream summary, gout;
-    string prefix = "../Main/Results/RemLang/Analysis/";
-    summary.open(prefix + lang + "_summary.txt");
-    summary << "Number of correct vertices: " << VC.size() << endl;
-    summary << "Number of extra vertices: " << VE.size() << endl;
-    summary << "Correct Graph" << endl;
+    string prefix = "../Main/Results/RemLang/Analysis/"+lang+"/";
+    summary.open(prefix + "summary.txt");
+    summary << "Number of correct vertices (in P and O):" << VC.size() << endl;
+    summary << "Number of extra vertices (in P, not in O): " << VE.size() << endl;
+    summary << "Number of missed vertices (in O, not in P):" << VM.size() << endl;
+    summary << "Correct Graph (in P and O)" << endl;
     summary << "Number of Vertices: " << GC.vertices.size() << endl;
     summary << "Number of Edges: " << GC.num_edges << endl;
-    summary << "Extra Graph" << endl;
-    summary << "Number of Vertices: " << GE.vertices.size() << endl;
-    summary << "Number of Edges: " << GE.num_edges << endl;
+
+    summary << endl << "Classification Legend: ";
+    summary << "0 if no vertex in common, 1 if " << l1 << " vertex in common, 2 if";
+    summary << l2 << " vertex in common, 3 if both vertices common\n" << endl;
+
+    summary << "Extra Graph (in P, not in O, classified by O)" << endl;
+    for(int i = 0; i < 4; i++){
+        summary << "Number of Vertices in class" << i << ": " << GE[i].vertices.size() << endl;
+        summary << "Number of Edges in class" << i << ": " << GE[i].num_edges << endl;
+    }
+    summary << "Missed Graph (in O, not in P, classified by D)" << endl;
+    for(int i = 0; i < 4; i++){
+        summary << "Number of Vertices in class" << i << ": " << GM[i].vertices.size() << endl;
+        summary << "Number of Edges in class" << i << ": " << GM[i].num_edges << endl;
+    }
     summary.close();
-    gout.open(prefix + lang + "_correct.txt"); //print correct graph to passed file name
+    gout.open(prefix + "correct.txt"); //print correct graph to passed file name
     GC.printGraph(gout); gout.close();
-    gout.open(prefix + lang + "_extra.txt"); //print correct graph to passed file name
-    GE.printGraph(gout);
+    for(int i = 0; i < 4; i++){
+        gout.open(prefix + "extra" + to_string(i) + ".txt"); //print extra graph to passed file name
+        GE[i].printGraph(gout);
+        gout.close();
+    }
+    for(int i = 0; i < 4; i++){
+        gout.open(prefix + "missed" + to_string(i) + ".txt"); //print missed graph to passed file name
+        GM[i].printGraph(gout);
+        gout.close();
+    }
 }
