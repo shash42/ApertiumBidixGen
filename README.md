@@ -2,6 +2,7 @@
 
 
 
+
 # ApertiumBidixGen
 
 ### Bilingual Dictionary Generation via Graph Exploration for Apertium.
@@ -17,6 +18,20 @@
 
 [Leveraging RDF Graphs for Crossing Multiple Bilingual Dictionaries](https://www.aclweb.org/anthology/L16-1140/) used for word-by-word sanity-checks and initial testing.
 <li>VisualAnalysisByCategory.ipynb - A Jupyter Notebook with analysis of experimental results at the end of Phase 1. In this experiment, 11 language pairs were procured, and each was removed and generated using the other 10 independently. Results were analyzed for different POS categories based on 2 metrics: Percentage of verifiably correct predictions from excluded data, Percentage of predictions as compared to excluded data. Quantiative results and Qualitative inferences are both presented.
+<li>DetailedVisualAnalysisbyCat.ipynb - A Jupyter Notebook which shows a better and finer analysis and visualization of results of the above experiment, by dividing errors into 4 categories based on the number of words (out of 2) of a translation found in data, both for precision and recall. This gives a much more realistic picture of the performance. Graphs have been plotted using plotly, so they will not be visible in GitHub previews. Instead, download the Jupyter Notebook using the following instructions:
+<details>
+	<summary> Instructions for viewing the notebook </summary>
+  <ol>
+	<li> Open the notebook in Github: https://github.com/shash42/ApertiumBidixGen/blob/master/DetailedVisualAnalysisbyCat.ipynb
+	<li> Click on Download in the top-right.
+	<li> Install plotly: (https://plotly.com/python/getting-started/#installation) :  pip install plotly==4.8.2
+	<li> Install numpy:  pip install numpy
+	<li> Install Jupyter Notebook: pip install "notebook>=5.3" "ipywidgets>=7.2"
+  <li> After that you can access the Jupyter Notebook as you would do normally on your system: <br>
+        Command to open jupyter through terminal: jupyter notebook <br>
+Jupyter notebook will open in your browser tab (or as configured otherwise) and then navigate to the location of the file downloaded from the first link-above and open it. Use Kernel -> Restart and Run All if the visualizations don't show up directly.
+  </ol>
+</details>
 </ul>
 This will be changing over time.
 
@@ -41,5 +56,4 @@ It might also be helpful to understand and internalize the concept of a [DFS-Tre
 
 #### Future Possibilities
 Using Linear Algebra to enumerate cycles, and perhaps exploit properties of Fundamental Cycles and Cycle Basis - [Introduction to the concept](https://www.codeproject.com/Articles/1158232/Enumerating-All-Cycles-in-an-Undirected-Graph). This can especially be useful to speed-up the computation of cycle-density for a given cycle.
-
 
