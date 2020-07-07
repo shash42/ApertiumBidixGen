@@ -1,0 +1,208 @@
+"cap de"-determiner-oc "ninguno"-determiner-es
+"ninguno"-determiner-es "cap de"-determiner-oc
+"conjuntamente"-adverb-es "conjonchament"-adverb-oc
+"conjonchament"-adverb-oc "conjuntamente"-adverb-es
+"rápidamente"-adverb-es "lèstament"-adverb-oc
+"lèstament"-adverb-oc "rápidamente"-adverb-es
+"lèstament"-adverb-oc "deprisa"-adverb-es
+"deprisa"-adverb-es "lèstament"-adverb-oc
+"puntualmente"-adverb-es "puntualament"-adverb-oc
+"puntualament"-adverb-oc "puntualmente"-adverb-es
+"sulcòp"-adverb-oc "inmediatamente"-adverb-es
+"sulcòp"-adverb-oc "de inmediato"-adverb-es
+"sulcòp"-adverb-oc "enseguida"-adverb-es
+"inmediatamente"-adverb-es "sulcòp"-adverb-oc
+"de inmediato"-adverb-es "sulcòp"-adverb-oc
+"enseguida"-adverb-es "sulcòp"-adverb-oc
+"nuevamente"-adverb-es "tornarmai"-adverb-oc
+"tornarmai"-adverb-oc "nuevamente"-adverb-es
+"aproximadamente"-adverb-es "a pauc près"-adverb-oc
+"a pauc près"-adverb-oc "aproximadamente"-adverb-es
+"cuál"-pronoun-es "quau"-pronoun-oc
+"quau"-pronoun-oc "cuál"-pronoun-es
+"que"-relativePronoun-es "qui"-pronoun-oc
+"qui"-pronoun-oc "que"-relativePronoun-es
+"el que"-relativePronoun-es "lo que"-noun-oc
+"el que"-relativePronoun-es "lo qui"-relativePronoun-oc
+"el que"-relativePronoun-es "lo qui"-noun-oc
+"el que"-relativePronoun-es "lo que"-relativePronoun-oc
+"el que"-relativePronoun-es "aquel qui"-relativePronoun-oc
+"el que"-relativePronoun-es "aquel qui"-noun-oc
+"el que"-relativePronoun-es "aquel que"-relativePronoun-oc
+"lo que"-noun-oc "el que"-relativePronoun-es
+"lo qui"-relativePronoun-oc "el que"-relativePronoun-es
+"lo qui"-noun-oc "el que"-relativePronoun-es
+"lo que"-relativePronoun-oc "el que"-relativePronoun-es
+"aquel qui"-relativePronoun-oc "el que"-relativePronoun-es
+"aquel qui"-noun-oc "el que"-relativePronoun-es
+"aquel que"-relativePronoun-oc "el que"-relativePronoun-es
+"aiceste"-pronoun-oc "éste"-pronoun-es
+"aiceste"-pronoun-oc "este"-pronoun-es
+"éste"-pronoun-es "aiceste"-pronoun-oc
+"este"-pronoun-es "aiceste"-pronoun-oc
+"por medio de"-preposition-es "pel mejan de"-preposition-oc
+"pel mejan de"-preposition-oc "por medio de"-preposition-es
+"debido a"-preposition-es "en rason de"-preposition-oc
+"en rason de"-preposition-oc "debido a"-preposition-es
+"lecariá"-noun-oc "golosina"-noun-es
+"golosina"-noun-es "lecariá"-noun-oc
+"còde"-noun-oc "código"-noun-es
+"código"-noun-es "còde"-noun-oc
+"hilo"-noun-es "fial"-noun-oc
+"fial"-noun-oc "hilo"-noun-es
+"teta"-noun-oc "mama"-noun-es
+"mama"-noun-es "teta"-noun-oc
+"reserva"-noun-es "reservacion"-noun-oc
+"reservacion"-noun-oc "reserva"-noun-es
+"abuelo"-noun-es "grand"-noun-oc
+"grand"-noun-oc "abuelo"-noun-es
+"nafra"-noun-oc "herida"-noun-es
+"herida"-noun-es "nafra"-noun-oc
+"camino"-noun-es "carral"-noun-oc
+"carral"-noun-oc "camino"-noun-es
+"carral"-noun-oc "vía"-noun-es
+"vía"-noun-es "carral"-noun-oc
+"banasta"-noun-oc "cesta"-noun-es
+"cesta"-noun-es "banasta"-noun-oc
+"cuerpo"-noun-es "còrs"-noun-oc
+"còrs"-noun-oc "cuerpo"-noun-es
+"cara"-noun-es "visatge"-noun-oc
+"visatge"-noun-oc "cara"-noun-es
+"visatge"-noun-oc "rostro"-noun-es
+"rostro"-noun-es "visatge"-noun-oc
+"comuna"-noun-oc "ayuntamiento"-noun-es
+"comuna"-noun-oc "alcaldía"-noun-es
+"ayuntamiento"-noun-es "comuna"-noun-oc
+"alcaldía"-noun-es "comuna"-noun-oc
+"placard"-noun-oc "cartel"-noun-es
+"cartel"-noun-es "placard"-noun-oc
+"manera"-noun-es "mòde"-noun-oc
+"mòde"-noun-oc "manera"-noun-es
+"grada"-noun-es "degrà"-noun-oc
+"degrà"-noun-oc "grada"-noun-es
+"sitio"-noun-es "endreit"-noun-oc
+"sitio"-noun-es "endrech"-noun-oc
+"endreit"-noun-oc "sitio"-noun-es
+"endrech"-noun-oc "sitio"-noun-es
+"tub"-noun-oc "tubo"-noun-es
+"tubo"-noun-es "tub"-noun-oc
+"costuma"-noun-oc "costumbre"-noun-es
+"costumbre"-noun-es "costuma"-noun-oc
+"gasolina"-noun-es "benzina"-noun-oc
+"benzina"-noun-oc "gasolina"-noun-es
+"jugo"-noun-es "suc"-noun-oc
+"suc"-noun-oc "jugo"-noun-es
+"suc"-noun-oc "zumo"-noun-es
+"zumo"-noun-es "suc"-noun-oc
+"duèl"-noun-oc "duelo"-noun-es
+"duelo"-noun-es "duèl"-noun-oc
+"quotidian"-noun-oc "diario"-noun-es
+"diario"-noun-es "quotidian"-noun-oc
+"disminución"-noun-es "diminucion"-noun-oc
+"diminucion"-noun-oc "disminución"-noun-es
+"ahorrar"-verb-es "estalviar"-verb-oc
+"estalviar"-verb-oc "ahorrar"-verb-es
+"confesar"-verb-es "confessar"-verb-oc
+"confessar"-verb-oc "confesar"-verb-es
+"induire"-verb-oc "inducir"-verb-es
+"inducir"-verb-es "induire"-verb-oc
+"resolver"-verb-es "resòlvre"-verb-oc
+"resòlvre"-verb-oc "resolver"-verb-es
+"resòlvre"-verb-oc "solventar"-verb-es
+"resòlvre"-verb-oc "solucionar"-verb-es
+"resòlvre"-verb-oc "zanjar"-verb-es
+"solventar"-verb-es "resòlvre"-verb-oc
+"solucionar"-verb-es "resòlvre"-verb-oc
+"zanjar"-verb-es "resòlvre"-verb-oc
+"brillante"-adjective-es "lusent"-adjective-oc
+"lusent"-adjective-oc "brillante"-adjective-es
+"deduire"-verb-oc "deducir"-verb-es
+"deducir"-verb-es "deduire"-verb-oc
+"provesir"-verb-oc "proveer"-verb-es
+"provesir"-verb-oc "pertrechar"-verb-es
+"proveer"-verb-es "provesir"-verb-oc
+"pertrechar"-verb-es "provesir"-verb-oc
+"idear"-verb-es "idear"-verb-oc
+"idear"-verb-oc "idear"-verb-es
+"completo"-adjective-es "complet"-adjective-oc
+"complet"-adjective-oc "completo"-adjective-es
+"ceñir"-verb-es "cénger"-verb-oc
+"cénger"-verb-oc "ceñir"-verb-es
+"quèrre"-verb-oc "buscar"-verb-es
+"buscar"-verb-es "quèrre"-verb-oc
+"tombar"-verb-oc "caer"-verb-es
+"caer"-verb-es "tombar"-verb-oc
+"pretendre"-verb-oc "pretender"-verb-es
+"pretender"-verb-es "pretendre"-verb-oc
+"crecer"-verb-es "créisser"-verb-oc
+"créisser"-verb-oc "crecer"-verb-es
+"intervenir"-verb-oc "mediar"-verb-es
+"mediar"-verb-es "intervenir"-verb-oc
+"reducir"-verb-es "reduire"-verb-oc
+"reduire"-verb-oc "reducir"-verb-es
+"favorizar"-verb-oc "favorecer"-verb-es
+"favorecer"-verb-es "favorizar"-verb-oc
+"reparar"-verb-es "reparar"-verb-oc
+"reparar"-verb-oc "reparar"-verb-es
+"comprometer"-verb-es "engatjar"-verb-oc
+"engatjar"-verb-oc "comprometer"-verb-es
+"diferente"-adjective-es "distint"-adjective-oc
+"distint"-adjective-oc "diferente"-adjective-es
+"pelenc"-noun-oc "césped"-noun-es
+"césped"-noun-es "pelenc"-noun-oc
+"nívol"-noun-oc "nube"-noun-es
+"nube"-noun-es "nívol"-noun-oc
+"Nòva York"-properNoun-oc "Nueva York"-properNoun-es
+"Nueva York"-properNoun-es "Nòva York"-properNoun-oc
+"Brussèlas"-properNoun-oc "Bruselas"-properNoun-es
+"Bruselas"-properNoun-es "Brussèlas"-properNoun-oc
+"Dublin"-properNoun-oc "Dublín"-properNoun-es
+"Dublín"-properNoun-es "Dublin"-properNoun-oc
+"Francfòrt"-properNoun-oc "Frankfurt"-properNoun-es
+"Frankfurt"-properNoun-es "Francfòrt"-properNoun-oc
+"Gibartar"-properNoun-oc "Gibraltar"-properNoun-es
+"Gibraltar"-properNoun-es "Gibartar"-properNoun-oc
+"Lisbona"-noun-oc "Lisboa"-properNoun-es
+"Lisboa"-properNoun-es "Lisbona"-noun-oc
+"Lisboa"-properNoun-es "Lisbona"-properNoun-oc
+"Lisbona"-properNoun-oc "Lisboa"-properNoun-es
+"Nòva Zelanda"-properNoun-oc "Nueva Zelanda"-properNoun-es
+"Nueva Zelanda"-properNoun-es "Nòva Zelanda"-properNoun-oc
+"Samoa"-properNoun-oc "Samoa"-properNoun-es
+"Samoa"-properNoun-es "Samoa"-properNoun-oc
+"Russia"-properNoun-oc "Rusia"-properNoun-es
+"Rusia"-properNoun-es "Russia"-properNoun-oc
+"Estrasburgo"-properNoun-es "Estrasborg"-properNoun-oc
+"Estrasborg"-properNoun-oc "Estrasburgo"-properNoun-es
+"Swaziland"-properNoun-oc "Suazilandia"-properNoun-es
+"Suazilandia"-properNoun-es "Swaziland"-properNoun-oc
+"Tatgiquistan"-properNoun-oc "Tayikistán"-properNoun-es
+"Tayikistán"-properNoun-es "Tatgiquistan"-properNoun-oc
+"Tonga"-properNoun-es "Tònga"-properNoun-oc
+"Tònga"-properNoun-oc "Tonga"-properNoun-es
+"Ozbequistan"-properNoun-oc "Uzbekistán"-properNoun-es
+"Uzbekistán"-properNoun-es "Ozbequistan"-properNoun-oc
+"Galas"-properNoun-oc "Gales"-properNoun-es
+"Gales"-properNoun-es "Galas"-properNoun-oc
+"Gales"-properNoun-es "País de Galas"-properNoun-oc
+"País de Galas"-properNoun-oc "Gales"-properNoun-es
+"Bucarèst"-properNoun-oc "Bucarest"-properNoun-es
+"Bucarest"-properNoun-es "Bucarèst"-properNoun-oc
+"Malhòrca"-properNoun-oc "Mallorca"-properNoun-es
+"Mallorca"-properNoun-es "Malhòrca"-properNoun-oc
+"Mediterranèa"-properNoun-oc "Mediterráneo"-properNoun-es
+"Mediterráneo"-properNoun-es "Mediterranèa"-properNoun-oc
+"Sevilha"-properNoun-oc "Sevilla"-properNoun-es
+"Sevilla"-properNoun-es "Sevilha"-properNoun-oc
+"Kurdistán"-properNoun-es "Curdistan"-properNoun-oc
+"Curdistan"-properNoun-oc "Kurdistán"-properNoun-es
+"adelgazar"-verb-es "magrir"-verb-oc
+"magrir"-verb-oc "adelgazar"-verb-es
+"mièlhs"-adverb-oc "mejor"-adverb-es
+"mejor"-adverb-es "mièlhs"-adverb-oc
+"Jerusalén"-properNoun-es "Jerusalèm"-properNoun-oc
+"Jerusalèm"-properNoun-oc "Jerusalén"-properNoun-es
+"Menòrca"-properNoun-oc "Menorca"-properNoun-es
+"Menorca"-properNoun-es "Menòrca"-properNoun-oc
+"Turcmenistan"-properNoun-oc "Turkmenistán"-properNoun-es
+"Turkmenistán"-properNoun-es "Turcmenistan"-properNoun-oc

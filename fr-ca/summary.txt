@@ -1,0 +1,27 @@
+Number of correct vertices (in P and O):10450
+Number of extra vertices (in P, not in O): 254
+Number of missed vertices (in O, not in P):150809
+Correct Graph (in P and O)
+Number of Vertices: 10084
+Number of Edges: 5525
+
+Classification Legend: 0 if no vertex in common, 1 if fr vertex in common, 2 ifca vertex in common, 3 if both vertices common
+
+Extra Graph (in P, not in O, classified by O)
+Number of Vertices in class0: 104
+Number of Edges in class0: 58
+Number of Vertices in class1: 193
+Number of Edges in class1: 131
+Number of Vertices in class2: 144
+Number of Edges in class2: 79
+Number of Vertices in class3: 1031
+Number of Edges in class3: 599
+Missed Graph (in O, not in P, classified by D)
+Number of Vertices in class0: 50026
+Number of Edges in class0: 37747
+Number of Vertices in class1: 62900
+Number of Edges in class1: 44678
+Number of Vertices in class2: 9306
+Number of Edges in class2: 4882
+Number of Vertices in class3: 54656
+Number of Edges in class3: 33898

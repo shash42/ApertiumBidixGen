@@ -1,0 +1,1386 @@
+"Hermes"-properNoun-fr "Hermes"-properNoun-es
+"Hermes"-properNoun-es "Hermes"-properNoun-fr
+"notification légale"-noun-fr "aviso legal"-noun-es
+"aviso legal"-noun-es "notification légale"-noun-fr
+"américain"-noun-fr "americano"-noun-es
+"americano"-noun-es "américain"-noun-fr
+"Isocrate"-properNoun-fr "Isócrates"-properNoun-es
+"Isócrates"-properNoun-es "Isocrate"-properNoun-fr
+"Aldecoa"-properNoun-fr "Aldecoa"-properNoun-es
+"Aldecoa"-properNoun-es "Aldecoa"-properNoun-fr
+"Oñati"-properNoun-fr "Oñati"-properNoun-es
+"Oñati"-properNoun-es "Oñati"-properNoun-fr
+"Bera"-properNoun-fr "Bera"-properNoun-es
+"Bera"-properNoun-es "Bera"-properNoun-fr
+"L'Hospitalet de Llobregat"-properNoun-fr "L'Hospitalet de Llobregat"-properNoun-es
+"L'Hospitalet de Llobregat"-properNoun-es "L'Hospitalet de Llobregat"-properNoun-fr
+"Sierra Morena"-properNoun-fr "Sierra Morena"-properNoun-es
+"Sierra Morena"-properNoun-es "Sierra Morena"-properNoun-fr
+"dès lors"-adverb-fr "desde entonces"-adverb-es
+"desde entonces"-adverb-es "dès lors"-adverb-fr
+"Banque Internationale pour la Reconstruction et le Développement"-properNoun-fr "Banco Internacional de Reconstrucción y Fomento"-properNoun-es
+"Banco Internacional de Reconstrucción y Fomento"-properNoun-es "Banque Internationale pour la Reconstruction et le Développement"-properNoun-fr
+"de guérilleros"-adjective-fr "guerrillero"-adjective-es
+"guerrillero"-adjective-es "de guérilleros"-adjective-fr
+"par ordre de"-preposition-fr "por orden de"-preposition-es
+"por orden de"-preposition-es "par ordre de"-preposition-fr
+"Urcabal"-properNoun-fr "Urcabal"-properNoun-es
+"Urcabal"-properNoun-es "Urcabal"-properNoun-fr
+"chorégraphier"-verb-fr "coreografiar"-verb-es
+"coreografiar"-verb-es "chorégraphier"-verb-fr
+"trámite"-noun-es "démarches"-noun-fr
+"démarches"-noun-fr "trámite"-noun-es
+"chalutier"-noun-fr "trainera"-noun-es
+"trainera"-noun-es "chalutier"-noun-fr
+"trainera"-noun-es "trainera"-noun-fr
+"trainera"-noun-fr "trainera"-noun-es
+"président du pays basque"-noun-fr "lehendakari"-noun-es
+"lehendakari"-noun-es "président du pays basque"-noun-fr
+"poner en marcha"-verb-es "mettre en oeuvre"-verb-fr
+"mettre en oeuvre"-verb-fr "poner en marcha"-verb-es
+"Getxo"-properNoun-fr "Getxo"-properNoun-es
+"Getxo"-properNoun-es "Getxo"-properNoun-fr
+"machines"-noun-fr "maquinaria"-noun-es
+"maquinaria"-noun-es "machines"-noun-fr
+"Ibex 35"-properNoun-fr "Ibex 35"-properNoun-es
+"Ibex 35"-properNoun-es "Ibex 35"-properNoun-fr
+"Aoiz"-properNoun-fr "Aoiz"-properNoun-es
+"Aoiz"-properNoun-es "Aoiz"-properNoun-fr
+"Zarautz"-properNoun-fr "Zarautz"-properNoun-es
+"Zarautz"-properNoun-es "Zarautz"-properNoun-fr
+"petite et moyenne entreprise"-noun-fr "pequeña y mediana empresa"-noun-es
+"pequeña y mediana empresa"-noun-es "petite et moyenne entreprise"-noun-fr
+"Rabanera"-properNoun-fr "Rabanera"-properNoun-es
+"Rabanera"-properNoun-es "Rabanera"-properNoun-fr
+"de mode"-adjective-fr "de moda"-adjective-es
+"de moda"-adjective-es "de mode"-adjective-fr
+"Burguete"-properNoun-fr "Burguete"-properNoun-es
+"Burguete"-properNoun-es "Burguete"-properNoun-fr
+"Unai"-properNoun-fr "Unai"-properNoun-es
+"Unai"-properNoun-es "Unai"-properNoun-fr
+"Alcorcón"-properNoun-fr "Alcorcón"-properNoun-es
+"Alcorcón"-properNoun-es "Alcorcón"-properNoun-fr
+"Communauté Economique Européenne"-properNoun-fr "Comunidad Económica Europea"-properNoun-es
+"Comunidad Económica Europea"-properNoun-es "Communauté Economique Européenne"-properNoun-fr
+"meubles"-noun-fr "mobiliario"-noun-es
+"mobiliario"-noun-es "meubles"-noun-fr
+"analgésique"-noun-fr "analgésico"-noun-es
+"analgésico"-noun-es "analgésique"-noun-fr
+"Bédier"-properNoun-fr "Bédier"-properNoun-es
+"Bédier"-properNoun-es "Bédier"-properNoun-fr
+"mise en oeuvre"-noun-fr "puesta en marcha"-noun-es
+"puesta en marcha"-noun-es "mise en oeuvre"-noun-fr
+"superviviente"-adjective-es "rescapé"-adjective-fr
+"rescapé"-adjective-fr "superviviente"-adjective-es
+"urgentemente"-adverb-es "urgemment"-adverb-fr
+"urgemment"-adverb-fr "urgentemente"-adverb-es
+"Getaria"-properNoun-fr "Getaria"-properNoun-es
+"Getaria"-properNoun-es "Getaria"-properNoun-fr
+"de droite"-noun-fr "derechista"-noun-es
+"derechista"-noun-es "de droite"-noun-fr
+"prestatario"-noun-es "prestataire"-noun-fr
+"prestataire"-noun-fr "prestatario"-noun-es
+"Van Gogh"-properNoun-fr "Van Gogh"-properNoun-es
+"Van Gogh"-properNoun-es "Van Gogh"-properNoun-fr
+"San"-properNoun-fr "San"-properNoun-es
+"San"-properNoun-es "San"-properNoun-fr
+"Localia"-properNoun-fr "Localia"-properNoun-es
+"Localia"-properNoun-es "Localia"-properNoun-fr
+"de la manche"-adjective-fr "manchego"-adjective-es
+"manchego"-adjective-es "de la manche"-adjective-fr
+"Leganés"-properNoun-fr "Leganés"-properNoun-es
+"Leganés"-properNoun-es "Leganés"-properNoun-fr
+"faire abstraction de"-verb-fr "prescindir de"-verb-es
+"prescindir de"-verb-es "faire abstraction de"-verb-fr
+"Hanoï"-properNoun-fr "Hanoi"-properNoun-es
+"Hanoi"-properNoun-es "Hanoï"-properNoun-fr
+"irakien"-noun-fr "iraquí"-noun-es
+"iraquí"-noun-es "irakien"-noun-fr
+"Gordexola"-properNoun-fr "Gordexola"-properNoun-es
+"Gordexola"-properNoun-es "Gordexola"-properNoun-fr
+"gobierno"-noun-es "gouv"-noun-fr
+"gouv"-noun-fr "gobierno"-noun-es
+"extinción"-noun-es "exctinction"-noun-fr
+"exctinction"-noun-fr "extinción"-noun-es
+"en connaissance de cause"-adverb-fr "con conocimiento de causa"-adverb-es
+"con conocimiento de causa"-adverb-es "en connaissance de cause"-adverb-fr
+"Alcobendas"-properNoun-fr "Alcobendas"-properNoun-es
+"Alcobendas"-properNoun-es "Alcobendas"-properNoun-fr
+"Accra"-properNoun-fr "Accra"-properNoun-es
+"Accra"-properNoun-es "Accra"-properNoun-fr
+"buteur"-adjective-fr "goleador"-adjective-es
+"goleador"-adjective-es "buteur"-adjective-fr
+"Carglass"-properNoun-fr "Carglass"-properNoun-es
+"Carglass"-properNoun-es "Carglass"-properNoun-fr
+"Etxarri"-properNoun-fr "Etxarri"-properNoun-es
+"Etxarri"-properNoun-es "Etxarri"-properNoun-fr
+"Brno"-properNoun-fr "Brno"-properNoun-es
+"Brno"-properNoun-es "Brno"-properNoun-fr
+"adentro"-adverb-es "à dedans"-adverb-fr
+"à dedans"-adverb-fr "adentro"-adverb-es
+"en conclusion"-adverb-fr "en conclusión"-adverb-es
+"en conclusión"-adverb-es "en conclusion"-adverb-fr
+"mauvais traitements"-noun-fr "maltrato"-noun-es
+"maltrato"-noun-es "mauvais traitements"-noun-fr
+"maltrato"-noun-es "mauvais traitement"-noun-fr
+"mauvais traitement"-noun-fr "maltrato"-noun-es
+"Al-Qaida"-properNoun-fr "Al Qaeda"-properNoun-es
+"Al Qaeda"-properNoun-es "Al-Qaida"-properNoun-fr
+"Belmopan"-properNoun-fr "Belmopán"-properNoun-es
+"Belmopán"-properNoun-es "Belmopan"-properNoun-fr
+"Île du Nord"-properNoun-fr "Isla Norte"-properNoun-es
+"Isla Norte"-properNoun-es "Île du Nord"-properNoun-fr
+"braderie"-noun-fr "mercadillo"-noun-es
+"mercadillo"-noun-es "braderie"-noun-fr
+"londonien"-noun-fr "londinense"-noun-es
+"londinense"-noun-es "londonien"-noun-fr
+"supporters"-noun-fr "afición"-noun-es
+"afición"-noun-es "supporters"-noun-fr
+"serrement"-noun-fr "apretón"-noun-es
+"apretón"-noun-es "serrement"-noun-fr
+"bonificación"-noun-es "allègement"-noun-fr
+"allègement"-noun-fr "bonificación"-noun-es
+"informations"-noun-fr "noticiero"-noun-es
+"noticiero"-noun-es "informations"-noun-fr
+"de commerce et de gestion"-adjective-fr "empresarial"-adjective-es
+"empresarial"-adjective-es "de commerce et de gestion"-adjective-fr
+"empresarial"-adjective-es "des entreprises"-adjective-fr
+"des entreprises"-adjective-fr "empresarial"-adjective-es
+"Arrecife"-properNoun-fr "Arrecife"-properNoun-es
+"Arrecife"-properNoun-es "Arrecife"-properNoun-fr
+"nº"-noun-fr "nº"-noun-es
+"nº"-noun-es "nº"-noun-fr
+"Villafranca"-properNoun-fr "Villafranca"-properNoun-es
+"Villafranca"-properNoun-es "Villafranca"-properNoun-fr
+"cerca"-adverb-es "à coté"-adverb-fr
+"à coté"-adverb-fr "cerca"-adverb-es
+"Johannesburg"-properNoun-fr "Johannesburgo"-properNoun-es
+"Johannesburgo"-properNoun-es "Johannesburg"-properNoun-fr
+"chahuteur"-noun-fr "alborotador"-noun-es
+"alborotador"-noun-es "chahuteur"-noun-fr
+"journal officiel de province"-noun-fr "BOP"-noun-es
+"BOP"-noun-es "journal officiel de province"-noun-fr
+"Abu Dhabi"-properNoun-fr "Abu Dabi"-properNoun-es
+"Abu Dabi"-properNoun-es "Abu Dhabi"-properNoun-fr
+"Dow Jones"-properNoun-fr "Dow Jones"-properNoun-es
+"Dow Jones"-properNoun-es "Dow Jones"-properNoun-fr
+"Agurain"-properNoun-fr "Agurain"-properNoun-es
+"Agurain"-properNoun-es "Agurain"-properNoun-fr
+"Burlada"-properNoun-fr "Burlada"-properNoun-es
+"Burlada"-properNoun-es "Burlada"-properNoun-fr
+"quoi qu'il arrive"-adverb-fr "pase lo que pase"-adverb-es
+"pase lo que pase"-adverb-es "quoi qu'il arrive"-adverb-fr
+"Îles Cook"-properNoun-fr "Islas Cook"-properNoun-es
+"Islas Cook"-properNoun-es "Îles Cook"-properNoun-fr
+"Vía de las dos Castillas"-properNoun-fr "Vía de las dos Castillas"-properNoun-es
+"Vía de las dos Castillas"-properNoun-es "Vía de las dos Castillas"-properNoun-fr
+"Abadiño"-properNoun-fr "Abadiño"-properNoun-es
+"Abadiño"-properNoun-es "Abadiño"-properNoun-fr
+"moteur de recherche"-noun-fr "motor de búsqueda"-noun-es
+"moteur de recherche"-noun-fr "buscador"-noun-es
+"motor de búsqueda"-noun-es "moteur de recherche"-noun-fr
+"buscador"-noun-es "moteur de recherche"-noun-fr
+"Gernika-Lumo"-properNoun-fr "Gernika-Lumo"-properNoun-es
+"Gernika-Lumo"-properNoun-es "Gernika-Lumo"-properNoun-fr
+"Málaga"-properNoun-fr "Málaga"-properNoun-es
+"Málaga"-properNoun-es "Málaga"-properNoun-fr
+"Igon"-properNoun-fr "Igon"-properNoun-es
+"Igon"-properNoun-es "Igon"-properNoun-fr
+"Calcutta"-properNoun-fr "Calcuta"-properNoun-es
+"Calcuta"-properNoun-es "Calcutta"-properNoun-fr
+"élections"-noun-fr "comicios"-noun-es
+"comicios"-noun-es "élections"-noun-fr
+"République Démocratique Allemande"-properNoun-fr "República Democrática Alemana"-properNoun-es
+"República Democrática Alemana"-properNoun-es "République Démocratique Allemande"-properNoun-fr
+"Eneko"-properNoun-fr "Eneko"-properNoun-es
+"Eneko"-properNoun-es "Eneko"-properNoun-fr
+"Pasquier"-properNoun-fr "Pasquier"-properNoun-es
+"Pasquier"-properNoun-es "Pasquier"-properNoun-fr
+"antépénultième"-adjective-fr "antepenúltimo"-adjective-es
+"antepenúltimo"-adjective-es "antépénultième"-adjective-fr
+"Araitz"-properNoun-fr "Araitz"-properNoun-es
+"Araitz"-properNoun-es "Araitz"-properNoun-fr
+"de lasarte"-adjective-fr "lasartearra"-adjective-es
+"lasartearra"-adjective-es "de lasarte"-adjective-fr
+"blanc-azur"-adjective-fr "albiceleste"-adjective-es
+"albiceleste"-adjective-es "blanc-azur"-adjective-fr
+"et encore"-adverb-fr "aun así"-adverb-es
+"aun así"-adverb-es "et encore"-adverb-fr
+"Asie Mineure"-properNoun-fr "Asia Menor"-properNoun-es
+"Asia Menor"-properNoun-es "Asie Mineure"-properNoun-fr
+"d'une communauté autonome"-adjective-fr "autonómico"-adjective-es
+"autonómico"-adjective-es "d'une communauté autonome"-adjective-fr
+"bavardage"-noun-fr "charla"-noun-es
+"charla"-noun-es "bavardage"-noun-fr
+"Abuja"-properNoun-fr "Abuya"-properNoun-es
+"Abuya"-properNoun-es "Abuja"-properNoun-fr
+"Ayerbe"-properNoun-fr "Ayerbe"-properNoun-es
+"Ayerbe"-properNoun-es "Ayerbe"-properNoun-fr
+"arrondisement"-noun-fr "distrito"-noun-es
+"distrito"-noun-es "arrondisement"-noun-fr
+"polygone industriel"-noun-fr "polígono industrial"-noun-es
+"polígono industrial"-noun-es "polygone industriel"-noun-fr
+"Guillaume Tell"-properNoun-fr "Guillermo Tell"-properNoun-es
+"Guillermo Tell"-properNoun-es "Guillaume Tell"-properNoun-fr
+"bon soir"-interjection-fr "buenas noches"-interjection-es
+"buenas noches"-interjection-es "bon soir"-interjection-fr
+"buenas noches"-interjection-es "bonne nuit"-interjection-fr
+"bonne nuit"-interjection-fr "buenas noches"-interjection-es
+"Daphné"-properNoun-fr "Dafne"-properNoun-es
+"Dafne"-properNoun-es "Daphné"-properNoun-fr
+"Almendralejo"-properNoun-fr "Almendralejo"-properNoun-es
+"Almendralejo"-properNoun-es "Almendralejo"-properNoun-fr
+"sin embargo"-adverb-es "pour autant"-adverb-fr
+"pour autant"-adverb-fr "sin embargo"-adverb-es
+"Villabona"-properNoun-fr "Villabona"-properNoun-es
+"Villabona"-properNoun-es "Villabona"-properNoun-fr
+"Altzaga"-properNoun-fr "Altzaga"-properNoun-es
+"Altzaga"-properNoun-es "Altzaga"-properNoun-fr
+"Teguise"-properNoun-fr "Teguise"-properNoun-es
+"Teguise"-properNoun-es "Teguise"-properNoun-fr
+"Muskiz"-properNoun-fr "Muskiz"-properNoun-es
+"Muskiz"-properNoun-es "Muskiz"-properNoun-fr
+"Arrasate"-properNoun-fr "Arrasate"-properNoun-es
+"Arrasate"-properNoun-es "Arrasate"-properNoun-fr
+"Lekeitio"-properNoun-fr "Lekeitio"-properNoun-es
+"Lekeitio"-properNoun-es "Lekeitio"-properNoun-fr
+"en todas partes"-adverb-es "partout dans le monde"-adverb-fr
+"partout dans le monde"-adverb-fr "en todas partes"-adverb-es
+"declaration"-noun-fr "declaración"-noun-es
+"declaración"-noun-es "declaration"-noun-fr
+"augmentation du capital"-noun-fr "ampliación de capital"-noun-es
+"ampliación de capital"-noun-es "augmentation du capital"-noun-fr
+"bulletin de livraison"-noun-fr "albarán"-noun-es
+"albarán"-noun-es "bulletin de livraison"-noun-fr
+"Isabelle Ire la Catholique"-properNoun-fr "Isabel I la Católica"-properNoun-es
+"Isabel I la Católica"-properNoun-es "Isabelle Ire la Catholique"-properNoun-fr
+"Ea"-properNoun-fr "Ea"-properNoun-es
+"Ea"-properNoun-es "Ea"-properNoun-fr
+"Antzuola"-properNoun-fr "Antzuola"-properNoun-es
+"Antzuola"-properNoun-es "Antzuola"-properNoun-fr
+"cuarto de baño"-noun-es "cabinet de toilette"-noun-fr
+"cabinet de toilette"-noun-fr "cuarto de baño"-noun-es
+"casbah"-noun-fr "alcazaba"-noun-es
+"alcazaba"-noun-es "casbah"-noun-fr
+"Ezkurra"-properNoun-fr "Ezkurra"-properNoun-es
+"Ezkurra"-properNoun-es "Ezkurra"-properNoun-fr
+"de crédit"-adjective-fr "crediticio"-adjective-es
+"crediticio"-adjective-es "de crédit"-adjective-fr
+"Outón"-properNoun-fr "Outón"-properNoun-es
+"Outón"-properNoun-es "Outón"-properNoun-fr
+"Ferrol"-properNoun-fr "Ferrol"-properNoun-es
+"Ferrol"-properNoun-es "Ferrol"-properNoun-fr
+"afghan"-noun-fr "afgano"-noun-es
+"afgano"-noun-es "afghan"-noun-fr
+"abertzale"-adjective-es "nationaliste basque radical"-adjective-fr
+"abertzale"-adjective-es "nationaliste basque radicale"-adjective-fr
+"nationaliste basque radical"-adjective-fr "abertzale"-adjective-es
+"nationaliste basque radicale"-adjective-fr "abertzale"-adjective-es
+"près"-preposition-fr "cerca de"-preposition-es
+"cerca de"-preposition-es "près"-preposition-fr
+"en cas d'émergence"-adverb-fr "en caso de emergencia"-adverb-es
+"en caso de emergencia"-adverb-es "en cas d'émergence"-adverb-fr
+"Carolines"-properNoun-fr "Carolinas"-properNoun-es
+"Carolinas"-properNoun-es "Carolines"-properNoun-fr
+"mer de Barents"-properNoun-fr "Mar de Barents"-properNoun-es
+"Mar de Barents"-properNoun-es "mer de Barents"-properNoun-fr
+"Indaux"-properNoun-fr "Indaux"-properNoun-es
+"Indaux"-properNoun-es "Indaux"-properNoun-fr
+"rancoeur"-noun-fr "rencor"-noun-es
+"rencor"-noun-es "rancoeur"-noun-fr
+"El Greco"-properNoun-fr "El Greco"-properNoun-es
+"El Greco"-properNoun-es "El Greco"-properNoun-fr
+"Abanto"-properNoun-fr "Abanto"-properNoun-es
+"Abanto"-properNoun-es "Abanto"-properNoun-fr
+"parisien"-noun-fr "parisiense"-noun-es
+"parisiense"-noun-es "parisien"-noun-fr
+"coup de fouet"-noun-fr "empujón"-noun-es
+"empujón"-noun-es "coup de fouet"-noun-fr
+"Guipuscoa"-properNoun-fr "Gipuzkoa"-properNoun-es
+"Gipuzkoa"-properNoun-es "Guipuscoa"-properNoun-fr
+"por la tarde"-adverb-es "au soir"-adverb-fr
+"au soir"-adverb-fr "por la tarde"-adverb-es
+"délai maximal"-noun-fr "plazo máximo"-noun-es
+"plazo máximo"-noun-es "délai maximal"-noun-fr
+"costumbre"-noun-es "moeurs"-noun-fr
+"moeurs"-noun-fr "costumbre"-noun-es
+"ponctuable"-adjective-fr "puntuable"-adjective-es
+"puntuable"-adjective-es "ponctuable"-adjective-fr
+"d’une façon surprenante"-adverb-fr "sorprendentemente"-adverb-es
+"sorprendentemente"-adverb-es "d’une façon surprenante"-adverb-fr
+"sorprendentemente"-adverb-es "surprenamment"-adverb-fr
+"surprenamment"-adverb-fr "sorprendentemente"-adverb-es
+"Guadiana"-properNoun-fr "Guadiana"-properNoun-es
+"Guadiana"-properNoun-es "Guadiana"-properNoun-fr
+"Tirán"-properNoun-fr "Tirán"-properNoun-es
+"Tirán"-properNoun-es "Tirán"-properNoun-fr
+"matraque"-noun-fr "porra"-noun-es
+"porra"-noun-es "matraque"-noun-fr
+"de façon exponentielle"-adverb-fr "exponencialmente"-adverb-es
+"exponencialmente"-adverb-es "de façon exponentielle"-adverb-fr
+"aphrodisiaque"-adjective-fr "afrodisíaco"-adjective-es
+"afrodisíaco"-adjective-es "aphrodisiaque"-adjective-fr
+"code à barres"-noun-fr "código de barras"-noun-es
+"código de barras"-noun-es "code à barres"-noun-fr
+"código de barras"-noun-es "code-barres"-noun-fr
+"code-barres"-noun-fr "código de barras"-noun-es
+"Club de rame de Zumaia"-properNoun-fr "Zumaiako Arraun Elkartea"-properNoun-es
+"Zumaiako Arraun Elkartea"-properNoun-es "Club de rame de Zumaia"-properNoun-fr
+"de Burgos"-adjective-fr "burgalés"-adjective-es
+"burgalés"-adjective-es "de Burgos"-adjective-fr
+"communicant"-noun-fr "comunicante"-noun-es
+"comunicante"-noun-es "communicant"-noun-fr
+"Alcampo"-properNoun-fr "Alcampo"-properNoun-es
+"Alcampo"-properNoun-es "Alcampo"-properNoun-fr
+"Itsasondo"-properNoun-fr "Itsasondo"-properNoun-es
+"Itsasondo"-properNoun-es "Itsasondo"-properNoun-fr
+"Augsburg"-properNoun-fr "Augsburgo"-properNoun-es
+"Augsburgo"-properNoun-es "Augsburg"-properNoun-fr
+"Antton"-properNoun-fr "Antton"-properNoun-es
+"Antton"-properNoun-es "Antton"-properNoun-fr
+"Îles Ioniennes"-properNoun-fr "Islas Jónicas"-properNoun-es
+"Islas Jónicas"-properNoun-es "Îles Ioniennes"-properNoun-fr
+"Arguedas"-properNoun-fr "Arguedas"-properNoun-es
+"Arguedas"-properNoun-es "Arguedas"-properNoun-fr
+"manoeuvre"-noun-fr "maniobra"-noun-es
+"maniobra"-noun-es "manoeuvre"-noun-fr
+"Renshaw"-properNoun-fr "Renshaw"-properNoun-es
+"Renshaw"-properNoun-es "Renshaw"-properNoun-fr
+"departamental"-adjective-es "départamentale"-adjective-fr
+"départamentale"-adjective-fr "departamental"-adjective-es
+"Diario Vasco"-properNoun-fr "Diario Vasco"-properNoun-es
+"Diario Vasco"-properNoun-es "Diario Vasco"-properNoun-fr
+"mettre les points sur les i"-verb-fr "poner los puntos sobre las íes"-verb-es
+"poner los puntos sobre las íes"-verb-es "mettre les points sur les i"-verb-fr
+"péruvien"-noun-fr "peruano"-noun-es
+"peruano"-noun-es "péruvien"-noun-fr
+"Apia"-properNoun-fr "Apia"-properNoun-es
+"Apia"-properNoun-es "Apia"-properNoun-fr
+"Aranjuez"-properNoun-fr "Aranjuez"-properNoun-es
+"Aranjuez"-properNoun-es "Aranjuez"-properNoun-fr
+"dépistage"-noun-fr "detección"-noun-es
+"detección"-noun-es "dépistage"-noun-fr
+"Ampudia"-properNoun-fr "Ampudia"-properNoun-es
+"Ampudia"-properNoun-es "Ampudia"-properNoun-fr
+"sans but lucratif"-adjective-fr "sin ánimo de lucro"-adjective-es
+"sin ánimo de lucro"-adjective-es "sans but lucratif"-adjective-fr
+"sin ánimo de lucro"-adjective-es "à but non lucratif"-adjective-fr
+"à but non lucratif"-adjective-fr "sin ánimo de lucro"-adjective-es
+"Îles sous le Vent"-properNoun-fr "Islas de Sotavento"-properNoun-es
+"Islas de Sotavento"-properNoun-es "Îles sous le Vent"-properNoun-fr
+"en conséquence"-adverb-fr "consecuentemente"-adverb-es
+"consecuentemente"-adverb-es "en conséquence"-adverb-fr
+"Alquézar"-properNoun-fr "Alquézar"-properNoun-es
+"Alquézar"-properNoun-es "Alquézar"-properNoun-fr
+"Marcial"-properNoun-fr "Marcial"-properNoun-es
+"Marcial"-properNoun-es "Marcial"-properNoun-fr
+"Agoitz"-properNoun-fr "Agoitz"-properNoun-es
+"Agoitz"-properNoun-es "Agoitz"-properNoun-fr
+"Confucius"-properNoun-fr "Confucio"-properNoun-es
+"Confucio"-properNoun-es "Confucius"-properNoun-fr
+"Moustapha"-properNoun-fr "Moustapha"-properNoun-es
+"Moustapha"-properNoun-es "Moustapha"-properNoun-fr
+"chilien"-noun-fr "chileno"-noun-es
+"chileno"-noun-es "chilien"-noun-fr
+"par cas"-adverb-fr "por casualidad"-adverb-es
+"por casualidad"-adverb-es "par cas"-adverb-fr
+"Sestao"-properNoun-fr "Sestao"-properNoun-es
+"Sestao"-properNoun-es "Sestao"-properNoun-fr
+"catering"-noun-fr "catering"-noun-es
+"catering"-noun-es "catering"-noun-fr
+"Euskadi Irratia"-properNoun-fr "Euskadi Irratia"-properNoun-es
+"Euskadi Irratia"-properNoun-es "Euskadi Irratia"-properNoun-fr
+"Ganymède"-properNoun-fr "Ganímedes"-properNoun-es
+"Ganímedes"-properNoun-es "Ganymède"-properNoun-fr
+"Elgoibar"-properNoun-fr "Elgoibar"-properNoun-es
+"Elgoibar"-properNoun-es "Elgoibar"-properNoun-fr
+"Koxtape"-properNoun-fr "Koxtape"-properNoun-es
+"Koxtape"-properNoun-es "Koxtape"-properNoun-fr
+"Ecolmare"-properNoun-fr "Ecolmare"-properNoun-es
+"Ecolmare"-properNoun-es "Ecolmare"-properNoun-fr
+"Cudeyo"-properNoun-fr "Cudeyo"-properNoun-es
+"Cudeyo"-properNoun-es "Cudeyo"-properNoun-fr
+"Îles de la Madeleine"-properNoun-fr "Islas de la Magdalena"-properNoun-es
+"Islas de la Magdalena"-properNoun-es "Îles de la Madeleine"-properNoun-fr
+"sablonneux"-adjective-fr "arenoso"-adjective-es
+"arenoso"-adjective-es "sablonneux"-adjective-fr
+"Adeje"-properNoun-fr "Adeje"-properNoun-es
+"Adeje"-properNoun-es "Adeje"-properNoun-fr
+"Guantánamo"-properNoun-es "Guantanamo"-properNoun-fr
+"Guantanamo"-properNoun-fr "Guantánamo"-properNoun-es
+"Servicristal"-properNoun-fr "Servicristal"-properNoun-es
+"Servicristal"-properNoun-es "Servicristal"-properNoun-fr
+"déclencheur"-noun-fr "desencadenante"-noun-es
+"desencadenante"-noun-es "déclencheur"-noun-fr
+"Goierri"-properNoun-fr "Goierri"-properNoun-es
+"Goierri"-properNoun-es "Goierri"-properNoun-fr
+"en l'occurence"-adverb-fr "en este caso"-adverb-es
+"en este caso"-adverb-es "en l'occurence"-adverb-fr
+"en este caso"-adverb-es "en l'occurrence"-adverb-fr
+"en l'occurrence"-adverb-fr "en este caso"-adverb-es
+"de pontevedra"-adjective-fr "pontevedrés"-adjective-es
+"pontevedrés"-adjective-es "de pontevedra"-adjective-fr
+"en tout temps"-adverb-fr "en cualquier momento"-adverb-es
+"en cualquier momento"-adverb-es "en tout temps"-adverb-fr
+"en cualquier momento"-adverb-es "à tout instant"-adverb-fr
+"en cualquier momento"-adverb-es "à tout moment"-adverb-fr
+"à tout instant"-adverb-fr "en cualquier momento"-adverb-es
+"à tout moment"-adverb-fr "en cualquier momento"-adverb-es
+"coup de pistolet"-noun-fr "pistoletazo"-noun-es
+"pistoletazo"-noun-es "coup de pistolet"-noun-fr
+"antidoping"-adjective-fr "antidoping"-adjective-es
+"antidoping"-adjective-es "antidoping"-adjective-fr
+"Arkote"-properNoun-fr "Arkote"-properNoun-es
+"Arkote"-properNoun-es "Arkote"-properNoun-fr
+"Palma de Majorque"-properNoun-fr "Palma de Mallorca"-properNoun-es
+"Palma de Mallorca"-properNoun-es "Palma de Majorque"-properNoun-fr
+"Zumarraga"-properNoun-fr "Zumarraga"-properNoun-es
+"Zumarraga"-properNoun-es "Zumarraga"-properNoun-fr
+"bien-fondé"-adjective-fr "pertinente"-adjective-es
+"pertinente"-adjective-es "bien-fondé"-adjective-fr
+"anti-émeute"-adjective-fr "antidisturbios"-adjective-es
+"antidisturbios"-adjective-es "anti-émeute"-adjective-fr
+"de cette manière"-adverb-fr "de este modo"-adverb-es
+"de este modo"-adverb-es "de cette manière"-adverb-fr
+"de este modo"-adverb-es "par ainsi"-adverb-fr
+"par ainsi"-adverb-fr "de este modo"-adverb-es
+"prendre position"-verb-fr "posicionar"-verb-es
+"posicionar"-verb-es "prendre position"-verb-fr
+"Leioa"-properNoun-fr "Leioa"-properNoun-es
+"Leioa"-properNoun-es "Leioa"-properNoun-fr
+"effet de levier"-noun-fr "apalancamiento"-noun-es
+"apalancamiento"-noun-es "effet de levier"-noun-fr
+"Mundaka"-properNoun-fr "Mundaka"-properNoun-es
+"Mundaka"-properNoun-es "Mundaka"-properNoun-fr
+"Amieva"-properNoun-fr "Amieva"-properNoun-es
+"Amieva"-properNoun-es "Amieva"-properNoun-fr
+"Joserra"-properNoun-fr "Joserra"-properNoun-es
+"Joserra"-properNoun-es "Joserra"-properNoun-fr
+"Ordizia"-properNoun-fr "Ordizia"-properNoun-es
+"Ordizia"-properNoun-es "Ordizia"-properNoun-fr
+"tout au plus"-adverb-fr "a lo sumo"-adverb-es
+"a lo sumo"-adverb-es "tout au plus"-adverb-fr
+"Mecque"-properNoun-fr "Meca"-properNoun-es
+"Meca"-properNoun-es "Mecque"-properNoun-fr
+"desequilibrado"-adjective-es "balourd"-adjective-fr
+"balourd"-adjective-fr "desequilibrado"-adjective-es
+"tellement"-adjective-fr "tanto"-adjective-es
+"tanto"-adjective-es "tellement"-adjective-fr
+"bataille d'Austerlitz"-properNoun-fr "batalla de Austerlitz"-properNoun-es
+"batalla de Austerlitz"-properNoun-es "bataille d'Austerlitz"-properNoun-fr
+"vente en gros"-noun-fr "venta al por mayor"-noun-es
+"venta al por mayor"-noun-es "vente en gros"-noun-fr
+"africain"-noun-fr "africano"-noun-es
+"africano"-noun-es "africain"-noun-fr
+"Pasai San Pedro"-properNoun-fr "Pasai San Pedro"-properNoun-es
+"Pasai San Pedro"-properNoun-es "Pasai San Pedro"-properNoun-fr
+"ex"-adjective-fr "ex"-adjective-es
+"ex"-adjective-es "ex"-adjective-fr
+"IRPP"-noun-fr "IRPF"-noun-es
+"IRPF"-noun-es "IRPP"-noun-fr
+"panne d'électricité"-noun-fr "apagón"-noun-es
+"apagón"-noun-es "panne d'électricité"-noun-fr
+"iranien"-noun-fr "iraní"-noun-es
+"iraní"-noun-es "iranien"-noun-fr
+"Elorrio"-properNoun-fr "Elorrio"-properNoun-es
+"Elorrio"-properNoun-es "Elorrio"-properNoun-fr
+"drapeau du Pays basque"-noun-fr "ikurriña"-noun-es
+"ikurriña"-noun-es "drapeau du Pays basque"-noun-fr
+"Artea"-properNoun-fr "Artea"-properNoun-es
+"Artea"-properNoun-es "Artea"-properNoun-fr
+"República Checa"-properNoun-es "Chequia"-properNoun-fr
+"Chequia"-properNoun-fr "República Checa"-properNoun-es
+"altocumulus"-noun-fr "altocúmulo"-noun-es
+"altocúmulo"-noun-es "altocumulus"-noun-fr
+"argentin"-noun-fr "argentino"-noun-es
+"argentino"-noun-es "argentin"-noun-fr
+"Carloman"-properNoun-fr "Carlomagno"-properNoun-es
+"Carlomagno"-properNoun-es "Carloman"-properNoun-fr
+"tourisme rural"-noun-fr "agroturismo"-noun-es
+"agroturismo"-noun-es "tourisme rural"-noun-fr
+"à dehors"-adverb-fr "fuera"-adverb-es
+"fuera"-adverb-es "à dehors"-adverb-fr
+"nigérien"-noun-fr "nigeriano"-noun-es
+"nigeriano"-noun-es "nigérien"-noun-fr
+"Sa Majesté la Reine"-noun-fr "Su Majestad la Reina"-noun-es
+"Su Majestad la Reina"-noun-es "Sa Majesté la Reine"-noun-fr
+"Athletic Club Bilbao"-properNoun-fr "Athletic Club Bilbao"-properNoun-es
+"Athletic Club Bilbao"-properNoun-es "Athletic Club Bilbao"-properNoun-fr
+"Benicasim"-properNoun-fr "Benicasim"-properNoun-es
+"Benicasim"-properNoun-es "Benicasim"-properNoun-fr
+"caractère privé"-noun-fr "privacidad"-noun-es
+"privacidad"-noun-es "caractère privé"-noun-fr
+"de toute façon"-adverb-fr "de todos modos"-adverb-es
+"de todos modos"-adverb-es "de toute façon"-adverb-fr
+"de droite"-adjective-fr "derechista"-adjective-es
+"derechista"-adjective-es "de droite"-adjective-fr
+"en externe"-adverb-fr "externamente"-adverb-es
+"externamente"-adverb-es "en externe"-adverb-fr
+"minuit"-adverb-fr "media noche"-adverb-es
+"media noche"-adverb-es "minuit"-adverb-fr
+"Tostartean"-properNoun-fr "Tostartean"-properNoun-es
+"Tostartean"-properNoun-es "Tostartean"-properNoun-fr
+"adaptación"-noun-es "remaniement"-noun-fr
+"remaniement"-noun-fr "adaptación"-noun-es
+"sèche-linge"-noun-fr "secadora"-noun-es
+"secadora"-noun-es "sèche-linge"-noun-fr
+"Supercopa"-properNoun-fr "Supercopa"-properNoun-es
+"Supercopa"-properNoun-es "Supercopa"-properNoun-fr
+"Sopelana"-properNoun-fr "Sopelana"-properNoun-es
+"Sopelana"-properNoun-es "Sopelana"-properNoun-fr
+"Euskal Herria"-properNoun-fr "Euskal Herria"-properNoun-es
+"Euskal Herria"-properNoun-es "Euskal Herria"-properNoun-fr
+"arme nucléaire"-noun-fr "arma nuclear"-noun-es
+"arma nuclear"-noun-es "arme nucléaire"-noun-fr
+"OPA"-noun-fr "OPA"-noun-es
+"OPA"-noun-es "OPA"-noun-fr
+"Andosilla"-properNoun-fr "Andosilla"-properNoun-es
+"Andosilla"-properNoun-es "Andosilla"-properNoun-fr
+"Lezama"-properNoun-fr "Lezama"-properNoun-es
+"Lezama"-properNoun-es "Lezama"-properNoun-fr
+"Arlanzón"-properNoun-fr "Arlanzón"-properNoun-es
+"Arlanzón"-properNoun-es "Arlanzón"-properNoun-fr
+"Jucar"-properNoun-fr "Júcar"-properNoun-es
+"Júcar"-properNoun-es "Jucar"-properNoun-fr
+"au lendemain"-adverb-fr "al día siguiente"-adverb-es
+"al día siguiente"-adverb-es "au lendemain"-adverb-fr
+"Etxarri-Aranatz"-properNoun-fr "Etxarri-Aranatz"-properNoun-es
+"Etxarri-Aranatz"-properNoun-es "Etxarri-Aranatz"-properNoun-fr
+"environnementalement"-adverb-fr "ambientalmente"-adverb-es
+"ambientalmente"-adverb-es "environnementalement"-adverb-fr
+"ortodoxe"-adjective-fr "ortodoxo"-adjective-es
+"ortodoxo"-adjective-es "ortodoxe"-adjective-fr
+"Andoain"-properNoun-fr "Andoain"-properNoun-es
+"Andoain"-properNoun-es "Andoain"-properNoun-fr
+"Alsasua"-properNoun-fr "Alsasua"-properNoun-es
+"Alsasua"-properNoun-es "Alsasua"-properNoun-fr
+"Vesuve"-properNoun-fr "Vesubio"-properNoun-es
+"Vesubio"-properNoun-es "Vesuve"-properNoun-fr
+"Sardinero"-properNoun-fr "Sardinero"-properNoun-es
+"Sardinero"-properNoun-es "Sardinero"-properNoun-fr
+"de son coté"-adverb-fr "por su parte"-adverb-es
+"por su parte"-adverb-es "de son coté"-adverb-fr
+"Alconchel"-properNoun-fr "Alconchel"-properNoun-es
+"Alconchel"-properNoun-es "Alconchel"-properNoun-fr
+"Mutriku"-properNoun-fr "Mutriku"-properNoun-es
+"Mutriku"-properNoun-es "Mutriku"-properNoun-fr
+"Hérode"-properNoun-fr "Herodes"-properNoun-es
+"Herodes"-properNoun-es "Hérode"-properNoun-fr
+"photo-dénonciation"-noun-fr "fotodenuncia"-noun-es
+"fotodenuncia"-noun-es "photo-dénonciation"-noun-fr
+"Douro"-properNoun-fr "Duero"-properNoun-es
+"Duero"-properNoun-es "Douro"-properNoun-fr
+"telefónico"-adjective-es "théléphonique"-adjective-fr
+"théléphonique"-adjective-fr "telefónico"-adjective-es
+"San Sebastián de la Gomera"-properNoun-fr "San Sebastián de la Gomera"-properNoun-es
+"San Sebastián de la Gomera"-properNoun-es "San Sebastián de la Gomera"-properNoun-fr
+"n'importe quoi"-pronoun-fr "cualquier cosa"-pronoun-es
+"cualquier cosa"-pronoun-es "n'importe quoi"-pronoun-fr
+"Adel"-properNoun-fr "Adel"-properNoun-es
+"Adel"-properNoun-es "Adel"-properNoun-fr
+"israélien"-noun-fr "israelí"-noun-es
+"israelí"-noun-es "israélien"-noun-fr
+"Îles du Vent"-properNoun-fr "Islas de Barlovento"-properNoun-es
+"Islas de Barlovento"-properNoun-es "Îles du Vent"-properNoun-fr
+"d'assistance"-adjective-fr "asistencial"-adjective-es
+"asistencial"-adjective-es "d'assistance"-adjective-fr
+"antisportif"-adjective-fr "antideportivo"-adjective-es
+"antideportivo"-adjective-es "antisportif"-adjective-fr
+"argumentaire"-noun-fr "argumentación"-noun-es
+"argumentación"-noun-es "argumentaire"-noun-fr
+"tau d'accidents"-noun-fr "siniestralidad"-noun-es
+"siniestralidad"-noun-es "tau d'accidents"-noun-fr
+"impôt sur le revenu"-noun-fr "impuesto sobre la renta"-noun-es
+"impuesto sobre la renta"-noun-es "impôt sur le revenu"-noun-fr
+"mener à terme"-verb-fr "llevar a cabo"-verb-es
+"llevar a cabo"-verb-es "mener à terme"-verb-fr
+"Basora"-properNoun-es "Bassora"-properNoun-fr
+"Bassora"-properNoun-fr "Basora"-properNoun-es
+"Alegia"-properNoun-fr "Alegia"-properNoun-es
+"Alegia"-properNoun-es "Alegia"-properNoun-fr
+"caisse de prévoyance"-noun-fr "fondo de previsión"-noun-es
+"fondo de previsión"-noun-es "caisse de prévoyance"-noun-fr
+"Euskal Telebista"-properNoun-fr "Euskal Telebista"-properNoun-es
+"Euskal Telebista"-properNoun-es "Euskal Telebista"-properNoun-fr
+"serieux"-adjective-fr "serio"-adjective-es
+"serio"-adjective-es "serieux"-adjective-fr
+"trasmission"-noun-fr "trasmisión"-noun-es
+"trasmisión"-noun-es "trasmission"-noun-fr
+"Lakuntza"-properNoun-fr "Lakuntza"-properNoun-es
+"Lakuntza"-properNoun-es "Lakuntza"-properNoun-fr
+"Aranguren"-properNoun-fr "Aranguren"-properNoun-es
+"Aranguren"-properNoun-es "Aranguren"-properNoun-fr
+"Vilnious"-properNoun-fr "Vilna"-properNoun-es
+"Vilna"-properNoun-es "Vilnious"-properNoun-fr
+"Vilna"-properNoun-es "Vilnius"-properNoun-fr
+"Vilnius"-properNoun-fr "Vilna"-properNoun-es
+"dans une certaine mesure"-adverb-fr "hasta cierto punto"-adverb-es
+"dans une certaine mesure"-adverb-fr "en cierta medida"-adverb-es
+"hasta cierto punto"-adverb-es "dans une certaine mesure"-adverb-fr
+"en cierta medida"-adverb-es "dans une certaine mesure"-adverb-fr
+"de façon inattendu"-adverb-fr "inesperadamente"-adverb-es
+"inesperadamente"-adverb-es "de façon inattendu"-adverb-fr
+"du procès"-adjective-fr "procesal"-adjective-es
+"procesal"-adjective-es "du procès"-adjective-fr
+"Royaume-Uni de Grande-Bretagne et d'Irlande du Nord"-properNoun-fr "Reino Unido de Gran Bretaña e Irlanda del Norte"-properNoun-es
+"Reino Unido de Gran Bretaña e Irlanda del Norte"-properNoun-es "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord"-properNoun-fr
+"Île aux Ours"-properNoun-fr "Isla de los Osos"-properNoun-es
+"Isla de los Osos"-properNoun-es "Île aux Ours"-properNoun-fr
+"kidnappeur"-noun-fr "secuestrador"-noun-es
+"secuestrador"-noun-es "kidnappeur"-noun-fr
+"Azpeitia"-properNoun-fr "Azpeitia"-properNoun-es
+"Azpeitia"-properNoun-es "Azpeitia"-properNoun-fr
+"escombro"-noun-es "gravats"-noun-fr
+"gravats"-noun-fr "escombro"-noun-es
+"Zumaia"-properNoun-fr "Zumaia"-properNoun-es
+"Zumaia"-properNoun-es "Zumaia"-properNoun-fr
+"Legutiano"-properNoun-fr "Legutiano"-properNoun-es
+"Legutiano"-properNoun-es "Legutiano"-properNoun-fr
+"cookie"-noun-fr "cookie"-noun-es
+"cookie"-noun-es "cookie"-noun-fr
+"de gré à gré"-adverb-fr "de mutuo acuerdo"-adverb-es
+"de mutuo acuerdo"-adverb-es "de gré à gré"-adverb-fr
+"de mutuo acuerdo"-adverb-es "d'un commun accord"-adverb-fr
+"d'un commun accord"-adverb-fr "de mutuo acuerdo"-adverb-es
+"Cancun"-properNoun-fr "Cancún"-properNoun-es
+"Cancún"-properNoun-es "Cancun"-properNoun-fr
+"Donibane"-properNoun-fr "Donibane"-properNoun-es
+"Donibane"-properNoun-es "Donibane"-properNoun-fr
+"philippin"-noun-fr "filipino"-noun-es
+"filipino"-noun-es "philippin"-noun-fr
+"Boiro"-properNoun-fr "Boiro"-properNoun-es
+"Boiro"-properNoun-es "Boiro"-properNoun-fr
+"conteneur à ordures"-noun-fr "contenedor de basura"-noun-es
+"contenedor de basura"-noun-es "conteneur à ordures"-noun-fr
+"caractère obligatoire"-noun-fr "obligatoriedad"-noun-es
+"obligatoriedad"-noun-es "caractère obligatoire"-noun-fr
+"Îles Malouines"-properNoun-fr "Islas Malvinas"-properNoun-es
+"Islas Malvinas"-properNoun-es "Îles Malouines"-properNoun-fr
+"arme chimique"-noun-fr "arma química"-noun-es
+"arma química"-noun-es "arme chimique"-noun-fr
+"Nouvelle-Sibérie"-properNoun-fr "Islas de Nueva Siberia"-properNoun-es
+"Islas de Nueva Siberia"-properNoun-es "Nouvelle-Sibérie"-properNoun-fr
+"Umpro"-properNoun-fr "Umpro"-properNoun-es
+"Umpro"-properNoun-es "Umpro"-properNoun-fr
+"déclaration d'inhabilité"-noun-fr "inhabilitación"-noun-es
+"inhabilitación"-noun-es "déclaration d'inhabilité"-noun-fr
+"Eibar"-properNoun-fr "Eibar"-properNoun-es
+"Eibar"-properNoun-es "Eibar"-properNoun-fr
+"Vilagarcía de Arousa"-properNoun-fr "Vilagarcía de Arousa"-properNoun-es
+"Vilagarcía de Arousa"-properNoun-es "Vilagarcía de Arousa"-properNoun-fr
+"police d'assurance"-noun-fr "póliza de seguros"-noun-es
+"póliza de seguros"-noun-es "police d'assurance"-noun-fr
+"Almuñécar"-properNoun-fr "Almuñécar"-properNoun-es
+"Almuñécar"-properNoun-es "Almuñécar"-properNoun-fr
+"perce"-noun-fr "taladro"-noun-es
+"taladro"-noun-es "perce"-noun-fr
+"mois courant"-noun-fr "corriente"-noun-es
+"corriente"-noun-es "mois courant"-noun-fr
+"Aralar"-properNoun-fr "Aralar"-properNoun-es
+"Aralar"-properNoun-es "Aralar"-properNoun-fr
+"marocain"-noun-fr "marroquí"-noun-es
+"marroquí"-noun-es "marocain"-noun-fr
+"faire de la publicité"-verb-fr "publicitar"-verb-es
+"publicitar"-verb-es "faire de la publicité"-verb-fr
+"cooperación"-noun-es "cooperation"-noun-fr
+"cooperation"-noun-fr "cooperación"-noun-es
+"Santurtzi"-properNoun-fr "Santurtzi"-properNoun-es
+"Santurtzi"-properNoun-es "Santurtzi"-properNoun-fr
+"Îles Mariannes du Nord"-properNoun-fr "Islas Marianas del Norte"-properNoun-es
+"Islas Marianas del Norte"-properNoun-es "Îles Mariannes du Nord"-properNoun-fr
+"boîte postale"-noun-fr "apartado de correos"-noun-es
+"apartado de correos"-noun-es "boîte postale"-noun-fr
+"Îles Britanniques"-properNoun-fr "Islas Británicas"-properNoun-es
+"Islas Británicas"-properNoun-es "Îles Britanniques"-properNoun-fr
+"Île du Sud"-properNoun-fr "Isla Sur"-properNoun-es
+"Isla Sur"-properNoun-es "Île du Sud"-properNoun-fr
+"Jean Cabot"-properNoun-fr "Juan Caboto"-properNoun-es
+"Juan Caboto"-properNoun-es "Jean Cabot"-properNoun-fr
+"joignable"-adjective-fr "disponible"-adjective-es
+"disponible"-adjective-es "joignable"-adjective-fr
+"Bakio"-properNoun-fr "Bakio"-properNoun-es
+"Bakio"-properNoun-es "Bakio"-properNoun-fr
+"en tout état de cause"-adverb-fr "de todas formas"-adverb-es
+"de todas formas"-adverb-es "en tout état de cause"-adverb-fr
+"de todas formas"-adverb-es "de toute manière"-adverb-fr
+"de toute manière"-adverb-fr "de todas formas"-adverb-es
+"Ondarroa"-properNoun-fr "Ondarroa"-properNoun-es
+"Ondarroa"-properNoun-es "Ondarroa"-properNoun-fr
+"Anoeta"-properNoun-fr "Anoeta"-properNoun-es
+"Anoeta"-properNoun-es "Anoeta"-properNoun-fr
+"Gouvernement Basque"-properNoun-fr "Eusko Jaurlaritza"-properNoun-es
+"Eusko Jaurlaritza"-properNoun-es "Gouvernement Basque"-properNoun-fr
+"Pléyades"-properNoun-fr "Pléyades"-properNoun-es
+"Pléyades"-properNoun-es "Pléyades"-properNoun-fr
+"à domicile"-adjective-fr "domiciliario"-adjective-es
+"domiciliario"-adjective-es "à domicile"-adjective-fr
+"Mondariz"-properNoun-fr "Mondariz"-properNoun-es
+"Mondariz"-properNoun-es "Mondariz"-properNoun-fr
+"Parana"-properNoun-fr "Paraná"-properNoun-es
+"Paraná"-properNoun-es "Parana"-properNoun-fr
+"Ibérie"-properNoun-fr "Iberia"-properNoun-es
+"Iberia"-properNoun-es "Ibérie"-properNoun-fr
+"Areso"-properNoun-fr "Areso"-properNoun-es
+"Areso"-properNoun-es "Areso"-properNoun-fr
+"condition d'utilisation"-noun-fr "condición de uso"-noun-es
+"condición de uso"-noun-es "condition d'utilisation"-noun-fr
+"Durango"-properNoun-fr "Durango"-properNoun-es
+"Durango"-properNoun-es "Durango"-properNoun-fr
+"refuser de"-verb-fr "negar a"-verb-es
+"negar a"-verb-es "refuser de"-verb-fr
+"foncer sur"-verb-fr "arremeter contra"-verb-es
+"arremeter contra"-verb-es "foncer sur"-verb-fr
+"Numancia"-properNoun-fr "Numancia"-properNoun-es
+"Numancia"-properNoun-es "Numancia"-properNoun-fr
+"Numancia"-properNoun-es "Numance"-properNoun-fr
+"Numance"-properNoun-fr "Numancia"-properNoun-es
+"Guinée-Équatorale"-properNoun-fr "Guinea Ecuatorial"-properNoun-es
+"Guinea Ecuatorial"-properNoun-es "Guinée-Équatorale"-properNoun-fr
+"Ortuella"-properNoun-fr "Ortuella"-properNoun-es
+"Ortuella"-properNoun-es "Ortuella"-properNoun-fr
+"sur la défensive"-adverb-fr "a la defensiva"-adverb-es
+"a la defensiva"-adverb-es "sur la défensive"-adverb-fr
+"témoin oculaire"-noun-fr "testigo presencial"-noun-es
+"testigo presencial"-noun-es "témoin oculaire"-noun-fr
+"de ténériffe"-adjective-fr "tinerfeño"-adjective-es
+"tinerfeño"-adjective-es "de ténériffe"-adjective-fr
+"décryptage"-noun-fr "descodificación"-noun-es
+"descodificación"-noun-es "décryptage"-noun-fr
+"chèque sans provision"-noun-fr "cheque sin fondos"-noun-es
+"cheque sin fondos"-noun-es "chèque sans provision"-noun-fr
+"Lezo"-properNoun-fr "Lezo"-properNoun-es
+"Lezo"-properNoun-es "Lezo"-properNoun-fr
+"coté"-noun-fr "lado"-noun-es
+"lado"-noun-es "coté"-noun-fr
+"Benoît XVI"-properNoun-fr "Benedicto XVI"-properNoun-es
+"Benedicto XVI"-properNoun-es "Benoît XVI"-properNoun-fr
+"Basauri"-properNoun-fr "Basauri"-properNoun-es
+"Basauri"-properNoun-es "Basauri"-properNoun-fr
+"aggloméré"-noun-fr "aglomerado"-noun-es
+"aglomerado"-noun-es "aggloméré"-noun-fr
+"Euskolabel"-properNoun-fr "Euskolabel"-properNoun-es
+"Euskolabel"-properNoun-es "Euskolabel"-properNoun-fr
+"pakistanais"-noun-fr "paquistaní"-noun-es
+"paquistaní"-noun-es "pakistanais"-noun-fr
+"Amezketa"-properNoun-fr "Amezketa"-properNoun-es
+"Amezketa"-properNoun-es "Amezketa"-properNoun-fr
+"Îles Moluques"-properNoun-fr "Islas Molucas"-properNoun-es
+"Islas Molucas"-properNoun-es "Îles Moluques"-properNoun-fr
+"Urnieta"-properNoun-fr "Urnieta"-properNoun-es
+"Urnieta"-properNoun-es "Urnieta"-properNoun-fr
+"Mungia"-properNoun-fr "Mungia"-properNoun-es
+"Mungia"-properNoun-es "Mungia"-properNoun-fr
+"Sao Tomé"-properNoun-fr "Santo Tomé"-properNoun-es
+"Santo Tomé"-properNoun-es "Sao Tomé"-properNoun-fr
+"Nabuchodonosor"-properNoun-fr "Nabucodonosor"-properNoun-es
+"Nabucodonosor"-properNoun-es "Nabuchodonosor"-properNoun-fr
+"Euskotren"-properNoun-fr "Euskotren"-properNoun-es
+"Euskotren"-properNoun-es "Euskotren"-properNoun-fr
+"Basagoiti"-properNoun-fr "Basagoiti"-properNoun-es
+"Basagoiti"-properNoun-es "Basagoiti"-properNoun-fr
+"palestinien"-noun-fr "palestino"-noun-es
+"palestino"-noun-es "palestinien"-noun-fr
+"Algorri"-properNoun-fr "Algorri"-properNoun-es
+"Algorri"-properNoun-es "Algorri"-properNoun-fr
+"Leitza"-properNoun-fr "Leitza"-properNoun-es
+"Leitza"-properNoun-es "Leitza"-properNoun-fr
+"milliers"-noun-fr "miles"-noun-es
+"miles"-noun-es "milliers"-noun-fr
+"Pyongyang"-properNoun-fr "Pyongyang"-properNoun-es
+"Pyongyang"-properNoun-es "Pyongyang"-properNoun-fr
+"top"-adjective-fr "top"-adjective-es
+"top"-adjective-es "top"-adjective-fr
+"Abárzuza"-properNoun-fr "Abárzuza"-properNoun-es
+"Abárzuza"-properNoun-es "Abárzuza"-properNoun-fr
+"aiglon"-noun-fr "aguilucho"-noun-es
+"aguilucho"-noun-es "aiglon"-noun-fr
+"Usabiaga"-properNoun-fr "Usabiaga"-properNoun-es
+"Usabiaga"-properNoun-es "Usabiaga"-properNoun-fr
+"CCOO"-noun-fr "CCOO"-noun-es
+"CCOO"-noun-es "CCOO"-noun-fr
+"Guarnizo"-properNoun-fr "Guarnizo"-properNoun-es
+"Guarnizo"-properNoun-es "Guarnizo"-properNoun-fr
+"Parti nationaliste basque"-noun-fr "PNV"-noun-es
+"PNV"-noun-es "Parti nationaliste basque"-noun-fr
+"garde civile"-noun-fr "guardia civil"-noun-es
+"guardia civil"-noun-es "garde civile"-noun-fr
+"llanto"-noun-es "pleurs"-noun-fr
+"pleurs"-noun-fr "llanto"-noun-es
+"Ereaga"-properNoun-fr "Ereaga"-properNoun-es
+"Ereaga"-properNoun-es "Ereaga"-properNoun-fr
+"Estella"-properNoun-fr "Estella"-properNoun-es
+"Estella"-properNoun-es "Estella"-properNoun-fr
+"arme biologique"-noun-fr "arma biológica"-noun-es
+"arma biológica"-noun-es "arme biologique"-noun-fr
+"Rousillon"-properNoun-fr "Rosellón"-properNoun-es
+"Rosellón"-properNoun-es "Rousillon"-properNoun-fr
+"retratar"-verb-es "portraiturer"-verb-fr
+"portraiturer"-verb-fr "retratar"-verb-es
+"virevoltant"-adjective-fr "revoltoso"-adjective-es
+"revoltoso"-adjective-es "virevoltant"-adjective-fr
+"Hondarribia"-properNoun-fr "Hondarribia"-properNoun-es
+"Hondarribia"-properNoun-es "Hondarribia"-properNoun-fr
+"auteur-compositeur-interprète"-noun-fr "cantautor"-noun-es
+"cantautor"-noun-es "auteur-compositeur-interprète"-noun-fr
+"Mutiloa"-properNoun-fr "Mutiloa"-properNoun-es
+"Mutiloa"-properNoun-es "Mutiloa"-properNoun-fr
+"Zeberio"-properNoun-fr "Zeberio"-properNoun-es
+"Zeberio"-properNoun-es "Zeberio"-properNoun-fr
+"indien"-noun-fr "indio"-noun-es
+"indio"-noun-es "indien"-noun-fr
+"Îles Baléares"-properNoun-fr "Islas Baleares"-properNoun-es
+"Islas Baleares"-properNoun-es "Îles Baléares"-properNoun-fr
+"banc de données"-noun-fr "banco de datos"-noun-es
+"banco de datos"-noun-es "banc de données"-noun-fr
+"Asmara"-properNoun-fr "Asmara"-properNoun-es
+"Asmara"-properNoun-es "Asmara"-properNoun-fr
+"Grafilur"-properNoun-fr "Grafilur"-properNoun-es
+"Grafilur"-properNoun-es "Grafilur"-properNoun-fr
+"antiradar"-adjective-fr "antirradar"-adjective-es
+"antirradar"-adjective-es "antiradar"-adjective-fr
+"Plentzia"-properNoun-fr "Plentzia"-properNoun-es
+"Plentzia"-properNoun-es "Plentzia"-properNoun-fr
+"Larraun"-properNoun-fr "Larraun"-properNoun-es
+"Larraun"-properNoun-es "Larraun"-properNoun-fr
+"Ogrove"-properNoun-fr "Ogrove"-properNoun-es
+"Ogrove"-properNoun-es "Ogrove"-properNoun-fr
+"produit intérieur brut"-noun-fr "producto interior bruto"-noun-es
+"producto interior bruto"-noun-es "produit intérieur brut"-noun-fr
+"Luesma"-properNoun-fr "Luesma"-properNoun-es
+"Luesma"-properNoun-es "Luesma"-properNoun-fr
+"Amoroto"-properNoun-fr "Amoroto"-properNoun-es
+"Amoroto"-properNoun-es "Amoroto"-properNoun-fr
+"Maccabi"-properNoun-fr "Maccabi"-properNoun-es
+"Maccabi"-properNoun-es "Maccabi"-properNoun-fr
+"n"-noun-fr "n"-noun-es
+"n"-noun-es "n"-noun-fr
+"Abaltzisketa"-properNoun-fr "Abaltzisketa"-properNoun-es
+"Abaltzisketa"-properNoun-es "Abaltzisketa"-properNoun-fr
+"détroit de Gibraltar"-properNoun-fr "estrecho de Gibraltar"-properNoun-es
+"estrecho de Gibraltar"-properNoun-es "détroit de Gibraltar"-properNoun-fr
+"Kursaal"-properNoun-fr "Kursaal"-properNoun-es
+"Kursaal"-properNoun-es "Kursaal"-properNoun-fr
+"Alonsotegi"-properNoun-fr "Alonsotegi"-properNoun-es
+"Alonsotegi"-properNoun-es "Alonsotegi"-properNoun-fr
+"Saint-Pierre et Miquelon"-properNoun-fr "San Pedro y Miquelón"-properNoun-es
+"San Pedro y Miquelón"-properNoun-es "Saint-Pierre et Miquelon"-properNoun-fr
+"Fuenlabrada"-properNoun-fr "Fuenlabrada"-properNoun-es
+"Fuenlabrada"-properNoun-es "Fuenlabrada"-properNoun-fr
+"embarcadère"-noun-fr "embarcadero"-noun-es
+"embarcadero"-noun-es "embarcadère"-noun-fr
+"ministère public"-noun-fr "fiscalía"-noun-es
+"fiscalía"-noun-es "ministère public"-noun-fr
+"Lazkao"-properNoun-fr "Lazkao"-properNoun-es
+"Lazkao"-properNoun-es "Lazkao"-properNoun-fr
+"Antioquia"-properNoun-fr "Antioquia"-properNoun-es
+"Antioquia"-properNoun-fr "Antioquía"-properNoun-es
+"Antioquia"-properNoun-es "Antioquia"-properNoun-fr
+"Antioquía"-properNoun-es "Antioquia"-properNoun-fr
+"prier de"-verb-fr "rogar"-verb-es
+"rogar"-verb-es "prier de"-verb-fr
+"Barbanza"-properNoun-fr "Barbanza"-properNoun-es
+"Barbanza"-properNoun-es "Barbanza"-properNoun-fr
+"marché des valeurs"-noun-fr "mercado de valores"-noun-es
+"mercado de valores"-noun-es "marché des valeurs"-noun-fr
+"remontants à"-preposition-fr "provenientes de"-preposition-es
+"provenientes de"-preposition-es "remontants à"-preposition-fr
+"Pedreña"-properNoun-fr "Pedreña"-properNoun-es
+"Pedreña"-properNoun-es "Pedreña"-properNoun-fr
+"Kuwait"-properNoun-fr "Kuwait"-properNoun-es
+"Kuwait"-properNoun-es "Kuwait"-properNoun-fr
+"califonien"-adjective-fr "californiano"-adjective-es
+"californiano"-adjective-es "califonien"-adjective-fr
+"SPIUK"-noun-fr "SPIUK"-noun-es
+"SPIUK"-noun-es "SPIUK"-noun-fr
+"de conseil"-adjective-fr "asesor"-adjective-es
+"asesor"-adjective-es "de conseil"-adjective-fr
+"Cabo da Cruz"-properNoun-fr "Cabo da Cruz"-properNoun-es
+"Cabo da Cruz"-properNoun-es "Cabo da Cruz"-properNoun-fr
+"Électre"-properNoun-fr "Electra"-properNoun-es
+"Electra"-properNoun-es "Électre"-properNoun-fr
+"achat au comptant"-noun-fr "compra al contado"-noun-es
+"compra al contado"-noun-es "achat au comptant"-noun-fr
+"maison de disques"-noun-fr "discográfica"-noun-es
+"discográfica"-noun-es "maison de disques"-noun-fr
+"une bonne fois pour toutes"-adverb-fr "de una vez por todas"-adverb-es
+"de una vez por todas"-adverb-es "une bonne fois pour toutes"-adverb-fr
+"mettre en boule"-verb-fr "apelotonar"-verb-es
+"apelotonar"-verb-es "mettre en boule"-verb-fr
+"élégamment"-adverb-fr "airosamente"-adverb-es
+"airosamente"-adverb-es "élégamment"-adverb-fr
+"Tosar"-properNoun-fr "Tosar"-properNoun-es
+"Tosar"-properNoun-es "Tosar"-properNoun-fr
+"Aenor"-properNoun-fr "Aenor"-properNoun-es
+"Aenor"-properNoun-es "Aenor"-properNoun-fr
+"Beasain"-properNoun-fr "Beasain"-properNoun-es
+"Beasain"-properNoun-es "Beasain"-properNoun-fr
+"Îles Mariannes"-properNoun-fr "Islas Marianas"-properNoun-es
+"Islas Marianas"-properNoun-es "Îles Mariannes"-properNoun-fr
+"Gernika"-properNoun-fr "Gernika"-properNoun-es
+"Gernika"-properNoun-es "Gernika"-properNoun-fr
+"encriptación"-noun-es "cryptage"-noun-fr
+"cryptage"-noun-fr "encriptación"-noun-es
+"f"-noun-fr "f"-noun-es
+"f"-noun-es "f"-noun-fr
+"Arakil"-properNoun-fr "Arakil"-properNoun-es
+"Arakil"-properNoun-es "Arakil"-properNoun-fr
+"Orio"-properNoun-fr "Orio"-properNoun-es
+"Orio"-properNoun-es "Orio"-properNoun-fr
+"accord de principe"-noun-fr "preacuerdo"-noun-es
+"preacuerdo"-noun-es "accord de principe"-noun-fr
+"y avoir"-verb-fr "hay"-verb-es
+"hay"-verb-es "y avoir"-verb-fr
+"République Centrafricaine"-properNoun-fr "República Centroafricana"-properNoun-es
+"República Centroafricana"-properNoun-es "République Centrafricaine"-properNoun-fr
+"payer en espèces"-verb-fr "pagar en metálico"-verb-es
+"pagar en metálico"-verb-es "payer en espèces"-verb-fr
+"pagar en metálico"-verb-es "payer en liquide"-verb-fr
+"payer en liquide"-verb-fr "pagar en metálico"-verb-es
+"Guadalquivir"-properNoun-fr "Guadalquivir"-properNoun-es
+"Guadalquivir"-properNoun-es "Guadalquivir"-properNoun-fr
+"Urdiales"-properNoun-fr "Urdiales"-properNoun-es
+"Urdiales"-properNoun-es "Urdiales"-properNoun-fr
+"alunissage"-noun-fr "alunizaje"-noun-es
+"alunizaje"-noun-es "alunissage"-noun-fr
+"Pasaia"-properNoun-fr "Pasaia"-properNoun-es
+"Pasaia"-properNoun-es "Pasaia"-properNoun-fr
+"Traité établissant une Constitution pour l'Europe"-properNoun-fr "Tratado por el que se establece una constitución para Europa"-properNoun-es
+"Tratado por el que se establece una constitución para Europa"-properNoun-es "Traité établissant une Constitution pour l'Europe"-properNoun-fr
+"Alcalá de Henares"-properNoun-fr "Alcalá de Henares"-properNoun-es
+"Alcalá de Henares"-properNoun-es "Alcalá de Henares"-properNoun-fr
+"Minho"-properNoun-fr "Miño"-properNoun-es
+"Miño"-properNoun-es "Minho"-properNoun-fr
+"et caetera"-noun-fr "etcétera"-noun-es
+"etcétera"-noun-es "et caetera"-noun-fr
+"etcétera"-noun-es "et cetera"-noun-fr
+"et cetera"-noun-fr "etcétera"-noun-es
+"baisse du prix"-noun-fr "abaratamiento"-noun-es
+"abaratamiento"-noun-es "baisse du prix"-noun-fr
+"Îles Galapagos"-properNoun-fr "Galápagos"-properNoun-es
+"Galápagos"-properNoun-es "Îles Galapagos"-properNoun-fr
+"soixante-onze"-numeral-fr "setenta y uno"-numeral-es
+"setenta y uno"-numeral-es "soixante-onze"-numeral-fr
+"Berango"-properNoun-fr "Berango"-properNoun-es
+"Berango"-properNoun-es "Berango"-properNoun-fr
+"prévente"-noun-fr "preventa"-noun-es
+"preventa"-noun-es "prévente"-noun-fr
+"Santoña"-properNoun-fr "Santoña"-properNoun-es
+"Santoña"-properNoun-es "Santoña"-properNoun-fr
+"Aller"-properNoun-fr "Aller"-properNoun-es
+"Aller"-properNoun-es "Aller"-properNoun-fr
+"Aribe"-properNoun-fr "Aribe"-properNoun-es
+"Aribe"-properNoun-es "Aribe"-properNoun-fr
+"Samertolameu"-properNoun-fr "Samertolameu"-properNoun-es
+"Samertolameu"-properNoun-es "Samertolameu"-properNoun-fr
+"maure"-noun-fr "moro"-noun-es
+"moro"-noun-es "maure"-noun-fr
+"utilisabilité"-noun-fr "usabilidad"-noun-es
+"usabilidad"-noun-es "utilisabilité"-noun-fr
+"faire remarquer"-verb-fr "hacer constar"-verb-es
+"hacer constar"-verb-es "faire remarquer"-verb-fr
+"pénale"-adjective-fr "de lo penal"-adjective-es
+"de lo penal"-adjective-es "pénale"-adjective-fr
+"Lagun Aro"-properNoun-fr "Lagun Aro"-properNoun-es
+"Lagun Aro"-properNoun-es "Lagun Aro"-properNoun-fr
+"Aretxabaleta"-properNoun-fr "Aretxabaleta"-properNoun-es
+"Aretxabaleta"-properNoun-es "Aretxabaleta"-properNoun-fr
+"Banque Mondiale"-properNoun-fr "Banco Mundial"-properNoun-es
+"Banco Mundial"-properNoun-es "Banque Mondiale"-properNoun-fr
+"Lépante"-properNoun-fr "Lepanto"-properNoun-es
+"Lepanto"-properNoun-es "Lépante"-properNoun-fr
+"Gorliz"-properNoun-fr "Gorliz"-properNoun-es
+"Gorliz"-properNoun-es "Gorliz"-properNoun-fr
+"de manière satisfaisante"-adverb-fr "satisfactoriamente"-adverb-es
+"satisfactoriamente"-adverb-es "de manière satisfaisante"-adverb-fr
+"ré"-noun-fr "re"-noun-es
+"re"-noun-es "ré"-noun-fr
+"VeriSign"-properNoun-fr "VeriSign"-properNoun-es
+"VeriSign"-properNoun-es "VeriSign"-properNoun-fr
+"Puerto del Rosario"-properNoun-fr "Puerto del Rosario"-properNoun-es
+"Puerto del Rosario"-properNoun-es "Puerto del Rosario"-properNoun-fr
+"après tout"-adverb-fr "después de todo"-adverb-es
+"después de todo"-adverb-es "après tout"-adverb-fr
+"Ansó"-properNoun-fr "Ansó"-properNoun-es
+"Ansó"-properNoun-es "Ansó"-properNoun-fr
+"vénézuélien"-noun-fr "venezolano"-noun-es
+"venezolano"-noun-es "vénézuélien"-noun-fr
+"cocktail molotov"-noun-fr "cóctel molotov"-noun-es
+"cóctel molotov"-noun-es "cocktail molotov"-noun-fr
+"vente ambulante"-noun-fr "venta callejera"-noun-es
+"venta callejera"-noun-es "vente ambulante"-noun-fr
+"Unanue"-properNoun-fr "Unanue"-properNoun-es
+"Unanue"-properNoun-es "Unanue"-properNoun-fr
+"Kortezubi"-properNoun-fr "Kortezubi"-properNoun-es
+"Kortezubi"-properNoun-es "Kortezubi"-properNoun-fr
+"Saint Thomas d'Aquin"-properNoun-fr "Santo Tomás de Aquino"-properNoun-es
+"Santo Tomás de Aquino"-properNoun-es "Saint Thomas d'Aquin"-properNoun-fr
+"syrien"-noun-fr "sirio"-noun-es
+"sirio"-noun-es "syrien"-noun-fr
+"neige fondue"-noun-fr "aguanieve"-noun-es
+"aguanieve"-noun-es "neige fondue"-noun-fr
+"de castro"-adjective-fr "castreño"-adjective-es
+"castreño"-adjective-es "de castro"-adjective-fr
+"Otxandio"-properNoun-fr "Otxandio"-properNoun-es
+"Otxandio"-properNoun-es "Otxandio"-properNoun-fr
+"Albuñol"-properNoun-fr "Albuñol"-properNoun-es
+"Albuñol"-properNoun-es "Albuñol"-properNoun-fr
+"inscrire au procès-verbal"-verb-fr "constar en acta"-verb-es
+"constar en acta"-verb-es "inscrire au procès-verbal"-verb-fr
+"mexicain"-noun-fr "mejicano"-noun-es
+"mejicano"-noun-es "mexicain"-noun-fr
+"Arrigorriaga"-properNoun-fr "Arrigorriaga"-properNoun-es
+"Arrigorriaga"-properNoun-es "Arrigorriaga"-properNoun-fr
+"Gemeaux"-properNoun-fr "Géminis"-properNoun-es
+"Géminis"-properNoun-es "Gemeaux"-properNoun-fr
+"largometraje"-noun-es "long métrage"-noun-fr
+"long métrage"-noun-fr "largometraje"-noun-es
+"à tempérement"-adverb-fr "a plazos"-adverb-es
+"a plazos"-adverb-es "à tempérement"-adverb-fr
+"a plazos"-adverb-es "à tempérament"-adverb-fr
+"a plazos"-adverb-es "à terme"-adverb-fr
+"à tempérament"-adverb-fr "a plazos"-adverb-es
+"à terme"-adverb-fr "a plazos"-adverb-es
+"CO2"-noun-fr "CO2"-noun-es
+"CO2"-noun-es "CO2"-noun-fr
+"Algorta"-properNoun-fr "Algorta"-properNoun-es
+"Algorta"-properNoun-es "Algorta"-properNoun-fr
+"égouts"-noun-fr "alcantarillado"-noun-es
+"alcantarillado"-noun-es "égouts"-noun-fr
+"sur douze mois"-adjective-fr "interanual"-adjective-es
+"interanual"-adjective-es "sur douze mois"-adjective-fr
+"incitation fiscale"-noun-fr "incentivo fiscal"-noun-es
+"incentivo fiscal"-noun-es "incitation fiscale"-noun-fr
+"politique de respect de la vie privée"-noun-fr "política de privacidad"-noun-es
+"política de privacidad"-noun-es "politique de respect de la vie privée"-noun-fr
+"pêche côtière"-noun-fr "pesca de bajura"-noun-es
+"pesca de bajura"-noun-es "pêche côtière"-noun-fr
+"DMOZ"-properNoun-fr "DMOZ"-properNoun-es
+"DMOZ"-properNoun-es "DMOZ"-properNoun-fr
+"Xoxe"-properNoun-fr "Xoxe"-properNoun-es
+"Xoxe"-properNoun-es "Xoxe"-properNoun-fr
+"seringat"-noun-fr "jeringuilla"-noun-es
+"jeringuilla"-noun-es "seringat"-noun-fr
+"Deba"-properNoun-fr "Deba"-properNoun-es
+"Deba"-properNoun-es "Deba"-properNoun-fr
+"indoeuropéen"-adjective-fr "indoeuropeo"-adjective-es
+"indoeuropeo"-adjective-es "indoeuropéen"-adjective-fr
+"Îles Anglo-Normandes"-properNoun-fr "Islas Anglo-Normandas"-properNoun-es
+"Islas Anglo-Normandas"-properNoun-es "Îles Anglo-Normandes"-properNoun-fr
+"Astillero"-properNoun-fr "Astillero"-properNoun-es
+"Astillero"-properNoun-es "Astillero"-properNoun-fr
+"pouls"-noun-fr "pulso"-noun-es
+"pulso"-noun-es "pouls"-noun-fr
+"suisse"-noun-fr "suizo"-noun-es
+"suizo"-noun-es "suisse"-noun-fr
+"Batura Mobile Solutions"-properNoun-fr "Batura Mobile Solutions"-properNoun-es
+"Batura Mobile Solutions"-properNoun-es "Batura Mobile Solutions"-properNoun-fr
+"Enée"-properNoun-fr "Eneas"-properNoun-es
+"Eneas"-properNoun-es "Enée"-properNoun-fr
+"Îles Turques-et-Caïques"-properNoun-fr "Islas Turcas y Caicos"-properNoun-es
+"Islas Turcas y Caicos"-properNoun-es "Îles Turques-et-Caïques"-properNoun-fr
+"d'Alicante"-adjective-fr "alicantino"-adjective-es
+"alicantino"-adjective-es "d'Alicante"-adjective-fr
+"Berastegi"-properNoun-fr "Berastegi"-properNoun-es
+"Berastegi"-properNoun-es "Berastegi"-properNoun-fr
+"Grand Dépression"-properNoun-fr "Gran Depresión"-properNoun-es
+"Gran Depresión"-properNoun-es "Grand Dépression"-properNoun-fr
+"endogène"-adjective-fr "endógeno"-adjective-es
+"endógeno"-adjective-es "endogène"-adjective-fr
+"Arakaldo"-properNoun-fr "Arakaldo"-properNoun-es
+"Arakaldo"-properNoun-es "Arakaldo"-properNoun-fr
+"SDR"-noun-fr "SDR"-noun-es
+"SDR"-noun-es "SDR"-noun-fr
+"pour une raison x ou y"-adverb-fr "por hache o por be"-adverb-es
+"por hache o por be"-adverb-es "pour une raison x ou y"-adverb-fr
+"libanais"-noun-fr "libanés"-noun-es
+"libanés"-noun-es "libanais"-noun-fr
+"Gessa"-properNoun-fr "Gessa"-properNoun-es
+"Gessa"-properNoun-es "Gessa"-properNoun-fr
+"Ìles des Amis"-properNoun-fr "Islas de los Amigos"-properNoun-es
+"Islas de los Amigos"-properNoun-es "Ìles des Amis"-properNoun-fr
+"Îles Aléoutiennes"-properNoun-fr "Islas Aleutianas"-properNoun-es
+"Islas Aleutianas"-properNoun-es "Îles Aléoutiennes"-properNoun-fr
+"Tucuman"-properNoun-fr "Tucumán"-properNoun-es
+"Tucumán"-properNoun-es "Tucuman"-properNoun-fr
+"journée de travail"-noun-fr "jornada de trabajo"-noun-es
+"jornada de trabajo"-noun-es "journée de travail"-noun-fr
+"Igorre"-properNoun-fr "Igorre"-properNoun-es
+"Igorre"-properNoun-es "Igorre"-properNoun-fr
+"impayé"-noun-fr "impago"-noun-es
+"impago"-noun-es "impayé"-noun-fr
+"faire descendre"-verb-fr "apear"-verb-es
+"apear"-verb-es "faire descendre"-verb-fr
+"Centaure"-properNoun-fr "Centauro"-properNoun-es
+"Centauro"-properNoun-es "Centaure"-properNoun-fr
+"Altsasu"-properNoun-fr "Altsasu"-properNoun-es
+"Altsasu"-properNoun-es "Altsasu"-properNoun-fr
+"Isuntza"-properNoun-fr "Isuntza"-properNoun-es
+"Isuntza"-properNoun-es "Isuntza"-properNoun-fr
+"Udalbiltza"-properNoun-fr "Udalbiltza"-properNoun-es
+"Udalbiltza"-properNoun-es "Udalbiltza"-properNoun-fr
+"Xénocrate"-properNoun-fr "Jenócrates"-properNoun-es
+"Jenócrates"-properNoun-es "Xénocrate"-properNoun-fr
+"treizième mois"-noun-fr "paga extraordinaria"-noun-es
+"paga extraordinaria"-noun-es "treizième mois"-noun-fr
+"ordre de paiement"-noun-fr "orden de pago"-noun-es
+"orden de pago"-noun-es "ordre de paiement"-noun-fr
+"d'un bout à l'autre"-adverb-fr "de principio a fin"-adverb-es
+"de principio a fin"-adverb-es "d'un bout à l'autre"-adverb-fr
+"chèque de voyage"-noun-fr "cheque de viaje"-noun-es
+"cheque de viaje"-noun-es "chèque de voyage"-noun-fr
+"Émirats Arabes Unis"-properNoun-fr "Emiratos Árabes Unidos"-properNoun-es
+"Emiratos Árabes Unidos"-properNoun-es "Émirats Arabes Unis"-properNoun-fr
+"sèche-cheveux"-noun-fr "secador"-noun-es
+"secador"-noun-es "sèche-cheveux"-noun-fr
+"Albert Ier de Monaco"-properNoun-fr "Alberto I de Mónaco"-properNoun-es
+"Alberto I de Mónaco"-properNoun-es "Albert Ier de Monaco"-properNoun-fr
+"Îles Marquises"-properNoun-fr "Islas Marquesas"-properNoun-es
+"Islas Marquesas"-properNoun-es "Îles Marquises"-properNoun-fr
+"mine de sel"-noun-fr "salina"-noun-es
+"salina"-noun-es "mine de sel"-noun-fr
+"paraguayen"-noun-fr "paraguayo"-noun-es
+"paraguayo"-noun-es "paraguayen"-noun-fr
+"Erro"-properNoun-fr "Erro"-properNoun-es
+"Erro"-properNoun-es "Erro"-properNoun-fr
+"aromatisation"-noun-fr "aromatización"-noun-es
+"aromatización"-noun-es "aromatisation"-noun-fr
+"antitchar"-adjective-fr "antitanque"-adjective-es
+"antitanque"-adjective-es "antitchar"-adjective-fr
+"athlète"-adjective-fr "atleta"-adjective-es
+"atleta"-adjective-es "athlète"-adjective-fr
+"Argos"-properNoun-fr "Argos"-properNoun-es
+"Argos"-properNoun-es "Argos"-properNoun-fr
+"GP"-noun-fr "GP"-noun-es
+"GP"-noun-es "GP"-noun-fr
+"Trintxerpe"-properNoun-fr "Trintxerpe"-properNoun-es
+"Trintxerpe"-properNoun-es "Trintxerpe"-properNoun-fr
+"Xunqueiriña"-properNoun-fr "Xunqueiriña"-properNoun-es
+"Xunqueiriña"-properNoun-es "Xunqueiriña"-properNoun-fr
+"Areatza"-properNoun-fr "Areatza"-properNoun-es
+"Areatza"-properNoun-es "Areatza"-properNoun-fr
+"Torrejón de Ardoz"-properNoun-fr "Torrejón de Ardoz"-properNoun-es
+"Torrejón de Ardoz"-properNoun-es "Torrejón de Ardoz"-properNoun-fr
+"obligation convertible"-noun-fr "obligación convertible"-noun-es
+"obligación convertible"-noun-es "obligation convertible"-noun-fr
+"El Correo"-properNoun-fr "El Correo"-properNoun-es
+"El Correo"-properNoun-es "El Correo"-properNoun-fr
+"OEdipe"-properNoun-fr "Edipo"-properNoun-es
+"Edipo"-properNoun-es "OEdipe"-properNoun-fr
+"de riveira"-adjective-fr "riveirense"-adjective-es
+"riveirense"-adjective-es "de riveira"-adjective-fr
+"autres"-adjective-fr "demás"-adjective-es
+"demás"-adjective-es "autres"-adjective-fr
+"madrilène"-noun-fr "madrileño"-noun-es
+"madrileño"-noun-es "madrilène"-noun-fr
+"Ième"-adjective-fr "I"-adjective-es
+"I"-adjective-es "Ième"-adjective-fr
+"folk"-noun-fr "folk"-noun-es
+"folk"-noun-es "folk"-noun-fr
+"Tel-Aviv"-properNoun-fr "Tel Aviv"-properNoun-es
+"Tel Aviv"-properNoun-es "Tel-Aviv"-properNoun-fr
+"trafic de stupéfiants"-noun-fr "narcotráfico"-noun-es
+"narcotráfico"-noun-es "trafic de stupéfiants"-noun-fr
+"oeuvrer"-verb-fr "obrar"-verb-es
+"obrar"-verb-es "oeuvrer"-verb-fr
+"organization"-noun-fr "organización"-noun-es
+"organización"-noun-es "organization"-noun-fr
+"Île Christmas"-properNoun-fr "Isla de Navidad"-properNoun-es
+"Isla de Navidad"-properNoun-es "Île Christmas"-properNoun-fr
+"par retour du courrier"-adverb-fr "a vuelta de correo"-adverb-es
+"a vuelta de correo"-adverb-es "par retour du courrier"-adverb-fr
+"numéro de compte"-noun-fr "número de cuenta"-noun-es
+"número de cuenta"-noun-es "numéro de compte"-noun-fr
+"au cas où"-adverb-fr "por si acaso"-adverb-es
+"por si acaso"-adverb-es "au cas où"-adverb-fr
+"Amorebieta-Etxano"-properNoun-fr "Amorebieta-Etxano"-properNoun-es
+"Amorebieta-Etxano"-properNoun-es "Amorebieta-Etxano"-properNoun-fr
+"Tecnalia"-properNoun-fr "Tecnalia"-properNoun-es
+"Tecnalia"-properNoun-es "Tecnalia"-properNoun-fr
+"Maluenda"-properNoun-fr "Maluenda"-properNoun-es
+"Maluenda"-properNoun-es "Maluenda"-properNoun-fr
+"remontant à"-preposition-fr "proveniente de"-preposition-es
+"proveniente de"-preposition-es "remontant à"-preposition-fr
+"Bandar Seri Begawan"-properNoun-fr "Bandar Seri Begawan"-properNoun-es
+"Bandar Seri Begawan"-properNoun-es "Bandar Seri Begawan"-properNoun-fr
+"vente au détail"-noun-fr "venta al por menor"-noun-es
+"venta al por menor"-noun-es "vente au détail"-noun-fr
+"Aia"-properNoun-fr "Aia"-properNoun-es
+"Aia"-properNoun-es "Aia"-properNoun-fr
+"Relax"-properNoun-fr "Relax"-properNoun-es
+"Relax"-properNoun-es "Relax"-properNoun-fr
+"resbalar"-verb-es "glisser de"-verb-fr
+"glisser de"-verb-fr "resbalar"-verb-es
+"Moaña"-properNoun-fr "Moaña"-properNoun-es
+"Moaña"-properNoun-es "Moaña"-properNoun-fr
+"virement de bord"-noun-fr "ciaboga"-noun-es
+"ciaboga"-noun-es "virement de bord"-noun-fr
+"Conseil de sécurité des Nations unies"-properNoun-fr "Consejo de Seguridad de las Naciones Unidas"-properNoun-es
+"Consejo de Seguridad de las Naciones Unidas"-properNoun-es "Conseil de sécurité des Nations unies"-properNoun-fr
+"Villareal"-properNoun-fr "Villareal"-properNoun-es
+"Villareal"-properNoun-es "Villareal"-properNoun-fr
+"Kilometroak"-properNoun-fr "Kilometroak"-properNoun-es
+"Kilometroak"-properNoun-es "Kilometroak"-properNoun-fr
+"navarrais"-noun-fr "navarro"-noun-es
+"navarro"-noun-es "navarrais"-noun-fr
+"maghrébin"-noun-fr "magrebí"-noun-es
+"magrebí"-noun-es "maghrébin"-noun-fr
+"Chambre des députés"-properNoun-fr "Congreso de los Diputados"-properNoun-es
+"Congreso de los Diputados"-properNoun-es "Chambre des députés"-properNoun-fr
+"Allo"-properNoun-fr "Allo"-properNoun-es
+"Allo"-properNoun-es "Allo"-properNoun-fr
+"cabinet juridique"-noun-fr "asesoría jurídica"-noun-es
+"asesoría jurídica"-noun-es "cabinet juridique"-noun-fr
+"Ataun"-properNoun-fr "Ataun"-properNoun-es
+"Ataun"-properNoun-es "Ataun"-properNoun-fr
+"amortissement anticipée"-noun-fr "amortización anticipada"-noun-es
+"amortización anticipada"-noun-es "amortissement anticipée"-noun-fr
+"Aramaio"-properNoun-fr "Aramaio"-properNoun-es
+"Aramaio"-properNoun-es "Aramaio"-properNoun-fr
+"Castro-Urdiales"-properNoun-fr "Castro-Urdiales"-properNoun-es
+"Castro-Urdiales"-properNoun-es "Castro-Urdiales"-properNoun-fr
+"rôle principal"-noun-fr "protagonismo"-noun-es
+"protagonismo"-noun-es "rôle principal"-noun-fr
+"Aduna"-properNoun-fr "Aduna"-properNoun-es
+"Aduna"-properNoun-es "Aduna"-properNoun-fr
+"albanais du kosovo"-adjective-fr "albanokosovar"-adjective-es
+"albanokosovar"-adjective-es "albanais du kosovo"-adjective-fr
+"jusqu'à présent"-adverb-fr "hasta ahora"-adverb-es
+"hasta ahora"-adverb-es "jusqu'à présent"-adverb-fr
+"Alagon"-properNoun-fr "Alagón"-properNoun-es
+"Alagón"-properNoun-es "Alagon"-properNoun-fr
+"de vandalisme"-adjective-fr "vandálico"-adjective-es
+"vandálico"-adjective-es "de vandalisme"-adjective-fr
+"Urdaibai"-properNoun-fr "Urdaibai"-properNoun-es
+"Urdaibai"-properNoun-es "Urdaibai"-properNoun-fr
+"Organisation mondiale du tourisme"-properNoun-fr "Organización Mundial del Turismo"-properNoun-es
+"Organización Mundial del Turismo"-properNoun-es "Organisation mondiale du tourisme"-properNoun-fr
+"Loiu"-properNoun-fr "Loiu"-properNoun-es
+"Loiu"-properNoun-es "Loiu"-properNoun-fr
+"en tout point"-adverb-fr "enteramente"-adverb-es
+"enteramente"-adverb-es "en tout point"-adverb-fr
+"Îles Canaries"-properNoun-fr "Islas Canarias"-properNoun-es
+"Islas Canarias"-properNoun-es "Îles Canaries"-properNoun-fr
+"Royaume-Uni de Grande-Bretagne et d'Irlande"-properNoun-fr "Reino Unido de Gran Bretaña e Irlanda"-properNoun-es
+"Reino Unido de Gran Bretaña e Irlanda"-properNoun-es "Royaume-Uni de Grande-Bretagne et d'Irlande"-properNoun-fr
+"Aosta"-properNoun-fr "Aosta"-properNoun-es
+"Aosta"-properNoun-es "Aosta"-properNoun-fr
+"en pourcentage"-adjective-fr "porcentual"-adjective-es
+"porcentual"-adjective-es "en pourcentage"-adjective-fr
+"États fédérés de Micronésie"-properNoun-fr "Estados Federados de Micronesia"-properNoun-es
+"Estados Federados de Micronesia"-properNoun-es "États fédérés de Micronésie"-properNoun-fr
+"ikastola"-noun-fr "ikastola"-noun-es
+"ikastola"-noun-es "ikastola"-noun-fr
+"Pozuelo de Alarcón"-properNoun-fr "Pozuelo de Alarcón"-properNoun-es
+"Pozuelo de Alarcón"-properNoun-es "Pozuelo de Alarcón"-properNoun-fr
+"jj/mm/aaaa"-noun-fr "dd/mm/aaaa"-noun-es
+"dd/mm/aaaa"-noun-es "jj/mm/aaaa"-noun-fr
+"Mikhaïl Gorbatchev"-properNoun-fr "Mijaíl Gorbachov"-properNoun-es
+"Mijaíl Gorbachov"-properNoun-es "Mikhaïl Gorbatchev"-properNoun-fr
+"surprotection"-noun-fr "sobreprotección"-noun-es
+"sobreprotección"-noun-es "surprotection"-noun-fr
+"de cantabria"-adjective-fr "cántabro"-adjective-es
+"cántabro"-adjective-es "de cantabria"-adjective-fr
+"l'espace d'un instant"-adverb-fr "un momento"-adverb-es
+"un momento"-adverb-es "l'espace d'un instant"-adverb-fr
+"Galdakao"-properNoun-fr "Galdakao"-properNoun-es
+"Galdakao"-properNoun-es "Galdakao"-properNoun-fr
+"monnaie étrangère"-noun-fr "moneda extranjera"-noun-es
+"moneda extranjera"-noun-es "monnaie étrangère"-noun-fr
+"à il"-adjective-fr "suyo"-adjective-es
+"suyo"-adjective-es "à il"-adjective-fr
+"Gasteiz"-properNoun-fr "Gasteiz"-properNoun-es
+"Gasteiz"-properNoun-es "Gasteiz"-properNoun-fr
+"Lasarte-Oria"-properNoun-fr "Lasarte-Oria"-properNoun-es
+"Lasarte-Oria"-properNoun-es "Lasarte-Oria"-properNoun-fr
+"très ferme"-adjective-fr "contundente"-adjective-es
+"contundente"-adjective-es "très ferme"-adjective-fr
+"Ciutat"-properNoun-fr "Ciutat"-properNoun-es
+"Ciutat"-properNoun-es "Ciutat"-properNoun-fr
+"Guijuelo"-properNoun-fr "Guijuelo"-properNoun-es
+"Guijuelo"-properNoun-es "Guijuelo"-properNoun-fr
+"Grande Guerre"-properNoun-fr "Gran Guerra"-properNoun-es
+"Gran Guerra"-properNoun-es "Grande Guerre"-properNoun-fr
+"en espèces"-adverb-fr "en efectivo"-adverb-es
+"en efectivo"-adverb-es "en espèces"-adverb-fr
+"Îles Caïmans"-properNoun-fr "Islas Caimán"-properNoun-es
+"Islas Caimán"-properNoun-es "Îles Caïmans"-properNoun-fr
+"Sa Majesté le Roi"-noun-fr "Su Majestad el Rey"-noun-es
+"Su Majestad el Rey"-noun-es "Sa Majesté le Roi"-noun-fr
+"grivois"-adjective-fr "picaresco"-adjective-es
+"picaresco"-adjective-es "grivois"-adjective-fr
+"Khartoum"-properNoun-fr "Jartum"-properNoun-es
+"Jartum"-properNoun-es "Khartoum"-properNoun-fr
+"dans bien de"-preposition-fr "en la mayoría de"-preposition-es
+"en la mayoría de"-preposition-es "dans bien de"-preposition-fr
+"fonds publics"-noun-fr "fondo público"-noun-es
+"fondo público"-noun-es "fonds publics"-noun-fr
+"Artziniega"-properNoun-fr "Artziniega"-properNoun-es
+"Artziniega"-properNoun-es "Artziniega"-properNoun-fr
+"Carthagène des Indes"-properNoun-fr "Cartagena de Indias"-properNoun-es
+"Cartagena de Indias"-properNoun-es "Carthagène des Indes"-properNoun-fr
+"de gré ou de force"-adverb-fr "de grado o por fuerza"-adverb-es
+"de grado o por fuerza"-adverb-es "de gré ou de force"-adverb-fr
+"euskaldunisation"-noun-fr "euskaldunización"-noun-es
+"euskaldunización"-noun-es "euskaldunisation"-noun-fr
+"FARC"-noun-fr "FARC"-noun-es
+"FARC"-noun-es "FARC"-noun-fr
+"Elgorriaga"-properNoun-fr "Elgorriaga"-properNoun-es
+"Elgorriaga"-properNoun-es "Elgorriaga"-properNoun-fr
+"Sa Majesté"-noun-fr "Su Majestad"-noun-es
+"Su Majestad"-noun-es "Sa Majesté"-noun-fr
+"ETB"-noun-fr "ETB"-noun-es
+"ETB"-noun-es "ETB"-noun-fr
+"Ajangiz"-properNoun-fr "Ajangiz"-properNoun-es
+"Ajangiz"-properNoun-es "Ajangiz"-properNoun-fr
+"Les Açores"-properNoun-fr "Azores"-properNoun-es
+"Azores"-properNoun-es "Les Açores"-properNoun-fr
+"Brazomar"-properNoun-fr "Brazomar"-properNoun-es
+"Brazomar"-properNoun-es "Brazomar"-properNoun-fr
+"coeur"-noun-fr "coro"-noun-es
+"coeur"-noun-fr "corazón"-noun-es
+"coro"-noun-es "coeur"-noun-fr
+"corazón"-noun-es "coeur"-noun-fr
+"claquement de porte"-noun-fr "portazo"-noun-es
+"portazo"-noun-es "claquement de porte"-noun-fr
+"mer de Beaufort"-properNoun-fr "Mar de Beaufort"-properNoun-es
+"Mar de Beaufort"-properNoun-es "mer de Beaufort"-properNoun-fr
+"Zizurkil"-properNoun-fr "Zizurkil"-properNoun-es
+"Zizurkil"-properNoun-es "Zizurkil"-properNoun-fr
+"Uharte-Arakil"-properNoun-fr "Uharte-Arakil"-properNoun-es
+"Uharte-Arakil"-properNoun-es "Uharte-Arakil"-properNoun-fr
+"Arbizu"-properNoun-fr "Arbizu"-properNoun-es
+"Arbizu"-properNoun-es "Arbizu"-properNoun-fr
+"Aquarium"-properNoun-fr "Aquarium"-properNoun-es
+"Aquarium"-properNoun-es "Aquarium"-properNoun-fr
+"Saint Pierre"-properNoun-fr "San Pedro"-properNoun-es
+"San Pedro"-properNoun-es "Saint Pierre"-properNoun-fr
+"Aiete"-properNoun-fr "Aiete"-properNoun-es
+"Aiete"-properNoun-es "Aiete"-properNoun-fr
+"émission d'actions"-noun-fr "emisión de acciones"-noun-es
+"emisión de acciones"-noun-es "émission d'actions"-noun-fr
+"à chaque instant"-adverb-fr "en todo momento"-adverb-es
+"en todo momento"-adverb-es "à chaque instant"-adverb-fr
+"Barrika"-properNoun-fr "Barrika"-properNoun-es
+"Barrika"-properNoun-es "Barrika"-properNoun-fr
+"Alkiza"-properNoun-fr "Alkiza"-properNoun-es
+"Alkiza"-properNoun-es "Alkiza"-properNoun-fr
+"LGT"-noun-fr "LGT"-noun-es
+"LGT"-noun-es "LGT"-noun-fr
+"San Sebastián de los Reyes"-properNoun-fr "San Sebastián de los Reyes"-properNoun-es
+"San Sebastián de los Reyes"-properNoun-es "San Sebastián de los Reyes"-properNoun-fr
+"Îles Cocos"-properNoun-fr "Islas Cocos"-properNoun-es
+"Islas Cocos"-properNoun-es "Îles Cocos"-properNoun-fr
+"point de vente"-noun-fr "punto de venta"-noun-es
+"punto de venta"-noun-es "point de vente"-noun-fr
+"Achraf"-properNoun-fr "Achraf"-properNoun-es
+"Achraf"-properNoun-es "Achraf"-properNoun-fr
+"coup de couteau"-noun-fr "cuchillada"-noun-es
+"cuchillada"-noun-es "coup de couteau"-noun-fr
+"AUT"-noun-fr "AUT"-noun-es
+"AUT"-noun-es "AUT"-noun-fr
+"Lodosa"-properNoun-fr "Lodosa"-properNoun-es
+"Lodosa"-properNoun-es "Lodosa"-properNoun-fr
+"Azkoitia"-properNoun-fr "Azkoitia"-properNoun-es
+"Azkoitia"-properNoun-es "Azkoitia"-properNoun-fr
+"Niué"-properNoun-fr "Niue"-properNoun-es
+"Niue"-properNoun-es "Niué"-properNoun-fr

@@ -1,0 +1,116 @@
+"ambdós"-determiner-ca "les deux"-determiner-fr
+"les deux"-determiner-fr "ambdós"-determiner-ca
+"les deux"-determiner-fr "tots dos"-determiner-ca
+"tots dos"-determiner-ca "les deux"-determiner-fr
+"sense embuts"-adverb-ca "sans faire de mystères"-adverb-fr
+"sans faire de mystères"-adverb-fr "sense embuts"-adverb-ca
+"à l'heure actuelle"-adverb-fr "en l'actualitat"-adverb-ca
+"en l'actualitat"-adverb-ca "à l'heure actuelle"-adverb-fr
+"incroyablement"-adverb-fr "increïblement"-adverb-ca
+"increïblement"-adverb-ca "incroyablement"-adverb-fr
+"en absolut"-adverb-ca "point du tout"-adverb-fr
+"en absolut"-adverb-ca "absolument pas"-adverb-fr
+"point du tout"-adverb-fr "en absolut"-adverb-ca
+"absolument pas"-adverb-fr "en absolut"-adverb-ca
+"de nouveau"-adverb-fr "una altra vegada"-adverb-ca
+"una altra vegada"-adverb-ca "de nouveau"-adverb-fr
+"a fons"-adverb-ca "à fond"-adverb-fr
+"à fond"-adverb-fr "a fons"-adverb-ca
+"que"-pronoun-ca "lequel"-pronoun-fr
+"lequel"-pronoun-fr "que"-pronoun-ca
+"lequel"-pronoun-fr "el qual"-pronoun-ca
+"el qual"-pronoun-ca "lequel"-pronoun-fr
+"degut a"-preposition-ca "pour cause de"-preposition-fr
+"degut a"-preposition-ca "en raison de"-preposition-fr
+"pour cause de"-preposition-fr "degut a"-preposition-ca
+"en raison de"-preposition-fr "degut a"-preposition-ca
+"submetre"-noun-ca "assujettissement"-noun-fr
+"submetre"-noun-ca "assujétissement"-noun-fr
+"assujettissement"-noun-fr "submetre"-noun-ca
+"assujétissement"-noun-fr "submetre"-noun-ca
+"darrere"-noun-ca "derrière"-noun-fr
+"derrière"-noun-fr "darrere"-noun-ca
+"en tous les cas"-adverb-fr "de tota manera"-adverb-ca
+"en tous les cas"-adverb-fr "de totes maneres"-adverb-ca
+"de tota manera"-adverb-ca "en tous les cas"-adverb-fr
+"de tota manera"-adverb-ca "en tout cas"-adverb-fr
+"de tota manera"-adverb-ca "dans tous les cas"-adverb-fr
+"de totes maneres"-adverb-ca "en tous les cas"-adverb-fr
+"de totes maneres"-adverb-ca "en tout cas"-adverb-fr
+"de totes maneres"-adverb-ca "dans tous les cas"-adverb-fr
+"en tout cas"-adverb-fr "de tota manera"-adverb-ca
+"en tout cas"-adverb-fr "de totes maneres"-adverb-ca
+"dans tous les cas"-adverb-fr "de tota manera"-adverb-ca
+"dans tous les cas"-adverb-fr "de totes maneres"-adverb-ca
+"IVA"-noun-ca "TVA"-noun-fr
+"TVA"-noun-fr "IVA"-noun-ca
+"Bogotà"-properNoun-ca "Bogota"-properNoun-fr
+"Bogota"-properNoun-fr "Bogotà"-properNoun-ca
+"República Txeca"-properNoun-ca "République tchèque"-properNoun-fr
+"République tchèque"-properNoun-fr "República Txeca"-properNoun-ca
+"Irlanda del Nord"-properNoun-ca "Irlande du Nord"-properNoun-fr
+"Irlande du Nord"-properNoun-fr "Irlanda del Nord"-properNoun-ca
+"Siemens"-properNoun-ca "Siemens"-properNoun-fr
+"Siemens"-properNoun-fr "Siemens"-properNoun-ca
+"perillosament"-adverb-ca "dangereusement"-adverb-fr
+"dangereusement"-adverb-fr "perillosament"-adverb-ca
+"humilment"-adverb-ca "humblement"-adverb-fr
+"humblement"-adverb-fr "humilment"-adverb-ca
+"en partie"-adverb-fr "en part"-adverb-ca
+"en part"-adverb-ca "en partie"-adverb-fr
+"responsablement"-adverb-fr "responsablement"-adverb-ca
+"responsablement"-adverb-ca "responsablement"-adverb-fr
+"setmanalment"-adverb-ca "chaque semaine"-adverb-fr
+"chaque semaine"-adverb-fr "setmanalment"-adverb-ca
+"zero"-numeral-ca "zéro"-numeral-fr
+"zéro"-numeral-fr "zero"-numeral-ca
+"passager"-noun-fr "passatger"-noun-ca
+"passatger"-noun-ca "passager"-noun-fr
+"xénophobe"-adjective-fr "xenòfob"-adjective-ca
+"xenòfob"-adjective-ca "xénophobe"-adjective-fr
+"coréen"-adjective-fr "coreà"-adjective-ca
+"coreà"-adjective-ca "coréen"-adjective-fr
+"vint-i-vuit"-numeral-ca "vingt-huit"-numeral-fr
+"vingt-huit"-numeral-fr "vint-i-vuit"-numeral-ca
+"quatre-vingt-trois"-numeral-fr "vuitanta-tres"-numeral-ca
+"vuitanta-tres"-numeral-ca "quatre-vingt-trois"-numeral-fr
+"quatre-vingt-un"-numeral-fr "vuitanta-u"-numeral-ca
+"vuitanta-u"-numeral-ca "quatre-vingt-un"-numeral-fr
+"indépendantiste"-adjective-fr "independentista"-adjective-ca
+"independentista"-adjective-ca "indépendantiste"-adjective-fr
+"vuitanta-sis"-numeral-ca "quatre-vingt-six"-numeral-fr
+"quatre-vingt-six"-numeral-fr "vuitanta-sis"-numeral-ca
+"setanta-vuit"-numeral-ca "soixante-dix-huit"-numeral-fr
+"soixante-dix-huit"-numeral-fr "setanta-vuit"-numeral-ca
+"Dauphiné"-properNoun-fr "Delfinat"-properNoun-ca
+"Delfinat"-properNoun-ca "Dauphiné"-properNoun-fr
+"quatre-vingt-sept"-numeral-fr "vuitanta-set"-numeral-ca
+"vuitanta-set"-numeral-ca "quatre-vingt-sept"-numeral-fr
+"soixante-dix-neuf"-numeral-fr "setanta-nou"-numeral-ca
+"setanta-nou"-numeral-ca "soixante-dix-neuf"-numeral-fr
+"cinquante-neuf"-numeral-fr "cinquanta-nou"-numeral-ca
+"cinquanta-nou"-numeral-ca "cinquante-neuf"-numeral-fr
+"trenta-vuit"-numeral-ca "trente-huit"-numeral-fr
+"trente-huit"-numeral-fr "trenta-vuit"-numeral-ca
+"Atlàntic"-properNoun-ca "Atlantique"-properNoun-fr
+"Atlantique"-properNoun-fr "Atlàntic"-properNoun-ca
+"quatre-vingt-cinq"-numeral-fr "vuitanta-cinc"-numeral-ca
+"vuitanta-cinc"-numeral-ca "quatre-vingt-cinq"-numeral-fr
+"quatre-vingt-neuf"-numeral-fr "vuitanta-nou"-numeral-ca
+"vuitanta-nou"-numeral-ca "quatre-vingt-neuf"-numeral-fr
+"quarante-neuf"-numeral-fr "quaranta-nou"-numeral-ca
+"quaranta-nou"-numeral-ca "quarante-neuf"-numeral-fr
+"vuitanta-vuit"-numeral-ca "quatre-vingt-huit"-numeral-fr
+"quatre-vingt-huit"-numeral-fr "vuitanta-vuit"-numeral-ca
+"noranta-vuit"-numeral-ca "quatre-vingt-dix-huit"-numeral-fr
+"quatre-vingt-dix-huit"-numeral-fr "noranta-vuit"-numeral-ca
+"cinquanta-vuit"-numeral-ca "cinquante-huit"-numeral-fr
+"cinquante-huit"-numeral-fr "cinquanta-vuit"-numeral-ca
+"vuitanta-quatre"-numeral-ca "quatre-vingt-quatre"-numeral-fr
+"quatre-vingt-quatre"-numeral-fr "vuitanta-quatre"-numeral-ca
+"vuitanta-dos"-numeral-ca "quatre-vingt-deux"-numeral-fr
+"quatre-vingt-deux"-numeral-fr "vuitanta-dos"-numeral-ca
+"seixanta-vuit"-numeral-ca "soixante-huit"-numeral-fr
+"soixante-huit"-numeral-fr "seixanta-vuit"-numeral-ca
+"quaranta-vuit"-numeral-ca "quarante-huit"-numeral-fr
+"quarante-huit"-numeral-fr "quaranta-vuit"-numeral-ca

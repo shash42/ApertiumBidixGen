@@ -1,0 +1,1198 @@
+"algun"-determiner-ca "certain"-determiner-fr
+"certain"-determiner-fr "algun"-determiner-ca
+"quelque"-determiner-fr "cert"-determiner-ca
+"cert"-determiner-ca "quelque"-determiner-fr
+"el teu"-determiner-ca "votre"-determiner-fr
+"votre"-determiner-fr "el teu"-determiner-ca
+"ton"-determiner-fr "el vostre"-determiner-ca
+"el vostre"-determiner-ca "ton"-determiner-fr
+"tothom"-pronoun-ca "tout"-pronoun-fr
+"tout"-pronoun-fr "tothom"-pronoun-ca
+"quelqu'un"-pronoun-fr "algun"-pronoun-ca
+"algun"-pronoun-ca "quelqu'un"-pronoun-fr
+"prèviament"-adverb-ca "antérieurement"-adverb-fr
+"antérieurement"-adverb-fr "prèviament"-adverb-ca
+"préalablement"-adverb-fr "anteriorment"-adverb-ca
+"anteriorment"-adverb-ca "préalablement"-adverb-fr
+"à la fois"-adverb-fr "a la vegada"-adverb-ca
+"a la vegada"-adverb-ca "à la fois"-adverb-fr
+"alhora"-adverb-ca "en même temps"-adverb-fr
+"en même temps"-adverb-fr "alhora"-adverb-ca
+"aproximadament"-adverb-ca "à peu près"-adverb-fr
+"à peu près"-adverb-fr "aproximadament"-adverb-ca
+"al voltant"-adverb-ca "alentour"-adverb-fr
+"al voltant"-adverb-ca "aux alentours"-adverb-fr
+"alentour"-adverb-fr "al voltant"-adverb-ca
+"aux alentours"-adverb-fr "al voltant"-adverb-ca
+"a la vora"-adverb-ca "auprès"-adverb-fr
+"a la vora"-adverb-ca "à côté"-adverb-fr
+"auprès"-adverb-fr "a la vora"-adverb-ca
+"auprès"-adverb-fr "prop"-adverb-ca
+"à côté"-adverb-fr "a la vora"-adverb-ca
+"à côté"-adverb-fr "prop"-adverb-ca
+"à côté"-adverb-fr "a prop"-adverb-ca
+"prop"-adverb-ca "auprès"-adverb-fr
+"prop"-adverb-ca "à côté"-adverb-fr
+"a prop"-adverb-ca "à côté"-adverb-fr
+"bientôt"-adverb-fr "d'hora"-adverb-ca
+"d'hora"-adverb-ca "bientôt"-adverb-fr
+"rapidement"-adverb-fr "de pressa"-adverb-ca
+"de pressa"-adverb-ca "rapidement"-adverb-fr
+"de pressa"-adverb-ca "promptement"-adverb-fr
+"promptement"-adverb-fr "de pressa"-adverb-ca
+"subitement"-adverb-fr "de sobte"-adverb-ca
+"de sobte"-adverb-ca "subitement"-adverb-fr
+"pour l'instant"-adverb-fr "ara com ara"-adverb-ca
+"ara com ara"-adverb-ca "pour l'instant"-adverb-fr
+"provisionalment"-adverb-ca "provisoirement"-adverb-fr
+"provisoirement"-adverb-fr "provisionalment"-adverb-ca
+"ensemble"-adverb-fr "juntament"-adverb-ca
+"juntament"-adverb-ca "ensemble"-adverb-fr
+"conjointement"-adverb-fr "ensems"-adverb-ca
+"ensems"-adverb-ca "conjointement"-adverb-fr
+"contínuament"-adverb-ca "constamment"-adverb-fr
+"constamment"-adverb-fr "contínuament"-adverb-ca
+"possiblement"-adverb-ca "vraisemblablement"-adverb-fr
+"vraisemblablement"-adverb-fr "possiblement"-adverb-ca
+"dehors"-adverb-fr "enfora"-adverb-ca
+"enfora"-adverb-ca "dehors"-adverb-fr
+"enllà"-adverb-ca "là-bas"-adverb-fr
+"là-bas"-adverb-fr "enllà"-adverb-ca
+"là-bas"-adverb-fr "allí"-adverb-ca
+"allí"-adverb-ca "là-bas"-adverb-fr
+"ací"-adverb-ca "ci"-adverb-fr
+"ci"-adverb-fr "ací"-adverb-ca
+"lentament"-adverb-ca "doucement"-adverb-fr
+"doucement"-adverb-fr "lentament"-adverb-ca
+"assurément"-adverb-fr "certament"-adverb-ca
+"certament"-adverb-ca "assurément"-adverb-fr
+"ainsi"-adverb-fr "així mateix"-adverb-ca
+"així mateix"-adverb-ca "ainsi"-adverb-fr
+"així mateix"-adverb-ca "également"-adverb-fr
+"également"-adverb-fr "així mateix"-adverb-ca
+"després"-adverb-ca "puis"-adverb-fr
+"després"-adverb-ca "par la suite"-adverb-fr
+"puis"-adverb-fr "després"-adverb-ca
+"par la suite"-adverb-fr "després"-adverb-ca
+"seulement"-adverb-fr "únicament"-adverb-ca
+"únicament"-adverb-ca "seulement"-adverb-fr
+"només"-adverb-ca "uniquement"-adverb-fr
+"uniquement"-adverb-fr "només"-adverb-ca
+"uniquement"-adverb-fr "solament"-adverb-ca
+"solament"-adverb-ca "uniquement"-adverb-fr
+"surtout"-adverb-fr "especialment"-adverb-ca
+"especialment"-adverb-ca "surtout"-adverb-fr
+"moltíssim"-adverb-ca "extrêmement"-adverb-fr
+"moltíssim"-adverb-ca "énormément"-adverb-fr
+"extrêmement"-adverb-fr "moltíssim"-adverb-ca
+"extrêmement"-adverb-fr "altament"-adverb-ca
+"énormément"-adverb-fr "moltíssim"-adverb-ca
+"énormément"-adverb-fr "enormement"-adverb-ca
+"altament"-adverb-ca "extrêmement"-adverb-fr
+"enormement"-adverb-ca "énormément"-adverb-fr
+"senzillament"-adverb-ca "bonnement"-adverb-fr
+"bonnement"-adverb-fr "senzillament"-adverb-ca
+"précisément"-adverb-fr "justament"-adverb-ca
+"justament"-adverb-ca "précisément"-adverb-fr
+"exactament"-adverb-ca "juste"-adverb-fr
+"juste"-adverb-fr "exactament"-adverb-ca
+"completament"-adverb-ca "entièrement"-adverb-fr
+"entièrement"-adverb-fr "completament"-adverb-ca
+"complètement"-adverb-fr "enterament"-adverb-ca
+"enterament"-adverb-ca "complètement"-adverb-fr
+"aussi"-adverb-fr "tant"-adverb-ca
+"tant"-adverb-ca "aussi"-adverb-fr
+"normalment"-adverb-ca "habituellement"-adverb-fr
+"habituellement"-adverb-fr "normalment"-adverb-ca
+"habituellement"-adverb-fr "usualment"-adverb-ca
+"usualment"-adverb-ca "habituellement"-adverb-fr
+"normalement"-adverb-fr "ordinàriament"-adverb-ca
+"ordinàriament"-adverb-ca "normalement"-adverb-fr
+"endavant"-adverb-ca "avant"-adverb-fr
+"avant"-adverb-fr "endavant"-adverb-ca
+"al davant"-adverb-ca "devant"-adverb-fr
+"devant"-adverb-fr "al davant"-adverb-ca
+"devant"-adverb-fr "al capdavant"-adverb-ca
+"al capdavant"-adverb-ca "devant"-adverb-fr
+"par contre"-adverb-fr "per contra"-adverb-ca
+"per contra"-adverb-ca "par contre"-adverb-fr
+"en canvi"-adverb-ca "en revanche"-adverb-fr
+"en revanche"-adverb-fr "en canvi"-adverb-ca
+"realment"-adverb-ca "véritablement"-adverb-fr
+"realment"-adverb-ca "vraiment"-adverb-fr
+"véritablement"-adverb-fr "realment"-adverb-ca
+"vraiment"-adverb-fr "realment"-adverb-ca
+"réellement"-adverb-fr "veritablement"-adverb-ca
+"veritablement"-adverb-ca "réellement"-adverb-fr
+"força"-adverb-ca "assez"-adverb-fr
+"assez"-adverb-fr "força"-adverb-ca
+"assez"-adverb-fr "suficientment"-adverb-ca
+"suficientment"-adverb-ca "assez"-adverb-fr
+"a baix"-adverb-ca "en dessous"-adverb-fr
+"a baix"-adverb-ca "au-dessous"-adverb-fr
+"a baix"-adverb-ca "dessous"-adverb-fr
+"en dessous"-adverb-fr "a baix"-adverb-ca
+"en dessous"-adverb-fr "avall"-adverb-ca
+"en dessous"-adverb-fr "sota"-adverb-ca
+"en dessous"-adverb-fr "davall"-adverb-ca
+"au-dessous"-adverb-fr "a baix"-adverb-ca
+"au-dessous"-adverb-fr "sota"-adverb-ca
+"dessous"-adverb-fr "a baix"-adverb-ca
+"dessous"-adverb-fr "davall"-adverb-ca
+"dessous"-adverb-fr "a sota"-adverb-ca
+"avall"-adverb-ca "en dessous"-adverb-fr
+"sota"-adverb-ca "en dessous"-adverb-fr
+"sota"-adverb-ca "au-dessous"-adverb-fr
+"sota"-adverb-ca "en bas"-adverb-fr
+"davall"-adverb-ca "en dessous"-adverb-fr
+"davall"-adverb-ca "dessous"-adverb-fr
+"davall"-adverb-ca "en bas"-adverb-fr
+"en bas"-adverb-fr "sota"-adverb-ca
+"en bas"-adverb-fr "davall"-adverb-ca
+"en bas"-adverb-fr "a sota"-adverb-ca
+"a sota"-adverb-ca "dessous"-adverb-fr
+"a sota"-adverb-ca "en bas"-adverb-fr
+"bien sûr"-adverb-fr "naturalment"-adverb-ca
+"naturalment"-adverb-ca "bien sûr"-adverb-fr
+"mi"-pronoun-ca "le"-pronoun-fr
+"mi"-pronoun-ca "toi"-pronoun-fr
+"le"-pronoun-fr "mi"-pronoun-ca
+"toi"-pronoun-fr "mi"-pronoun-ca
+"toi"-pronoun-fr "ho"-pronoun-ca
+"moi"-pronoun-fr "ho"-pronoun-ca
+"ho"-pronoun-ca "toi"-pronoun-fr
+"ho"-pronoun-ca "moi"-pronoun-fr
+"que"-relativePronoun-fr "qui"-pronoun-ca
+"que"-relativePronoun-fr "què"-pronoun-ca
+"que"-relativePronoun-fr "la qual cosa"-relativePronoun-ca
+"que"-relativePronoun-fr "cosa que"-relativePronoun-ca
+"qui"-pronoun-ca "que"-relativePronoun-fr
+"qui"-pronoun-ca "que"-pronoun-fr
+"qui"-pronoun-ca "lequel"-relativePronoun-fr
+"qui"-pronoun-ca "quel"-pronoun-fr
+"qui"-pronoun-ca "qui"-relativePronoun-fr
+"què"-pronoun-ca "que"-relativePronoun-fr
+"la qual cosa"-relativePronoun-ca "que"-relativePronoun-fr
+"la qual cosa"-relativePronoun-ca "que"-pronoun-fr
+"la qual cosa"-relativePronoun-ca "quoi"-pronoun-fr
+"la qual cosa"-relativePronoun-ca "qu'est-ce que"-pronoun-fr
+"la qual cosa"-relativePronoun-ca "qu'est-ce que c'est que"-pronoun-fr
+"cosa que"-relativePronoun-ca "que"-relativePronoun-fr
+"cosa que"-relativePronoun-ca "que"-pronoun-fr
+"cosa que"-relativePronoun-ca "quoi"-pronoun-fr
+"cosa que"-relativePronoun-ca "qu'est-ce que"-pronoun-fr
+"cosa que"-relativePronoun-ca "qu'est-ce que c'est que"-pronoun-fr
+"que"-pronoun-fr "qui"-pronoun-ca
+"que"-pronoun-fr "la qual cosa"-relativePronoun-ca
+"que"-pronoun-fr "cosa que"-relativePronoun-ca
+"lequel"-relativePronoun-fr "qui"-pronoun-ca
+"quel"-pronoun-fr "qui"-pronoun-ca
+"qui"-relativePronoun-fr "qui"-pronoun-ca
+"quoi"-pronoun-fr "la qual cosa"-relativePronoun-ca
+"quoi"-pronoun-fr "cosa que"-relativePronoun-ca
+"qu'est-ce que"-pronoun-fr "la qual cosa"-relativePronoun-ca
+"qu'est-ce que"-pronoun-fr "cosa que"-relativePronoun-ca
+"qu'est-ce que c'est que"-pronoun-fr "la qual cosa"-relativePronoun-ca
+"qu'est-ce que c'est que"-pronoun-fr "cosa que"-relativePronoun-ca
+"el qual"-relativePronoun-ca "celui que"-relativePronoun-fr
+"el qual"-relativePronoun-ca "celui qui"-relativePronoun-fr
+"celui que"-relativePronoun-fr "el qual"-relativePronoun-ca
+"celui qui"-relativePronoun-fr "el qual"-relativePronoun-ca
+"celui-là"-pronoun-fr "aqueix"-pronoun-ca
+"celui-là"-pronoun-fr "eixe"-pronoun-ca
+"aqueix"-pronoun-ca "celui-là"-pronoun-fr
+"aqueix"-pronoun-ca "celui"-pronoun-fr
+"eixe"-pronoun-ca "celui-là"-pronoun-fr
+"eixe"-pronoun-ca "celui"-pronoun-fr
+"celui"-pronoun-fr "aqueix"-pronoun-ca
+"celui"-pronoun-fr "eixe"-pronoun-ca
+"ça"-pronoun-fr "allò"-pronoun-ca
+"allò"-pronoun-ca "ça"-pronoun-fr
+"açò"-pronoun-ca "cela"-pronoun-fr
+"açò"-pronoun-ca "ceci"-pronoun-fr
+"cela"-pronoun-fr "açò"-pronoun-ca
+"ceci"-pronoun-fr "açò"-pronoun-ca
+"où"-relativePronoun-fr "on"-adverb-ca
+"on"-adverb-ca "où"-relativePronoun-fr
+"où"-adverb-fr "on"-relativePronoun-ca
+"on"-relativePronoun-ca "où"-adverb-fr
+"mitjançant"-preposition-ca "au moyen de"-preposition-fr
+"au moyen de"-preposition-fr "mitjançant"-preposition-ca
+"moyennant"-preposition-fr "per mitjà de"-preposition-ca
+"per mitjà de"-preposition-ca "moyennant"-preposition-fr
+"per mitjà de"-preposition-ca "par l'intermédiaire de"-preposition-fr
+"par l'intermédiaire de"-preposition-fr "per mitjà de"-preposition-ca
+"a més a més de"-preposition-ca "outre"-preposition-fr
+"outre"-preposition-fr "a més a més de"-preposition-ca
+"a partir de"-preposition-ca "depuis"-preposition-fr
+"a partir de"-preposition-ca "dès"-preposition-fr
+"depuis"-preposition-fr "a partir de"-preposition-ca
+"dès"-preposition-fr "a partir de"-preposition-ca
+"després de"-preposition-ca "derrière"-preposition-fr
+"derrière"-preposition-fr "després de"-preposition-ca
+"conformément à"-preposition-fr "segons"-preposition-ca
+"segons"-preposition-ca "conformément à"-preposition-fr
+"à"-preposition-fr "cap a"-preposition-ca
+"cap a"-preposition-ca "à"-preposition-fr
+"a"-preposition-ca "envers"-preposition-fr
+"a"-preposition-ca "vers"-preposition-fr
+"envers"-preposition-fr "a"-preposition-ca
+"vers"-preposition-fr "a"-preposition-ca
+"vers"-preposition-fr "envers"-preposition-ca
+"envers"-preposition-ca "vers"-preposition-fr
+"de la part de"-preposition-fr "per part de"-preposition-ca
+"per part de"-preposition-ca "de la part de"-preposition-fr
+"par"-preposition-fr "per a"-preposition-ca
+"per a"-preposition-ca "par"-preposition-fr
+"au cours de"-preposition-fr "durant"-preposition-ca
+"durant"-preposition-ca "au cours de"-preposition-fr
+"durant"-preposition-ca "lors de"-preposition-fr
+"lors de"-preposition-fr "durant"-preposition-ca
+"pour"-preposition-fr "per tal de"-preposition-ca
+"per tal de"-preposition-ca "pour"-preposition-fr
+"quant a"-preposition-ca "en ce qui concerne"-preposition-fr
+"en ce qui concerne"-preposition-fr "quant a"-preposition-ca
+"au sujet de"-preposition-fr "pel que fa a"-preposition-ca
+"pel que fa a"-preposition-ca "au sujet de"-preposition-fr
+"en"-preposition-fr "dins"-preposition-ca
+"en"-preposition-fr "dins de"-preposition-ca
+"dins"-preposition-ca "en"-preposition-fr
+"dins de"-preposition-ca "en"-preposition-fr
+"sota"-preposition-ca "au-dessous de"-preposition-fr
+"au-dessous de"-preposition-fr "sota"-preposition-ca
+"sous"-preposition-fr "sota de"-preposition-ca
+"sota de"-preposition-ca "sous"-preposition-fr
+"confondre"-verb-fr "equivocar"-verb-ca
+"equivocar"-verb-ca "confondre"-verb-fr
+"lamentar"-verb-ca "plaindre"-verb-fr
+"plaindre"-verb-fr "lamentar"-verb-ca
+"photo"-noun-fr "fotografia"-noun-ca
+"fotografia"-noun-ca "photo"-noun-fr
+"foto"-noun-ca "photographie"-noun-fr
+"photographie"-noun-fr "foto"-noun-ca
+"glaç"-noun-ca "glace"-noun-fr
+"glace"-noun-fr "glaç"-noun-ca
+"farce"-noun-fr "farsa"-noun-ca
+"farsa"-noun-ca "farce"-noun-fr
+"inspector"-noun-ca "superviseur"-noun-fr
+"superviseur"-noun-fr "inspector"-noun-ca
+"expérience"-noun-fr "experiment"-noun-ca
+"experiment"-noun-ca "expérience"-noun-fr
+"invention"-noun-fr "imaginació"-noun-ca
+"imaginació"-noun-ca "invention"-noun-fr
+"bomba"-noun-ca "pompe"-noun-fr
+"pompe"-noun-fr "bomba"-noun-ca
+"agraïment"-noun-ca "reconnaissance"-noun-fr
+"reconnaissance"-noun-fr "agraïment"-noun-ca
+"estímul"-noun-ca "stimulation"-noun-fr
+"stimulation"-noun-fr "estímul"-noun-ca
+"tarda"-noun-ca "soirée"-noun-fr
+"tarda"-noun-ca "soir"-noun-fr
+"soirée"-noun-fr "tarda"-noun-ca
+"soir"-noun-fr "tarda"-noun-ca
+"parell"-noun-ca "couple"-noun-fr
+"couple"-noun-fr "parell"-noun-ca
+"brume"-noun-fr "boira"-noun-ca
+"boira"-noun-ca "brume"-noun-fr
+"palma"-noun-ca "paume"-noun-fr
+"paume"-noun-fr "palma"-noun-ca
+"agrupació"-noun-ca "groupement"-noun-fr
+"groupement"-noun-fr "agrupació"-noun-ca
+"marijuana"-noun-fr "haixix"-noun-ca
+"haixix"-noun-ca "marijuana"-noun-fr
+"pèl"-noun-ca "cheveu"-noun-fr
+"cheveu"-noun-fr "pèl"-noun-ca
+"poil"-noun-fr "cabell"-noun-ca
+"cabell"-noun-ca "poil"-noun-fr
+"viande"-noun-fr "polpa"-noun-ca
+"polpa"-noun-ca "viande"-noun-fr
+"polpa"-noun-ca "chair"-noun-fr
+"chair"-noun-fr "polpa"-noun-ca
+"pollastre"-noun-ca "coq"-noun-fr
+"coq"-noun-fr "pollastre"-noun-ca
+"pop"-noun-ca "poulpe"-noun-fr
+"poulpe"-noun-fr "pop"-noun-ca
+"os"-noun-ca "ours"-noun-fr
+"ours"-noun-fr "os"-noun-ca
+"puny"-noun-ca "poignet"-noun-fr
+"poignet"-noun-fr "puny"-noun-ca
+"maléfice"-noun-fr "maledicció"-noun-ca
+"maledicció"-noun-ca "maléfice"-noun-fr
+"hàbit"-noun-ca "habitude"-noun-fr
+"habitude"-noun-fr "hàbit"-noun-ca
+"comerciant"-noun-ca "marchand"-noun-fr
+"marchand"-noun-fr "comerciant"-noun-ca
+"lluentor"-noun-ca "éclat"-noun-fr
+"éclat"-noun-fr "lluentor"-noun-ca
+"cadre"-noun-fr "àmbit"-noun-ca
+"cadre"-noun-fr "quadre"-noun-ca
+"àmbit"-noun-ca "cadre"-noun-fr
+"quadre"-noun-ca "cadre"-noun-fr
+"bâtiment"-noun-fr "construcció"-noun-ca
+"construcció"-noun-ca "bâtiment"-noun-fr
+"residu"-noun-ca "reste"-noun-fr
+"residu"-noun-ca "restant"-noun-fr
+"residu"-noun-ca "débris"-noun-fr
+"reste"-noun-fr "residu"-noun-ca
+"restant"-noun-fr "residu"-noun-ca
+"restant"-noun-fr "resta"-noun-ca
+"débris"-noun-fr "residu"-noun-ca
+"resta"-noun-ca "restant"-noun-fr
+"sorte"-noun-fr "tipus"-noun-ca
+"tipus"-noun-ca "sorte"-noun-fr
+"tipus"-noun-ca "mec"-noun-fr
+"mec"-noun-fr "tipus"-noun-ca
+"roba"-noun-ca "étoffe"-noun-fr
+"roba"-noun-ca "toile"-noun-fr
+"étoffe"-noun-fr "roba"-noun-ca
+"toile"-noun-fr "roba"-noun-ca
+"personal"-noun-ca "effectif"-noun-fr
+"effectif"-noun-fr "personal"-noun-ca
+"sol"-noun-fr "fons"-noun-ca
+"fons"-noun-ca "sol"-noun-fr
+"propòsit"-noun-ca "intention"-noun-fr
+"intention"-noun-fr "propòsit"-noun-ca
+"propos"-noun-fr "intenció"-noun-ca
+"intenció"-noun-ca "propos"-noun-fr
+"intenció"-noun-ca "dessein"-noun-fr
+"dessein"-noun-fr "intenció"-noun-ca
+"vaisseau"-noun-fr "vaixell"-noun-ca
+"vaixell"-noun-ca "vaisseau"-noun-fr
+"bateau"-noun-fr "navili"-noun-ca
+"navili"-noun-ca "bateau"-noun-fr
+"garde"-noun-fr "vigilància"-noun-ca
+"vigilància"-noun-ca "garde"-noun-fr
+"regidor"-noun-ca "conseiller municipal"-noun-fr
+"conseiller municipal"-noun-fr "regidor"-noun-ca
+"lien"-noun-fr "vincle"-noun-ca
+"vincle"-noun-ca "lien"-noun-fr
+"taula"-noun-ca "tableau"-noun-fr
+"tableau"-noun-fr "taula"-noun-ca
+"ascendent"-noun-ca "ancêtre"-noun-fr
+"ancêtre"-noun-fr "ascendent"-noun-ca
+"banda"-noun-ca "ruban"-noun-fr
+"ruban"-noun-fr "banda"-noun-ca
+"montagne"-noun-fr "serra"-noun-ca
+"serra"-noun-ca "montagne"-noun-fr
+"réduction"-noun-fr "rebaixa"-noun-ca
+"rebaixa"-noun-ca "réduction"-noun-fr
+"iniciativa"-noun-ca "entreprise"-noun-fr
+"entreprise"-noun-fr "iniciativa"-noun-ca
+"cop d'estat"-noun-ca "putsch"-noun-fr
+"putsch"-noun-fr "cop d'estat"-noun-ca
+"unió"-noun-ca "unification"-noun-fr
+"unification"-noun-fr "unió"-noun-ca
+"contribution"-noun-fr "aportació"-noun-ca
+"aportació"-noun-ca "contribution"-noun-fr
+"reunió"-noun-ca "session"-noun-fr
+"reunió"-noun-ca "séance"-noun-fr
+"session"-noun-fr "reunió"-noun-ca
+"séance"-noun-fr "reunió"-noun-ca
+"arena"-noun-ca "sable"-noun-fr
+"sable"-noun-fr "arena"-noun-ca
+"arène"-noun-fr "sorra"-noun-ca
+"sorra"-noun-ca "arène"-noun-fr
+"portefeuille"-noun-fr "dossier"-noun-ca
+"portefeuille"-noun-fr "carpeta"-noun-ca
+"dossier"-noun-ca "portefeuille"-noun-fr
+"carpeta"-noun-ca "portefeuille"-noun-fr
+"ceinture"-noun-fr "cintura"-noun-ca
+"cintura"-noun-ca "ceinture"-noun-fr
+"altitude"-noun-fr "altura"-noun-ca
+"altura"-noun-ca "altitude"-noun-fr
+"vague"-noun-fr "onada"-noun-ca
+"onada"-noun-ca "vague"-noun-fr
+"rock"-noun-ca "roche"-noun-fr
+"roche"-noun-fr "rock"-noun-ca
+"roca"-noun-ca "rocher"-noun-fr
+"rocher"-noun-fr "roca"-noun-ca
+"précipice"-noun-fr "abisme"-noun-ca
+"abisme"-noun-ca "précipice"-noun-fr
+"pantà"-noun-ca "marécage"-noun-fr
+"marécage"-noun-fr "pantà"-noun-ca
+"lagune"-noun-fr "estany"-noun-ca
+"estany"-noun-ca "lagune"-noun-fr
+"llacuna"-noun-ca "étang"-noun-fr
+"étang"-noun-fr "llacuna"-noun-ca
+"cabina"-noun-ca "kiosque"-noun-fr
+"kiosque"-noun-fr "cabina"-noun-ca
+"bourse"-noun-fr "bossa"-noun-ca
+"bossa"-noun-ca "bourse"-noun-fr
+"columna"-noun-ca "file"-noun-fr
+"file"-noun-fr "columna"-noun-ca
+"file"-noun-fr "filera"-noun-ca
+"filera"-noun-ca "file"-noun-fr
+"mamelle"-noun-fr "pit"-noun-ca
+"pit"-noun-ca "mamelle"-noun-fr
+"pit"-noun-ca "sein"-noun-fr
+"sein"-noun-fr "pit"-noun-ca
+"caisse"-noun-fr "capsa"-noun-ca
+"capsa"-noun-ca "caisse"-noun-fr
+"aparador"-noun-ca "vitrine"-noun-fr
+"vitrine"-noun-fr "aparador"-noun-ca
+"chance"-noun-fr "fortuna"-noun-ca
+"fortuna"-noun-ca "chance"-noun-fr
+"sort"-noun-ca "sort"-noun-fr
+"sort"-noun-fr "sort"-noun-ca
+"sort"-noun-fr "fatalitat"-noun-ca
+"fatalitat"-noun-ca "sort"-noun-fr
+"demande"-noun-fr "petició"-noun-ca
+"demande"-noun-fr "requeriment"-noun-ca
+"petició"-noun-ca "demande"-noun-fr
+"requeriment"-noun-ca "demande"-noun-fr
+"pétition"-noun-fr "sol·licitud"-noun-ca
+"sol·licitud"-noun-ca "pétition"-noun-fr
+"treball"-noun-ca "emploi"-noun-fr
+"emploi"-noun-fr "treball"-noun-ca
+"métier"-noun-fr "càrrec"-noun-ca
+"càrrec"-noun-ca "métier"-noun-fr
+"càrrec"-noun-ca "office"-noun-fr
+"office"-noun-fr "càrrec"-noun-ca
+"canonada"-noun-ca "conduit"-noun-fr
+"conduit"-noun-fr "canonada"-noun-ca
+"itinerari"-noun-ca "route"-noun-fr
+"route"-noun-fr "itinerari"-noun-ca
+"volant"-noun-fr "timó"-noun-ca
+"timó"-noun-ca "volant"-noun-fr
+"zone"-noun-fr "àrea"-noun-ca
+"àrea"-noun-ca "zone"-noun-fr
+"compagnon"-noun-fr "acompanyant"-noun-ca
+"acompanyant"-noun-ca "compagnon"-noun-fr
+"home"-noun-ca "femme"-noun-fr
+"femme"-noun-fr "home"-noun-ca
+"muller"-noun-ca "époux"-noun-fr
+"époux"-noun-fr "muller"-noun-ca
+"encàrrec"-noun-ca "requête"-noun-fr
+"requête"-noun-fr "encàrrec"-noun-ca
+"utilisation"-noun-fr "ús"-noun-ca
+"ús"-noun-ca "utilisation"-noun-fr
+"père"-noun-fr "mossèn"-noun-ca
+"mossèn"-noun-ca "père"-noun-fr
+"équipe"-noun-fr "colla"-noun-ca
+"équipe"-noun-fr "brigada"-noun-ca
+"colla"-noun-ca "équipe"-noun-fr
+"brigada"-noun-ca "équipe"-noun-fr
+"radi"-noun-ca "radio"-noun-fr
+"radio"-noun-fr "radi"-noun-ca
+"tapís"-noun-ca "tapis"-noun-fr
+"tapis"-noun-fr "tapís"-noun-ca
+"auto"-noun-ca "automobile"-noun-fr
+"automobile"-noun-fr "auto"-noun-ca
+"automobile"-noun-fr "cotxe"-noun-ca
+"cotxe"-noun-ca "automobile"-noun-fr
+"cotxe"-noun-ca "auto"-noun-fr
+"auto"-noun-fr "cotxe"-noun-ca
+"accueil"-noun-fr "recepció"-noun-ca
+"recepció"-noun-ca "accueil"-noun-fr
+"grapat"-noun-ca "poignée"-noun-fr
+"poignée"-noun-fr "grapat"-noun-ca
+"queue"-noun-fr "titola"-noun-ca
+"titola"-noun-ca "queue"-noun-fr
+"dépôt"-noun-fr "ingrés"-noun-ca
+"ingrés"-noun-ca "dépôt"-noun-fr
+"ingrés"-noun-ca "entrée"-noun-fr
+"entrée"-noun-fr "ingrés"-noun-ca
+"cause"-noun-fr "cosa"-noun-ca
+"cosa"-noun-ca "cause"-noun-fr
+"cosa"-noun-ca "objet"-noun-fr
+"causa"-noun-ca "raison"-noun-fr
+"causa"-noun-ca "pourquoi"-noun-fr
+"raison"-noun-fr "causa"-noun-ca
+"raison"-noun-fr "motiu"-noun-ca
+"pourquoi"-noun-fr "causa"-noun-ca
+"pourquoi"-noun-fr "motiu"-noun-ca
+"pourquoi"-noun-fr "raó"-noun-ca
+"objet"-noun-fr "cosa"-noun-ca
+"motiu"-noun-ca "raison"-noun-fr
+"motiu"-noun-ca "pourquoi"-noun-fr
+"raó"-noun-ca "pourquoi"-noun-fr
+"végétal"-noun-fr "planta"-noun-ca
+"planta"-noun-ca "végétal"-noun-fr
+"jove"-noun-ca "jeune fille"-noun-fr
+"jeune fille"-noun-fr "jove"-noun-ca
+"noi"-noun-ca "enfant"-noun-fr
+"enfant"-noun-fr "noi"-noun-ca
+"chaise"-noun-fr "càtedra"-noun-ca
+"càtedra"-noun-ca "chaise"-noun-fr
+"siège"-noun-fr "assetjament"-noun-ca
+"assetjament"-noun-ca "siège"-noun-fr
+"vue"-noun-fr "visió"-noun-ca
+"visió"-noun-ca "vue"-noun-fr
+"vista"-noun-ca "vision"-noun-fr
+"vision"-noun-fr "vista"-noun-ca
+"destinació"-noun-ca "destin"-noun-fr
+"destin"-noun-fr "destinació"-noun-ca
+"évènement"-noun-fr "succés"-noun-ca
+"succés"-noun-ca "évènement"-noun-fr
+"conte"-noun-ca "récit"-noun-fr
+"récit"-noun-fr "conte"-noun-ca
+"race"-noun-fr "casta"-noun-ca
+"casta"-noun-ca "race"-noun-fr
+"ètnia"-noun-ca "peuple"-noun-fr
+"peuple"-noun-fr "ètnia"-noun-ca
+"municipi"-noun-ca "municipalité"-noun-fr
+"municipalité"-noun-fr "municipi"-noun-ca
+"plafó"-noun-ca "plafond"-noun-fr
+"plafond"-noun-fr "plafó"-noun-ca
+"toit"-noun-fr "sostre"-noun-ca
+"sostre"-noun-ca "toit"-noun-fr
+"índex"-noun-ca "indice"-noun-fr
+"indice"-noun-fr "índex"-noun-ca
+"regal"-noun-ca "présent"-noun-fr
+"présent"-noun-fr "regal"-noun-ca
+"traitement"-noun-fr "tracte"-noun-ca
+"tracte"-noun-ca "traitement"-noun-fr
+"bâton"-noun-fr "pal"-noun-ca
+"pal"-noun-ca "bâton"-noun-fr
+"rive"-noun-fr "vora"-noun-ca
+"rive"-noun-fr "riba"-noun-ca
+"vora"-noun-ca "rive"-noun-fr
+"vora"-noun-ca "berge"-noun-fr
+"vora"-noun-ca "marge"-noun-fr
+"riba"-noun-ca "rive"-noun-fr
+"berge"-noun-fr "vora"-noun-ca
+"marge"-noun-fr "vora"-noun-ca
+"bord"-noun-fr "marge"-noun-ca
+"marge"-noun-ca "bord"-noun-fr
+"rivière"-noun-fr "ribera"-noun-ca
+"ribera"-noun-ca "rivière"-noun-fr
+"riu"-noun-ca "ruisseau"-noun-fr
+"ruisseau"-noun-fr "riu"-noun-ca
+"troupe"-noun-fr "companyia"-noun-ca
+"companyia"-noun-ca "troupe"-noun-fr
+"gage"-noun-fr "garantia"-noun-ca
+"garantia"-noun-ca "gage"-noun-fr
+"correu"-noun-ca "poste"-noun-fr
+"poste"-noun-fr "correu"-noun-ca
+"accord"-noun-fr "concordança"-noun-ca
+"concordança"-noun-ca "accord"-noun-fr
+"medi ambient"-noun-ca "entourage"-noun-fr
+"entourage"-noun-fr "medi ambient"-noun-ca
+"coque"-noun-fr "closca"-noun-ca
+"closca"-noun-ca "coque"-noun-fr
+"jambe"-noun-fr "pota"-noun-ca
+"pota"-noun-ca "jambe"-noun-fr
+"question"-noun-fr "afer"-noun-ca
+"afer"-noun-ca "question"-noun-fr
+"assumpte"-noun-ca "affaire"-noun-fr
+"affaire"-noun-fr "assumpte"-noun-ca
+"sillon"-noun-fr "arruga"-noun-ca
+"arruga"-noun-ca "sillon"-noun-fr
+"trouble"-noun-fr "desordre"-noun-ca
+"desordre"-noun-ca "trouble"-noun-fr
+"vacarme"-noun-fr "xivarri"-noun-ca
+"xivarri"-noun-ca "vacarme"-noun-fr
+"bruit"-noun-fr "rumor"-noun-ca
+"rumor"-noun-ca "bruit"-noun-fr
+"test"-noun-fr "prova"-noun-ca
+"prova"-noun-ca "test"-noun-fr
+"mostra"-noun-ca "spécimen"-noun-fr
+"spécimen"-noun-fr "mostra"-noun-ca
+"goût"-noun-fr "sabor"-noun-ca
+"sabor"-noun-ca "goût"-noun-fr
+"aparició"-noun-ca "phénomène"-noun-fr
+"aparició"-noun-ca "occurrence"-noun-fr
+"phénomène"-noun-fr "aparició"-noun-ca
+"occurrence"-noun-fr "aparició"-noun-ca
+"issue"-noun-fr "eixida"-noun-ca
+"eixida"-noun-ca "issue"-noun-fr
+"cruïlla"-noun-ca "croisement"-noun-fr
+"croisement"-noun-fr "cruïlla"-noun-ca
+"classe"-noun-ca "catégorie"-noun-fr
+"catégorie"-noun-fr "classe"-noun-ca
+"rengle"-noun-ca "rang"-noun-fr
+"rang"-noun-fr "rengle"-noun-ca
+"broma"-noun-ca "blague"-noun-fr
+"blague"-noun-fr "broma"-noun-ca
+"lit"-noun-fr "cau"-noun-ca
+"cau"-noun-ca "lit"-noun-fr
+"lieu"-noun-fr "indret"-noun-ca
+"indret"-noun-ca "lieu"-noun-fr
+"indret"-noun-ca "endroit"-noun-fr
+"endroit"-noun-fr "indret"-noun-ca
+"graella"-noun-ca "grille"-noun-fr
+"grille"-noun-fr "graella"-noun-ca
+"salle"-noun-fr "saló"-noun-ca
+"saló"-noun-ca "salle"-noun-fr
+"ouvrage"-noun-fr "obra"-noun-ca
+"obra"-noun-ca "ouvrage"-noun-fr
+"aptitud"-noun-ca "faculté"-noun-fr
+"faculté"-noun-fr "aptitud"-noun-ca
+"direcció"-noun-ca "adresse"-noun-fr
+"adresse"-noun-fr "direcció"-noun-ca
+"habitatge"-noun-ca "logement"-noun-fr
+"logement"-noun-fr "habitatge"-noun-ca
+"caméra"-noun-fr "cambra"-noun-ca
+"cambra"-noun-ca "caméra"-noun-fr
+"faute"-noun-fr "culpa"-noun-ca
+"faute"-noun-fr "mancança"-noun-ca
+"culpa"-noun-ca "faute"-noun-fr
+"mancança"-noun-ca "faute"-noun-fr
+"mancança"-noun-ca "manque"-noun-fr
+"manque"-noun-fr "mancança"-noun-ca
+"ponent"-noun-ca "ouest"-noun-fr
+"ouest"-noun-fr "ponent"-noun-ca
+"augmentation"-noun-fr "increment"-noun-ca
+"increment"-noun-ca "augmentation"-noun-fr
+"accroissement"-noun-fr "creixement"-noun-ca
+"creixement"-noun-ca "accroissement"-noun-fr
+"chute"-noun-fr "cascada"-noun-ca
+"cascada"-noun-ca "chute"-noun-fr
+"estimation"-noun-fr "valoració"-noun-ca
+"estimation"-noun-fr "avaluació"-noun-ca
+"valoració"-noun-ca "estimation"-noun-fr
+"valoració"-noun-ca "évaluation"-noun-fr
+"avaluació"-noun-ca "estimation"-noun-fr
+"avaluació"-noun-ca "expertise"-noun-fr
+"évaluation"-noun-fr "valoració"-noun-ca
+"expertise"-noun-fr "avaluació"-noun-ca
+"inclinació"-noun-ca "tendance"-noun-fr
+"tendance"-noun-fr "inclinació"-noun-ca
+"racó"-noun-ca "canton"-noun-fr
+"canton"-noun-fr "racó"-noun-ca
+"cantó"-noun-ca "côté"-noun-fr
+"côté"-noun-fr "cantó"-noun-ca
+"cara"-noun-ca "gueule"-noun-fr
+"gueule"-noun-fr "cara"-noun-ca
+"gueule"-noun-fr "rostre"-noun-ca
+"face"-noun-fr "rostre"-noun-ca
+"rostre"-noun-ca "gueule"-noun-fr
+"rostre"-noun-ca "face"-noun-fr
+"grau"-noun-ca "échelon"-noun-fr
+"échelon"-noun-fr "grau"-noun-ca
+"obstruction"-noun-fr "barrera"-noun-ca
+"barrera"-noun-ca "obstruction"-noun-fr
+"bagul"-noun-ca "coffre"-noun-fr
+"coffre"-noun-fr "bagul"-noun-ca
+"intranquil·litat"-noun-ca "inquiétude"-noun-fr
+"inquiétude"-noun-fr "intranquil·litat"-noun-ca
+"refus"-noun-fr "denegació"-noun-ca
+"denegació"-noun-ca "refus"-noun-fr
+"ofensa"-noun-ca "injure"-noun-fr
+"injure"-noun-fr "ofensa"-noun-ca
+"ràbia"-noun-ca "colère"-noun-fr
+"colère"-noun-fr "ràbia"-noun-ca
+"habileté"-noun-fr "habilitat"-noun-ca
+"habilitat"-noun-ca "habileté"-noun-fr
+"partida"-noun-ca "match"-noun-fr
+"partida"-noun-ca "parti"-noun-fr
+"match"-noun-fr "partida"-noun-ca
+"match"-noun-fr "bàndol"-noun-ca
+"parti"-noun-fr "partida"-noun-ca
+"parti"-noun-fr "bàndol"-noun-ca
+"bàndol"-noun-ca "match"-noun-fr
+"bàndol"-noun-ca "parti"-noun-fr
+"menjar"-noun-ca "nourriture"-noun-fr
+"nourriture"-noun-fr "menjar"-noun-ca
+"provision"-noun-fr "estoc"-noun-ca
+"estoc"-noun-ca "provision"-noun-fr
+"support"-noun-fr "recolzament"-noun-ca
+"recolzament"-noun-ca "support"-noun-fr
+"suport"-noun-ca "appui"-noun-fr
+"appui"-noun-fr "suport"-noun-ca
+"maldonne"-noun-fr "equivocació"-noun-ca
+"equivocació"-noun-ca "maldonne"-noun-fr
+"manière"-noun-fr "mode"-noun-ca
+"mode"-noun-ca "manière"-noun-fr
+"mode"-noun-ca "façon"-noun-fr
+"façon"-noun-fr "mode"-noun-ca
+"pioche"-noun-fr "bec"-noun-ca
+"bec"-noun-ca "pioche"-noun-fr
+"outil"-noun-fr "instrument"-noun-ca
+"instrument"-noun-ca "outil"-noun-fr
+"eina"-noun-ca "instrument"-noun-fr
+"instrument"-noun-fr "eina"-noun-ca
+"atuell"-noun-ca "récipient"-noun-fr
+"récipient"-noun-fr "atuell"-noun-ca
+"grandeur"-noun-fr "grandària"-noun-ca
+"grandària"-noun-ca "grandeur"-noun-fr
+"réglementation"-noun-fr "normativa"-noun-ca
+"normativa"-noun-ca "réglementation"-noun-fr
+"patron"-noun-fr "plantilla"-noun-ca
+"plantilla"-noun-ca "patron"-noun-fr
+"longueur"-noun-fr "llargària"-noun-ca
+"llargària"-noun-ca "longueur"-noun-fr
+"passadís"-noun-ca "corridor"-noun-fr
+"corridor"-noun-fr "passadís"-noun-ca
+"couloir"-noun-fr "corredor"-noun-ca
+"corredor"-noun-ca "couloir"-noun-fr
+"col·lapse"-noun-ca "effondrement"-noun-fr
+"effondrement"-noun-fr "col·lapse"-noun-ca
+"suma"-noun-ca "addition"-noun-fr
+"addition"-noun-fr "suma"-noun-ca
+"somme"-noun-fr "addició"-noun-ca
+"addició"-noun-ca "somme"-noun-fr
+"estació"-noun-ca "station"-noun-fr
+"station"-noun-fr "estació"-noun-ca
+"lycée"-noun-fr "institut"-noun-ca
+"institut"-noun-ca "lycée"-noun-fr
+"empreinte"-noun-fr "empremta"-noun-ca
+"empremta"-noun-ca "empreinte"-noun-fr
+"trace"-noun-fr "vestigi"-noun-ca
+"vestigi"-noun-ca "trace"-noun-fr
+"traça"-noun-ca "vestige"-noun-fr
+"vestige"-noun-fr "traça"-noun-ca
+"essai"-noun-fr "intent"-noun-ca
+"intent"-noun-ca "essai"-noun-fr
+"assaig"-noun-ca "tentative"-noun-fr
+"tentative"-noun-fr "assaig"-noun-ca
+"banca"-noun-ca "banc"-noun-fr
+"banc"-noun-fr "banca"-noun-ca
+"exèrcit"-noun-ca "armada"-noun-fr
+"armada"-noun-fr "exèrcit"-noun-ca
+"cognom"-noun-ca "lignée"-noun-fr
+"lignée"-noun-fr "cognom"-noun-ca
+"atzar"-noun-ca "hasard"-noun-fr
+"hasard"-noun-fr "atzar"-noun-ca
+"escletxa"-noun-ca "crevasse"-noun-fr
+"crevasse"-noun-fr "escletxa"-noun-ca
+"servidor"-noun-ca "serviteur"-noun-fr
+"serviteur"-noun-fr "servidor"-noun-ca
+"considération"-noun-fr "consideració"-noun-ca
+"consideració"-noun-ca "considération"-noun-fr
+"mesure"-noun-fr "mida"-noun-ca
+"mida"-noun-ca "mesure"-noun-fr
+"esdevenir"-verb-ca "venir"-verb-fr
+"venir"-verb-fr "esdevenir"-verb-ca
+"devenir"-verb-fr "venir"-verb-ca
+"venir"-verb-ca "devenir"-verb-fr
+"pareil"-adjective-fr "igual"-adjective-ca
+"igual"-adjective-ca "pareil"-adjective-fr
+"extern"-adjective-ca "extérieur"-adjective-fr
+"extérieur"-adjective-fr "extern"-adjective-ca
+"quotidià"-adjective-ca "journalier"-adjective-fr
+"journalier"-adjective-fr "quotidià"-adjective-ca
+"permanent"-adjective-fr "persistent"-adjective-ca
+"persistent"-adjective-ca "permanent"-adjective-fr
+"corder"-verb-fr "tòrcer"-verb-ca
+"tòrcer"-verb-ca "corder"-verb-fr
+"tòrcer"-verb-ca "fausser"-verb-fr
+"fausser"-verb-fr "tòrcer"-verb-ca
+"bagarrer"-verb-fr "lluitar"-verb-ca
+"lluitar"-verb-ca "bagarrer"-verb-fr
+"còmode"-adjective-ca "confortable"-adjective-fr
+"confortable"-adjective-fr "còmode"-adjective-ca
+"accueillant"-adjective-fr "hospitalari"-adjective-ca
+"hospitalari"-adjective-ca "accueillant"-adjective-fr
+"ouvrier"-adjective-fr "obrerista"-adjective-ca
+"obrerista"-adjective-ca "ouvrier"-adjective-fr
+"obrer"-adjective-ca "travailliste"-adjective-fr
+"travailliste"-adjective-fr "obrer"-adjective-ca
+"chambrer"-verb-fr "isolar"-verb-ca
+"isolar"-verb-ca "chambrer"-verb-fr
+"treballar"-verb-ca "bosser"-verb-fr
+"bosser"-verb-fr "treballar"-verb-ca
+"previ"-adjective-ca "antérieur"-adjective-fr
+"antérieur"-adjective-fr "previ"-adjective-ca
+"anterior"-adjective-ca "précédent"-adjective-fr
+"précédent"-adjective-fr "anterior"-adjective-ca
+"nommer"-verb-fr "denominar"-verb-ca
+"nommer"-verb-fr "nominar"-verb-ca
+"denominar"-verb-ca "nommer"-verb-fr
+"nominar"-verb-ca "nommer"-verb-fr
+"admettre"-verb-fr "concedir"-verb-ca
+"concedir"-verb-ca "admettre"-verb-fr
+"carregar"-verb-ca "encombrer"-verb-fr
+"encombrer"-verb-fr "carregar"-verb-ca
+"augmenter"-verb-fr "incrementar"-verb-ca
+"incrementar"-verb-ca "augmenter"-verb-fr
+"animat"-adjective-ca "vif"-adjective-fr
+"vif"-adjective-fr "animat"-adjective-ca
+"affliger"-verb-fr "angoixar"-verb-ca
+"angoixar"-verb-ca "affliger"-verb-fr
+"munir"-verb-fr "abastir"-verb-ca
+"munir"-verb-fr "subministrar"-verb-ca
+"abastir"-verb-ca "munir"-verb-fr
+"abastir"-verb-ca "pourvoir"-verb-fr
+"subministrar"-verb-ca "munir"-verb-fr
+"subministrar"-verb-ca "pourvoir"-verb-fr
+"pourvoir"-verb-fr "abastir"-verb-ca
+"pourvoir"-verb-fr "subministrar"-verb-ca
+"aconseguir"-verb-ca "atteindre"-verb-fr
+"atteindre"-verb-fr "aconseguir"-verb-ca
+"jeter"-verb-fr "llançar"-verb-ca
+"llançar"-verb-ca "jeter"-verb-fr
+"tirar"-verb-ca "verser"-verb-fr
+"verser"-verb-fr "tirar"-verb-ca
+"saisir"-verb-fr "copsar"-verb-ca
+"copsar"-verb-ca "saisir"-verb-fr
+"copsar"-verb-ca "rejoindre"-verb-fr
+"agafar"-verb-ca "rejoindre"-verb-fr
+"rejoindre"-verb-fr "copsar"-verb-ca
+"rejoindre"-verb-fr "agafar"-verb-ca
+"recruter"-verb-fr "contractar"-verb-ca
+"contractar"-verb-ca "recruter"-verb-fr
+"achever"-verb-fr "rematar"-verb-ca
+"rematar"-verb-ca "achever"-verb-fr
+"rematar"-verb-ca "finir"-verb-fr
+"finir"-verb-fr "rematar"-verb-ca
+"changer"-verb-fr "alterar"-verb-ca
+"alterar"-verb-ca "changer"-verb-fr
+"dur"-verb-ca "amener"-verb-fr
+"dur"-verb-ca "mener"-verb-fr
+"dur"-verb-ca "emporter"-verb-fr
+"amener"-verb-fr "dur"-verb-ca
+"mener"-verb-fr "dur"-verb-ca
+"emporter"-verb-fr "dur"-verb-ca
+"diriger"-verb-fr "enfocar"-verb-ca
+"enfocar"-verb-ca "diriger"-verb-fr
+"compacte"-adjective-ca "massif"-adjective-fr
+"massif"-adjective-fr "compacte"-adjective-ca
+"gruixut"-adjective-ca "gros"-adjective-fr
+"gros"-adjective-fr "gruixut"-adjective-ca
+"addicionar"-verb-ca "ajouter"-verb-fr
+"ajouter"-verb-fr "addicionar"-verb-ca
+"ajouter"-verb-fr "sumar"-verb-ca
+"sumar"-verb-ca "ajouter"-verb-fr
+"mirar"-verb-ca "garder"-verb-fr
+"garder"-verb-fr "mirar"-verb-ca
+"bon"-adjective-fr "apte"-adjective-ca
+"apte"-adjective-ca "bon"-adjective-fr
+"courant"-adjective-fr "comú"-adjective-ca
+"comú"-adjective-ca "courant"-adjective-fr
+"comú"-adjective-ca "ordinaire"-adjective-fr
+"ordinaire"-adjective-fr "comú"-adjective-ca
+"lleu"-adjective-ca "insignifiant"-adjective-fr
+"insignifiant"-adjective-fr "lleu"-adjective-ca
+"remarquer"-verb-fr "recalcar"-verb-ca
+"recalcar"-verb-ca "remarquer"-verb-fr
+"souligner"-verb-fr "ressaltar"-verb-ca
+"ressaltar"-verb-ca "souligner"-verb-fr
+"ressaltar"-verb-ca "exceller"-verb-fr
+"exceller"-verb-fr "ressaltar"-verb-ca
+"valorar"-verb-ca "estimer"-verb-fr
+"estimer"-verb-fr "valorar"-verb-ca
+"estimer"-verb-fr "avaluar"-verb-ca
+"avaluar"-verb-ca "estimer"-verb-fr
+"avaluar"-verb-ca "supputer"-verb-fr
+"supputer"-verb-fr "avaluar"-verb-ca
+"golejar"-verb-ca "marquer"-verb-fr
+"marquer"-verb-fr "golejar"-verb-ca
+"xiuxiuejar"-verb-ca "murmurer"-verb-fr
+"murmurer"-verb-fr "xiuxiuejar"-verb-ca
+"aparentar"-verb-ca "ressembler"-verb-fr
+"ressembler"-verb-fr "aparentar"-verb-ca
+"broncher"-verb-fr "titubejar"-verb-ca
+"titubejar"-verb-ca "broncher"-verb-fr
+"titubejar"-verb-ca "hésiter"-verb-fr
+"hésiter"-verb-fr "titubejar"-verb-ca
+"plaider"-verb-fr "defensar"-verb-ca
+"plaider"-verb-fr "propugnar"-verb-ca
+"defensar"-verb-ca "plaider"-verb-fr
+"propugnar"-verb-ca "plaider"-verb-fr
+"propugnar"-verb-ca "défendre"-verb-fr
+"défendre"-verb-fr "propugnar"-verb-ca
+"reforçar"-verb-ca "conforter"-verb-fr
+"conforter"-verb-fr "reforçar"-verb-ca
+"baser"-verb-fr "fonamentar"-verb-ca
+"fonamentar"-verb-ca "baser"-verb-fr
+"trencar"-verb-ca "faire faillite"-verb-fr
+"faire faillite"-verb-fr "trencar"-verb-ca
+"marxar"-verb-ca "repartir"-verb-fr
+"repartir"-verb-fr "marxar"-verb-ca
+"épouvanter"-verb-fr "espaordir"-verb-ca
+"espaordir"-verb-ca "épouvanter"-verb-fr
+"prévenir"-verb-fr "advertir"-verb-ca
+"advertir"-verb-ca "prévenir"-verb-fr
+"avisar"-verb-ca "avertir"-verb-fr
+"avertir"-verb-fr "avisar"-verb-ca
+"crever"-verb-fr "explotar"-verb-ca
+"explotar"-verb-ca "crever"-verb-fr
+"explotar"-verb-ca "exploser"-verb-fr
+"exploser"-verb-fr "explotar"-verb-ca
+"acomiadar"-verb-ca "renvoyer"-verb-fr
+"renvoyer"-verb-fr "acomiadar"-verb-ca
+"favorable"-adjective-fr "propici"-adjective-ca
+"propici"-adjective-ca "favorable"-adjective-fr
+"mettre"-verb-fr "pondre"-verb-ca
+"pondre"-verb-ca "mettre"-verb-fr
+"pondre"-verb-ca "brancher"-verb-fr
+"brancher"-verb-fr "pondre"-verb-ca
+"romandre"-verb-ca "rester"-verb-fr
+"rester"-verb-fr "romandre"-verb-ca
+"soutenir"-verb-fr "aguantar"-verb-ca
+"aguantar"-verb-ca "soutenir"-verb-fr
+"contrari"-adjective-ca "opposé"-adjective-fr
+"opposé"-adjective-fr "contrari"-adjective-ca
+"vaste"-adjective-fr "extens"-adjective-ca
+"extens"-adjective-ca "vaste"-adjective-fr
+"plat"-adjective-fr "llis"-adjective-ca
+"llis"-adjective-ca "plat"-adjective-fr
+"superficiel"-adjective-fr "frívol"-adjective-ca
+"frívol"-adjective-ca "superficiel"-adjective-fr
+"sauver"-verb-fr "guardar"-verb-ca
+"guardar"-verb-ca "sauver"-verb-fr
+"baisser"-verb-fr "davallar"-verb-ca
+"davallar"-verb-ca "baisser"-verb-fr
+"davallar"-verb-ca "abaisser"-verb-fr
+"abaisser"-verb-fr "davallar"-verb-ca
+"abaisser"-verb-fr "ajupir"-verb-ca
+"descendre"-verb-fr "ajupir"-verb-ca
+"ajupir"-verb-ca "abaisser"-verb-fr
+"ajupir"-verb-ca "descendre"-verb-fr
+"atent"-adjective-ca "prudent"-adjective-fr
+"prudent"-adjective-fr "atent"-adjective-ca
+"prudent"-adjective-fr "prudencial"-adjective-ca
+"prudencial"-adjective-ca "prudent"-adjective-fr
+"sage"-adjective-fr "savi"-adjective-ca
+"savi"-adjective-ca "sage"-adjective-fr
+"legal"-adjective-ca "licite"-adjective-fr
+"licite"-adjective-fr "legal"-adjective-ca
+"únic"-adjective-ca "incomparable"-adjective-fr
+"incomparable"-adjective-fr "únic"-adjective-ca
+"unique"-adjective-fr "sol"-adjective-ca
+"sol"-adjective-ca "unique"-adjective-fr
+"affreux"-adjective-fr "horrible"-adjective-ca
+"horrible"-adjective-ca "affreux"-adjective-fr
+"bell"-adjective-ca "bel"-adjective-fr
+"bell"-adjective-ca "joli"-adjective-fr
+"bel"-adjective-fr "bell"-adjective-ca
+"joli"-adjective-fr "bell"-adjective-ca
+"joli"-adjective-fr "bufó"-adjective-ca
+"bufó"-adjective-ca "joli"-adjective-fr
+"coûteux"-adjective-fr "car"-adjective-ca
+"car"-adjective-ca "coûteux"-adjective-fr
+"viable"-adjective-ca "réalisable"-adjective-fr
+"réalisable"-adjective-fr "viable"-adjective-ca
+"complet"-adjective-ca "total"-adjective-fr
+"complet"-adjective-ca "plein"-adjective-fr
+"complet"-adjective-ca "entier"-adjective-fr
+"total"-adjective-fr "complet"-adjective-ca
+"plein"-adjective-fr "complet"-adjective-ca
+"entier"-adjective-fr "complet"-adjective-ca
+"rassembler"-verb-fr "aplegar"-verb-ca
+"aplegar"-verb-ca "rassembler"-verb-fr
+"aplegar"-verb-ca "rallier"-verb-fr
+"rallier"-verb-fr "aplegar"-verb-ca
+"embolcallar"-verb-ca "entortiller"-verb-fr
+"entortiller"-verb-fr "embolcallar"-verb-ca
+"distint"-adjective-ca "différent"-adjective-fr
+"différent"-adjective-fr "distint"-adjective-ca
+"instable"-adjective-fr "precari"-adjective-ca
+"precari"-adjective-ca "instable"-adjective-fr
+"brave"-adjective-fr "valent"-adjective-ca
+"valent"-adjective-ca "brave"-adjective-fr
+"vulgaire"-adjective-fr "insípid"-adjective-ca
+"insípid"-adjective-ca "vulgaire"-adjective-fr
+"présent"-adjective-fr "actual"-adjective-ca
+"actual"-adjective-ca "présent"-adjective-fr
+"excessif"-adjective-fr "abusiu"-adjective-ca
+"abusiu"-adjective-ca "excessif"-adjective-fr
+"discutible"-adjective-ca "contestable"-adjective-fr
+"contestable"-adjective-fr "discutible"-adjective-ca
+"dubtós"-adjective-ca "incertain"-adjective-fr
+"dubtós"-adjective-ca "indécis"-adjective-fr
+"incertain"-adjective-fr "dubtós"-adjective-ca
+"indécis"-adjective-fr "dubtós"-adjective-ca
+"lâche"-adjective-fr "covard"-adjective-ca
+"covard"-adjective-ca "lâche"-adjective-fr
+"rare"-adjective-fr "insòlit"-adjective-ca
+"insòlit"-adjective-ca "rare"-adjective-fr
+"insòlit"-adjective-ca "bizarre"-adjective-fr
+"bizarre"-adjective-fr "insòlit"-adjective-ca
+"addicional"-adjective-ca "supplémentaire"-adjective-fr
+"supplémentaire"-adjective-fr "addicional"-adjective-ca
+"ancià"-adjective-ca "vieux"-adjective-fr
+"vieux"-adjective-fr "ancià"-adjective-ca
+"veritable"-adjective-ca "vrai"-adjective-fr
+"vrai"-adjective-fr "veritable"-adjective-ca
+"véritable"-adjective-fr "vertader"-adjective-ca
+"vertader"-adjective-ca "véritable"-adjective-fr
+"cacher"-verb-fr "ocultar"-verb-ca
+"ocultar"-verb-ca "cacher"-verb-fr
+"construire"-verb-fr "bastir"-verb-ca
+"bastir"-verb-ca "construire"-verb-fr
+"essayer"-verb-fr "tastar"-verb-ca
+"tastar"-verb-ca "essayer"-verb-fr
+"tastar"-verb-ca "prouver"-verb-fr
+"prouver"-verb-fr "tastar"-verb-ca
+"fugir"-verb-ca "enfuir"-verb-fr
+"enfuir"-verb-fr "fugir"-verb-ca
+"col·locar"-verb-ca "placer"-verb-fr
+"placer"-verb-fr "col·locar"-verb-ca
+"placer"-verb-fr "situar"-verb-ca
+"placer"-verb-fr "posicionar"-verb-ca
+"situar"-verb-ca "placer"-verb-fr
+"posicionar"-verb-ca "placer"-verb-fr
+"posicionar"-verb-ca "caser"-verb-fr
+"caser"-verb-fr "posicionar"-verb-ca
+"joindre"-verb-fr "unir"-verb-ca
+"unir"-verb-ca "joindre"-verb-fr
+"escollir"-verb-ca "élire"-verb-fr
+"élire"-verb-fr "escollir"-verb-ca
+"élire"-verb-fr "triar"-verb-ca
+"triar"-verb-ca "élire"-verb-fr
+"recueillir"-verb-fr "recopilar"-verb-ca
+"recopilar"-verb-ca "recueillir"-verb-fr
+"descobrir"-verb-ca "déceler"-verb-fr
+"déceler"-verb-fr "descobrir"-verb-ca
+"concerner"-verb-fr "implicar"-verb-ca
+"implicar"-verb-ca "concerner"-verb-fr
+"llevar"-verb-ca "enlever"-verb-fr
+"enlever"-verb-fr "llevar"-verb-ca
+"obrir"-verb-ca "épanouir"-verb-fr
+"épanouir"-verb-fr "obrir"-verb-ca
+"aspirer"-verb-fr "inhalar"-verb-ca
+"inhalar"-verb-ca "aspirer"-verb-fr
+"renunciar"-verb-ca "départir"-verb-fr
+"départir"-verb-fr "renunciar"-verb-ca
+"ultime"-adjective-fr "últim"-adjective-ca
+"ultime"-adjective-fr "darrer"-adjective-ca
+"últim"-adjective-ca "ultime"-adjective-fr
+"darrer"-adjective-ca "ultime"-adjective-fr
+"inévitable"-adjective-fr "ineludible"-adjective-ca
+"ineludible"-adjective-ca "inévitable"-adjective-fr
+"col·loquial"-adjective-ca "familier"-adjective-fr
+"familier"-adjective-fr "col·loquial"-adjective-ca
+"accessori"-adjective-ca "secondaire"-adjective-fr
+"secondaire"-adjective-fr "accessori"-adjective-ca
+"llunyà"-adjective-ca "éloigné"-adjective-fr
+"éloigné"-adjective-fr "llunyà"-adjective-ca
+"joyeux"-adjective-fr "alegre"-adjective-ca
+"alegre"-adjective-ca "joyeux"-adjective-fr
+"inútil"-adjective-ca "vain"-adjective-fr
+"vain"-adjective-fr "inútil"-adjective-ca
+"soumettre"-verb-fr "plantejar"-verb-ca
+"plantejar"-verb-ca "soumettre"-verb-fr
+"performant"-adjective-fr "eficaç"-adjective-ca
+"eficaç"-adjective-ca "performant"-adjective-fr
+"lluent"-adjective-ca "luisant"-adjective-fr
+"luisant"-adjective-fr "lluent"-adjective-ca
+"ensorrar"-verb-ca "affaisser"-verb-fr
+"ensorrar"-verb-ca "effondrer"-verb-fr
+"affaisser"-verb-fr "ensorrar"-verb-ca
+"effondrer"-verb-fr "ensorrar"-verb-ca
+"abattre"-verb-fr "derrotar"-verb-ca
+"derrotar"-verb-ca "abattre"-verb-fr
+"discutir"-verb-ca "disputer"-verb-fr
+"disputer"-verb-fr "discutir"-verb-ca
+"enraonar"-verb-ca "discuter"-verb-fr
+"discuter"-verb-fr "enraonar"-verb-ca
+"occuper"-verb-fr "envair"-verb-ca
+"envair"-verb-ca "occuper"-verb-fr
+"destrossar"-verb-ca "ravager"-verb-fr
+"ravager"-verb-fr "destrossar"-verb-ca
+"remettre"-verb-fr "remetre"-verb-ca
+"remetre"-verb-ca "remettre"-verb-fr
+"reviser"-verb-fr "revisar"-verb-ca
+"revisar"-verb-ca "reviser"-verb-fr
+"régler"-verb-fr "abonar"-verb-ca
+"abonar"-verb-ca "régler"-verb-fr
+"trametre"-verb-ca "envoyer"-verb-fr
+"envoyer"-verb-fr "trametre"-verb-ca
+"senyalar"-verb-ca "flécher"-verb-fr
+"flécher"-verb-fr "senyalar"-verb-ca
+"fins a"-preposition-ca "jusque"-preposition-fr
+"jusque"-preposition-fr "fins a"-preposition-ca
+"jusqu'à"-preposition-fr "fins"-preposition-ca
+"fins"-preposition-ca "jusqu'à"-preposition-fr
+"malgrat"-preposition-ca "en dépit de"-preposition-fr
+"en dépit de"-preposition-fr "malgrat"-preposition-ca
+"àdhuc"-adverb-ca "même"-adverb-fr
+"même"-adverb-fr "àdhuc"-adverb-ca
+"ne"-adverb-fr "no pas"-adverb-ca
+"ne"-adverb-fr "pas"-adverb-ca
+"no pas"-adverb-ca "ne"-adverb-fr
+"no pas"-adverb-ca "non"-adverb-fr
+"pas"-adverb-ca "ne"-adverb-fr
+"pas"-adverb-ca "non"-adverb-fr
+"non"-adverb-fr "no pas"-adverb-ca
+"non"-adverb-fr "pas"-adverb-ca
+"a dalt"-adverb-ca "en haut"-adverb-fr
+"en haut"-adverb-fr "a dalt"-adverb-ca
+"en haut"-adverb-fr "dalt"-adverb-ca
+"dalt"-adverb-ca "en haut"-adverb-fr
+"dalt"-adverb-ca "en dessus"-adverb-fr
+"en dessus"-adverb-fr "dalt"-adverb-ca
+"en dessus"-adverb-fr "amunt"-adverb-ca
+"amunt"-adverb-ca "en dessus"-adverb-fr
+"ahir a la nit"-adverb-ca "hier soir"-adverb-fr
+"hier soir"-adverb-fr "ahir a la nit"-adverb-ca
+"lors"-adverb-fr "aleshores"-adverb-ca
+"aleshores"-adverb-ca "lors"-adverb-fr
+"son"-noun-ca "rêve"-noun-fr
+"rêve"-noun-fr "son"-noun-ca
+"télé"-noun-fr "televisió"-noun-ca
+"televisió"-noun-ca "télé"-noun-fr
+"abreviació"-noun-ca "abréviation"-noun-fr
+"abréviation"-noun-fr "abreviació"-noun-ca
+"santé"-noun-fr "sanitat"-noun-ca
+"sanitat"-noun-ca "santé"-noun-fr
+"música"-noun-ca "musicien"-noun-fr
+"musicien"-noun-fr "música"-noun-ca
+"orient"-noun-fr "llevant"-noun-ca
+"llevant"-noun-ca "orient"-noun-fr
+"frère"-noun-fr "frare"-noun-ca
+"frare"-noun-ca "frère"-noun-fr
+"docteur"-noun-fr "metge"-noun-ca
+"metge"-noun-ca "docteur"-noun-fr
+"anyell"-noun-ca "mouton"-noun-fr
+"mouton"-noun-fr "anyell"-noun-ca
+"femelle"-adjective-fr "femení"-adjective-ca
+"femení"-adjective-ca "femelle"-adjective-fr
+"assequible"-adjective-ca "accessible"-adjective-fr
+"accessible"-adjective-fr "assequible"-adjective-ca
+"vendre aux enchères"-verb-fr "subhastar"-verb-ca
+"subhastar"-verb-ca "vendre aux enchères"-verb-fr
+"structurer"-verb-fr "estructurar"-verb-ca
+"estructurar"-verb-ca "structurer"-verb-fr
+"Jordà"-properNoun-ca "Jordana"-properNoun-fr
+"Jordà"-properNoun-ca "Jordana"-noun-fr
+"Jordana"-properNoun-fr "Jordà"-properNoun-ca
+"Jordana"-noun-fr "Jordà"-properNoun-ca
+"Maria"-properNoun-ca "María"-properNoun-fr
+"María"-properNoun-fr "Maria"-properNoun-ca
+"Romo"-properNoun-ca "Rome"-properNoun-fr
+"Rome"-properNoun-fr "Romo"-properNoun-ca
+"Guaiana"-properNoun-ca "Guyana"-properNoun-fr
+"Guyana"-properNoun-fr "Guaiana"-properNoun-ca
+"États-Unis"-properNoun-fr "EUA"-properNoun-ca
+"EUA"-properNoun-ca "États-Unis"-properNoun-fr
+"teu"-adjective-ca "à vous"-adjective-fr
+"à vous"-adjective-fr "teu"-adjective-ca
+"malauradament"-adverb-ca "malencontreusement"-adverb-fr
+"malencontreusement"-adverb-fr "malauradament"-adverb-ca
+"com a mínim"-adverb-ca "au moins"-adverb-fr
+"au moins"-adverb-fr "com a mínim"-adverb-ca
+"à peine"-adverb-fr "tot just"-adverb-ca
+"tot just"-adverb-ca "à peine"-adverb-fr
+"primerament"-adverb-ca "d'abord"-adverb-fr
+"primerament"-adverb-ca "premièrement"-adverb-fr
+"d'abord"-adverb-fr "primerament"-adverb-ca
+"d'abord"-adverb-fr "en primer lloc"-adverb-ca
+"premièrement"-adverb-fr "primerament"-adverb-ca
+"premièrement"-adverb-fr "primer"-adverb-ca
+"en primer lloc"-adverb-ca "d'abord"-adverb-fr
+"en primer lloc"-adverb-ca "tout d'abord"-adverb-fr
+"primer"-adverb-ca "premièrement"-adverb-fr
+"tout d'abord"-adverb-fr "en primer lloc"-adverb-ca
+"secretament"-adverb-ca "en secret"-adverb-fr
+"en secret"-adverb-fr "secretament"-adverb-ca
+"gratuitement"-adverb-fr "gratis"-adverb-ca
+"gratis"-adverb-ca "gratuitement"-adverb-fr
+"dins"-adverb-ca "à l'intérieur"-adverb-fr
+"à l'intérieur"-adverb-fr "dins"-adverb-ca
+"à l'intérieur"-adverb-fr "endins"-adverb-ca
+"à l'intérieur"-adverb-fr "dintre"-adverb-ca
+"à l'intérieur"-adverb-fr "a dins"-adverb-ca
+"à l'intérieur"-adverb-fr "a dintre"-adverb-ca
+"endins"-adverb-ca "à l'intérieur"-adverb-fr
+"dintre"-adverb-ca "à l'intérieur"-adverb-fr
+"a dins"-adverb-ca "à l'intérieur"-adverb-fr
+"a dintre"-adverb-ca "à l'intérieur"-adverb-fr
+"unànimement"-adverb-ca "à l'unanimité"-adverb-fr
+"à l'unanimité"-adverb-fr "unànimement"-adverb-ca
+"indígena"-noun-ca "aborigène"-noun-fr
+"aborigène"-noun-fr "indígena"-noun-ca
+"estabilització"-noun-ca "consolidation"-noun-fr
+"consolidation"-noun-fr "estabilització"-noun-ca
+"brigand"-noun-fr "bandit"-noun-ca
+"bandit"-noun-ca "brigand"-noun-fr
+"mondialisation"-noun-fr "globalització"-noun-ca
+"globalització"-noun-ca "mondialisation"-noun-fr
+"Florido"-properNoun-ca "Floride"-properNoun-fr
+"Floride"-properNoun-fr "Florido"-properNoun-ca
+"Foix"-properNoun-ca "Fois"-noun-fr
+"Foix"-properNoun-ca "Fois"-properNoun-fr
+"Fois"-noun-fr "Foix"-properNoun-ca
+"Fois"-properNoun-fr "Foix"-properNoun-ca

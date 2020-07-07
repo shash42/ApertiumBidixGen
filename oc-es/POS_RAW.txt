@@ -1,0 +1,80 @@
+overall
+16352
+4191
+179 135 104 303 
+100 1504 409 10148 
+adjective
+4220
+1208
+60 24 6 54 
+12 320 70 2610 
+adverb
+2153
+596
+14 48 20 83 
+10 358 54 1135 
+coordinatingConjunction
+32
+16
+0 4 0 2 
+0 4 0 12 
+determiner
+100
+42
+0 0 2 6 
+0 0 6 52 
+interjection
+54
+0
+0 0 0 0 
+0 26 2 26 
+modal
+30
+0
+0 0 0 0 
+0 8 2 20 
+noun
+13878
+4683
+142 154 64 294 
+54 811 258 8072 
+numeral
+446
+2
+0 0 0 0 
+0 2 4 438 
+preposition
+398
+188
+2 4 4 46 
+6 34 4 166 
+pronoun
+238
+60
+2 6 7 18 
+0 8 6 164 
+properNoun
+6578
+605
+120 6 49 6 
+98 1053 382 4440 
+reflexivePersonalPronoun
+2
+2
+0 0 0 0 
+0 0 0 0 
+relativePronoun
+31
+2
+8 0 12 3 
+2 2 2 23 
+subordinatingConjunction
+4
+0
+0 0 0 0 
+0 0 0 4 
+verb
+4540
+978
+10 24 44 94 
+18 382 28 3134 

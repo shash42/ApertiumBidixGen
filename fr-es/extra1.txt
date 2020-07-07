@@ -1,0 +1,770 @@
+"quelque"-determiner-fr "unos cuantos"-determiner-es
+"unos cuantos"-determiner-es "quelque"-determiner-fr
+"à la fois"-adverb-fr "a la vegada"-adverb-es
+"a la vegada"-adverb-es "à la fois"-adverb-fr
+"pas du tout"-adverb-fr "nada"-adverb-es
+"nada"-adverb-es "pas du tout"-adverb-fr
+"entre-temps"-adverb-fr "entretanto"-adverb-es
+"entretanto"-adverb-es "entre-temps"-adverb-fr
+"actuellement"-adverb-fr "en la actualidad"-adverb-es
+"en la actualidad"-adverb-es "actuellement"-adverb-fr
+"en la actualidad"-adverb-es "à l'heure actuelle"-adverb-fr
+"à l'heure actuelle"-adverb-fr "en la actualidad"-adverb-es
+"systématiquement"-adverb-fr "por sistema"-adverb-es
+"por sistema"-adverb-es "systématiquement"-adverb-fr
+"ensemble"-adverb-fr "juntamente"-adverb-es
+"juntamente"-adverb-es "ensemble"-adverb-fr
+"juntamente"-adverb-es "de concert"-adverb-fr
+"juntamente"-adverb-es "conjointement"-adverb-fr
+"de concert"-adverb-fr "juntamente"-adverb-es
+"conjointement"-adverb-fr "juntamente"-adverb-es
+"agréablement"-adverb-fr "agradablemente"-adverb-es
+"agradablemente"-adverb-es "agréablement"-adverb-fr
+"à nouveau"-adverb-fr "de nuevo"-adverb-es
+"de nuevo"-adverb-es "à nouveau"-adverb-fr
+"de nuevo"-adverb-es "de nouveau"-adverb-fr
+"de nouveau"-adverb-fr "de nuevo"-adverb-es
+"a propósito"-adverb-es "expressément"-adverb-fr
+"expressément"-adverb-fr "a propósito"-adverb-es
+"usualmente"-adverb-es "habituellement"-adverb-fr
+"habituellement"-adverb-fr "usualmente"-adverb-es
+"généralement"-adverb-fr "por lo general"-adverb-es
+"por lo general"-adverb-es "généralement"-adverb-fr
+"complètement"-adverb-fr "por completo"-adverb-es
+"por completo"-adverb-es "complètement"-adverb-fr
+"extensamente"-adverb-es "largement"-adverb-fr
+"largement"-adverb-fr "extensamente"-adverb-es
+"avant"-adverb-fr "con anterioridad"-adverb-es
+"con anterioridad"-adverb-es "avant"-adverb-fr
+"con anterioridad"-adverb-es "préalablement"-adverb-fr
+"con anterioridad"-adverb-es "antérieurement"-adverb-fr
+"préalablement"-adverb-fr "con anterioridad"-adverb-es
+"antérieurement"-adverb-fr "con anterioridad"-adverb-es
+"devant"-adverb-fr "a la cabeza"-adverb-es
+"a la cabeza"-adverb-es "devant"-adverb-fr
+"con posterioridad"-adverb-es "postérieurement"-adverb-fr
+"postérieurement"-adverb-fr "con posterioridad"-adverb-es
+"postérieurement"-adverb-fr "más tarde"-adverb-es
+"más tarde"-adverb-es "postérieurement"-adverb-fr
+"simplement"-adverb-fr "lisa y llanamente"-adverb-es
+"lisa y llanamente"-adverb-es "simplement"-adverb-fr
+"pleinement"-adverb-fr "llenamente"-adverb-es
+"pleinement"-adverb-fr "henchidamente"-adverb-es
+"llenamente"-adverb-es "pleinement"-adverb-fr
+"henchidamente"-adverb-es "pleinement"-adverb-fr
+"enfin"-adverb-fr "al fin"-adverb-es
+"al fin"-adverb-es "enfin"-adverb-fr
+"doucement"-adverb-fr "suavemente"-adverb-es
+"suavemente"-adverb-es "doucement"-adverb-fr
+"près"-adverb-fr "al lado"-adverb-es
+"al lado"-adverb-es "près"-adverb-fr
+"comment"-adverb-fr "qué tal"-adverb-es
+"qué tal"-adverb-es "comment"-adverb-fr
+"lequel"-relativePronoun-fr "quien"-pronoun-es
+"lequel"-relativePronoun-fr "que"-pronoun-es
+"lequel"-relativePronoun-fr "el que"-pronoun-es
+"lequel"-relativePronoun-fr "el cual"-pronoun-es
+"lequel"-relativePronoun-fr "cual"-pronoun-es
+"lequel"-relativePronoun-fr "a quién"-pronoun-es
+"quien"-pronoun-es "lequel"-relativePronoun-fr
+"quien"-pronoun-es "qui est-ce qui"-pronoun-fr
+"quien"-pronoun-es "que"-relativePronoun-fr
+"quien"-pronoun-es "que"-pronoun-fr
+"quien"-pronoun-es "qui"-relativePronoun-fr
+"quien"-pronoun-es "quel"-pronoun-fr
+"quien"-pronoun-es "qui"-pronoun-fr
+"que"-pronoun-es "lequel"-relativePronoun-fr
+"que"-pronoun-es "qui est-ce qui"-pronoun-fr
+"que"-pronoun-es "que"-relativePronoun-fr
+"que"-pronoun-es "que"-pronoun-fr
+"que"-pronoun-es "qui"-relativePronoun-fr
+"que"-pronoun-es "quel"-pronoun-fr
+"que"-pronoun-es "qui"-pronoun-fr
+"el que"-pronoun-es "lequel"-relativePronoun-fr
+"el que"-pronoun-es "qui est-ce qui"-pronoun-fr
+"el que"-pronoun-es "que"-relativePronoun-fr
+"el que"-pronoun-es "que"-pronoun-fr
+"el que"-pronoun-es "qui"-relativePronoun-fr
+"el que"-pronoun-es "quel"-pronoun-fr
+"el que"-pronoun-es "qui"-pronoun-fr
+"el cual"-pronoun-es "lequel"-relativePronoun-fr
+"el cual"-pronoun-es "qui est-ce qui"-pronoun-fr
+"el cual"-pronoun-es "que"-relativePronoun-fr
+"el cual"-pronoun-es "que"-pronoun-fr
+"el cual"-pronoun-es "qui"-relativePronoun-fr
+"el cual"-pronoun-es "quel"-pronoun-fr
+"el cual"-pronoun-es "qui"-pronoun-fr
+"cual"-pronoun-es "lequel"-relativePronoun-fr
+"cual"-pronoun-es "qui est-ce qui"-pronoun-fr
+"cual"-pronoun-es "que"-relativePronoun-fr
+"cual"-pronoun-es "que"-pronoun-fr
+"cual"-pronoun-es "qui"-relativePronoun-fr
+"cual"-pronoun-es "quel"-pronoun-fr
+"cual"-pronoun-es "qui"-pronoun-fr
+"a quién"-pronoun-es "lequel"-relativePronoun-fr
+"a quién"-pronoun-es "qui est-ce qui"-pronoun-fr
+"a quién"-pronoun-es "que"-relativePronoun-fr
+"a quién"-pronoun-es "que"-pronoun-fr
+"a quién"-pronoun-es "qui"-relativePronoun-fr
+"a quién"-pronoun-es "quel"-pronoun-fr
+"a quién"-pronoun-es "qui"-pronoun-fr
+"qui est-ce qui"-pronoun-fr "quien"-pronoun-es
+"qui est-ce qui"-pronoun-fr "que"-pronoun-es
+"qui est-ce qui"-pronoun-fr "el que"-pronoun-es
+"qui est-ce qui"-pronoun-fr "el cual"-pronoun-es
+"qui est-ce qui"-pronoun-fr "cual"-pronoun-es
+"qui est-ce qui"-pronoun-fr "a quién"-pronoun-es
+"que"-relativePronoun-fr "quien"-pronoun-es
+"que"-relativePronoun-fr "que"-pronoun-es
+"que"-relativePronoun-fr "el que"-pronoun-es
+"que"-relativePronoun-fr "el cual"-pronoun-es
+"que"-relativePronoun-fr "cual"-pronoun-es
+"que"-relativePronoun-fr "a quién"-pronoun-es
+"que"-relativePronoun-fr "lo que"-pronoun-es
+"que"-relativePronoun-fr "lo cual"-pronoun-es
+"lo que"-pronoun-es "que"-relativePronoun-fr
+"lo que"-pronoun-es "que"-pronoun-fr
+"lo que"-pronoun-es "quoi"-pronoun-fr
+"lo que"-pronoun-es "qu'est-ce que"-pronoun-fr
+"lo que"-pronoun-es "qu'est-ce que c'est que"-pronoun-fr
+"lo cual"-pronoun-es "que"-relativePronoun-fr
+"lo cual"-pronoun-es "que"-pronoun-fr
+"lo cual"-pronoun-es "quoi"-pronoun-fr
+"lo cual"-pronoun-es "qu'est-ce que"-pronoun-fr
+"lo cual"-pronoun-es "qu'est-ce que c'est que"-pronoun-fr
+"que"-pronoun-fr "quien"-pronoun-es
+"que"-pronoun-fr "que"-pronoun-es
+"que"-pronoun-fr "el que"-pronoun-es
+"que"-pronoun-fr "el cual"-pronoun-es
+"que"-pronoun-fr "cual"-pronoun-es
+"que"-pronoun-fr "a quién"-pronoun-es
+"que"-pronoun-fr "lo que"-pronoun-es
+"que"-pronoun-fr "lo cual"-pronoun-es
+"qui"-relativePronoun-fr "quien"-pronoun-es
+"qui"-relativePronoun-fr "que"-pronoun-es
+"qui"-relativePronoun-fr "el que"-pronoun-es
+"qui"-relativePronoun-fr "el cual"-pronoun-es
+"qui"-relativePronoun-fr "cual"-pronoun-es
+"qui"-relativePronoun-fr "a quién"-pronoun-es
+"quel"-pronoun-fr "quien"-pronoun-es
+"quel"-pronoun-fr "que"-pronoun-es
+"quel"-pronoun-fr "el que"-pronoun-es
+"quel"-pronoun-fr "el cual"-pronoun-es
+"quel"-pronoun-fr "cual"-pronoun-es
+"quel"-pronoun-fr "a quién"-pronoun-es
+"qui"-pronoun-fr "quien"-pronoun-es
+"qui"-pronoun-fr "que"-pronoun-es
+"qui"-pronoun-fr "el que"-pronoun-es
+"qui"-pronoun-fr "el cual"-pronoun-es
+"qui"-pronoun-fr "cual"-pronoun-es
+"qui"-pronoun-fr "a quién"-pronoun-es
+"quoi"-pronoun-fr "lo que"-pronoun-es
+"quoi"-pronoun-fr "lo cual"-pronoun-es
+"qu'est-ce que"-pronoun-fr "lo que"-pronoun-es
+"qu'est-ce que"-pronoun-fr "lo cual"-pronoun-es
+"qu'est-ce que c'est que"-pronoun-fr "lo que"-pronoun-es
+"qu'est-ce que c'est que"-pronoun-fr "lo cual"-pronoun-es
+"prpers"-reflexivePersonalPronoun-es "te"-pronoun-fr
+"prpers"-reflexivePersonalPronoun-es "me"-pronoun-fr
+"prpers"-reflexivePersonalPronoun-es "vous"-pronoun-fr
+"prpers"-reflexivePersonalPronoun-es "nous"-pronoun-fr
+"prpers"-reflexivePersonalPronoun-es "moi"-pronoun-fr
+"prpers"-reflexivePersonalPronoun-es "le"-pronoun-fr
+"te"-pronoun-fr "prpers"-reflexivePersonalPronoun-es
+"te"-pronoun-fr "prpers"-pronoun-es
+"me"-pronoun-fr "prpers"-reflexivePersonalPronoun-es
+"me"-pronoun-fr "prpers"-pronoun-es
+"vous"-pronoun-fr "prpers"-reflexivePersonalPronoun-es
+"vous"-pronoun-fr "prpers"-pronoun-es
+"nous"-pronoun-fr "prpers"-reflexivePersonalPronoun-es
+"nous"-pronoun-fr "prpers"-pronoun-es
+"moi"-pronoun-fr "prpers"-reflexivePersonalPronoun-es
+"moi"-pronoun-fr "prpers"-pronoun-es
+"le"-pronoun-fr "prpers"-reflexivePersonalPronoun-es
+"le"-pronoun-fr "prpers"-pronoun-es
+"prpers"-pronoun-es "te"-pronoun-fr
+"prpers"-pronoun-es "me"-pronoun-fr
+"prpers"-pronoun-es "vous"-pronoun-fr
+"prpers"-pronoun-es "nous"-pronoun-fr
+"prpers"-pronoun-es "moi"-pronoun-fr
+"prpers"-pronoun-es "le"-pronoun-fr
+"quelque chose"-pronoun-fr "alguna cosa"-pronoun-es
+"alguna cosa"-pronoun-es "quelque chose"-pronoun-fr
+"où"-adverb-fr "donde"-adverb-es
+"donde"-adverb-es "où"-adverb-fr
+"moyennant"-preposition-fr "por intermedio de"-preposition-es
+"por intermedio de"-preposition-es "moyennant"-preposition-fr
+"por intermedio de"-preposition-es "par l'intermédiaire de"-preposition-fr
+"par l'intermédiaire de"-preposition-fr "por intermedio de"-preposition-es
+"autour de"-preposition-fr "alrededor de"-preposition-es
+"alrededor de"-preposition-es "autour de"-preposition-fr
+"conformément à"-preposition-fr "de acuerdo con"-preposition-es
+"de acuerdo con"-preposition-es "conformément à"-preposition-fr
+"de"-preposition-fr "a partir de"-preposition-es
+"a partir de"-preposition-es "de"-preposition-fr
+"a partir de"-preposition-es "dès"-preposition-fr
+"dès"-preposition-fr "a partir de"-preposition-es
+"por parte de"-preposition-es "par"-preposition-fr
+"par"-preposition-fr "por parte de"-preposition-es
+"dans"-preposition-fr "dentro de"-preposition-es
+"dentro de"-preposition-es "dans"-preposition-fr
+"en lo referente a"-preposition-es "par rapport à"-preposition-fr
+"en lo referente a"-preposition-es "pour ce qui est de"-preposition-fr
+"en lo referente a"-preposition-es "quant à"-preposition-fr
+"en lo referente a"-preposition-es "en ce qui concerne"-preposition-fr
+"par rapport à"-preposition-fr "en lo referente a"-preposition-es
+"pour ce qui est de"-preposition-fr "en lo referente a"-preposition-es
+"quant à"-preposition-fr "en lo referente a"-preposition-es
+"en ce qui concerne"-preposition-fr "en lo referente a"-preposition-es
+"antes de"-preposition-es "devant"-preposition-fr
+"devant"-preposition-fr "antes de"-preposition-es
+"intermédiaire"-adjective-fr "intermedio"-adjective-es
+"intermedio"-adjective-es "intermédiaire"-adjective-fr
+"cardiaque"-adjective-fr "cardíaco"-adjective-es
+"cardíaco"-adjective-es "cardiaque"-adjective-fr
+"brevet"-noun-fr "patente"-noun-es
+"patente"-noun-es "brevet"-noun-fr
+"argot"-noun-fr "jerga"-noun-es
+"jerga"-noun-es "argot"-noun-fr
+"ancho"-noun-es "largeur"-noun-fr
+"largeur"-noun-fr "ancho"-noun-es
+"simplicité"-noun-fr "simplicidad"-noun-es
+"simplicidad"-noun-es "simplicité"-noun-fr
+"e-mail"-noun-fr "correo electrónico"-noun-es
+"correo electrónico"-noun-es "e-mail"-noun-fr
+"valva"-noun-es "soupape"-noun-fr
+"soupape"-noun-fr "valva"-noun-es
+"entonnoir"-noun-fr "tapujo"-noun-es
+"tapujo"-noun-es "entonnoir"-noun-fr
+"obsession"-noun-fr "obsesión"-noun-es
+"obsesión"-noun-es "obsession"-noun-fr
+"folletín"-noun-es "feuilleton"-noun-fr
+"feuilleton"-noun-fr "folletín"-noun-es
+"habichuela"-noun-es "haricot"-noun-fr
+"haricot"-noun-fr "habichuela"-noun-es
+"canon"-noun-fr "canon"-noun-es
+"canon"-noun-es "canon"-noun-fr
+"moraleja"-noun-es "morale"-noun-fr
+"morale"-noun-fr "moraleja"-noun-es
+"offre"-noun-fr "ofrecimiento"-noun-es
+"ofrecimiento"-noun-es "offre"-noun-fr
+"enfant"-noun-fr "pibe"-noun-es
+"pibe"-noun-es "enfant"-noun-fr
+"enseignement"-noun-fr "docencia"-noun-es
+"docencia"-noun-es "enseignement"-noun-fr
+"hauteur"-noun-fr "alzada"-noun-es
+"hauteur"-noun-fr "alto"-noun-es
+"alzada"-noun-es "hauteur"-noun-fr
+"alto"-noun-es "hauteur"-noun-fr
+"ligne"-noun-fr "renglón"-noun-es
+"renglón"-noun-es "ligne"-noun-fr
+"chef"-noun-fr "caudillo"-noun-es
+"caudillo"-noun-es "chef"-noun-fr
+"coupe"-noun-fr "cáliz"-noun-es
+"cáliz"-noun-es "coupe"-noun-fr
+"abecé"-noun-es "alphabet"-noun-fr
+"alphabet"-noun-fr "abecé"-noun-es
+"introduction"-noun-fr "preámbulo"-noun-es
+"preámbulo"-noun-es "introduction"-noun-fr
+"preámbulo"-noun-es "prologue"-noun-fr
+"prologue"-noun-fr "preámbulo"-noun-es
+"ceinture"-noun-fr "cintura"-noun-es
+"cintura"-noun-es "ceinture"-noun-fr
+"entreprise"-noun-fr "firma comercial"-noun-es
+"firma comercial"-noun-es "entreprise"-noun-fr
+"firma comercial"-noun-es "firme"-noun-fr
+"firme"-noun-fr "firma comercial"-noun-es
+"siège"-noun-fr "cerco"-noun-es
+"cerco"-noun-es "siège"-noun-fr
+"tir"-noun-fr "chut"-noun-es
+"chut"-noun-es "tir"-noun-fr
+"divergencia"-noun-es "divergence"-noun-fr
+"divergence"-noun-fr "divergencia"-noun-es
+"suburbio"-noun-es "banlieue"-noun-fr
+"banlieue"-noun-fr "suburbio"-noun-es
+"accord"-noun-fr "concordancia"-noun-es
+"concordancia"-noun-es "accord"-noun-fr
+"concordancia"-noun-es "conformité"-noun-fr
+"concordancia"-noun-es "harmonie"-noun-fr
+"conformité"-noun-fr "concordancia"-noun-es
+"harmonie"-noun-fr "concordancia"-noun-es
+"cobertizo"-noun-es "hutte"-noun-fr
+"cobertizo"-noun-es "cahute"-noun-fr
+"hutte"-noun-fr "cobertizo"-noun-es
+"cahute"-noun-fr "cobertizo"-noun-es
+"fermeture"-noun-fr "encierro"-noun-es
+"fermeture"-noun-fr "cerramiento"-noun-es
+"encierro"-noun-es "fermeture"-noun-fr
+"cerramiento"-noun-es "fermeture"-noun-fr
+"pli"-noun-fr "doblez"-noun-es
+"doblez"-noun-es "pli"-noun-fr
+"leçon"-noun-fr "escarmiento"-noun-es
+"escarmiento"-noun-es "leçon"-noun-fr
+"déception"-noun-fr "desencanto"-noun-es
+"desencanto"-noun-es "déception"-noun-fr
+"desencanto"-noun-es "désillusion"-noun-fr
+"désillusion"-noun-fr "desencanto"-noun-es
+"congoja"-noun-es "anxiété"-noun-fr
+"anxiété"-noun-fr "congoja"-noun-es
+"sommet"-noun-fr "culminación"-noun-es
+"culminación"-noun-es "sommet"-noun-fr
+"lien"-noun-fr "ligazón"-noun-es
+"ligazón"-noun-es "lien"-noun-fr
+"costado"-noun-es "côté"-noun-fr
+"côté"-noun-fr "costado"-noun-es
+"partitura"-noun-es "partition"-noun-fr
+"partition"-noun-fr "partitura"-noun-es
+"responsable"-noun-fr "encargado"-noun-es
+"encargado"-noun-es "responsable"-noun-fr
+"pouvoir"-noun-fr "poderío"-noun-es
+"poderío"-noun-es "pouvoir"-noun-fr
+"roche"-noun-fr "peñón"-noun-es
+"peñón"-noun-es "roche"-noun-fr
+"déchet"-noun-fr "detrito"-noun-es
+"detrito"-noun-es "déchet"-noun-fr
+"ballon"-noun-fr "aeróstato"-noun-es
+"aeróstato"-noun-es "ballon"-noun-fr
+"ouverture"-noun-fr "obertura"-noun-es
+"obertura"-noun-es "ouverture"-noun-fr
+"danse"-noun-fr "danza"-noun-es
+"danza"-noun-es "danse"-noun-fr
+"armée"-noun-fr "armada"-noun-es
+"armada"-noun-es "armée"-noun-fr
+"agenda"-noun-fr "dietario"-noun-es
+"dietario"-noun-es "agenda"-noun-fr
+"journal"-noun-fr "jornal"-noun-es
+"jornal"-noun-es "journal"-noun-fr
+"manteau"-noun-fr "manto"-noun-es
+"manto"-noun-es "manteau"-noun-fr
+"cortège"-noun-fr "comitiva"-noun-es
+"comitiva"-noun-es "cortège"-noun-fr
+"gâteau"-noun-fr "torta"-noun-es
+"torta"-noun-es "gâteau"-noun-fr
+"halte"-noun-fr "parado"-noun-es
+"parado"-noun-es "halte"-noun-fr
+"parado"-noun-es "chômeur"-noun-fr
+"chômeur"-noun-fr "parado"-noun-es
+"file"-noun-fr "hilera"-noun-es
+"hilera"-noun-es "file"-noun-fr
+"cadre"-noun-fr "armazón"-noun-es
+"armazón"-noun-es "cadre"-noun-fr
+"alta"-noun-es "hausse"-noun-fr
+"hausse"-noun-fr "alta"-noun-es
+"lame"-noun-fr "cuchilla"-noun-es
+"cuchilla"-noun-es "lame"-noun-fr
+"cuchilla"-noun-es "feuille"-noun-fr
+"feuille"-noun-fr "cuchilla"-noun-es
+"bassin"-noun-fr "cuenca"-noun-es
+"cuenca"-noun-es "bassin"-noun-fr
+"soirée"-noun-fr "atardecer"-noun-es
+"atardecer"-noun-es "soirée"-noun-fr
+"escalerilla"-noun-es "échelle"-noun-fr
+"échelle"-noun-fr "escalerilla"-noun-es
+"prison"-noun-fr "calabozo"-noun-es
+"calabozo"-noun-es "prison"-noun-fr
+"apparition"-noun-fr "surgimiento"-noun-es
+"surgimiento"-noun-es "apparition"-noun-fr
+"reconnaissance"-noun-fr "gratitud"-noun-es
+"gratitud"-noun-es "reconnaissance"-noun-fr
+"docente"-noun-es "enseignant"-noun-fr
+"enseignant"-noun-fr "docente"-noun-es
+"controlador"-noun-es "contrôleur"-noun-fr
+"contrôleur"-noun-fr "controlador"-noun-es
+"regidor"-noun-es "conseiller"-noun-fr
+"conseiller"-noun-fr "regidor"-noun-es
+"estupidez"-noun-es "sottise"-noun-fr
+"sottise"-noun-fr "estupidez"-noun-es
+"rodillo"-noun-es "rouleau"-noun-fr
+"rouleau"-noun-fr "rodillo"-noun-es
+"metropolitano"-noun-es "métro"-noun-fr
+"métro"-noun-fr "metropolitano"-noun-es
+"test"-noun-fr "maceta"-noun-es
+"maceta"-noun-es "test"-noun-fr
+"panier"-noun-fr "chistera"-noun-es
+"chistera"-noun-es "panier"-noun-fr
+"vigne"-noun-fr "vid"-noun-es
+"vid"-noun-es "vigne"-noun-fr
+"carrefour"-noun-fr "encrucijada"-noun-es
+"encrucijada"-noun-es "carrefour"-noun-fr
+"encrucijada"-noun-es "croisement"-noun-fr
+"croisement"-noun-fr "encrucijada"-noun-es
+"fraction"-noun-fr "quebrado"-noun-es
+"quebrado"-noun-es "fraction"-noun-fr
+"longueur"-noun-fr "largura"-noun-es
+"largura"-noun-es "longueur"-noun-fr
+"brosse"-noun-fr "escobilla"-noun-es
+"escobilla"-noun-es "brosse"-noun-fr
+"lamentación"-noun-es "lamentation"-noun-fr
+"lamentation"-noun-fr "lamentación"-noun-es
+"plateau"-noun-fr "plató"-noun-es
+"plató"-noun-es "plateau"-noun-fr
+"livre"-noun-fr "libra"-noun-es
+"libra"-noun-es "livre"-noun-fr
+"fiancé"-noun-fr "prometido"-noun-es
+"prometido"-noun-es "fiancé"-noun-fr
+"mariage"-noun-fr "casamiento"-noun-es
+"casamiento"-noun-es "mariage"-noun-fr
+"siervo"-noun-es "serviteur"-noun-fr
+"serviteur"-noun-fr "siervo"-noun-es
+"serviteur"-noun-fr "sirviente"-noun-es
+"sirviente"-noun-es "serviteur"-noun-fr
+"marchandise"-noun-fr "mercadería"-noun-es
+"mercadería"-noun-es "marchandise"-noun-fr
+"picadura"-noun-es "pique"-noun-fr
+"pique"-noun-fr "picadura"-noun-es
+"substitut"-noun-fr "substituto"-noun-es
+"substituto"-noun-es "substitut"-noun-fr
+"substituto"-noun-es "remplaçant"-noun-fr
+"remplaçant"-noun-fr "substituto"-noun-es
+"pichet"-noun-fr "jarra"-noun-es
+"jarra"-noun-es "pichet"-noun-fr
+"coque"-noun-fr "caparazón"-noun-es
+"caparazón"-noun-es "coque"-noun-fr
+"don"-noun-fr "do"-noun-es
+"do"-noun-es "don"-noun-fr
+"rebrote"-noun-es "pousse"-noun-fr
+"pousse"-noun-fr "rebrote"-noun-es
+"cañería"-noun-es "conduit"-noun-fr
+"cañería"-noun-es "tuyauterie"-noun-fr
+"conduit"-noun-fr "cañería"-noun-es
+"tuyauterie"-noun-fr "cañería"-noun-es
+"hit"-noun-es "succès"-noun-fr
+"succès"-noun-fr "hit"-noun-es
+"canton"-noun-fr "cantón"-noun-es
+"cantón"-noun-es "canton"-noun-fr
+"échelon"-noun-fr "peldaño"-noun-es
+"peldaño"-noun-es "échelon"-noun-fr
+"substitution"-noun-fr "substitución"-noun-es
+"substitución"-noun-es "substitution"-noun-fr
+"ruisseau"-noun-fr "riachuelo"-noun-es
+"riachuelo"-noun-es "ruisseau"-noun-fr
+"hendidura"-noun-es "fente"-noun-fr
+"hendidura"-noun-es "crevasse"-noun-fr
+"fente"-noun-fr "hendidura"-noun-es
+"fente"-noun-fr "resquicio"-noun-es
+"crevasse"-noun-fr "hendidura"-noun-es
+"crevasse"-noun-fr "resquicio"-noun-es
+"crevasse"-noun-fr "quebraja"-noun-es
+"crevasse"-noun-fr "hendedura"-noun-es
+"resquicio"-noun-es "fente"-noun-fr
+"resquicio"-noun-es "crevasse"-noun-fr
+"quebraja"-noun-es "crevasse"-noun-fr
+"hendedura"-noun-es "crevasse"-noun-fr
+"grille"-noun-fr "verja"-noun-es
+"verja"-noun-es "grille"-noun-fr
+"développement"-noun-fr "desenvolvimiento"-noun-es
+"desenvolvimiento"-noun-es "développement"-noun-fr
+"ornement"-noun-fr "ornamento"-noun-es
+"ornamento"-noun-es "ornement"-noun-fr
+"moyenne"-noun-fr "promedio"-noun-es
+"promedio"-noun-es "moyenne"-noun-fr
+"puanteur"-noun-fr "hedor"-noun-es
+"hedor"-noun-es "puanteur"-noun-fr
+"parón"-noun-es "arrêt"-noun-fr
+"arrêt"-noun-fr "parón"-noun-es
+"chômage"-noun-fr "desocupación"-noun-es
+"desocupación"-noun-es "chômage"-noun-fr
+"nature"-noun-fr "natura"-noun-es
+"natura"-noun-es "nature"-noun-fr
+"suggestion"-noun-fr "sugestión"-noun-es
+"sugestión"-noun-es "suggestion"-noun-fr
+"clef"-noun-fr "clave"-noun-es
+"clave"-noun-es "clef"-noun-fr
+"clave"-noun-es "clé"-noun-fr
+"clé"-noun-fr "clave"-noun-es
+"campement"-noun-fr "campamento"-noun-es
+"campamento"-noun-es "campement"-noun-fr
+"tebeo"-noun-es "bande dessinée"-noun-fr
+"bande dessinée"-noun-fr "tebeo"-noun-es
+"interminable"-adjective-fr "inacabable"-adjective-es
+"inacabable"-adjective-es "interminable"-adjective-fr
+"dériver"-verb-fr "ir a la deriva"-verb-es
+"ir a la deriva"-verb-es "dériver"-verb-fr
+"mentionner"-verb-fr "mentar"-verb-es
+"mentar"-verb-es "mentionner"-verb-fr
+"calculer"-verb-fr "computar"-verb-es
+"computar"-verb-es "calculer"-verb-fr
+"nocif"-adjective-fr "dañino"-adjective-es
+"dañino"-adjective-es "nocif"-adjective-fr
+"éteindre"-verb-fr "desconectar"-verb-es
+"desconectar"-verb-es "éteindre"-verb-fr
+"separado"-adjective-es "éloigné"-adjective-fr
+"éloigné"-adjective-fr "separado"-adjective-es
+"différent"-adjective-fr "dispar"-adjective-es
+"dispar"-adjective-es "différent"-adjective-fr
+"complet"-adjective-fr "cabal"-adjective-es
+"cabal"-adjective-es "complet"-adjective-fr
+"cabal"-adjective-es "total"-adjective-fr
+"total"-adjective-fr "cabal"-adjective-es
+"dumper"-verb-fr "escanciar"-verb-es
+"escanciar"-verb-es "dumper"-verb-fr
+"escanciar"-verb-es "verser"-verb-fr
+"verser"-verb-fr "escanciar"-verb-es
+"prendre"-verb-fr "prender"-verb-es
+"prender"-verb-es "prendre"-verb-fr
+"cher"-adjective-fr "querido"-adjective-es
+"querido"-adjective-es "cher"-adjective-fr
+"affreux"-adjective-fr "escalofriante"-adjective-es
+"escalofriante"-adjective-es "affreux"-adjective-fr
+"disparatado"-adjective-es "absurde"-adjective-fr
+"absurde"-adjective-fr "disparatado"-adjective-es
+"grossier"-adjective-fr "soez"-adjective-es
+"soez"-adjective-es "grossier"-adjective-fr
+"affectueux"-adjective-fr "afectuoso"-adjective-es
+"afectuoso"-adjective-es "affectueux"-adjective-fr
+"animado"-adjective-es "vif"-adjective-fr
+"vif"-adjective-fr "animado"-adjective-es
+"vif"-adjective-fr "viviente"-adjective-es
+"viviente"-adjective-es "vif"-adjective-fr
+"plat"-adjective-fr "llano"-adjective-es
+"llano"-adjective-es "plat"-adjective-fr
+"precario"-adjective-es "instable"-adjective-fr
+"instable"-adjective-fr "precario"-adjective-es
+"chaud"-adjective-fr "cálido"-adjective-es
+"cálido"-adjective-es "chaud"-adjective-fr
+"cálido"-adjective-es "chaleureux"-adjective-fr
+"chaleureux"-adjective-fr "cálido"-adjective-es
+"sage"-adjective-fr "sensato"-adjective-es
+"sensato"-adjective-es "sage"-adjective-fr
+"prudent"-adjective-fr "circunspecto"-adjective-es
+"prudent"-adjective-fr "precavido"-adjective-es
+"circunspecto"-adjective-es "prudent"-adjective-fr
+"precavido"-adjective-es "prudent"-adjective-fr
+"prêt"-adjective-fr "preparado"-adjective-es
+"preparado"-adjective-es "prêt"-adjective-fr
+"crédible"-adjective-fr "fidedigno"-adjective-es
+"fidedigno"-adjective-es "crédible"-adjective-fr
+"vrai"-adjective-fr "cierto"-adjective-es
+"cierto"-adjective-es "vrai"-adjective-fr
+"nuire"-verb-fr "dañar a"-verb-es
+"dañar a"-verb-es "nuire"-verb-fr
+"affronter"-verb-fr "afrentar"-verb-es
+"afrentar"-verb-es "affronter"-verb-fr
+"pauvre"-adjective-fr "indigente"-adjective-es
+"indigente"-adjective-es "pauvre"-adjective-fr
+"prochain"-adjective-fr "aledaño"-adjective-es
+"aledaño"-adjective-es "prochain"-adjective-fr
+"aledaño"-adjective-es "proche"-adjective-fr
+"aledaño"-adjective-es "voisin"-adjective-fr
+"proche"-adjective-fr "aledaño"-adjective-es
+"voisin"-adjective-fr "aledaño"-adjective-es
+"broncher"-verb-fr "titubear"-verb-es
+"titubear"-verb-es "broncher"-verb-fr
+"titubear"-verb-es "hésiter"-verb-fr
+"hésiter"-verb-fr "titubear"-verb-es
+"suffoquer"-verb-fr "abochornar"-verb-es
+"abochornar"-verb-es "suffoquer"-verb-fr
+"enregistrer"-verb-fr "gravar"-verb-es
+"gravar"-verb-es "enregistrer"-verb-fr
+"gravar"-verb-es "graver"-verb-fr
+"graver"-verb-fr "gravar"-verb-es
+"envelopper"-verb-fr "liar"-verb-es
+"liar"-verb-es "envelopper"-verb-fr
+"liar"-verb-es "entortiller"-verb-fr
+"entortiller"-verb-fr "liar"-verb-es
+"annexer"-verb-fr "anexionar"-verb-es
+"anexionar"-verb-es "annexer"-verb-fr
+"tendre"-verb-fr "tender"-verb-es
+"tender"-verb-es "tendre"-verb-fr
+"dernier"-adjective-fr "pasado"-adjective-es
+"pasado"-adjective-es "dernier"-adjective-fr
+"catégorique"-adjective-fr "categórico"-adjective-es
+"categórico"-adjective-es "catégorique"-adjective-fr
+"additionnel"-adjective-fr "extra"-adjective-es
+"extra"-adjective-es "additionnel"-adjective-fr
+"précis"-adjective-fr "certero"-adjective-es
+"certero"-adjective-es "précis"-adjective-fr
+"vago"-adjective-es "paresseux"-adjective-fr
+"paresseux"-adjective-fr "vago"-adjective-es
+"paresseux"-adjective-fr "holgazán"-adjective-es
+"holgazán"-adjective-es "paresseux"-adjective-fr
+"gras"-adjective-fr "graso"-adjective-es
+"graso"-adjective-es "gras"-adjective-fr
+"menesteroso"-adjective-es "misérable"-adjective-fr
+"misérable"-adjective-fr "menesteroso"-adjective-es
+"misérable"-adjective-fr "necesitado"-adjective-es
+"necesitado"-adjective-es "misérable"-adjective-fr
+"triste"-adjective-fr "afligido"-adjective-es
+"afligido"-adjective-es "triste"-adjective-fr
+"molesto"-adjective-es "gênant"-adjective-fr
+"gênant"-adjective-fr "molesto"-adjective-es
+"insípido"-adjective-es "vulgaire"-adjective-fr
+"vulgaire"-adjective-fr "insípido"-adjective-es
+"soberbio"-adjective-es "superbe"-adjective-fr
+"superbe"-adjective-fr "soberbio"-adjective-es
+"adroit"-adjective-fr "diestro"-adjective-es
+"diestro"-adjective-es "adroit"-adjective-fr
+"droit"-adjective-fr "recto"-adjective-es
+"recto"-adjective-es "droit"-adjective-fr
+"évident"-adjective-fr "obvio"-adjective-es
+"obvio"-adjective-es "évident"-adjective-fr
+"indeciso"-adjective-es "hésitant"-adjective-fr
+"hésitant"-adjective-fr "indeciso"-adjective-es
+"insolite"-adjective-fr "inusual"-adjective-es
+"inusual"-adjective-es "insolite"-adjective-fr
+"inusual"-adjective-es "inaccoutumé"-adjective-fr
+"inaccoutumé"-adjective-fr "inusual"-adjective-es
+"rapprocher"-verb-fr "arrimar"-verb-es
+"arrimar"-verb-es "rapprocher"-verb-fr
+"annuler"-verb-fr "abolir"-verb-es
+"abolir"-verb-es "annuler"-verb-fr
+"aspirer"-verb-fr "inhalar"-verb-es
+"inhalar"-verb-es "aspirer"-verb-fr
+"enquêter"-verb-fr "encuestar"-verb-es
+"encuestar"-verb-es "enquêter"-verb-fr
+"golear"-verb-es "marquer"-verb-fr
+"marquer"-verb-fr "golear"-verb-es
+"humide"-adjective-fr "mojado"-adjective-es
+"mojado"-adjective-es "humide"-adjective-fr
+"doblar"-verb-es "doubler"-verb-fr
+"doubler"-verb-fr "doblar"-verb-es
+"evadir"-verb-es "éluder"-verb-fr
+"éluder"-verb-fr "evadir"-verb-es
+"qualifier"-verb-fr "cualificar"-verb-es
+"cualificar"-verb-es "qualifier"-verb-fr
+"piloter"-verb-fr "pilotar"-verb-es
+"pilotar"-verb-es "piloter"-verb-fr
+"contester"-verb-fr "impugnar"-verb-es
+"impugnar"-verb-es "contester"-verb-fr
+"concourir"-verb-fr "competer"-verb-es
+"competer"-verb-es "concourir"-verb-fr
+"audacieux"-adjective-fr "osado"-adjective-es
+"osado"-adjective-es "audacieux"-adjective-fr
+"rehusar"-verb-es "refuser"-verb-fr
+"rehusar"-verb-es "rejeter"-verb-fr
+"rehusar"-verb-es "repousser"-verb-fr
+"refuser"-verb-fr "rehusar"-verb-es
+"refuser"-verb-fr "desechar"-verb-es
+"rejeter"-verb-fr "rehusar"-verb-es
+"rejeter"-verb-fr "desechar"-verb-es
+"repousser"-verb-fr "rehusar"-verb-es
+"repousser"-verb-fr "desechar"-verb-es
+"desechar"-verb-es "refuser"-verb-fr
+"desechar"-verb-es "rejeter"-verb-fr
+"desechar"-verb-es "repousser"-verb-fr
+"arrebatar"-verb-es "arracher"-verb-fr
+"arracher"-verb-fr "arrebatar"-verb-es
+"ou"-coordinatingConjunction-fr "o bien"-coordinatingConjunction-es
+"o bien"-coordinatingConjunction-es "ou"-coordinatingConjunction-fr
+"cette année"-adverb-fr "este año"-adverb-es
+"este año"-adverb-es "cette année"-adverb-fr
+"por todas partes"-adverb-es "partout"-adverb-fr
+"partout"-adverb-fr "por todas partes"-adverb-es
+"chien"-noun-fr "can"-noun-es
+"chien"-noun-fr "ka"-noun-es
+"can"-noun-es "chien"-noun-fr
+"ka"-noun-es "chien"-noun-fr
+"décennie"-noun-fr "decenio"-noun-es
+"decenio"-noun-es "décennie"-noun-fr
+"diagnostic"-noun-fr "diagnosis"-noun-es
+"diagnosis"-noun-es "diagnostic"-noun-fr
+"explication"-noun-fr "dilucidación"-noun-es
+"dilucidación"-noun-es "explication"-noun-fr
+"pseudónimo"-noun-es "pseudonyme"-noun-fr
+"pseudonyme"-noun-fr "pseudónimo"-noun-es
+"modem"-noun-fr "modem"-noun-es
+"modem"-noun-es "modem"-noun-fr
+"rugby"-noun-fr "rugbi"-noun-es
+"rugbi"-noun-es "rugby"-noun-fr
+"adversaire"-noun-fr "oponente"-noun-es
+"oponente"-noun-es "adversaire"-noun-fr
+"carnero"-noun-es "mouton"-noun-fr
+"mouton"-noun-fr "carnero"-noun-es
+"reputado"-adjective-es "prestigieux"-adjective-fr
+"prestigieux"-adjective-fr "reputado"-adjective-es
+"demás"-determiner-es "un autre"-determiner-fr
+"un autre"-determiner-fr "demás"-determiner-es
+"féminin"-adjective-fr "hembra"-adjective-es
+"hembra"-adjective-es "féminin"-adjective-fr
+"basique"-adjective-fr "base"-adjective-es
+"base"-adjective-es "basique"-adjective-fr
+"législatif"-adjective-fr "legislador"-adjective-es
+"legislador"-adjective-es "législatif"-adjective-fr
+"étranger"-adjective-fr "forastero"-adjective-es
+"forastero"-adjective-es "étranger"-adjective-fr
+"paulatino"-adjective-es "graduel"-adjective-fr
+"graduel"-adjective-fr "paulatino"-adjective-es
+"saint"-adjective-fr "sacro"-adjective-es
+"sacro"-adjective-es "saint"-adjective-fr
+"Adam"-properNoun-fr "Adán"-noun-es
+"Adán"-noun-es "Adam"-properNoun-fr
+"David"-properNoun-fr "David"-noun-es
+"David"-noun-es "David"-properNoun-fr
+"Jesús"-noun-es "Jesús"-properNoun-fr
+"Jesús"-properNoun-fr "Jesús"-noun-es
+"Barcelone"-properNoun-fr "Barcelona"-noun-es
+"Barcelona"-noun-es "Barcelone"-properNoun-fr
+"Grenade"-properNoun-fr "Granada"-noun-es
+"Granada"-noun-es "Grenade"-properNoun-fr
+"Madrid"-properNoun-fr "Madrid"-noun-es
+"Madrid"-noun-es "Madrid"-properNoun-fr
+"Navarre"-properNoun-fr "Navarra"-noun-es
+"Navarra"-noun-es "Navarre"-properNoun-fr
+"Rome"-properNoun-fr "Roma"-noun-es
+"Roma"-noun-es "Rome"-properNoun-fr
+"Zimbabwe"-properNoun-fr "Zimbabwe"-properNoun-es
+"Zimbabwe"-properNoun-es "Zimbabwe"-properNoun-fr
+"Guayana"-properNoun-es "Guyana"-properNoun-fr
+"Guyana"-properNoun-fr "Guayana"-properNoun-es
+"gasoil"-noun-fr "gasoil"-noun-es
+"gasoil"-noun-es "gasoil"-noun-fr
+"malheureusement"-adverb-fr "por desgracia"-adverb-es
+"por desgracia"-adverb-es "malheureusement"-adverb-fr
+"au moins"-adverb-fr "cuando menos"-adverb-es
+"cuando menos"-adverb-es "au moins"-adverb-fr
+"inevitablemente"-adverb-es "inévitablement"-adverb-fr
+"inévitablement"-adverb-fr "inevitablemente"-adverb-es
+"Lima"-properNoun-fr "Lima"-noun-es
+"Lima"-noun-es "Lima"-properNoun-fr
+"Paris"-properNoun-fr "París"-noun-es
+"París"-noun-es "Paris"-properNoun-fr
+"cereza"-noun-es "cerise"-noun-fr
+"cerise"-noun-fr "cereza"-noun-es
+"dispensario"-noun-es "dispensaire"-noun-fr
+"dispensaire"-noun-fr "dispensario"-noun-es
+"pêche"-noun-fr "melocotón"-noun-es
+"melocotón"-noun-es "pêche"-noun-fr
+"leopardo"-noun-es "panthère"-noun-fr
+"panthère"-noun-fr "leopardo"-noun-es
+"radiactividad"-noun-es "radioactivité"-noun-fr
+"radioactivité"-noun-fr "radiactividad"-noun-es
+"toast"-noun-fr "brindis"-noun-es
+"brindis"-noun-es "toast"-noun-fr
+"austriaco"-adjective-es "autrichien"-adjective-fr
+"autrichien"-adjective-fr "austriaco"-adjective-es
+"islamiste"-adjective-fr "islamista"-adjective-es
+"islamista"-adjective-es "islamiste"-adjective-fr
+"chiita"-adjective-es "chiite"-adjective-fr
+"chiite"-adjective-fr "chiita"-adjective-es
+"constitutivo"-adjective-es "constitutif"-adjective-fr
+"constitutif"-adjective-fr "constitutivo"-adjective-es
+"Séville"-properNoun-fr "Sevilla"-noun-es
+"Sevilla"-noun-es "Séville"-properNoun-fr
+"indicatif"-adjective-fr "indicativo"-adjective-es
+"indicativo"-adjective-es "indicatif"-adjective-fr
+"aquarium"-noun-fr "acuario"-noun-es
+"acuario"-noun-es "aquarium"-noun-fr
+"fumeur"-noun-fr "fumadero"-noun-es
+"fumadero"-noun-es "fumeur"-noun-fr
+"Borges"-properNoun-es "Bourges"-properNoun-fr
+"Bourges"-properNoun-fr "Borges"-properNoun-es
+"subtilité"-noun-fr "sutileza"-noun-es
+"sutileza"-noun-es "subtilité"-noun-fr
+"paquistaní"-adjective-es "pakistanais"-adjective-fr
+"pakistanais"-adjective-fr "paquistaní"-adjective-es
+"con frialdad"-adverb-es "froidement"-adverb-fr
+"froidement"-adverb-fr "con frialdad"-adverb-es
+"Bouvet"-properNoun-fr "Isla Bouvet"-properNoun-es
+"Isla Bouvet"-properNoun-es "Bouvet"-properNoun-fr
+"Quimper"-noun-es "Quimper"-properNoun-fr
+"Quimper"-properNoun-fr "Quimper"-noun-es
+"amandier"-noun-fr "almendrero"-noun-es
+"almendrero"-noun-es "amandier"-noun-fr
+"Warner"-properNoun-fr "Warner"-noun-es
+"Warner"-noun-es "Warner"-properNoun-fr
+"Terrassa"-properNoun-fr "Tarrasa"-properNoun-es
+"Tarrasa"-properNoun-es "Terrassa"-properNoun-fr
+"Angers"-properNoun-fr "Angers"-noun-es
+"Angers"-noun-es "Angers"-properNoun-fr
+"Polinesia"-properNoun-es "Polynésie"-properNoun-fr
+"Polynésie"-properNoun-fr "Polinesia"-properNoun-es

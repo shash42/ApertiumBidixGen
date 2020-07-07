@@ -1,0 +1,606 @@
+"aqueth"-determiner-oc "ese"-determiner-es
+"ese"-determiner-es "aqueth"-determiner-oc
+"ese"-determiner-es "aquel"-determiner-oc
+"aquel"-determiner-oc "ese"-determiner-es
+"aquel"-determiner-oc "este"-determiner-es
+"este"-determiner-es "aquel"-determiner-oc
+"despacio"-adverb-es "lentament"-adverb-oc
+"lentament"-adverb-oc "despacio"-adverb-es
+"defòra"-adverb-oc "afuera"-adverb-es
+"afuera"-adverb-es "defòra"-adverb-oc
+"egalament"-adverb-oc "asimismo"-adverb-es
+"asimismo"-adverb-es "egalament"-adverb-oc
+"por entero"-adverb-es "complètament"-adverb-oc
+"por entero"-adverb-es "completament"-adverb-oc
+"complètament"-adverb-oc "por entero"-adverb-es
+"completament"-adverb-oc "por entero"-adverb-es
+"rápidamente"-adverb-es "lèu"-adverb-oc
+"rápidamente"-adverb-es "aviat"-adverb-oc
+"lèu"-adverb-oc "rápidamente"-adverb-es
+"lèu"-adverb-oc "temprano"-adverb-es
+"aviat"-adverb-oc "rápidamente"-adverb-es
+"rapidament"-adverb-oc "deprisa"-adverb-es
+"deprisa"-adverb-es "rapidament"-adverb-oc
+"deprisa"-adverb-es "lestament"-adverb-oc
+"lestament"-adverb-oc "deprisa"-adverb-es
+"temprano"-adverb-es "lèu"-adverb-oc
+"puèi"-adverb-oc "luego"-adverb-es
+"luego"-adverb-es "puèi"-adverb-oc
+"luego"-adverb-es "despús"-adverb-oc
+"luego"-adverb-es "aprèp"-adverb-oc
+"despús"-adverb-oc "luego"-adverb-es
+"aprèp"-adverb-oc "luego"-adverb-es
+"tan sólo"-adverb-es "solament"-adverb-oc
+"tan sólo"-adverb-es "sonca"-adverb-oc
+"tan sólo"-adverb-es "nonmàs"-adverb-oc
+"solament"-adverb-oc "tan sólo"-adverb-es
+"solament"-adverb-oc "sólo"-adverb-es
+"solament"-adverb-oc "solo"-adverb-es
+"sonca"-adverb-oc "tan sólo"-adverb-es
+"sonca"-adverb-oc "solo"-adverb-es
+"sonca"-adverb-oc "solamente"-adverb-es
+"nonmàs"-adverb-oc "tan sólo"-adverb-es
+"nonmàs"-adverb-oc "solo"-adverb-es
+"nonmàs"-adverb-oc "solamente"-adverb-es
+"sólo"-adverb-es "solament"-adverb-oc
+"solo"-adverb-es "solament"-adverb-oc
+"solo"-adverb-es "sonca"-adverb-oc
+"solo"-adverb-es "nonmàs"-adverb-oc
+"solamente"-adverb-es "sonca"-adverb-oc
+"solamente"-adverb-es "nonmàs"-adverb-oc
+"darrièr"-adverb-oc "atrás"-adverb-es
+"atrás"-adverb-es "darrièr"-adverb-oc
+"debajo"-adverb-es "enjós"-adverb-oc
+"enjós"-adverb-oc "debajo"-adverb-es
+"constantament"-adverb-oc "continuamente"-adverb-es
+"continuamente"-adverb-es "constantament"-adverb-oc
+"aquí"-adverb-oc "acá"-adverb-es
+"aquí"-adverb-oc "ahí"-adverb-es
+"acá"-adverb-es "aquí"-adverb-oc
+"acá"-adverb-es "aciu"-adverb-oc
+"ahí"-adverb-es "aquí"-adverb-oc
+"ahí"-adverb-es "aciu"-adverb-oc
+"aciu"-adverb-oc "acá"-adverb-es
+"aciu"-adverb-oc "ahí"-adverb-es
+"especialment"-adverb-oc "en especial"-adverb-es
+"en especial"-adverb-es "especialment"-adverb-oc
+"en especial"-adverb-es "especialament"-adverb-oc
+"especialament"-adverb-oc "en especial"-adverb-es
+"finalament"-adverb-oc "por último"-adverb-es
+"por último"-adverb-es "finalament"-adverb-oc
+"por último"-adverb-es "fin finala"-adverb-oc
+"fin finala"-adverb-oc "por último"-adverb-es
+"tornamai"-adverb-oc "nuevamente"-adverb-es
+"nuevamente"-adverb-es "tornamai"-adverb-oc
+"leugèrament"-adverb-oc "livianamente"-adverb-es
+"livianamente"-adverb-es "leugèrament"-adverb-oc
+"totalmente"-adverb-es "entièrament"-adverb-oc
+"entièrament"-adverb-oc "totalmente"-adverb-es
+"aún"-adverb-es "enquera"-adverb-oc
+"aún"-adverb-es "enqüèra"-adverb-oc
+"enquera"-adverb-oc "aún"-adverb-es
+"enqüèra"-adverb-oc "aún"-adverb-es
+"aun"-adverb-es "quitament"-adverb-oc
+"aun"-adverb-es "autanplan"-adverb-oc
+"quitament"-adverb-oc "aun"-adverb-es
+"autanplan"-adverb-oc "aun"-adverb-es
+"çò"-pronoun-oc "aquello"-pronoun-es
+"çò"-pronoun-oc "eso"-pronoun-es
+"çò"-pronoun-oc "ello"-pronoun-es
+"aquello"-pronoun-es "çò"-pronoun-oc
+"eso"-pronoun-es "çò"-pronoun-oc
+"eso"-pronoun-es "aquò"-pronoun-oc
+"ello"-pronoun-es "çò"-pronoun-oc
+"ello"-pronoun-es "aquò"-pronoun-oc
+"aquò"-pronoun-oc "eso"-pronoun-es
+"aquò"-pronoun-oc "ello"-pronoun-es
+"qual"-pronoun-oc "que"-relativePronoun-es
+"que"-relativePronoun-es "qual"-pronoun-oc
+"que"-relativePronoun-es "qué"-pronoun-oc
+"qué"-pronoun-oc "que"-relativePronoun-es
+"aquel"-pronoun-oc "ése"-pronoun-es
+"aquel"-pronoun-oc "ese"-pronoun-es
+"ése"-pronoun-es "aquel"-pronoun-oc
+"ese"-pronoun-es "aquel"-pronoun-oc
+"qualqu'un"-pronoun-oc "alguien"-pronoun-es
+"alguien"-pronoun-es "qualqu'un"-pronoun-oc
+"ont"-adverb-oc "donde"-relativePronoun-es
+"donde"-relativePronoun-es "ont"-adverb-oc
+"entad aiçò qu'ei a"-preposition-oc "por lo que respecta a"-preposition-es
+"entad aiçò qu'ei a"-preposition-oc "en lo que se refiere a"-preposition-es
+"por lo que respecta a"-preposition-es "entad aiçò qu'ei a"-preposition-oc
+"por lo que respecta a"-preposition-es "entad açò qu'ei a"-preposition-oc
+"por lo que respecta a"-preposition-es "pertocant"-preposition-oc
+"por lo que respecta a"-preposition-es "en çò que hè a"-preposition-oc
+"en lo que se refiere a"-preposition-es "entad aiçò qu'ei a"-preposition-oc
+"en lo que se refiere a"-preposition-es "entad açò qu'ei a"-preposition-oc
+"en lo que se refiere a"-preposition-es "pertocant"-preposition-oc
+"en lo que se refiere a"-preposition-es "en çò que hè a"-preposition-oc
+"entad açò qu'ei a"-preposition-oc "por lo que respecta a"-preposition-es
+"entad açò qu'ei a"-preposition-oc "en lo que se refiere a"-preposition-es
+"pertocant"-preposition-oc "por lo que respecta a"-preposition-es
+"pertocant"-preposition-oc "en lo que se refiere a"-preposition-es
+"en çò que hè a"-preposition-oc "por lo que respecta a"-preposition-es
+"en çò que hè a"-preposition-oc "en lo que se refiere a"-preposition-es
+"en çò que toque a"-preposition-oc "en cuanto a"-preposition-es
+"en cuanto a"-preposition-es "en çò que toque a"-preposition-oc
+"en lo que respecta a"-preposition-es "en çò que fa a"-preposition-oc
+"en lo que respecta a"-preposition-es "en çò que tanh a"-preposition-oc
+"en çò que fa a"-preposition-oc "en lo que respecta a"-preposition-es
+"en çò que tanh a"-preposition-oc "en lo que respecta a"-preposition-es
+"tras"-preposition-es "despús de"-preposition-oc
+"despús de"-preposition-oc "tras"-preposition-es
+"despús de"-preposition-oc "tras de"-preposition-es
+"tras de"-preposition-es "despús de"-preposition-oc
+"desde"-preposition-es "tre"-preposition-oc
+"tre"-preposition-oc "desde"-preposition-es
+"en"-preposition-es "dins"-preposition-oc
+"dins"-preposition-oc "en"-preposition-es
+"dessús de"-preposition-oc "acerca de"-preposition-es
+"acerca de"-preposition-es "dessús de"-preposition-oc
+"acerca de"-preposition-es "demont de"-preposition-oc
+"demont de"-preposition-oc "acerca de"-preposition-es
+"sota"-preposition-oc "so"-preposition-es
+"sota"-preposition-oc "debajo de"-preposition-es
+"so"-preposition-es "sota"-preposition-oc
+"debajo de"-preposition-es "sota"-preposition-oc
+"enter"-preposition-oc "por entre"-preposition-es
+"por entre"-preposition-es "enter"-preposition-oc
+"delante de"-preposition-es "devant"-preposition-oc
+"devant"-preposition-oc "delante de"-preposition-es
+"devant"-preposition-oc "en frente de"-preposition-es
+"en frente de"-preposition-es "devant"-preposition-oc
+"medio"-adjective-es "mejan"-adjective-oc
+"mejan"-adjective-oc "medio"-adjective-es
+"languidura"-noun-oc "nostalgia"-noun-es
+"nostalgia"-noun-es "languidura"-noun-oc
+"nostalgia"-noun-es "languison"-noun-oc
+"languison"-noun-oc "nostalgia"-noun-es
+"baile"-noun-es "dança"-noun-oc
+"dança"-noun-oc "baile"-noun-es
+"gruta"-noun-es "cauva"-noun-oc
+"gruta"-noun-es "cauna"-noun-oc
+"cauva"-noun-oc "gruta"-noun-es
+"cauna"-noun-oc "gruta"-noun-es
+"pellicula"-noun-oc "film"-noun-es
+"film"-noun-es "pellicula"-noun-oc
+"película"-noun-es "film"-noun-oc
+"film"-noun-oc "película"-noun-es
+"monge"-noun-oc "fraile"-noun-es
+"fraile"-noun-es "monge"-noun-oc
+"hermano"-noun-es "fraire"-noun-oc
+"fraire"-noun-oc "hermano"-noun-es
+"baranda"-noun-es "balustrada"-noun-oc
+"balustrada"-noun-oc "baranda"-noun-es
+"mòda"-noun-oc "modo"-noun-es
+"modo"-noun-es "mòda"-noun-oc
+"modo"-noun-es "façon"-noun-oc
+"modo"-noun-es "faiçon"-noun-oc
+"façon"-noun-oc "modo"-noun-es
+"faiçon"-noun-oc "modo"-noun-es
+"bastenda"-noun-oc "edificio"-noun-es
+"edificio"-noun-es "bastenda"-noun-oc
+"aufriment"-noun-oc "oferta"-noun-es
+"oferta"-noun-es "aufriment"-noun-oc
+"raconte"-noun-oc "relato"-noun-es
+"relato"-noun-es "raconte"-noun-oc
+"mama"-noun-es "sen"-noun-oc
+"mama"-noun-es "popa"-noun-oc
+"sen"-noun-oc "mama"-noun-es
+"popa"-noun-oc "mama"-noun-es
+"habla"-noun-es "lengua"-noun-oc
+"habla"-noun-es "lenga"-noun-oc
+"lengua"-noun-oc "habla"-noun-es
+"lenga"-noun-oc "habla"-noun-es
+"horat"-noun-oc "hoyo"-noun-es
+"hoyo"-noun-es "horat"-noun-oc
+"hoyo"-noun-es "trauc"-noun-oc
+"trauc"-noun-oc "hoyo"-noun-es
+"assolidatge"-noun-oc "consecución"-noun-es
+"consecución"-noun-es "assolidatge"-noun-oc
+"hilh"-noun-oc "chico"-noun-es
+"hilh"-noun-oc "muchacho"-noun-es
+"chico"-noun-es "hilh"-noun-oc
+"chico"-noun-es "filh"-noun-oc
+"muchacho"-noun-es "hilh"-noun-oc
+"muchacho"-noun-es "filh"-noun-oc
+"muchacho"-noun-es "dròlle"-noun-oc
+"filh"-noun-oc "chico"-noun-es
+"filh"-noun-oc "muchacho"-noun-es
+"dròlle"-noun-oc "muchacho"-noun-es
+"dròlle"-noun-oc "niño"-noun-es
+"dròlle"-noun-oc "chiquillo"-noun-es
+"niño"-noun-es "dròlle"-noun-oc
+"chiquillo"-noun-es "dròlle"-noun-oc
+"animal"-noun-es "bèstia"-noun-oc
+"bèstia"-noun-oc "animal"-noun-es
+"ràbia"-noun-oc "ira"-noun-es
+"ira"-noun-es "ràbia"-noun-oc
+"encargo"-noun-es "comission"-noun-oc
+"comission"-noun-oc "encargo"-noun-es
+"grieta"-noun-es "fenda"-noun-oc
+"fenda"-noun-oc "grieta"-noun-es
+"estimación"-noun-es "valoracion"-noun-oc
+"estimación"-noun-es "avaloracion"-noun-oc
+"valoracion"-noun-oc "estimación"-noun-es
+"avaloracion"-noun-oc "estimación"-noun-es
+"tròç"-noun-oc "fragmento"-noun-es
+"fragmento"-noun-es "tròç"-noun-oc
+"cramba"-noun-oc "habitación"-noun-es
+"habitación"-noun-es "cramba"-noun-oc
+"habitación"-noun-es "cambra"-noun-oc
+"cambra"-noun-oc "habitación"-noun-es
+"cuarto"-noun-es "abitacion"-noun-oc
+"abitacion"-noun-oc "cuarto"-noun-es
+"apartamento"-noun-es "estança"-noun-oc
+"estança"-noun-oc "apartamento"-noun-es
+"cima"-noun-oc "cumbre"-noun-es
+"cumbre"-noun-es "cima"-noun-oc
+"tèsta"-noun-oc "cabeza"-noun-es
+"cabeza"-noun-es "tèsta"-noun-oc
+"damatge"-noun-oc "lástima"-noun-es
+"lástima"-noun-es "damatge"-noun-oc
+"fantasma"-noun-es "trèva"-noun-oc
+"trèva"-noun-oc "fantasma"-noun-es
+"òbra"-noun-oc "trabajo"-noun-es
+"trabajo"-noun-es "òbra"-noun-oc
+"salari"-noun-oc "sueldo"-noun-es
+"sueldo"-noun-es "salari"-noun-oc
+"salario"-noun-es "sòu"-noun-oc
+"sòu"-noun-oc "salario"-noun-es
+"prueba"-noun-es "ensag"-noun-oc
+"prueba"-noun-es "assag"-noun-oc
+"ensag"-noun-oc "prueba"-noun-es
+"assag"-noun-oc "prueba"-noun-es
+"investigación"-noun-es "recèrca"-noun-oc
+"recèrca"-noun-oc "investigación"-noun-es
+"búsqueda"-noun-es "cèrca"-noun-oc
+"cèrca"-noun-oc "búsqueda"-noun-es
+"carga"-noun-oc "cargo"-noun-es
+"cargo"-noun-es "carga"-noun-oc
+"increment"-noun-oc "aumento"-noun-es
+"aumento"-noun-es "increment"-noun-oc
+"cruce"-noun-es "crosada"-noun-oc
+"crosada"-noun-oc "cruce"-noun-es
+"prèmi"-noun-oc "galardón"-noun-es
+"galardón"-noun-es "prèmi"-noun-oc
+"dossièr"-noun-oc "expediente"-noun-es
+"expediente"-noun-es "dossièr"-noun-oc
+"mitan"-noun-oc "ámbito"-noun-es
+"ámbito"-noun-es "mitan"-noun-oc
+"ámbito"-noun-es "miei"-noun-oc
+"miei"-noun-oc "ámbito"-noun-es
+"entorno"-noun-es "miei ambient"-noun-oc
+"miei ambient"-noun-oc "entorno"-noun-es
+"entorn"-noun-oc "medio ambiente"-noun-es
+"medio ambiente"-noun-es "entorn"-noun-oc
+"marco"-noun-es "quadre"-noun-oc
+"quadre"-noun-oc "marco"-noun-es
+"rincón"-noun-es "canton"-noun-oc
+"canton"-noun-oc "rincón"-noun-es
+"canton"-noun-oc "esquina"-noun-es
+"cornèr"-noun-oc "esquina"-noun-es
+"esquina"-noun-es "canton"-noun-oc
+"esquina"-noun-es "cornèr"-noun-oc
+"parelh"-noun-oc "pareja"-noun-es
+"pareja"-noun-es "parelh"-noun-oc
+"reja"-noun-es "grasilha"-noun-oc
+"grasilha"-noun-oc "reja"-noun-es
+"proprietat"-noun-oc "finca"-noun-es
+"finca"-noun-es "proprietat"-noun-oc
+"pared"-noun-es "mur"-noun-oc
+"mur"-noun-oc "pared"-noun-es
+"margen"-noun-es "broa"-noun-oc
+"margen"-noun-es "riba"-noun-oc
+"broa"-noun-oc "margen"-noun-es
+"broa"-noun-oc "ribera"-noun-es
+"riba"-noun-oc "margen"-noun-es
+"riba"-noun-oc "ribera"-noun-es
+"aurièira"-noun-oc "ribera"-noun-es
+"ribera"-noun-es "broa"-noun-oc
+"ribera"-noun-es "riba"-noun-oc
+"ribera"-noun-es "aurièira"-noun-oc
+"vòra"-noun-oc "vera"-noun-es
+"vera"-noun-es "vòra"-noun-oc
+"encaje"-noun-es "poncha"-noun-oc
+"poncha"-noun-oc "encaje"-noun-es
+"grada"-noun-es "grad"-noun-oc
+"grada"-noun-es "gra"-noun-oc
+"grad"-noun-oc "grada"-noun-es
+"gra"-noun-oc "grada"-noun-es
+"vinculación"-noun-es "ligam"-noun-oc
+"ligam"-noun-oc "vinculación"-noun-es
+"sitio"-noun-es "endret"-noun-oc
+"endret"-noun-oc "sitio"-noun-es
+"hombre"-noun-es "mascle"-noun-oc
+"mascle"-noun-oc "hombre"-noun-es
+"mascle"-noun-oc "varón"-noun-es
+"varón"-noun-es "mascle"-noun-oc
+"esposo"-noun-es "molhèr"-noun-oc
+"esposo"-noun-es "femna"-noun-oc
+"molhèr"-noun-oc "esposo"-noun-es
+"femna"-noun-oc "esposo"-noun-es
+"ase"-noun-oc "burro"-noun-es
+"burro"-noun-es "ase"-noun-oc
+"region"-noun-oc "comarca"-noun-es
+"comarca"-noun-es "region"-noun-oc
+"área"-noun-es "parçan"-noun-oc
+"área"-noun-es "zòna"-noun-oc
+"parçan"-noun-oc "área"-noun-es
+"zòna"-noun-oc "área"-noun-es
+"personal"-noun-oc "plantilla"-noun-es
+"plantilla"-noun-es "personal"-noun-oc
+"brieu"-noun-oc "rato"-noun-es
+"rato"-noun-es "brieu"-noun-oc
+"pipa"-noun-oc "muñeco"-noun-es
+"muñeco"-noun-es "pipa"-noun-oc
+"letra"-noun-oc "carta"-noun-es
+"carta"-noun-es "letra"-noun-oc
+"bilhet"-noun-oc "papeleta"-noun-es
+"papeleta"-noun-es "bilhet"-noun-oc
+"patio"-noun-es "còrt"-noun-oc
+"còrt"-noun-oc "patio"-noun-es
+"bastón"-noun-es "pal"-noun-oc
+"pal"-noun-oc "bastón"-noun-es
+"baston"-noun-oc "palo"-noun-es
+"palo"-noun-es "baston"-noun-oc
+"torn"-noun-oc "bóveda"-noun-es
+"bóveda"-noun-es "torn"-noun-oc
+"temporada"-noun-es "estacion"-noun-oc
+"estacion"-noun-oc "temporada"-noun-es
+"gost"-noun-oc "sabor"-noun-es
+"sabor"-noun-es "gost"-noun-oc
+"gusto"-noun-es "sabor"-noun-oc
+"sabor"-noun-oc "gusto"-noun-es
+"cuestión"-noun-es "question"-noun-oc
+"question"-noun-oc "cuestión"-noun-es
+"question"-noun-oc "interrogante"-noun-es
+"interrogante"-noun-es "question"-noun-oc
+"interrogante"-noun-es "qüestion"-noun-oc
+"qüestion"-noun-oc "interrogante"-noun-es
+"peticion"-noun-oc "demanda"-noun-es
+"demanda"-noun-es "peticion"-noun-oc
+"costumbre"-noun-es "abitud"-noun-oc
+"abitud"-noun-oc "costumbre"-noun-es
+"bòsc"-noun-oc "madera"-noun-es
+"madera"-noun-es "bòsc"-noun-oc
+"bosque"-noun-es "sèuva"-noun-oc
+"bosque"-noun-es "husta"-noun-oc
+"bosque"-noun-es "fusta"-noun-oc
+"sèuva"-noun-oc "bosque"-noun-es
+"husta"-noun-oc "bosque"-noun-es
+"fusta"-noun-oc "bosque"-noun-es
+"rèsta"-noun-oc "resto"-noun-es
+"resto"-noun-es "rèsta"-noun-oc
+"plafon"-noun-oc "techo"-noun-es
+"techo"-noun-es "plafon"-noun-oc
+"abrigo"-noun-es "mantèl"-noun-oc
+"mantèl"-noun-oc "abrigo"-noun-es
+"suerte"-noun-es "astre"-noun-oc
+"astre"-noun-oc "suerte"-noun-es
+"azard"-noun-oc "casualidad"-noun-es
+"casualidad"-noun-es "azard"-noun-oc
+"trama"-noun-oc "intriga"-noun-es
+"intriga"-noun-es "trama"-noun-oc
+"fanga"-noun-oc "lodo"-noun-es
+"lodo"-noun-es "fanga"-noun-oc
+"ofensa"-noun-oc "agravio"-noun-es
+"agravio"-noun-es "ofensa"-noun-oc
+"pol"-noun-oc "gallo"-noun-es
+"gallo"-noun-es "pol"-noun-oc
+"còca"-noun-oc "tarta"-noun-es
+"tarta"-noun-es "còca"-noun-oc
+"piedra"-noun-es "calhau"-noun-oc
+"calhau"-noun-oc "piedra"-noun-es
+"començament"-noun-oc "inicio"-noun-es
+"inicio"-noun-es "començament"-noun-oc
+"galejada"-noun-oc "chiste"-noun-es
+"chiste"-noun-es "galejada"-noun-oc
+"lecho"-noun-es "lièch"-noun-oc
+"lièch"-noun-oc "lecho"-noun-es
+"auto"-noun-oc "automóvil"-noun-es
+"automóvil"-noun-es "auto"-noun-oc
+"automóvil"-noun-es "veitura"-noun-oc
+"veitura"-noun-oc "automóvil"-noun-es
+"cinturón"-noun-es "talha"-noun-oc
+"talha"-noun-oc "cinturón"-noun-es
+"tracte"-noun-oc "tratamiento"-noun-es
+"tratamiento"-noun-es "tracte"-noun-oc
+"obstacle"-noun-oc "traba"-noun-es
+"traba"-noun-es "obstacle"-noun-oc
+"maridatge"-noun-oc "boda"-noun-es
+"boda"-noun-es "maridatge"-noun-oc
+"medicamento"-noun-es "remèdi"-noun-oc
+"remèdi"-noun-oc "medicamento"-noun-es
+"capital"-noun-oc "caudal"-noun-es
+"caudal"-noun-es "capital"-noun-oc
+"llamada"-noun-es "crida"-noun-oc
+"crida"-noun-oc "llamada"-noun-es
+"apèl"-noun-oc "llamamiento"-noun-es
+"llamamiento"-noun-es "apèl"-noun-oc
+"ondada"-noun-oc "ola"-noun-es
+"ola"-noun-es "ondada"-noun-oc
+"tedi"-noun-oc "aburrimiento"-noun-es
+"aburrimiento"-noun-es "tedi"-noun-oc
+"reduccion"-noun-oc "rebaja"-noun-es
+"rebaja"-noun-es "reduccion"-noun-oc
+"carrièra"-noun-oc "calle"-noun-es
+"calle"-noun-es "carrièra"-noun-oc
+"diplòma"-noun-oc "titulación"-noun-es
+"titulación"-noun-es "diplòma"-noun-oc
+"potent"-adjective-oc "poderoso"-adjective-es
+"poderoso"-adjective-es "potent"-adjective-oc
+"potente"-adjective-es "poderós"-adjective-oc
+"poderós"-adjective-oc "potente"-adjective-es
+"cotidiano"-adjective-es "jornalièr"-adjective-oc
+"jornalièr"-adjective-oc "cotidiano"-adjective-es
+"quotidian"-adjective-oc "diario"-adjective-es
+"diario"-adjective-es "quotidian"-adjective-oc
+"idonèu"-adjective-oc "ideal"-adjective-es
+"ideal"-adjective-es "idonèu"-adjective-oc
+"elevado"-adjective-es "haut"-adjective-oc
+"elevado"-adjective-es "aut"-adjective-oc
+"elevado"-adjective-es "naut"-adjective-oc
+"haut"-adjective-oc "elevado"-adjective-es
+"aut"-adjective-oc "elevado"-adjective-es
+"naut"-adjective-oc "elevado"-adjective-es
+"daissar"-verb-oc "abandonar"-verb-es
+"abandonar"-verb-es "daissar"-verb-oc
+"pausar"-verb-oc "plantear"-verb-es
+"pausar"-verb-oc "posar"-verb-es
+"pausar"-verb-oc "meter"-verb-es
+"plantear"-verb-es "pausar"-verb-oc
+"posar"-verb-es "pausar"-verb-oc
+"meter"-verb-es "pausar"-verb-oc
+"reünir"-verb-oc "allegar"-verb-es
+"allegar"-verb-es "reünir"-verb-oc
+"allegar"-verb-es "remassar"-verb-oc
+"remassar"-verb-oc "allegar"-verb-es
+"ausir"-verb-oc "sentir"-verb-es
+"sentir"-verb-es "ausir"-verb-oc
+"sentir"-verb-es "enténer"-verb-oc
+"enténer"-verb-oc "sentir"-verb-es
+"tirar"-verb-oc "tirar"-verb-es
+"tirar"-verb-es "tirar"-verb-oc
+"susurrar"-verb-es "mormolhar"-verb-oc
+"mormolhar"-verb-oc "susurrar"-verb-es
+"enternir"-verb-oc "adecuar"-verb-es
+"adecuar"-verb-es "enternir"-verb-oc
+"apropriat"-adjective-oc "adecuado"-adjective-es
+"adecuado"-adjective-es "apropriat"-adjective-oc
+"controvertit"-adjective-oc "polémico"-adjective-es
+"polémico"-adjective-es "controvertit"-adjective-oc
+"hermoso"-adjective-es "bèl"-adjective-oc
+"bèl"-adjective-oc "hermoso"-adjective-es
+"gran"-adjective-oc "magno"-adjective-es
+"magno"-adjective-es "gran"-adjective-oc
+"magno"-adjective-es "grand"-adjective-oc
+"grand"-adjective-oc "magno"-adjective-es
+"angosto"-adjective-es "estreit"-adjective-oc
+"estreit"-adjective-oc "angosto"-adjective-es
+"tomar"-verb-es "aganchar"-verb-oc
+"aganchar"-verb-oc "tomar"-verb-es
+"aganchar"-verb-oc "asir"-verb-es
+"asir"-verb-es "aganchar"-verb-oc
+"conducir"-verb-es "pilotar"-verb-oc
+"pilotar"-verb-oc "conducir"-verb-es
+"enregistrar"-verb-oc "grabar"-verb-es
+"grabar"-verb-es "enregistrar"-verb-oc
+"apelar"-verb-oc "recurrir"-verb-es
+"recurrir"-verb-es "apelar"-verb-oc
+"avertir"-verb-oc "prevenir"-verb-es
+"prevenir"-verb-es "avertir"-verb-oc
+"acordar"-verb-oc "conceder"-verb-es
+"conceder"-verb-es "acordar"-verb-oc
+"concebre"-verb-oc "idear"-verb-es
+"idear"-verb-es "concebre"-verb-oc
+"idear"-verb-es "concéber"-verb-oc
+"concéber"-verb-oc "idear"-verb-es
+"rasonable"-adjective-oc "racional"-adjective-es
+"racional"-adjective-es "rasonable"-adjective-oc
+"coloquial"-adjective-es "familiar"-adjective-oc
+"coloquial"-adjective-es "familhar"-adjective-oc
+"familiar"-adjective-oc "coloquial"-adjective-es
+"familhar"-adjective-oc "coloquial"-adjective-es
+"marrit"-adjective-oc "malo"-adjective-es
+"malo"-adjective-es "marrit"-adjective-oc
+"agradable"-adjective-es "agradiu"-adjective-oc
+"agradiu"-adjective-oc "agradable"-adjective-es
+"precedente"-adjective-es "anterior"-adjective-oc
+"anterior"-adjective-oc "precedente"-adjective-es
+"fondamentar"-verb-oc "basar"-verb-es
+"basar"-verb-es "fondamentar"-verb-oc
+"quebrar"-verb-es "brisar"-verb-oc
+"brisar"-verb-oc "quebrar"-verb-es
+"autrejar"-verb-oc "adjudicar"-verb-es
+"adjudicar"-verb-es "autrejar"-verb-oc
+"bajar"-verb-es "descéner"-verb-oc
+"descéner"-verb-oc "bajar"-verb-es
+"obrejar"-verb-oc "tallar"-verb-es
+"tallar"-verb-es "obrejar"-verb-oc
+"investigar"-verb-es "enquestar"-verb-oc
+"enquestar"-verb-oc "investigar"-verb-es
+"incluir"-verb-es "comprene"-verb-oc
+"comprene"-verb-oc "incluir"-verb-es
+"comprene"-verb-oc "entender"-verb-es
+"comprene"-verb-oc "abarcar"-verb-es
+"entender"-verb-es "comprene"-verb-oc
+"abarcar"-verb-es "comprene"-verb-oc
+"abarcar"-verb-es "compréner"-verb-oc
+"compréner"-verb-oc "abarcar"-verb-es
+"gras"-adjective-oc "gordo"-adjective-es
+"gordo"-adjective-es "gras"-adjective-oc
+"gròs"-adjective-oc "grueso"-adjective-es
+"grueso"-adjective-es "gròs"-adjective-oc
+"amplir"-verb-oc "cumplimentar"-verb-es
+"cumplimentar"-verb-es "amplir"-verb-oc
+"cumplimentar"-verb-es "aumplir"-verb-oc
+"aumplir"-verb-oc "cumplimentar"-verb-es
+"finir"-verb-oc "finalizar"-verb-es
+"finalizar"-verb-es "finir"-verb-oc
+"finalizar"-verb-es "fenir"-verb-oc
+"fenir"-verb-oc "finalizar"-verb-es
+"aperar"-verb-oc "llamar"-verb-es
+"llamar"-verb-es "aperar"-verb-oc
+"promocionar"-verb-es "prebotjar"-verb-oc
+"promocionar"-verb-es "promocionar"-verb-oc
+"prebotjar"-verb-oc "promocionar"-verb-es
+"promocionar"-verb-oc "promocionar"-verb-es
+"apoyar"-verb-es "sostier"-verb-oc
+"apoyar"-verb-es "sosténer"-verb-oc
+"sostier"-verb-oc "apoyar"-verb-es
+"sosténer"-verb-oc "apoyar"-verb-es
+"comun"-adjective-oc "corriente"-adjective-es
+"corriente"-adjective-es "comun"-adjective-oc
+"preguntar"-verb-es "demandar"-verb-oc
+"demandar"-verb-oc "preguntar"-verb-es
+"èster"-verb-oc "estar"-verb-es
+"estar"-verb-es "èster"-verb-oc
+"estar"-verb-es "èsser"-verb-oc
+"èsser"-verb-oc "estar"-verb-es
+"espantar"-verb-es "esvarjar"-verb-oc
+"esvarjar"-verb-oc "espantar"-verb-es
+"apondre"-verb-oc "sumar"-verb-es
+"sumar"-verb-es "apondre"-verb-oc
+"sumar"-verb-es "híger"-verb-oc
+"sumar"-verb-es "ahíger"-verb-oc
+"híger"-verb-oc "sumar"-verb-es
+"ahíger"-verb-oc "sumar"-verb-es
+"pese a"-preposition-es "a despiet de"-preposition-oc
+"a despiet de"-preposition-oc "pese a"-preposition-es
+"mai"-coordinatingConjunction-oc "sino"-coordinatingConjunction-es
+"sino"-coordinatingConjunction-es "mai"-coordinatingConjunction-oc
+"sòmi"-noun-oc "ensueño"-noun-es
+"ensueño"-noun-es "sòmi"-noun-oc
+"ensueño"-noun-es "saunei"-noun-oc
+"saunei"-noun-oc "ensueño"-noun-es
+"pagés"-noun-oc "campesino"-noun-es
+"campesino"-noun-es "pagés"-noun-oc
+"tele"-noun-es "television"-noun-oc
+"television"-noun-oc "tele"-noun-es
+"fruch"-noun-oc "fruta"-noun-es
+"fruta"-noun-es "fruch"-noun-oc
+"santat"-noun-oc "salud"-noun-es
+"salud"-noun-es "santat"-noun-oc
+"anniversari"-noun-oc "aniversario"-noun-es
+"aniversario"-noun-es "anniversari"-noun-oc
+"bus"-noun-oc "bus"-noun-es
+"bus"-noun-es "bus"-noun-oc
+"american"-adjective-oc "estadounidense"-adjective-es
+"estadounidense"-adjective-es "american"-adjective-oc
+"semblable"-adjective-oc "parecido"-adjective-es
+"parecido"-adjective-es "semblable"-adjective-oc
+"fallecer"-verb-es "defuntar"-verb-oc
+"defuntar"-verb-oc "fallecer"-verb-es
+"Pirenèu"-properNoun-oc "Pirineos"-properNoun-es
+"Pirineos"-properNoun-es "Pirenèu"-properNoun-oc
+"Pirineo"-properNoun-es "Pirenèus"-properNoun-oc
+"Pirenèus"-properNoun-oc "Pirineo"-properNoun-es
+"Guyana"-properNoun-es "Guaiana"-properNoun-oc
+"Guaiana"-properNoun-oc "Guyana"-properNoun-es
+"inevitablament"-adverb-oc "forzosamente"-adverb-es
+"forzosamente"-adverb-es "inevitablament"-adverb-oc
+"òrt"-noun-oc "huerta"-noun-es
+"huerta"-noun-es "òrt"-noun-oc
+"policièr"-adjective-oc "policial"-adjective-es
+"policial"-adjective-es "policièr"-adjective-oc

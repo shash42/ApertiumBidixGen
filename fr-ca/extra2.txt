@@ -1,0 +1,158 @@
+"preferentment"-adverb-ca "de préférence"-adverb-fr
+"de préférence"-adverb-fr "preferentment"-adverb-ca
+"mentrestant"-adverb-ca "en attendant"-adverb-fr
+"en attendant"-adverb-fr "mentrestant"-adverb-ca
+"actualment"-adverb-ca "à l'heure actuelle"-adverb-fr
+"à l'heure actuelle"-adverb-fr "actualment"-adverb-ca
+"conjuntament"-adverb-ca "de concert"-adverb-fr
+"de concert"-adverb-fr "conjuntament"-adverb-ca
+"de concert"-adverb-fr "ensems"-adverb-ca
+"de concert"-adverb-fr "juntament"-adverb-ca
+"ensems"-adverb-ca "de concert"-adverb-fr
+"juntament"-adverb-ca "de concert"-adverb-fr
+"en permanence"-adverb-fr "permanentment"-adverb-ca
+"permanentment"-adverb-ca "en permanence"-adverb-fr
+"a més"-adverb-ca "de plus"-adverb-fr
+"de plus"-adverb-fr "a més"-adverb-ca
+"de plus"-adverb-fr "a més a més"-adverb-ca
+"a més a més"-adverb-ca "de plus"-adverb-fr
+"novament"-adverb-ca "de nouveau"-adverb-fr
+"de nouveau"-adverb-fr "novament"-adverb-ca
+"finalment"-adverb-ca "en somme"-adverb-fr
+"en somme"-adverb-fr "finalment"-adverb-ca
+"puntualment"-adverb-ca "à l'heure"-adverb-fr
+"à l'heure"-adverb-fr "puntualment"-adverb-ca
+"lequel"-pronoun-fr "qui"-pronoun-ca
+"qui"-pronoun-ca "lequel"-pronoun-fr
+"pour cause de"-preposition-fr "a causa de"-preposition-ca
+"a causa de"-preposition-ca "pour cause de"-preposition-fr
+"a causa de"-preposition-ca "en raison de"-preposition-fr
+"en raison de"-preposition-fr "a causa de"-preposition-ca
+"segons"-preposition-ca "au dire de"-preposition-fr
+"au dire de"-preposition-fr "segons"-preposition-ca
+"cortesia"-noun-ca "courtoisie"-noun-fr
+"courtoisie"-noun-fr "cortesia"-noun-ca
+"segrest"-noun-ca "séquestration"-noun-fr
+"séquestration"-noun-fr "segrest"-noun-ca
+"capvespre"-noun-ca "tombée de la nuit"-noun-fr
+"tombée de la nuit"-noun-fr "capvespre"-noun-ca
+"nora"-noun-ca "belle-fille"-noun-fr
+"belle-fille"-noun-fr "nora"-noun-ca
+"avi"-noun-ca "grand-mère"-noun-fr
+"grand-mère"-noun-fr "avi"-noun-ca
+"trampa"-noun-ca "embûche"-noun-fr
+"trampa"-noun-ca "chausse-trappe"-noun-fr
+"embûche"-noun-fr "trampa"-noun-ca
+"embûche"-noun-fr "parany"-noun-ca
+"chausse-trappe"-noun-fr "trampa"-noun-ca
+"chausse-trappe"-noun-fr "parany"-noun-ca
+"parany"-noun-ca "embûche"-noun-fr
+"parany"-noun-ca "chausse-trappe"-noun-fr
+"editorial"-noun-ca "édito"-noun-fr
+"édito"-noun-fr "editorial"-noun-ca
+"elevació"-noun-ca "hausse"-noun-fr
+"hausse"-noun-fr "elevació"-noun-ca
+"inclinació"-noun-ca "penchant"-noun-fr
+"penchant"-noun-fr "inclinació"-noun-ca
+"còlera"-noun-ca "choléra"-noun-fr
+"choléra"-noun-fr "còlera"-noun-ca
+"manger"-noun-fr "menjar"-noun-ca
+"menjar"-noun-ca "manger"-noun-fr
+"voute"-noun-fr "volta"-noun-ca
+"volta"-noun-ca "voute"-noun-fr
+"nus"-noun-ca "noeud"-noun-fr
+"noeud"-noun-fr "nus"-noun-ca
+"hobby"-noun-ca "marotte"-noun-fr
+"hobby"-noun-ca "dada"-noun-fr
+"marotte"-noun-fr "hobby"-noun-ca
+"dada"-noun-fr "hobby"-noun-ca
+"inercial"-adjective-ca "d'inertie"-adjective-fr
+"d'inertie"-adjective-fr "inercial"-adjective-ca
+"indiscutible"-adjective-ca "indiscutable"-adjective-fr
+"indiscutable"-adjective-fr "indiscutible"-adjective-ca
+"idoni"-adjective-ca "idoine"-adjective-fr
+"idoine"-adjective-fr "idoni"-adjective-ca
+"xocar"-verb-ca "entrer en collision"-verb-fr
+"xocar"-verb-ca "caramboler"-verb-fr
+"entrer en collision"-verb-fr "xocar"-verb-ca
+"caramboler"-verb-fr "xocar"-verb-ca
+"argumentar"-verb-ca "faire valoir"-verb-fr
+"faire valoir"-verb-fr "argumentar"-verb-ca
+"apel·lar"-verb-ca "contester en appel"-verb-fr
+"contester en appel"-verb-fr "apel·lar"-verb-ca
+"visitar"-verb-ca "rendre visite"-verb-fr
+"rendre visite"-verb-fr "visitar"-verb-ca
+"frívol"-adjective-ca "futile"-adjective-fr
+"futile"-adjective-fr "frívol"-adjective-ca
+"incòmode"-adjective-ca "incommode"-adjective-fr
+"incommode"-adjective-fr "incòmode"-adjective-ca
+"faire face à"-verb-fr "afrontar"-verb-ca
+"afrontar"-verb-ca "faire face à"-verb-fr
+"dubtós"-adjective-ca "irrésolu"-adjective-fr
+"irrésolu"-adjective-fr "dubtós"-adjective-ca
+"addicional"-adjective-ca "en plus"-adjective-fr
+"en plus"-adjective-fr "addicional"-adjective-ca
+"orgullós"-adjective-ca "orgueilleux"-adjective-fr
+"orgueilleux"-adjective-fr "orgullós"-adjective-ca
+"sobtat"-adjective-ca "subit"-adjective-fr
+"subit"-adjective-fr "sobtat"-adjective-ca
+"energètic"-adjective-ca "énergisant"-adjective-fr
+"énergisant"-adjective-fr "energètic"-adjective-ca
+"inclusivament"-adverb-ca "inclus"-adverb-fr
+"inclus"-adverb-fr "inclusivament"-adverb-ca
+"tanmateix"-adverb-ca "quand même"-adverb-fr
+"quand même"-adverb-fr "tanmateix"-adverb-ca
+"Grande Bretagne"-properNoun-fr "Gran Bretanya"-properNoun-ca
+"Gran Bretanya"-properNoun-ca "Grande Bretagne"-properNoun-fr
+"valide"-adjective-fr "vàlid"-adjective-ca
+"vàlid"-adjective-ca "valide"-adjective-fr
+"lingüístic"-adjective-ca "langagier"-adjective-fr
+"langagier"-adjective-fr "lingüístic"-adjective-ca
+"mecànic"-adjective-ca "mécanicien"-adjective-fr
+"mécanicien"-adjective-fr "mecànic"-adjective-ca
+"actualitzar"-verb-ca "mettre à jour"-verb-fr
+"mettre à jour"-verb-fr "actualitzar"-verb-ca
+"avant le temps"-adverb-fr "abans d'hora"-adverb-ca
+"abans d'hora"-adverb-ca "avant le temps"-adverb-fr
+"abans d'hora"-adverb-ca "avant l'heure"-adverb-fr
+"abans d'hora"-adverb-ca "avant terme"-adverb-fr
+"avant l'heure"-adverb-fr "abans d'hora"-adverb-ca
+"avant terme"-adverb-fr "abans d'hora"-adverb-ca
+"malauradament"-adverb-ca "regrettablement"-adverb-fr
+"regrettablement"-adverb-fr "malauradament"-adverb-ca
+"regrettablement"-adverb-fr "desgraciadament"-adverb-ca
+"desgraciadament"-adverb-ca "regrettablement"-adverb-fr
+"du moins"-adverb-fr "almenys"-adverb-ca
+"du moins"-adverb-fr "com a mínim"-adverb-ca
+"almenys"-adverb-ca "du moins"-adverb-fr
+"com a mínim"-adverb-ca "du moins"-adverb-fr
+"emocionalment"-adverb-ca "émotivement"-adverb-fr
+"émotivement"-adverb-fr "emocionalment"-adverb-ca
+"l'un de l'autre"-adverb-fr "mútuament"-adverb-ca
+"mútuament"-adverb-ca "l'un de l'autre"-adverb-fr
+"formiga"-noun-ca "formica"-noun-fr
+"formica"-noun-fr "formiga"-noun-ca
+"hemorràgia"-noun-ca "saignement"-noun-fr
+"saignement"-noun-fr "hemorràgia"-noun-ca
+"chou"-noun-fr "col"-noun-ca
+"col"-noun-ca "chou"-noun-fr
+"federation"-noun-fr "federació"-noun-ca
+"federació"-noun-ca "federation"-noun-fr
+"petó"-noun-ca "bise"-noun-fr
+"bise"-noun-fr "petó"-noun-ca
+"sogre"-noun-ca "beau-parents"-noun-fr
+"beau-parents"-noun-fr "sogre"-noun-ca
+"bruixa"-noun-ca "sorcière"-noun-fr
+"sorcière"-noun-fr "bruixa"-noun-ca
+"mínim"-adjective-ca "minime"-adjective-fr
+"minime"-adjective-fr "mínim"-adjective-ca
+"Borges"-properNoun-ca "Bourges"-properNoun-fr
+"Bourges"-properNoun-fr "Borges"-properNoun-ca
+"chemineau"-noun-fr "vagabund"-noun-ca
+"vagabund"-noun-ca "chemineau"-noun-fr
+"Union Soviétique"-properNoun-fr "Unió Soviètica"-properNoun-ca
+"Unió Soviètica"-properNoun-ca "Union Soviétique"-properNoun-fr
+"huit-cent"-numeral-fr "vuit-cents"-numeral-ca
+"vuit-cents"-numeral-ca "huit-cent"-numeral-fr
+"Libéria"-properNoun-fr "Libèria"-properNoun-ca
+"Libèria"-properNoun-ca "Libéria"-properNoun-fr

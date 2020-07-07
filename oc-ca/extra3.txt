@@ -1,0 +1,826 @@
+"este"-determiner-ca "aqueste"-determiner-oc
+"aqueste"-determiner-oc "este"-determiner-ca
+"aqueste"-determiner-oc "eixe"-determiner-ca
+"aqueste"-determiner-oc "aqueix"-determiner-ca
+"aqueste"-determiner-oc "aquell"-determiner-ca
+"aguest"-determiner-oc "eixe"-determiner-ca
+"aguest"-determiner-oc "aqueix"-determiner-ca
+"aguest"-determiner-oc "aquell"-determiner-ca
+"eixe"-determiner-ca "aqueste"-determiner-oc
+"eixe"-determiner-ca "aguest"-determiner-oc
+"aqueix"-determiner-ca "aqueste"-determiner-oc
+"aqueix"-determiner-ca "aguest"-determiner-oc
+"aquell"-determiner-ca "aqueste"-determiner-oc
+"aquell"-determiner-ca "aguest"-determiner-oc
+"dilhèu"-adverb-oc "possiblement"-adverb-ca
+"possiblement"-adverb-ca "dilhèu"-adverb-oc
+"possiblement"-adverb-ca "benlèu"-adverb-oc
+"benlèu"-adverb-oc "possiblement"-adverb-ca
+"de nonent"-adverb-oc "a poc a poc"-adverb-ca
+"a poc a poc"-adverb-ca "de nonent"-adverb-oc
+"a poc a poc"-adverb-ca "dapasset"-adverb-oc
+"a poc a poc"-adverb-ca "lentament"-adverb-oc
+"dapasset"-adverb-oc "a poc a poc"-adverb-ca
+"lentament"-adverb-oc "a poc a poc"-adverb-ca
+"hui"-adverb-ca "ué"-adverb-oc
+"ué"-adverb-oc "hui"-adverb-ca
+"quand"-relativePronoun-oc "quan"-adverb-ca
+"quan"-adverb-ca "quand"-relativePronoun-oc
+"ensems"-adverb-ca "conjuntament"-adverb-oc
+"conjuntament"-adverb-oc "ensems"-adverb-ca
+"conjuntament"-adverb-oc "juntament"-adverb-ca
+"juntament"-adverb-ca "conjuntament"-adverb-oc
+"bastant"-adverb-ca "pro"-adverb-oc
+"bastant"-adverb-ca "sufisentament"-adverb-oc
+"pro"-adverb-oc "bastant"-adverb-ca
+"sufisentament"-adverb-oc "bastant"-adverb-ca
+"sufisentament"-adverb-oc "prou"-adverb-ca
+"prou"-adverb-ca "sufisentament"-adverb-oc
+"ràpidament"-adverb-ca "lèu"-adverb-oc
+"ràpidament"-adverb-ca "aviat"-adverb-oc
+"lèu"-adverb-oc "ràpidament"-adverb-ca
+"lèu"-adverb-oc "d'hora"-adverb-ca
+"aviat"-adverb-oc "ràpidament"-adverb-ca
+"d'hora"-adverb-ca "lèu"-adverb-oc
+"lestament"-adverb-oc "de pressa"-adverb-ca
+"de pressa"-adverb-ca "lestament"-adverb-oc
+"aviat"-adverb-ca "d'ora"-adverb-oc
+"d'ora"-adverb-oc "aviat"-adverb-ca
+"gaire"-adverb-ca "fòrça"-adverb-oc
+"fòrça"-adverb-oc "gaire"-adverb-ca
+"surtot"-adverb-oc "especialment"-adverb-ca
+"especialment"-adverb-ca "surtot"-adverb-oc
+"especialment"-adverb-ca "subretot"-adverb-oc
+"subretot"-adverb-oc "especialment"-adverb-ca
+"largament"-adverb-oc "extensament"-adverb-ca
+"extensament"-adverb-ca "largament"-adverb-oc
+"puèi"-adverb-oc "a continuació"-adverb-ca
+"a continuació"-adverb-ca "puèi"-adverb-oc
+"solament"-adverb-ca "sonque"-adverb-oc
+"solament"-adverb-ca "sonca"-adverb-oc
+"solament"-adverb-ca "nonmàs"-adverb-oc
+"sonque"-adverb-oc "solament"-adverb-ca
+"sonca"-adverb-oc "solament"-adverb-ca
+"nonmàs"-adverb-oc "solament"-adverb-ca
+"plan"-adverb-oc "molt"-adverb-ca
+"molt"-adverb-ca "plan"-adverb-oc
+"darrièr"-adverb-oc "rere"-adverb-ca
+"rere"-adverb-ca "darrièr"-adverb-oc
+"dauant"-adverb-oc "enfront"-adverb-ca
+"enfront"-adverb-ca "dauant"-adverb-oc
+"enfront"-adverb-ca "devant"-adverb-oc
+"devant"-adverb-oc "enfront"-adverb-ca
+"abantes"-adverb-oc "anteriorment"-adverb-ca
+"anteriorment"-adverb-ca "abantes"-adverb-oc
+"anteriorment"-adverb-ca "abans"-adverb-oc
+"anteriorment"-adverb-ca "abant"-adverb-oc
+"abans"-adverb-oc "anteriorment"-adverb-ca
+"abant"-adverb-oc "anteriorment"-adverb-ca
+"enjós"-adverb-oc "a sota"-adverb-ca
+"a sota"-adverb-ca "enjós"-adverb-oc
+"enlà"-adverb-oc "allà"-adverb-ca
+"allà"-adverb-ca "enlà"-adverb-oc
+"ací"-adverb-ca "aicí"-adverb-oc
+"aicí"-adverb-oc "ací"-adverb-ca
+"darrièrament"-adverb-oc "últimament"-adverb-ca
+"últimament"-adverb-ca "darrièrament"-adverb-oc
+"últimament"-adverb-ca "darrèrament"-adverb-oc
+"darrèrament"-adverb-oc "últimament"-adverb-ca
+"tornarmai"-adverb-oc "novament"-adverb-ca
+"novament"-adverb-ca "tornarmai"-adverb-oc
+"aperaquí"-adverb-oc "a prop"-adverb-ca
+"aperaquí"-adverb-oc "a la vora"-adverb-ca
+"a prop"-adverb-ca "aperaquí"-adverb-oc
+"a prop"-adverb-ca "prèp"-adverb-oc
+"a prop"-adverb-ca "pròp"-adverb-oc
+"a la vora"-adverb-ca "aperaquí"-adverb-oc
+"a la vora"-adverb-ca "prèp"-adverb-oc
+"a la vora"-adverb-ca "pròp"-adverb-oc
+"a la vora"-adverb-ca "près"-adverb-oc
+"prèp"-adverb-oc "a prop"-adverb-ca
+"prèp"-adverb-oc "a la vora"-adverb-ca
+"pròp"-adverb-oc "a prop"-adverb-ca
+"pròp"-adverb-oc "a la vora"-adverb-ca
+"prop"-adverb-ca "al bòrd"-adverb-oc
+"al bòrd"-adverb-oc "prop"-adverb-ca
+"près"-adverb-oc "a la vora"-adverb-ca
+"e mai"-adverb-oc "fins i tot"-adverb-ca
+"fins i tot"-adverb-ca "e mai"-adverb-oc
+"això"-pronoun-ca "aquò"-pronoun-oc
+"aquò"-pronoun-oc "això"-pronoun-ca
+"çò"-pronoun-oc "allò"-pronoun-ca
+"allò"-pronoun-ca "çò"-pronoun-oc
+"lo"-pronoun-oc "ho"-pronoun-ca
+"ho"-pronoun-ca "lo"-pronoun-oc
+"qualqu'un"-pronoun-oc "algú"-pronoun-ca
+"algú"-pronoun-ca "qualqu'un"-pronoun-oc
+"per medi de"-preposition-oc "mitjançant"-preposition-ca
+"mitjançant"-preposition-ca "per medi de"-preposition-oc
+"cap a"-preposition-ca "envèrs"-preposition-oc
+"envèrs"-preposition-oc "cap a"-preposition-ca
+"envers"-preposition-ca "devèrs"-preposition-oc
+"devèrs"-preposition-oc "envers"-preposition-ca
+"dins"-preposition-oc "dins de"-preposition-ca
+"dins de"-preposition-ca "dins"-preposition-oc
+"damunt"-preposition-ca "dessús de"-preposition-oc
+"damunt"-preposition-ca "demont de"-preposition-oc
+"dessús de"-preposition-oc "damunt"-preposition-ca
+"demont de"-preposition-oc "damunt"-preposition-ca
+"des de"-preposition-ca "tre"-preposition-oc
+"tre"-preposition-oc "des de"-preposition-ca
+"per"-preposition-ca "per"-preposition-oc
+"per"-preposition-ca "per a"-preposition-oc
+"per"-preposition-ca "entà per'mor de"-preposition-oc
+"per"-preposition-ca "entad"-preposition-oc
+"per"-preposition-oc "per"-preposition-ca
+"per"-preposition-oc "per part de"-preposition-ca
+"per a"-preposition-oc "per"-preposition-ca
+"entà per'mor de"-preposition-oc "per"-preposition-ca
+"entà per'mor de"-preposition-oc "per a"-preposition-ca
+"entad"-preposition-oc "per"-preposition-ca
+"per part de"-preposition-ca "per"-preposition-oc
+"enta"-preposition-oc "per a"-preposition-ca
+"per a"-preposition-ca "entà per'mor de"-preposition-oc
+"per a"-preposition-ca "enta"-preposition-oc
+"per a"-preposition-ca "tà"-preposition-oc
+"tà"-preposition-oc "per a"-preposition-ca
+"en çò que tanh a"-preposition-oc "pel que fa a"-preposition-ca
+"pel que fa a"-preposition-ca "en çò que tanh a"-preposition-oc
+"pel que fa a"-preposition-ca "pertocant"-preposition-oc
+"pel que fa a"-preposition-ca "per çò que tanh"-preposition-oc
+"pel que fa a"-preposition-ca "entad aiçò que tanh"-preposition-oc
+"pel que fa a"-preposition-ca "entad açò que tanh"-preposition-oc
+"pel que fa a"-preposition-ca "en çò que tanh"-preposition-oc
+"pertocant"-preposition-oc "pel que fa a"-preposition-ca
+"per çò que tanh"-preposition-oc "pel que fa a"-preposition-ca
+"entad aiçò que tanh"-preposition-oc "pel que fa a"-preposition-ca
+"entad açò que tanh"-preposition-oc "pel que fa a"-preposition-ca
+"en çò que tanh"-preposition-oc "pel que fa a"-preposition-ca
+"davant de"-preposition-ca "devant"-preposition-oc
+"devant"-preposition-oc "davant de"-preposition-ca
+"elogiar"-verb-ca "vantar"-verb-oc
+"vantar"-verb-oc "elogiar"-verb-ca
+"aconsellar"-verb-ca "assessorar"-verb-oc
+"assessorar"-verb-oc "aconsellar"-verb-ca
+"excusar"-verb-oc "disculpar"-verb-ca
+"disculpar"-verb-ca "excusar"-verb-oc
+"nostalgia"-noun-oc "enyorança"-noun-ca
+"enyorança"-noun-ca "nostalgia"-noun-oc
+"gèl"-noun-oc "glaç"-noun-ca
+"glaç"-noun-ca "gèl"-noun-oc
+"tuta"-noun-oc "cova"-noun-ca
+"cova"-noun-ca "tuta"-noun-oc
+"pare"-noun-ca "mossèn"-noun-oc
+"pare"-noun-ca "mossen"-noun-oc
+"mossèn"-noun-oc "pare"-noun-ca
+"mossen"-noun-oc "pare"-noun-ca
+"fisonomia"-noun-oc "fesomia"-noun-ca
+"fesomia"-noun-ca "fisonomia"-noun-oc
+"baró"-noun-ca "òme"-noun-oc
+"òme"-noun-oc "baró"-noun-ca
+"trafic"-noun-oc "trànsit"-noun-ca
+"trànsit"-noun-ca "trafic"-noun-oc
+"mochet"-noun-oc "bombó"-noun-ca
+"bombó"-noun-ca "mochet"-noun-oc
+"princesa"-noun-oc "príncep"-noun-ca
+"príncep"-noun-ca "princesa"-noun-oc
+"pellicula"-noun-oc "film"-noun-ca
+"film"-noun-ca "pellicula"-noun-oc
+"pel·lícula"-noun-ca "film"-noun-oc
+"film"-noun-oc "pel·lícula"-noun-ca
+"ofèrta"-noun-oc "oferiment"-noun-ca
+"oferiment"-noun-ca "ofèrta"-noun-oc
+"oferiment"-noun-ca "auferta"-noun-oc
+"oferiment"-noun-ca "aufèrta"-noun-oc
+"oferta"-noun-ca "aufriment"-noun-oc
+"aufriment"-noun-oc "oferta"-noun-ca
+"auferta"-noun-oc "oferiment"-noun-ca
+"aufèrta"-noun-oc "oferiment"-noun-ca
+"bastenda"-noun-oc "edifici"-noun-ca
+"edifici"-noun-ca "bastenda"-noun-oc
+"vòt"-noun-oc "desig"-noun-ca
+"desig"-noun-ca "vòt"-noun-oc
+"cinturó"-noun-ca "talha"-noun-oc
+"talha"-noun-oc "cinturó"-noun-ca
+"escampeta"-noun-oc "fuga"-noun-ca
+"fuga"-noun-ca "escampeta"-noun-oc
+"fuga"-noun-ca "fugida"-noun-oc
+"fugida"-noun-oc "fuga"-noun-ca
+"aliment"-noun-ca "manjar"-noun-oc
+"manjar"-noun-oc "aliment"-noun-ca
+"terra"-noun-ca "solèr"-noun-oc
+"terra"-noun-ca "sòl"-noun-oc
+"solèr"-noun-oc "terra"-noun-ca
+"sòl"-noun-oc "terra"-noun-ca
+"cima"-noun-oc "pic"-noun-ca
+"pic"-noun-ca "cima"-noun-oc
+"esquerda"-noun-ca "fenda"-noun-oc
+"fenda"-noun-oc "esquerda"-noun-ca
+"henerècla"-noun-oc "escletxa"-noun-ca
+"escletxa"-noun-ca "henerècla"-noun-oc
+"escletxa"-noun-ca "fendasclada"-noun-oc
+"fendasclada"-noun-oc "escletxa"-noun-ca
+"promocion"-noun-oc "ascens"-noun-ca
+"ascens"-noun-ca "promocion"-noun-oc
+"intriga"-noun-ca "trama"-noun-oc
+"trama"-noun-oc "intriga"-noun-ca
+"seient"-noun-ca "banc"-noun-oc
+"banc"-noun-oc "seient"-noun-ca
+"sabla"-noun-oc "sorra"-noun-ca
+"sorra"-noun-ca "sabla"-noun-oc
+"sorra"-noun-ca "arena"-noun-oc
+"arena"-noun-oc "sorra"-noun-ca
+"forat"-noun-ca "clòt"-noun-oc
+"clòt"-noun-oc "forat"-noun-ca
+"mancança"-noun-oc "falta"-noun-ca
+"falta"-noun-ca "mancança"-noun-oc
+"tristesa"-noun-ca "tristor"-noun-oc
+"tristor"-noun-oc "tristesa"-noun-ca
+"ràbia"-noun-oc "ira"-noun-ca
+"ira"-noun-ca "ràbia"-noun-oc
+"exigéncia"-noun-oc "requeriment"-noun-ca
+"requeriment"-noun-ca "exigéncia"-noun-oc
+"òbra"-noun-oc "feina"-noun-ca
+"feina"-noun-ca "òbra"-noun-oc
+"època"-noun-ca "temps"-noun-oc
+"temps"-noun-oc "època"-noun-ca
+"potestat"-noun-oc "potència"-noun-ca
+"potència"-noun-ca "potestat"-noun-oc
+"agach"-noun-oc "esguard"-noun-ca
+"esguard"-noun-ca "agach"-noun-oc
+"esguard"-noun-ca "espiar"-noun-oc
+"mirada"-noun-ca "reguard"-noun-oc
+"reguard"-noun-oc "mirada"-noun-ca
+"espiar"-noun-oc "esguard"-noun-ca
+"cornèr"-noun-oc "cantonada"-noun-ca
+"cantonada"-noun-ca "cornèr"-noun-oc
+"racó"-noun-ca "caire"-noun-oc
+"caire"-noun-oc "racó"-noun-ca
+"reduccion"-noun-oc "descompte"-noun-ca
+"descompte"-noun-ca "reduccion"-noun-oc
+"agenda"-noun-ca "agenda"-noun-oc
+"agenda"-noun-oc "agenda"-noun-ca
+"carta"-noun-ca "carta"-noun-oc
+"carta"-noun-oc "carta"-noun-ca
+"parla"-noun-oc "idioma"-noun-ca
+"parla"-noun-oc "llengua"-noun-ca
+"idioma"-noun-ca "parla"-noun-oc
+"idioma"-noun-ca "lengua"-noun-oc
+"idioma"-noun-ca "lenga"-noun-oc
+"llengua"-noun-ca "parla"-noun-oc
+"lengua"-noun-oc "idioma"-noun-ca
+"lenga"-noun-oc "idioma"-noun-ca
+"cap"-noun-ca "cap"-noun-oc
+"cap"-noun-oc "cap"-noun-ca
+"col·legi"-noun-ca "escòla"-noun-oc
+"escòla"-noun-oc "col·legi"-noun-ca
+"causa"-noun-ca "causa"-noun-oc
+"causa"-noun-oc "causa"-noun-ca
+"causa"-noun-oc "raó"-noun-ca
+"raó"-noun-ca "causa"-noun-oc
+"trapèla"-noun-oc "trampa"-noun-ca
+"trampa"-noun-ca "trapèla"-noun-oc
+"trampa"-noun-ca "param"-noun-oc
+"param"-noun-oc "trampa"-noun-ca
+"obstacle"-noun-ca "trebuc"-noun-oc
+"trebuc"-noun-oc "obstacle"-noun-ca
+"ofensa"-noun-oc "greuge"-noun-ca
+"greuge"-noun-ca "ofensa"-noun-oc
+"greuge"-noun-ca "afront"-noun-oc
+"afront"-noun-oc "greuge"-noun-ca
+"defècte"-noun-oc "falla"-noun-ca
+"falla"-noun-ca "defècte"-noun-oc
+"equivocació"-noun-ca "faussada"-noun-oc
+"faussada"-noun-oc "equivocació"-noun-ca
+"clauson"-noun-oc "conclusió"-noun-ca
+"conclusió"-noun-ca "clauson"-noun-oc
+"fill"-noun-ca "dròlle"-noun-oc
+"fill"-noun-ca "enfant"-noun-oc
+"dròlle"-noun-oc "fill"-noun-ca
+"dròlle"-noun-oc "xic"-noun-ca
+"dròlle"-noun-oc "infant"-noun-ca
+"dròlle"-noun-oc "xiquet"-noun-ca
+"dròlle"-noun-oc "nen"-noun-ca
+"dròlle"-noun-oc "xicot"-noun-ca
+"dròlle"-noun-oc "mosso"-noun-ca
+"enfant"-noun-oc "fill"-noun-ca
+"enfant"-noun-oc "xiquet"-noun-ca
+"enfant"-noun-oc "nen"-noun-ca
+"xic"-noun-ca "dròlle"-noun-oc
+"infant"-noun-ca "dròlle"-noun-oc
+"xiquet"-noun-ca "dròlle"-noun-oc
+"xiquet"-noun-ca "enfant"-noun-oc
+"nen"-noun-ca "dròlle"-noun-oc
+"nen"-noun-ca "enfant"-noun-oc
+"xicot"-noun-ca "dròlle"-noun-oc
+"xicot"-noun-ca "nòvi"-noun-oc
+"mosso"-noun-ca "dròlle"-noun-oc
+"nòvi"-noun-oc "xicot"-noun-ca
+"joia"-noun-ca "gaug"-noun-oc
+"joia"-noun-ca "alegria"-noun-oc
+"gaug"-noun-oc "joia"-noun-ca
+"alegria"-noun-oc "joia"-noun-ca
+"medi"-noun-ca "mejan"-noun-oc
+"mejan"-noun-oc "medi"-noun-ca
+"mèdi"-noun-oc "mitjà"-noun-ca
+"mitjà"-noun-ca "mèdi"-noun-oc
+"environament"-noun-oc "medi ambient"-noun-ca
+"medi ambient"-noun-ca "environament"-noun-oc
+"medi ambient"-noun-ca "entorn"-noun-oc
+"entorn"-noun-oc "medi ambient"-noun-ca
+"entorn"-noun-oc "entorn"-noun-ca
+"entorn"-noun-ca "entorn"-noun-oc
+"cramba"-noun-oc "habitació"-noun-ca
+"habitació"-noun-ca "cramba"-noun-oc
+"habitació"-noun-ca "cambra"-noun-oc
+"cambra"-noun-oc "habitació"-noun-ca
+"cambra"-noun-ca "abitacion"-noun-oc
+"abitacion"-noun-oc "cambra"-noun-ca
+"abric"-noun-oc "mantell"-noun-ca
+"mantell"-noun-ca "abric"-noun-oc
+"sèrra"-noun-oc "cadena"-noun-ca
+"sèrra"-noun-oc "serralada"-noun-ca
+"cadena"-noun-ca "sèrra"-noun-oc
+"serralada"-noun-ca "sèrra"-noun-oc
+"riba"-noun-ca "còsta"-noun-oc
+"còsta"-noun-oc "riba"-noun-ca
+"marge"-noun-ca "broa"-noun-oc
+"marge"-noun-ca "riba"-noun-oc
+"broa"-noun-oc "marge"-noun-ca
+"riba"-noun-oc "marge"-noun-ca
+"enquèsta"-noun-oc "investigació"-noun-ca
+"investigació"-noun-ca "enquèsta"-noun-oc
+"investigacion"-noun-oc "recerca"-noun-ca
+"recerca"-noun-ca "investigacion"-noun-oc
+"destresa"-noun-ca "abiletat"-noun-oc
+"abiletat"-noun-oc "destresa"-noun-ca
+"actuacion"-noun-oc "acció"-noun-ca
+"acció"-noun-ca "actuacion"-noun-oc
+"partit"-noun-oc "matx"-noun-ca
+"matx"-noun-ca "partit"-noun-oc
+"ensenhament"-noun-oc "docència"-noun-ca
+"docència"-noun-ca "ensenhament"-noun-oc
+"gasolina"-noun-oc "benzina"-noun-ca
+"benzina"-noun-ca "gasolina"-noun-oc
+"pal"-noun-oc "bastó"-noun-ca
+"bastó"-noun-ca "pal"-noun-oc
+"fila"-noun-oc "rengle"-noun-ca
+"rengle"-noun-ca "fila"-noun-oc
+"sason"-noun-oc "estació"-noun-ca
+"estació"-noun-ca "sason"-noun-oc
+"zona"-noun-ca "aira"-noun-oc
+"aira"-noun-oc "zona"-noun-ca
+"longada"-noun-oc "longitud"-noun-ca
+"longitud"-noun-ca "longada"-noun-oc
+"longitud"-noun-oc "llargària"-noun-ca
+"llargària"-noun-ca "longitud"-noun-oc
+"punt"-noun-oc "punt"-noun-ca
+"punt"-noun-ca "punt"-noun-oc
+"arrua"-noun-oc "solc"-noun-ca
+"solc"-noun-ca "arrua"-noun-oc
+"pichèr"-noun-oc "gerra"-noun-ca
+"gerra"-noun-ca "pichèr"-noun-oc
+"gust"-noun-ca "sabor"-noun-oc
+"sabor"-noun-oc "gust"-noun-ca
+"convencion"-noun-oc "conveni"-noun-ca
+"conveni"-noun-ca "convencion"-noun-oc
+"pargue"-noun-oc "pàrquing"-noun-ca
+"pargue"-noun-oc "aparcament"-noun-ca
+"pàrquing"-noun-ca "pargue"-noun-oc
+"aparcament"-noun-ca "pargue"-noun-oc
+"lloc"-noun-ca "endret"-noun-oc
+"endret"-noun-oc "lloc"-noun-ca
+"presentador"-noun-oc "locutor"-noun-ca
+"locutor"-noun-ca "presentador"-noun-oc
+"ministèri"-noun-oc "conselleria"-noun-ca
+"conselleria"-noun-ca "ministèri"-noun-oc
+"costum"-noun-ca "abitud"-noun-oc
+"abitud"-noun-oc "costum"-noun-ca
+"revindicacion"-noun-oc "reivindicació"-noun-ca
+"reivindicació"-noun-ca "revindicacion"-noun-oc
+"sòrt"-noun-oc "destí"-noun-ca
+"destí"-noun-ca "sòrt"-noun-oc
+"addició"-noun-ca "soma"-noun-oc
+"soma"-noun-oc "addició"-noun-ca
+"salari"-noun-oc "sou"-noun-ca
+"sou"-noun-ca "salari"-noun-oc
+"salari"-noun-ca "sòu"-noun-oc
+"sòu"-noun-oc "salari"-noun-ca
+"profunditat"-noun-ca "fonzor"-noun-oc
+"fonzor"-noun-oc "profunditat"-noun-ca
+"panèl"-noun-oc "plafó"-noun-ca
+"plafó"-noun-ca "panèl"-noun-oc
+"mamella"-noun-ca "sen"-noun-oc
+"mamella"-noun-ca "mama"-noun-oc
+"sen"-noun-oc "mamella"-noun-ca
+"mama"-noun-oc "mamella"-noun-ca
+"cara"-noun-ca "cara"-noun-oc
+"cara"-noun-oc "cara"-noun-ca
+"via"-noun-oc "carril"-noun-ca
+"carril"-noun-ca "via"-noun-oc
+"collèga"-noun-oc "company"-noun-ca
+"company"-noun-ca "collèga"-noun-oc
+"parella"-noun-ca "parelh"-noun-oc
+"parelh"-noun-oc "parella"-noun-ca
+"espòs"-noun-ca "molhèr"-noun-oc
+"espòs"-noun-ca "femna"-noun-oc
+"molhèr"-noun-oc "espòs"-noun-ca
+"femna"-noun-oc "espòs"-noun-ca
+"femna"-noun-oc "muller"-noun-ca
+"muller"-noun-ca "femna"-noun-oc
+"muller"-noun-ca "hemna"-noun-oc
+"hemna"-noun-oc "muller"-noun-ca
+"acudit"-noun-ca "galejada"-noun-oc
+"galejada"-noun-oc "acudit"-noun-ca
+"còca"-noun-oc "pastís"-noun-ca
+"pastís"-noun-ca "còca"-noun-oc
+"ensag"-noun-oc "prova"-noun-ca
+"prova"-noun-ca "ensag"-noun-oc
+"prova"-noun-ca "assag"-noun-oc
+"assag"-noun-oc "prova"-noun-ca
+"intent"-noun-ca "temptativa"-noun-oc
+"temptativa"-noun-oc "intent"-noun-ca
+"bóstia"-noun-oc "caixa"-noun-ca
+"caixa"-noun-ca "bóstia"-noun-oc
+"capsa"-noun-ca "caissa"-noun-oc
+"caissa"-noun-oc "capsa"-noun-ca
+"saumetada"-noun-oc "estupidesa"-noun-ca
+"estupidesa"-noun-ca "saumetada"-noun-oc
+"estupidesa"-noun-ca "necior"-noun-oc
+"necior"-noun-oc "estupidesa"-noun-ca
+"creixement"-noun-ca "creissença"-noun-oc
+"creissença"-noun-oc "creixement"-noun-ca
+"caumatge"-noun-oc "desocupació"-noun-ca
+"desocupació"-noun-ca "caumatge"-noun-oc
+"vèspre"-noun-oc "vesprada"-noun-ca
+"vèspre"-noun-oc "vespre"-noun-ca
+"vesprada"-noun-ca "vèspre"-noun-oc
+"vespre"-noun-ca "vèspre"-noun-oc
+"vespre"-noun-ca "vesprada"-noun-oc
+"vespre"-noun-ca "serada"-noun-oc
+"vesprada"-noun-oc "vespre"-noun-ca
+"serada"-noun-oc "vespre"-noun-ca
+"mode"-noun-ca "mòda"-noun-oc
+"mòda"-noun-oc "mode"-noun-ca
+"arreconeishença"-noun-oc "gratitud"-noun-ca
+"gratitud"-noun-ca "arreconeishença"-noun-oc
+"bosc"-noun-ca "husta"-noun-oc
+"bosc"-noun-ca "fusta"-noun-oc
+"husta"-noun-oc "bosc"-noun-ca
+"fusta"-noun-oc "bosc"-noun-ca
+"bòsc"-noun-oc "fusta"-noun-ca
+"bòsc"-noun-oc "selva"-noun-ca
+"fusta"-noun-ca "bòsc"-noun-oc
+"selva"-noun-ca "bòsc"-noun-oc
+"ase"-noun-oc "burro"-noun-ca
+"burro"-noun-ca "ase"-noun-oc
+"darreria"-noun-oc "final"-noun-ca
+"final"-noun-ca "darreria"-noun-oc
+"terrèstre"-adjective-oc "terrenal"-adjective-ca
+"terrenal"-adjective-ca "terrèstre"-adjective-oc
+"poderós"-adjective-oc "potent"-adjective-ca
+"potent"-adjective-ca "poderós"-adjective-oc
+"poderós"-adjective-ca "potent"-adjective-oc
+"potent"-adjective-oc "poderós"-adjective-ca
+"quotidian"-adjective-oc "diari"-adjective-ca
+"diari"-adjective-ca "quotidian"-adjective-oc
+"quotidià"-adjective-ca "jornalièr"-adjective-oc
+"jornalièr"-adjective-oc "quotidià"-adjective-ca
+"intercambiar"-verb-oc "bescanviar"-verb-ca
+"bescanviar"-verb-ca "intercambiar"-verb-oc
+"autonòm"-adjective-oc "autonòmic"-adjective-ca
+"autonòmic"-adjective-ca "autonòm"-adjective-oc
+"sofrir"-verb-oc "patir"-verb-ca
+"patir"-verb-ca "sofrir"-verb-oc
+"dèbil"-adjective-ca "feble"-adjective-oc
+"feble"-adjective-oc "dèbil"-adjective-ca
+"elevat"-adjective-ca "naut"-adjective-oc
+"elevat"-adjective-ca "haut"-adjective-oc
+"elevat"-adjective-ca "aut"-adjective-oc
+"naut"-adjective-oc "elevat"-adjective-ca
+"haut"-adjective-oc "elevat"-adjective-ca
+"aut"-adjective-oc "elevat"-adjective-ca
+"corbir"-verb-oc "colgar"-verb-ca
+"corbir"-verb-oc "tapar"-verb-ca
+"colgar"-verb-ca "corbir"-verb-oc
+"colgar"-verb-ca "cubertar"-verb-oc
+"colgar"-verb-ca "caperar"-verb-oc
+"colgar"-verb-ca "crobir"-verb-oc
+"tapar"-verb-ca "corbir"-verb-oc
+"tapar"-verb-ca "cubertar"-verb-oc
+"tapar"-verb-ca "caperar"-verb-oc
+"tapar"-verb-ca "crobir"-verb-oc
+"cubertar"-verb-oc "colgar"-verb-ca
+"cubertar"-verb-oc "tapar"-verb-ca
+"caperar"-verb-oc "colgar"-verb-ca
+"caperar"-verb-oc "tapar"-verb-ca
+"crobir"-verb-oc "colgar"-verb-ca
+"crobir"-verb-oc "tapar"-verb-ca
+"lançar"-verb-oc "tirar"-verb-ca
+"lançar"-verb-oc "foragitar"-verb-ca
+"tirar"-verb-ca "lançar"-verb-oc
+"foragitar"-verb-ca "lançar"-verb-oc
+"foragitar"-verb-ca "tirar"-verb-oc
+"llençar"-verb-ca "tirar"-verb-oc
+"tirar"-verb-oc "foragitar"-verb-ca
+"tirar"-verb-oc "llençar"-verb-ca
+"reünir"-verb-oc "aplegar"-verb-ca
+"aplegar"-verb-ca "reünir"-verb-oc
+"aplegar"-verb-ca "remassar"-verb-oc
+"remassar"-verb-oc "aplegar"-verb-ca
+"amiar"-verb-oc "pilotar"-verb-ca
+"amiar"-verb-oc "endur"-verb-ca
+"amiar"-verb-oc "emportar"-verb-ca
+"pilotar"-verb-ca "amiar"-verb-oc
+"pilotar"-verb-ca "conduire"-verb-oc
+"endur"-verb-ca "amiar"-verb-oc
+"emportar"-verb-ca "amiar"-verb-oc
+"conduir"-verb-ca "pilotar"-verb-oc
+"pilotar"-verb-oc "conduir"-verb-ca
+"conduire"-verb-oc "pilotar"-verb-ca
+"espaordir"-verb-ca "esvarjar"-verb-oc
+"esvarjar"-verb-oc "espaordir"-verb-ca
+"cambiar"-verb-oc "capgirar"-verb-ca
+"capgirar"-verb-ca "cambiar"-verb-oc
+"intentar"-verb-ca "paliuar"-verb-oc
+"paliuar"-verb-oc "intentar"-verb-ca
+"començar"-verb-oc "encetar"-verb-ca
+"encetar"-verb-ca "començar"-verb-oc
+"aconseguir"-verb-ca "arribar"-verb-oc
+"arribar"-verb-oc "aconseguir"-verb-ca
+"previer"-verb-oc "avisar"-verb-ca
+"avisar"-verb-ca "previer"-verb-oc
+"avertir"-verb-oc "prevenir"-verb-ca
+"prevenir"-verb-ca "avertir"-verb-oc
+"posar"-verb-ca "póner"-verb-oc
+"póner"-verb-oc "posar"-verb-ca
+"póner"-verb-oc "ficar"-verb-ca
+"pausar"-verb-oc "ficar"-verb-ca
+"ficar"-verb-ca "póner"-verb-oc
+"ficar"-verb-ca "pausar"-verb-oc
+"proper"-adjective-ca "venent"-adjective-oc
+"venent"-adjective-oc "proper"-adjective-ca
+"venent"-adjective-oc "pròxim"-adjective-ca
+"pròxim"-adjective-ca "venent"-adjective-oc
+"somar"-verb-oc "afegir"-verb-ca
+"afegir"-verb-ca "somar"-verb-oc
+"apropriat"-adjective-oc "adequat"-adjective-ca
+"adequat"-adjective-ca "apropriat"-adjective-oc
+"controvertit"-adjective-oc "polèmic"-adjective-ca
+"polèmic"-adjective-ca "controvertit"-adjective-oc
+"soslinhar"-verb-oc "senyalar"-verb-ca
+"senyalar"-verb-ca "soslinhar"-verb-oc
+"senyalar"-verb-ca "assenhalar"-verb-oc
+"assenyalar"-verb-ca "senhalar"-verb-oc
+"senhalar"-verb-oc "assenyalar"-verb-ca
+"assenhalar"-verb-oc "senyalar"-verb-ca
+"caure"-verb-ca "tombar"-verb-oc
+"tombar"-verb-oc "caure"-verb-ca
+"adaptar"-verb-ca "adaptar"-verb-oc
+"adaptar"-verb-oc "adaptar"-verb-ca
+"enternir"-verb-oc "adequar"-verb-ca
+"adequar"-verb-ca "enternir"-verb-oc
+"bonic"-adjective-ca "bèl"-adjective-oc
+"bèl"-adjective-oc "bonic"-adjective-ca
+"polit"-adjective-oc "bell"-adjective-ca
+"bell"-adjective-ca "polit"-adjective-oc
+"arturar"-verb-oc "parar"-verb-ca
+"parar"-verb-ca "arturar"-verb-oc
+"agafar"-verb-ca "agarrar"-verb-oc
+"agarrar"-verb-oc "agafar"-verb-ca
+"agarrar"-verb-oc "prendre"-verb-ca
+"prendre"-verb-ca "agarrar"-verb-oc
+"prendre"-verb-ca "aganchar"-verb-oc
+"aganchar"-verb-oc "prendre"-verb-ca
+"aganchar"-verb-oc "copsar"-verb-ca
+"copsar"-verb-ca "aganchar"-verb-oc
+"copsar"-verb-ca "prene"-verb-oc
+"copsar"-verb-ca "préner"-verb-oc
+"prene"-verb-oc "copsar"-verb-ca
+"préner"-verb-oc "copsar"-verb-ca
+"defendre"-verb-oc "advocar"-verb-ca
+"advocar"-verb-ca "defendre"-verb-oc
+"advocar"-verb-ca "defensar"-verb-oc
+"defensar"-verb-oc "advocar"-verb-ca
+"entregar"-verb-ca "liurar"-verb-oc
+"liurar"-verb-oc "entregar"-verb-ca
+"liurar"-verb-oc "deslliurar"-verb-ca
+"deslliurar"-verb-ca "liurar"-verb-oc
+"deslliurar"-verb-ca "liberar"-verb-oc
+"lliurar"-verb-ca "autrejar"-verb-oc
+"autrejar"-verb-oc "lliurar"-verb-ca
+"liberar"-verb-oc "deslliurar"-verb-ca
+"acabar"-verb-ca "acabar"-verb-oc
+"acabar"-verb-oc "acabar"-verb-ca
+"omplir"-verb-ca "ramplir"-verb-oc
+"ramplir"-verb-oc "omplir"-verb-ca
+"aumplir"-verb-oc "emplenar"-verb-ca
+"aumplir"-verb-oc "farcir"-verb-ca
+"emplenar"-verb-ca "aumplir"-verb-oc
+"emplenar"-verb-ca "amplir"-verb-oc
+"farcir"-verb-ca "aumplir"-verb-oc
+"farcir"-verb-ca "amplir"-verb-oc
+"amplir"-verb-oc "emplenar"-verb-ca
+"amplir"-verb-oc "farcir"-verb-ca
+"bloquejar"-verb-oc "blocar"-verb-ca
+"blocar"-verb-ca "bloquejar"-verb-oc
+"bloquejar"-verb-ca "blocar"-verb-oc
+"blocar"-verb-oc "bloquejar"-verb-ca
+"brilhant"-adjective-oc "lluent"-adjective-ca
+"lluent"-adjective-ca "brilhant"-adjective-oc
+"gravar"-verb-oc "enregistrar"-verb-ca
+"enregistrar"-verb-ca "gravar"-verb-oc
+"enregistrar"-verb-ca "grauar"-verb-oc
+"grauar"-verb-oc "enregistrar"-verb-ca
+"utilizar"-verb-oc "fer servir"-verb-ca
+"fer servir"-verb-ca "utilizar"-verb-oc
+"fer servir"-verb-ca "utilisar"-verb-oc
+"utilisar"-verb-oc "fer servir"-verb-ca
+"ocupar"-verb-ca "ocupar"-verb-oc
+"ocupar"-verb-oc "ocupar"-verb-ca
+"perlongar"-verb-oc "perllongar"-verb-ca
+"perllongar"-verb-ca "perlongar"-verb-oc
+"curar"-verb-ca "garir"-verb-oc
+"garir"-verb-oc "curar"-verb-ca
+"escapar"-verb-oc "defugir"-verb-ca
+"defugir"-verb-ca "escapar"-verb-oc
+"amagar"-verb-oc "amagar"-verb-ca
+"amagar"-verb-ca "amagar"-verb-oc
+"escurar"-verb-ca "fregar"-verb-oc
+"fregar"-verb-oc "escurar"-verb-ca
+"veritable"-adjective-oc "autèntic"-adjective-ca
+"autèntic"-adjective-ca "veritable"-adjective-oc
+"segur"-adjective-ca "solid"-adjective-oc
+"solid"-adjective-oc "segur"-adjective-ca
+"obvi"-adjective-ca "evident"-adjective-oc
+"evident"-adjective-oc "obvi"-adjective-ca
+"embolcallar"-verb-ca "endravar"-verb-oc
+"embolcallar"-verb-ca "endrabar"-verb-oc
+"endravar"-verb-oc "embolcallar"-verb-ca
+"endrabar"-verb-oc "embolcallar"-verb-ca
+"emborrassar"-verb-oc "embolicar"-verb-ca
+"embolicar"-verb-ca "emborrassar"-verb-oc
+"levar"-verb-oc "alçar"-verb-ca
+"alçar"-verb-ca "levar"-verb-oc
+"alçar"-verb-ca "ennautar"-verb-oc
+"ennautar"-verb-oc "alçar"-verb-ca
+"gastar"-verb-oc "despendre"-verb-ca
+"despendre"-verb-ca "gastar"-verb-oc
+"revlincar"-verb-oc "tòrcer"-verb-ca
+"tòrcer"-verb-ca "revlincar"-verb-oc
+"baixar"-verb-ca "devarar"-verb-oc
+"baixar"-verb-ca "davarar"-verb-oc
+"baixar"-verb-ca "dauarar"-verb-oc
+"baixar"-verb-ca "abaishar"-verb-oc
+"devarar"-verb-oc "baixar"-verb-ca
+"devarar"-verb-oc "abaixar"-verb-ca
+"devarar"-verb-oc "descendir"-verb-ca
+"davarar"-verb-oc "baixar"-verb-ca
+"davarar"-verb-oc "abaixar"-verb-ca
+"davarar"-verb-oc "descendir"-verb-ca
+"dauarar"-verb-oc "baixar"-verb-ca
+"dauarar"-verb-oc "abaixar"-verb-ca
+"dauarar"-verb-oc "descendir"-verb-ca
+"abaishar"-verb-oc "baixar"-verb-ca
+"abaishar"-verb-oc "descendir"-verb-ca
+"abaishar"-verb-oc "davallar"-verb-ca
+"baissar"-verb-oc "abaixar"-verb-ca
+"abaixar"-verb-ca "devarar"-verb-oc
+"abaixar"-verb-ca "davarar"-verb-oc
+"abaixar"-verb-ca "dauarar"-verb-oc
+"abaixar"-verb-ca "baissar"-verb-oc
+"descendir"-verb-ca "devarar"-verb-oc
+"descendir"-verb-ca "davarar"-verb-oc
+"descendir"-verb-ca "dauarar"-verb-oc
+"descendir"-verb-ca "abaishar"-verb-oc
+"descendir"-verb-ca "deuarar"-verb-oc
+"descendir"-verb-ca "davalar"-verb-oc
+"davallar"-verb-ca "abaishar"-verb-oc
+"deuarar"-verb-oc "descendir"-verb-ca
+"davalar"-verb-oc "descendir"-verb-ca
+"bellugar"-verb-ca "botjar"-verb-oc
+"botjar"-verb-oc "bellugar"-verb-ca
+"encendre"-verb-ca "alumar"-verb-oc
+"alumar"-verb-oc "encendre"-verb-ca
+"marrit"-adjective-oc "dolent"-adjective-ca
+"dolent"-adjective-ca "marrit"-adjective-oc
+"alistar"-verb-oc "triar"-verb-ca
+"triar"-verb-ca "alistar"-verb-oc
+"ultim"-adjective-oc "darrer"-adjective-ca
+"darrer"-adjective-ca "ultim"-adjective-oc
+"anterior"-adjective-oc "precedent"-adjective-ca
+"precedent"-adjective-ca "anterior"-adjective-oc
+"partir"-verb-oc "partir"-verb-ca
+"partir"-verb-ca "partir"-verb-oc
+"investigar"-verb-oc "enquestar"-verb-ca
+"enquestar"-verb-ca "investigar"-verb-oc
+"arremassar"-verb-oc "arreplegar"-verb-ca
+"arreplegar"-verb-ca "arremassar"-verb-oc
+"arreplegar"-verb-ca "apletar"-verb-oc
+"apletar"-verb-oc "arreplegar"-verb-ca
+"penjar"-verb-ca "acogar"-verb-oc
+"acogar"-verb-oc "penjar"-verb-ca
+"fins a"-preposition-ca "juscas"-preposition-oc
+"fins a"-preposition-ca "jusca"-preposition-oc
+"fins a"-preposition-ca "duscas"-preposition-oc
+"fins a"-preposition-ca "dusca"-preposition-oc
+"fins a"-preposition-ca "entrò"-preposition-oc
+"fins a"-preposition-ca "dinca"-preposition-oc
+"fins a"-preposition-ca "denquia"-preposition-oc
+"juscas"-preposition-oc "fins a"-preposition-ca
+"jusca"-preposition-oc "fins a"-preposition-ca
+"duscas"-preposition-oc "fins a"-preposition-ca
+"dusca"-preposition-oc "fins a"-preposition-ca
+"entrò"-preposition-oc "fins a"-preposition-ca
+"dinca"-preposition-oc "fins a"-preposition-ca
+"denquia"-preposition-oc "fins a"-preposition-ca
+"entrò a"-preposition-oc "fins"-preposition-ca
+"fins"-preposition-ca "entrò a"-preposition-oc
+"fins"-preposition-ca "dinc"-preposition-oc
+"dinc"-preposition-oc "fins"-preposition-ca
+"com"-preposition-oc "com a"-preposition-ca
+"com a"-preposition-ca "com"-preposition-oc
+"al luòc de"-preposition-oc "en comptes de"-preposition-ca
+"en comptes de"-preposition-ca "al luòc de"-preposition-oc
+"en comptes de"-preposition-ca "al lòc de"-preposition-oc
+"al lòc de"-preposition-oc "en comptes de"-preposition-ca
+"tot i"-preposition-ca "a despiet de"-preposition-oc
+"a despiet de"-preposition-oc "tot i"-preposition-ca
+"dessús"-adverb-oc "dalt"-adverb-ca
+"dalt"-adverb-ca "dessús"-adverb-oc
+"a dalt"-adverb-ca "tà naut"-adverb-oc
+"tà naut"-adverb-oc "a dalt"-adverb-ca
+"naut"-adverb-oc "amunt"-adverb-ca
+"amunt"-adverb-ca "naut"-adverb-oc
+"pertot"-adverb-oc "arreu"-adverb-ca
+"arreu"-adverb-ca "pertot"-adverb-oc
+"alèra"-adverb-oc "llavors"-adverb-ca
+"llavors"-adverb-ca "alèra"-adverb-oc
+"llavors"-adverb-ca "alara"-adverb-oc
+"alara"-adverb-oc "llavors"-adverb-ca
+"païsan"-noun-oc "pagès"-noun-ca
+"pagès"-noun-ca "païsan"-noun-oc
+"decènni"-noun-oc "decenni"-noun-ca
+"decenni"-noun-ca "decènni"-noun-oc
+"decenni"-noun-ca "decada"-noun-oc
+"decada"-noun-oc "decenni"-noun-ca
+"fruch"-noun-oc "fruita"-noun-ca
+"fruita"-noun-ca "fruch"-noun-oc
+"alcalde"-noun-oc "batlle"-noun-ca
+"batlle"-noun-ca "alcalde"-noun-oc
+"batlle"-noun-ca "mèra"-noun-oc
+"batlle"-noun-ca "mera"-noun-oc
+"batlle"-noun-ca "conse"-noun-oc
+"mèra"-noun-oc "batlle"-noun-ca
+"mera"-noun-oc "batlle"-noun-ca
+"conse"-noun-oc "batlle"-noun-ca
+"autobús"-noun-ca "autobús"-noun-oc
+"autobús"-noun-oc "autobús"-noun-ca
+"frigorific"-noun-oc "nevera"-noun-ca
+"nevera"-noun-ca "frigorific"-noun-oc
+"estrangèr"-adjective-oc "aliè"-adjective-ca
+"aliè"-adjective-ca "estrangèr"-adjective-oc
+"aliè"-adjective-ca "estrangièr"-adjective-oc
+"estrangièr"-adjective-oc "aliè"-adjective-ca
+"asseure"-verb-ca "setiar"-verb-oc
+"setiar"-verb-oc "asseure"-verb-ca
+"malastrosament"-adverb-oc "lamentablement"-adverb-ca
+"lamentablement"-adverb-ca "malastrosament"-adverb-oc
+"a dins"-adverb-ca "endedins"-adverb-oc
+"a dins"-adverb-ca "dedins"-adverb-oc
+"endedins"-adverb-oc "a dins"-adverb-ca
+"endedins"-adverb-oc "endins"-adverb-ca
+"endedins"-adverb-oc "dintre"-adverb-ca
+"endedins"-adverb-oc "a dintre"-adverb-ca
+"dedins"-adverb-oc "a dins"-adverb-ca
+"dedins"-adverb-oc "endins"-adverb-ca
+"dedins"-adverb-oc "dintre"-adverb-ca
+"dedins"-adverb-oc "a dintre"-adverb-ca
+"endins"-adverb-ca "endedins"-adverb-oc
+"endins"-adverb-ca "dedins"-adverb-oc
+"dintre"-adverb-ca "endedins"-adverb-oc
+"dintre"-adverb-ca "dedins"-adverb-oc
+"a dintre"-adverb-ca "endedins"-adverb-oc
+"a dintre"-adverb-ca "dedins"-adverb-oc
+"movilizacion"-noun-oc "mobilització"-noun-ca
+"mobilització"-noun-ca "movilizacion"-noun-oc
+"carnaval"-noun-oc "carnestoltes"-noun-ca
+"carnestoltes"-noun-ca "carnaval"-noun-oc
+"desen"-adjective-oc "desè"-adjective-ca
+"desè"-adjective-ca "desen"-adjective-oc
+"Quimper"-properNoun-ca "Quimper"-noun-oc
+"Quimper"-properNoun-ca "Quimper"-properNoun-oc
+"Quimper"-noun-oc "Quimper"-properNoun-ca
+"Quimper"-properNoun-oc "Quimper"-properNoun-ca
+"Dominica"-properNoun-ca "Dominique"-noun-oc
+"Dominica"-properNoun-ca "Dominique"-properNoun-oc
+"Dominique"-noun-oc "Dominica"-properNoun-ca
+"Dominique"-properNoun-oc "Dominica"-properNoun-ca
+"Oviedo"-properNoun-ca "Oviedo"-noun-oc
+"Oviedo"-properNoun-ca "Oviedo"-properNoun-oc
+"Oviedo"-noun-oc "Oviedo"-properNoun-ca
+"Oviedo"-properNoun-oc "Oviedo"-properNoun-ca
+"Gijón"-properNoun-ca "Gijón"-noun-oc
+"Gijón"-properNoun-ca "Gijón"-properNoun-oc
+"Gijón"-noun-oc "Gijón"-properNoun-ca
+"Gijón"-properNoun-oc "Gijón"-properNoun-ca

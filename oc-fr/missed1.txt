@@ -1,0 +1,476 @@
+"en plaça de"-preposition-oc "à la place de"-preposition-fr
+"à la place de"-preposition-fr "en plaça de"-preposition-oc
+"i"-pronoun-oc "y"-adverb-fr
+"y"-adverb-fr "i"-pronoun-oc
+"qué"-pronoun-oc "qué"-pronoun-fr
+"qué"-pronoun-fr "qué"-pronoun-oc
+"mantun"-determiner-oc "maint"-determiner-fr
+"maint"-determiner-fr "mantun"-determiner-oc
+"mantun"-pronoun-oc "maint"-pronoun-fr
+"maint"-pronoun-fr "mantun"-pronoun-oc
+"setanta un"-numeral-oc "soixante et onze"-numeral-fr
+"soixante et onze"-numeral-fr "setanta un"-numeral-oc
+"dos cents"-numeral-oc "deux-cent"-numeral-fr
+"deux-cent"-numeral-fr "dos cents"-numeral-oc
+"tres cents"-numeral-oc "trois-cent"-numeral-fr
+"trois-cent"-numeral-fr "tres cents"-numeral-oc
+"quatre cents"-numeral-oc "quatre-cent"-numeral-fr
+"quatre-cent"-numeral-fr "quatre cents"-numeral-oc
+"cinc cents"-numeral-oc "cinq-cent"-numeral-fr
+"cinq-cent"-numeral-fr "cinc cents"-numeral-oc
+"sièis cents"-numeral-oc "six-cent"-numeral-fr
+"six-cent"-numeral-fr "sièis cents"-numeral-oc
+"sèt cents"-numeral-oc "sept-cent"-numeral-fr
+"sept-cent"-numeral-fr "sèt cents"-numeral-oc
+"uèch cents"-numeral-oc "huit-cent"-numeral-fr
+"huit-cent"-numeral-fr "uèch cents"-numeral-oc
+"huit-cent"-numeral-fr "uèit cents"-numeral-oc
+"uèit cents"-numeral-oc "huit-cent"-numeral-fr
+"nòu cents"-numeral-oc "neuf-cent"-numeral-fr
+"neuf-cent"-numeral-fr "nòu cents"-numeral-oc
+"neuf-cent"-numeral-fr "nau cents"-numeral-oc
+"nau cents"-numeral-oc "neuf-cent"-numeral-fr
+"Jacint"-properNoun-oc "Jacint"-properNoun-fr
+"Jacint"-properNoun-fr "Jacint"-properNoun-oc
+"bòsc"-noun-oc "futaie"-noun-fr
+"futaie"-noun-fr "bòsc"-noun-oc
+"capelan"-noun-oc "capelan"-noun-fr
+"capelan"-noun-fr "capelan"-noun-oc
+"divertiment"-noun-oc "distraccion"-noun-fr
+"distraccion"-noun-fr "divertiment"-noun-oc
+"estanh"-noun-oc "étain"-noun-fr
+"étain"-noun-fr "estanh"-noun-oc
+"e-mail"-noun-oc "mel"-noun-fr
+"mel"-noun-fr "e-mail"-noun-oc
+"maset"-noun-oc "mazet"-noun-fr
+"mazet"-noun-fr "maset"-noun-oc
+"quatrin"-noun-oc "quatrain"-noun-fr
+"quatrain"-noun-fr "quatrin"-noun-oc
+"tamborèu"-noun-oc "tombereau"-noun-fr
+"tombereau"-noun-fr "tamborèu"-noun-oc
+"tricòt"-noun-oc "tricot"-noun-fr
+"tricot"-noun-fr "tricòt"-noun-oc
+"nud"-noun-oc "nu"-noun-fr
+"nu"-noun-fr "nud"-noun-oc
+"atencion"-interjection-oc "attention"-interjection-fr
+"attention"-interjection-fr "atencion"-interjection-oc
+"reorganizacion"-noun-oc "reorganization"-noun-fr
+"reorganization"-noun-fr "reorganizacion"-noun-oc
+"normativizacion"-noun-oc "normativisation"-noun-fr
+"normativisation"-noun-fr "normativizacion"-noun-oc
+"esterilitat"-noun-oc "sterilité"-noun-fr
+"sterilité"-noun-fr "esterilitat"-noun-oc
+"dialectica"-noun-oc "dialéctique"-noun-fr
+"dialéctique"-noun-fr "dialectica"-noun-oc
+"aranha"-noun-oc "vive"-noun-fr
+"vive"-noun-fr "aranha"-noun-oc
+"balança"-noun-oc "truble"-noun-fr
+"truble"-noun-fr "balança"-noun-oc
+"bestiole"-noun-fr "babau"-noun-oc
+"babau"-noun-oc "bestiole"-noun-fr
+"biga"-noun-oc "bigue"-noun-fr
+"bigue"-noun-fr "biga"-noun-oc
+"capa"-noun-oc "chape"-noun-fr
+"chape"-noun-fr "capa"-noun-oc
+"cara"-noun-oc "chère"-noun-fr
+"chère"-noun-fr "cara"-noun-oc
+"filmotèca"-noun-oc "filmothèque"-noun-fr
+"filmothèque"-noun-fr "filmotèca"-noun-oc
+"formiga"-noun-oc "formica"-noun-fr
+"formica"-noun-fr "formiga"-noun-oc
+"formica"-noun-fr "hormiga"-noun-oc
+"hormiga"-noun-oc "formica"-noun-fr
+"majorana"-noun-oc "marjolaine"-noun-fr
+"marjolaine"-noun-fr "majorana"-noun-oc
+"paissièira"-noun-oc "vivier"-noun-fr
+"vivier"-noun-fr "paissièira"-noun-oc
+"parpèla"-noun-oc "chassie"-noun-fr
+"chassie"-noun-fr "parpèla"-noun-oc
+"postura"-noun-oc "posture"-noun-fr
+"posture"-noun-fr "postura"-noun-oc
+"brot"-noun-oc "brout"-noun-fr
+"brout"-noun-fr "brot"-noun-oc
+"entèsta"-noun-oc "en-tête"-noun-fr
+"en-tête"-noun-fr "entèsta"-noun-oc
+"morre"-noun-oc "groin"-noun-fr
+"groin"-noun-fr "morre"-noun-oc
+"manjar"-noun-oc "manger"-noun-fr
+"manger"-noun-fr "manjar"-noun-oc
+"manger"-noun-fr "minjar"-noun-oc
+"minjar"-noun-oc "manger"-noun-fr
+"penon"-noun-oc "peton"-noun-fr
+"peton"-noun-fr "penon"-noun-oc
+"net"-noun-oc "propre"-noun-fr
+"propre"-noun-fr "net"-noun-oc
+"malentendut"-noun-oc "quiproquo"-noun-fr
+"quiproquo"-noun-fr "malentendut"-noun-oc
+"arriu"-noun-oc "arroyo"-noun-fr
+"arroyo"-noun-fr "arriu"-noun-oc
+"espirala"-noun-oc "spire"-noun-fr
+"spire"-noun-fr "espirala"-noun-oc
+"pèl"-noun-oc "zeste"-noun-fr
+"zeste"-noun-fr "pèl"-noun-oc
+"baile"-noun-oc "marguillier"-noun-fr
+"marguillier"-noun-fr "baile"-noun-oc
+"aurièra"-noun-oc "orée"-noun-fr
+"orée"-noun-fr "aurièra"-noun-oc
+"abestit"-adjective-oc "abruti"-adjective-fr
+"abruti"-adjective-fr "abestit"-adjective-oc
+"abruti"-adjective-fr "abrutit"-adjective-oc
+"abrutit"-adjective-oc "abruti"-adjective-fr
+"abscons"-adjective-fr "escur"-adjective-oc
+"escur"-adjective-oc "abscons"-adjective-fr
+"curé"-adjective-fr "rector"-adjective-oc
+"rector"-adjective-oc "curé"-adjective-fr
+"isotòp"-adjective-oc "isotope"-adjective-fr
+"isotope"-adjective-fr "isotòp"-adjective-oc
+"malaisit"-adjective-oc "malaisé"-adjective-fr
+"malaisé"-adjective-fr "malaisit"-adjective-oc
+"malentendant"-adjective-fr "sord"-adjective-oc
+"sord"-adjective-oc "malentendant"-adjective-fr
+"lord"-adjective-oc "malpropre"-adjective-fr
+"malpropre"-adjective-fr "lord"-adjective-oc
+"successeur"-adjective-fr "successor"-adjective-oc
+"successor"-adjective-oc "successeur"-adjective-fr
+"sordid"-adjective-oc "sordide"-adjective-fr
+"sordide"-adjective-fr "sordid"-adjective-oc
+"peculiar"-adjective-oc "péculier"-adjective-fr
+"péculier"-adjective-fr "peculiar"-adjective-oc
+"aital"-adverb-oc "comme ça"-adverb-fr
+"comme ça"-adverb-fr "aital"-adverb-oc
+"naut"-adverb-oc "haut"-adverb-fr
+"haut"-adverb-fr "naut"-adverb-oc
+"là-haut"-adverb-fr "ailamont"-adverb-oc
+"ailamont"-adverb-oc "là-haut"-adverb-fr
+"al bòrd"-adverb-oc "au bord"-adverb-fr
+"au bord"-adverb-fr "al bòrd"-adverb-oc
+"arunan"-adverb-oc "l'an dernier"-adverb-fr
+"l'an dernier"-adverb-fr "arunan"-adverb-oc
+"totara"-adverb-oc "tout à l'heure"-adverb-fr
+"tout à l'heure"-adverb-fr "totara"-adverb-oc
+"sulpic"-adverb-oc "sur l'heure"-adverb-fr
+"sur l'heure"-adverb-fr "sulpic"-adverb-oc
+"empassar"-verb-oc "empiffrer"-verb-fr
+"empiffrer"-verb-fr "empassar"-verb-oc
+"tornar"-verb-oc "rétorquer"-verb-fr
+"rétorquer"-verb-fr "tornar"-verb-oc
+"acordar"-verb-oc "fiancer"-verb-fr
+"fiancer"-verb-fr "acordar"-verb-oc
+"adobar"-verb-oc "adouber"-verb-fr
+"adouber"-verb-fr "adobar"-verb-oc
+"escarraunhar"-verb-oc "baragouiner"-verb-fr
+"baragouiner"-verb-fr "escarraunhar"-verb-oc
+"davalar"-verb-oc "dévaler"-verb-fr
+"dévaler"-verb-fr "davalar"-verb-oc
+"plegar"-verb-oc "ployer"-verb-fr
+"ployer"-verb-fr "plegar"-verb-oc
+"tastar"-verb-oc "gouter"-verb-fr
+"gouter"-verb-fr "tastar"-verb-oc
+"avenir"-verb-oc "advenir"-verb-fr
+"advenir"-verb-fr "avenir"-verb-oc
+"apelar"-verb-oc "appeler en appel"-verb-fr
+"appeler en appel"-verb-fr "apelar"-verb-oc
+"désapprendre"-verb-fr "desapréner"-verb-oc
+"désapprendre"-verb-fr "desaprene"-verb-oc
+"desapréner"-verb-oc "désapprendre"-verb-fr
+"desaprene"-verb-oc "désapprendre"-verb-fr
+"captar"-verb-oc "capter"-verb-fr
+"capter"-verb-fr "captar"-verb-oc
+"contravenir"-verb-oc "contrevenir"-verb-fr
+"contrevenir"-verb-fr "contravenir"-verb-oc
+"contrevenir"-verb-fr "contravier"-verb-oc
+"contravier"-verb-oc "contrevenir"-verb-fr
+"emplir"-verb-oc "emplir"-verb-fr
+"emplir"-verb-fr "emplir"-verb-oc
+"endurcir"-verb-fr "enduresir"-verb-oc
+"endurcir"-verb-fr "endurir"-verb-oc
+"enduresir"-verb-oc "endurcir"-verb-fr
+"endurir"-verb-oc "endurcir"-verb-fr
+"immergir"-verb-oc "immergir"-verb-fr
+"immergir"-verb-fr "immergir"-verb-oc
+"investigar"-verb-oc "investiguer"-verb-fr
+"investiguer"-verb-fr "investigar"-verb-oc
+"patir"-verb-oc "pâtir"-verb-fr
+"pâtir"-verb-fr "patir"-verb-oc
+"recapitular"-verb-oc "récapituler"-verb-fr
+"récapituler"-verb-fr "recapitular"-verb-oc
+"recriminar"-verb-oc "récriminer"-verb-fr
+"récriminer"-verb-fr "recriminar"-verb-oc
+"reflexionar"-verb-oc "réflexionner"-verb-fr
+"réflexionner"-verb-fr "reflexionar"-verb-oc
+"relacionar"-verb-oc "relationner"-verb-fr
+"relationner"-verb-fr "relacionar"-verb-oc
+"segar"-verb-oc "moissonner"-verb-fr
+"moissonner"-verb-fr "segar"-verb-oc
+"vertebrar"-verb-oc "vertébrer"-verb-fr
+"vertébrer"-verb-fr "vertebrar"-verb-oc
+"dignificar"-verb-oc "dignifier"-verb-fr
+"dignifier"-verb-fr "dignificar"-verb-oc
+"esterilizar"-verb-oc "stériliser"-verb-fr
+"stériliser"-verb-fr "esterilizar"-verb-oc
+"conténer"-verb-oc "endiguer"-verb-fr
+"endiguer"-verb-fr "conténer"-verb-oc
+"cubic"-adjective-oc "cube"-adjective-fr
+"cube"-adjective-fr "cubic"-adjective-oc
+"iraquian"-adjective-oc "iraquien"-adjective-fr
+"iraquien"-adjective-fr "iraquian"-adjective-oc
+"Champanha-Ardena"-properNoun-oc "Champagne-Ardenne"-properNoun-fr
+"Champagne-Ardenne"-properNoun-fr "Champanha-Ardena"-properNoun-oc
+"Vietnam"-properNoun-oc "Viêt Nam"-properNoun-fr
+"Viêt Nam"-properNoun-fr "Vietnam"-properNoun-oc
+"Florença"-properNoun-oc "Florença"-properNoun-fr
+"Florença"-properNoun-fr "Florença"-properNoun-oc
+"Gabriel"-properNoun-oc "Gabrièl"-properNoun-fr
+"Gabrièl"-properNoun-fr "Gabriel"-properNoun-oc
+"Gabrièl"-properNoun-fr "Gabriel"-noun-oc
+"Gabriel"-noun-oc "Gabrièl"-properNoun-fr
+"El Greco"-properNoun-oc "Le Greco"-properNoun-fr
+"Le Greco"-properNoun-fr "El Greco"-properNoun-oc
+"Santonge"-properNoun-oc "Saintonge"-properNoun-fr
+"Saintonge"-properNoun-fr "Santonge"-properNoun-oc
+"Polítkovskaia"-properNoun-oc "Polítkovskaia"-properNoun-fr
+"Polítkovskaia"-properNoun-oc "Polítkovskaia"-noun-fr
+"Polítkovskaia"-properNoun-fr "Polítkovskaia"-properNoun-oc
+"Polítkovskaia"-properNoun-fr "Polítkovskaia"-noun-oc
+"Polítkovskaia"-noun-fr "Polítkovskaia"-properNoun-oc
+"Polítkovskaia"-noun-fr "Polítkovskaia"-noun-oc
+"Polítkovskaia"-noun-oc "Polítkovskaia"-properNoun-fr
+"Polítkovskaia"-noun-oc "Polítkovskaia"-noun-fr
+"Cap Verd"-properNoun-oc "Cap-Vert"-properNoun-fr
+"Cap-Vert"-properNoun-fr "Cap Verd"-properNoun-oc
+"Veneçuèla"-properNoun-oc "Vénézuela"-properNoun-fr
+"Vénézuela"-properNoun-fr "Veneçuèla"-properNoun-oc
+"Naut Karabagh"-properNoun-oc "Haut-Karabagh"-properNoun-fr
+"Haut-Karabagh"-properNoun-fr "Naut Karabagh"-properNoun-oc
+"Santa Ses"-properNoun-oc "Saint-Siège"-properNoun-fr
+"Saint-Siège"-properNoun-fr "Santa Ses"-properNoun-oc
+"illas Australas"-properNoun-oc "îles Australes"-properNoun-fr
+"îles Australes"-properNoun-fr "illas Australas"-properNoun-oc
+"Es Bòrdes"-properNoun-oc "Es Bòrdes"-properNoun-fr
+"Es Bòrdes"-properNoun-fr "Es Bòrdes"-properNoun-oc
+"niçard"-adjective-oc "niçois"-adjective-fr
+"niçois"-adjective-fr "niçard"-adjective-oc
+"niçard"-noun-oc "niçois"-noun-fr
+"niçois"-noun-fr "niçard"-noun-oc
+"totes amassa"-adverb-oc "tous ensemble"-adverb-fr
+"tous ensemble"-adverb-fr "totes amassa"-adverb-oc
+"permanentament"-adverb-oc "de manière permanente"-adverb-fr
+"de manière permanente"-adverb-fr "permanentament"-adverb-oc
+"jornalièrament"-adverb-oc "journalièrement"-adverb-fr
+"journalièrement"-adverb-fr "jornalièrament"-adverb-oc
+"sobeiranista"-adjective-oc "souverainiste"-adjective-fr
+"souverainiste"-adjective-fr "sobeiranista"-adjective-oc
+"espanholista"-adjective-oc "espagnoliste"-adjective-fr
+"espagnoliste"-adjective-fr "espanholista"-adjective-oc
+"estonat"-adjective-oc "étonné"-adjective-fr
+"étonné"-adjective-fr "estonat"-adjective-oc
+"analista"-adjective-oc "analyste"-adjective-fr
+"analyste"-adjective-fr "analista"-adjective-oc
+"simpatizant"-adjective-oc "sympathisant"-adjective-fr
+"sympathisant"-adjective-fr "simpatizant"-adjective-oc
+"sedusent"-adjective-oc "séduisant"-adjective-fr
+"séduisant"-adjective-fr "sedusent"-adjective-oc
+"presomptiu"-adjective-oc "présomptif"-adjective-fr
+"présomptif"-adjective-fr "presomptiu"-adjective-oc
+"latifondista"-adjective-oc "latifondiste"-adjective-fr
+"latifondiste"-adjective-fr "latifondista"-adjective-oc
+"contondent"-adjective-oc "contondant"-adjective-fr
+"contondant"-adjective-fr "contondent"-adjective-oc
+"transumant"-adjective-oc "transhuman"-adjective-fr
+"transhuman"-adjective-fr "transumant"-adjective-oc
+"psicopata"-adjective-oc "psychopathe"-adjective-fr
+"psychopathe"-adjective-fr "psicopata"-adjective-oc
+"introvertit"-adjective-oc "introverti"-adjective-fr
+"introverti"-adjective-fr "introvertit"-adjective-oc
+"felibritge"-noun-oc "félibrige"-noun-fr
+"félibrige"-noun-fr "felibritge"-noun-oc
+"archiu"-noun-oc "archive"-noun-fr
+"archive"-noun-fr "archiu"-noun-oc
+"descarga"-noun-oc "décharge"-noun-fr
+"décharge"-noun-fr "descarga"-noun-oc
+"intercomunalitat"-noun-oc "intercommunalité"-noun-fr
+"intercommunalité"-noun-fr "intercomunalitat"-noun-oc
+"carnsalada"-noun-oc "ventrèche"-noun-fr
+"ventrèche"-noun-fr "carnsalada"-noun-oc
+"LSD"-noun-oc "LSD"-noun-fr
+"LSD"-noun-fr "LSD"-noun-oc
+"errança"-noun-oc "errance"-noun-fr
+"errance"-noun-fr "errança"-noun-oc
+"soscriptor"-noun-oc "souscripteur"-noun-fr
+"souscripteur"-noun-fr "soscriptor"-noun-oc
+"reocupacion"-noun-oc "réoccupation"-noun-fr
+"réoccupation"-noun-fr "reocupacion"-noun-oc
+"engabiar"-verb-oc "mettre en cage"-verb-fr
+"mettre en cage"-verb-fr "engabiar"-verb-oc
+"maselar"-verb-oc "charcuter"-verb-fr
+"charcuter"-verb-fr "maselar"-verb-oc
+"otratjar"-verb-oc "outrager"-verb-fr
+"outrager"-verb-fr "otratjar"-verb-oc
+"desvalorizar"-verb-oc "dévaloriser"-verb-fr
+"dévaloriser"-verb-fr "desvalorizar"-verb-oc
+"instigar"-verb-oc "instiguer"-verb-fr
+"instiguer"-verb-fr "instigar"-verb-oc
+"reaparéisser"-verb-oc "réapparaître"-verb-fr
+"réapparaître"-verb-fr "reaparéisser"-verb-oc
+"inabilitar"-verb-oc "inhabiliter"-verb-fr
+"inhabiliter"-verb-fr "inabilitar"-verb-oc
+"desdire"-verb-oc "dédire"-verb-fr
+"dédire"-verb-fr "desdire"-verb-oc
+"País Valencian"-properNoun-oc "Pays Valencien"-properNoun-fr
+"Pays Valencien"-properNoun-fr "País Valencian"-properNoun-oc
+"Bigòrra"-properNoun-oc "Bigorre"-properNoun-fr
+"Bigorre"-properNoun-fr "Bigòrra"-properNoun-oc
+"Rif"-properNoun-oc "Rif"-properNoun-fr
+"Rif"-properNoun-fr "Rif"-properNoun-oc
+"Euroregion"-properNoun-oc "Eurorégion"-properNoun-fr
+"Eurorégion"-properNoun-fr "Euroregion"-properNoun-oc
+"Vivarés"-properNoun-oc "Vivarais"-properNoun-fr
+"Vivarais"-properNoun-fr "Vivarés"-properNoun-oc
+"Velai"-properNoun-oc "Velay"-properNoun-fr
+"Velay"-properNoun-fr "Velai"-properNoun-oc
+"Shetland"-properNoun-oc "Shetland"-properNoun-fr
+"Shetland"-properNoun-fr "Shetland"-properNoun-oc
+"Ventemilha"-properNoun-oc "Vintimille"-properNoun-fr
+"Vintimille"-properNoun-fr "Ventemilha"-properNoun-oc
+"Dortmund"-properNoun-oc "Dortmund"-properNoun-fr
+"Dortmund"-properNoun-fr "Dortmund"-properNoun-oc
+"Estats Units d'America"-properNoun-oc "États-Unis d'Amérique"-properNoun-fr
+"États-Unis d'Amérique"-properNoun-fr "Estats Units d'America"-properNoun-oc
+"America Centrala"-properNoun-oc "Amérique centrale"-properNoun-fr
+"Amérique centrale"-properNoun-fr "America Centrala"-properNoun-oc
+"Catalonha del Nòrd"-properNoun-oc "Catalogne du Nord"-properNoun-fr
+"Catalogne du Nord"-properNoun-fr "Catalonha del Nòrd"-properNoun-oc
+"Casamança"-properNoun-oc "Casamance"-properNoun-fr
+"Casamance"-properNoun-fr "Casamança"-properNoun-oc
+"Ribesaltes"-properNoun-oc "Rivesaltes"-properNoun-fr
+"Rivesaltes"-properNoun-fr "Ribesaltes"-properNoun-oc
+"Spratly"-properNoun-oc "Spratly"-properNoun-fr
+"Spratly"-properNoun-fr "Spratly"-properNoun-oc
+"peninsula Iberica"-properNoun-oc "péninsule Ibérique"-properNoun-fr
+"péninsule Ibérique"-properNoun-fr "peninsula Iberica"-properNoun-oc
+"Chagos"-properNoun-oc "Chagos"-properNoun-fr
+"Chagos"-properNoun-fr "Chagos"-properNoun-oc
+"Brindisi"-properNoun-oc "Brindisi"-properNoun-fr
+"Brindisi"-properNoun-fr "Brindisi"-properNoun-oc
+"Antananarivo"-properNoun-oc "Antananativo"-properNoun-fr
+"Antananativo"-properNoun-fr "Antananarivo"-properNoun-oc
+"Tijuana"-properNoun-oc "Tijuana"-properNoun-fr
+"Tijuana"-properNoun-fr "Tijuana"-properNoun-oc
+"Serrans"-properNoun-oc "Serrans"-properNoun-fr
+"Serrans"-properNoun-fr "Serrans"-properNoun-oc
+"Saratov"-properNoun-oc "Saratov"-properNoun-fr
+"Saratov"-properNoun-fr "Saratov"-properNoun-oc
+"Saint Louis"-properNoun-oc "Saint Louis"-properNoun-fr
+"Saint Louis"-properNoun-fr "Saint Louis"-properNoun-oc
+"Limerick"-properNoun-oc "Limerick"-properNoun-fr
+"Limerick"-properNoun-fr "Limerick"-properNoun-oc
+"golf Persic"-properNoun-oc "golfe Persique"-properNoun-fr
+"golfe Persique"-properNoun-fr "golf Persic"-properNoun-oc
+"Dundee"-properNoun-oc "Dundee"-properNoun-fr
+"Dundee"-properNoun-fr "Dundee"-properNoun-oc
+"Capcir"-properNoun-oc "Capcir"-properNoun-fr
+"Capcir"-properNoun-fr "Capcir"-properNoun-oc
+"Verona"-properNoun-oc "Vérone"-properNoun-fr
+"Vérone"-properNoun-fr "Verona"-properNoun-oc
+"Split"-properNoun-oc "Split"-properNoun-fr
+"Split"-properNoun-fr "Split"-properNoun-oc
+"Spitsbergen"-properNoun-oc "Spitsbergen"-properNoun-fr
+"Spitsbergen"-properNoun-fr "Spitsbergen"-properNoun-oc
+"Sendai"-properNoun-oc "Sendai"-properNoun-fr
+"Sendai"-properNoun-fr "Sendai"-properNoun-oc
+"Mururoa"-properNoun-oc "Mururoa"-properNoun-fr
+"Mururoa"-properNoun-fr "Mururoa"-properNoun-oc
+"Luimneach"-properNoun-oc "Luimneach"-properNoun-fr
+"Luimneach"-properNoun-fr "Luimneach"-properNoun-oc
+"Kunming"-properNoun-oc "Kunming"-properNoun-fr
+"Kunming"-properNoun-fr "Kunming"-properNoun-oc
+"Krasnodar"-properNoun-oc "Krasnodar"-properNoun-fr
+"Krasnodar"-properNoun-fr "Krasnodar"-properNoun-oc
+"Europa Press"-properNoun-oc "Europa Press"-properNoun-fr
+"Europa Press"-properNoun-fr "Europa Press"-properNoun-oc
+"EFE"-properNoun-oc "EFE"-properNoun-fr
+"EFE"-properNoun-fr "EFE"-properNoun-oc
+"Talgo"-properNoun-oc "Talgo"-properNoun-fr
+"Talgo"-properNoun-fr "Talgo"-properNoun-oc
+"Virgin"-properNoun-oc "Virgin"-properNoun-fr
+"Virgin"-properNoun-fr "Virgin"-properNoun-oc
+"CCRTV"-properNoun-oc "CCRTV"-properNoun-fr
+"CCRTV"-properNoun-fr "CCRTV"-properNoun-oc
+"Matt"-properNoun-oc "Matt"-properNoun-fr
+"Matt"-properNoun-fr "Matt"-properNoun-oc
+"competitor"-adjective-oc "compétiteur"-adjective-fr
+"compétiteur"-adjective-fr "competitor"-adjective-oc
+"significat"-noun-oc "signifié"-noun-fr
+"signifié"-noun-fr "significat"-noun-oc
+"maltractament"-noun-oc "maltraitement"-noun-fr
+"maltraitement"-noun-fr "maltractament"-noun-oc
+"prononciament"-noun-oc "prononcement"-noun-fr
+"prononcement"-noun-fr "prononciament"-noun-oc
+"viletat"-noun-oc "vileté"-noun-fr
+"vileté"-noun-fr "viletat"-noun-oc
+"terciarizacion"-noun-oc "tertiarisation"-noun-fr
+"tertiarisation"-noun-fr "terciarizacion"-noun-oc
+"targa"-noun-oc "targe"-noun-fr
+"targe"-noun-fr "targa"-noun-oc
+"oficina"-noun-oc "officine"-noun-fr
+"officine"-noun-fr "oficina"-noun-oc
+"mairastra"-noun-oc "marâtre"-noun-fr
+"marâtre"-noun-fr "mairastra"-noun-oc
+"TNC"-noun-oc "TNC"-noun-fr
+"TNC"-noun-fr "TNC"-noun-oc
+"UNICEF"-noun-oc "UNICEF"-noun-fr
+"UNICEF"-noun-fr "UNICEF"-noun-oc
+"ADDA"-noun-oc "ADDA"-noun-fr
+"ADDA"-noun-fr "ADDA"-noun-oc
+"ACPV"-noun-oc "ACPV"-noun-fr
+"ACPV"-noun-fr "ACPV"-noun-oc
+"LRA"-noun-oc "LRA"-noun-fr
+"LRA"-noun-fr "LRA"-noun-oc
+"GR"-noun-oc "GR"-noun-fr
+"GR"-noun-fr "GR"-noun-oc
+"DOGC"-noun-oc "DOGC"-noun-fr
+"DOGC"-noun-fr "DOGC"-noun-oc
+"AVE"-noun-oc "AVE"-noun-fr
+"AVE"-noun-fr "AVE"-noun-oc
+"EUPV"-noun-oc "EUPV"-noun-fr
+"EUPV"-noun-fr "EUPV"-noun-oc
+"INSEE"-noun-oc "INSEE"-noun-fr
+"INSEE"-noun-fr "INSEE"-noun-oc
+"CLO"-noun-oc "CLO"-noun-fr
+"CLO"-noun-fr "CLO"-noun-oc
+"pdf"-noun-oc "pdf"-noun-fr
+"pdf"-noun-fr "pdf"-noun-oc
+"EU"-noun-oc "EU"-noun-fr
+"EU"-noun-fr "EU"-noun-oc
+"CF"-noun-oc "CF"-noun-fr
+"CF"-noun-fr "CF"-noun-oc
+"PRAG"-noun-oc "PRAG"-noun-fr
+"PRAG"-noun-fr "PRAG"-noun-oc
+"CDC"-noun-oc "CDC"-noun-fr
+"CDC"-noun-fr "CDC"-noun-oc
+"CDA"-noun-oc "CDA"-noun-fr
+"CDA"-noun-fr "CDA"-noun-oc
+"Jude"-properNoun-oc "Jude"-properNoun-fr
+"Jude"-properNoun-fr "Jude"-properNoun-oc
+"Barbastre"-properNoun-oc "Barbastro"-properNoun-fr
+"Barbastro"-properNoun-fr "Barbastre"-properNoun-oc
+"Zagros"-properNoun-oc "Zagros"-properNoun-fr
+"Zagros"-properNoun-fr "Zagros"-properNoun-oc
+"Tuamotu"-properNoun-oc "Tuamotu"-properNoun-fr
+"Tuamotu"-properNoun-fr "Tuamotu"-properNoun-oc
+"Tamèsi"-properNoun-oc "Tamise"-properNoun-fr
+"Tamise"-properNoun-fr "Tamèsi"-properNoun-oc
+"Savona"-properNoun-oc "Savone"-properNoun-fr
+"Savone"-properNoun-fr "Savona"-properNoun-oc
+"Saaremaa"-properNoun-oc "Saaremaa"-properNoun-fr
+"Saaremaa"-properNoun-fr "Saaremaa"-properNoun-oc
+"Rijeka"-properNoun-oc "Rijeka"-properNoun-fr
+"Rijeka"-properNoun-fr "Rijeka"-properNoun-oc
+"Pescara"-properNoun-oc "Pescara"-properNoun-fr
+"Pescara"-properNoun-fr "Pescara"-properNoun-oc
+"Novosibirsk"-properNoun-oc "Novossibirsk"-properNoun-fr
+"Novossibirsk"-properNoun-fr "Novosibirsk"-properNoun-oc
+"mar del Coralh"-properNoun-oc "mer de Corail"-properNoun-fr
+"mer de Corail"-properNoun-fr "mar del Coralh"-properNoun-oc
+"Chaco"-properNoun-oc "Chaco"-properNoun-fr
+"Chaco"-properNoun-fr "Chaco"-properNoun-oc

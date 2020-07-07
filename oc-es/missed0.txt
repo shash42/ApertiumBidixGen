@@ -1,0 +1,200 @@
+"en cuanto"-relativePronoun-es "quan"-relativePronoun-oc
+"quan"-relativePronoun-oc "en cuanto"-relativePronoun-es
+"mès d'ua causa"-noun-oc "más de una causa"-noun-es
+"más de una causa"-noun-es "mès d'ua causa"-noun-oc
+"más de una causa"-noun-es "mantuna causa"-noun-oc
+"mantuna causa"-noun-oc "más de una causa"-noun-es
+"Aiguamòg"-properNoun-oc "Aiguamòg"-properNoun-es
+"Aiguamòg"-properNoun-es "Aiguamòg"-properNoun-oc
+"Aransalut"-properNoun-oc "Aransalut"-properNoun-es
+"Aransalut"-properNoun-es "Aransalut"-properNoun-oc
+"Artiga de Lin"-properNoun-oc "Artiga de Lin"-properNoun-es
+"Artiga de Lin"-properNoun-es "Artiga de Lin"-properNoun-oc
+"Aussau"-properNoun-oc "Aussau"-properNoun-es
+"Aussau"-properNoun-es "Aussau"-properNoun-oc
+"Autan"-properNoun-oc "Autan"-properNoun-es
+"Autan"-properNoun-es "Autan"-properNoun-oc
+"Baricauba"-properNoun-oc "Baricauba"-properNoun-es
+"Baricauba"-properNoun-es "Baricauba"-properNoun-oc
+"Bracs"-properNoun-oc "Bracs"-properNoun-es
+"Bracs"-properNoun-es "Bracs"-properNoun-oc
+"Brauli"-properNoun-oc "Brauli"-properNoun-es
+"Brauli"-properNoun-es "Brauli"-properNoun-oc
+"Bòssost"-properNoun-oc "Bòssost"-properNoun-es
+"Bòssost"-properNoun-es "Bòssost"-properNoun-oc
+"Calandreta"-properNoun-oc "Calandreta"-properNoun-es
+"Calandreta"-properNoun-es "Calandreta"-properNoun-oc
+"Campània"-properNoun-oc "Campania"-properNoun-es
+"Campania"-properNoun-es "Campània"-properNoun-oc
+"Castièro"-properNoun-oc "Castièro"-properNoun-es
+"Castièro"-properNoun-es "Castièro"-properNoun-oc
+"Cinto"-properNoun-oc "Cinto"-properNoun-es
+"Cinto"-properNoun-es "Cinto"-properNoun-oc
+"Cleveland"-properNoun-oc "Cleveland"-properNoun-es
+"Cleveland"-properNoun-es "Cleveland"-properNoun-oc
+"Conangles"-properNoun-oc "Conangles"-properNoun-es
+"Conangles"-properNoun-es "Conangles"-properNoun-oc
+"Corbilhuèrs"-properNoun-oc "Corbilhuèrs"-properNoun-es
+"Corbilhuèrs"-properNoun-es "Corbilhuèrs"-properNoun-oc
+"Corilha"-properNoun-oc "Corilha"-properNoun-es
+"Corilha"-properNoun-es "Corilha"-properNoun-oc
+"Correcaminos"-properNoun-oc "Correcaminos"-properNoun-es
+"Correcaminos"-properNoun-es "Correcaminos"-properNoun-oc
+"Coyote"-properNoun-oc "Coyote"-properNoun-es
+"Coyote"-properNoun-es "Coyote"-properNoun-oc
+"Fecsa-Endesa"-properNoun-oc "Fecsa-Endesa"-properNoun-es
+"Fecsa-Endesa"-properNoun-es "Fecsa-Endesa"-properNoun-oc
+"Garòs"-properNoun-oc "Garós"-properNoun-es
+"Garós"-properNoun-es "Garòs"-properNoun-oc
+"Juande"-properNoun-oc "Juande"-properNoun-es
+"Juande"-properNoun-es "Juande"-properNoun-oc
+"Ildefons"-properNoun-oc "Ildefonso"-properNoun-es
+"Ildefonso"-properNoun-es "Ildefons"-properNoun-oc
+"Iñaqui"-properNoun-oc "Iñaqui"-properNoun-es
+"Iñaqui"-properNoun-es "Iñaqui"-properNoun-oc
+"Joèu"-properNoun-oc "Joèu"-properNoun-es
+"Joèu"-properNoun-es "Joèu"-properNoun-oc
+"L'Alguer"-properNoun-oc "Alguer"-properNoun-es
+"Alguer"-properNoun-es "L'Alguer"-properNoun-oc
+"Liat"-properNoun-oc "Liat"-properNoun-es
+"Liat"-properNoun-es "Liat"-properNoun-oc
+"Loir"-properNoun-oc "Loir"-properNoun-es
+"Loir"-properNoun-es "Loir"-properNoun-oc
+"Montardo"-properNoun-oc "Montardo"-properNoun-es
+"Montardo"-properNoun-es "Montardo"-properNoun-oc
+"Muret"-properNoun-oc "Muret"-properNoun-es
+"Muret"-properNoun-es "Muret"-properNoun-oc
+"Pallars"-properNoun-es "Pallars"-properNoun-oc
+"Pallars"-properNoun-oc "Pallars"-properNoun-es
+"Peülha"-properNoun-oc "Peülha"-properNoun-es
+"Peülha"-properNoun-es "Peülha"-properNoun-oc
+"Pirena"-properNoun-oc "Pirena"-properNoun-es
+"Pirena"-properNoun-es "Pirena"-properNoun-oc
+"Pleta del Duc"-properNoun-oc "Pleta del Duc"-properNoun-es
+"Pleta del Duc"-properNoun-es "Pleta del Duc"-properNoun-oc
+"Portilhon"-properNoun-oc "Portilhon"-properNoun-es
+"Portilhon"-properNoun-es "Portilhon"-properNoun-oc
+"Pujòlo"-properNoun-oc "Pujólo"-properNoun-es
+"Pujólo"-properNoun-es "Pujòlo"-properNoun-oc
+"Querimònia"-properNoun-oc "Querimònia"-properNoun-es
+"Querimònia"-properNoun-es "Querimònia"-properNoun-oc
+"Quitèria"-properNoun-oc "Quitèria"-properNoun-es
+"Quitèria"-properNoun-es "Quitèria"-properNoun-oc
+"Ressèc"-properNoun-oc "Ressèc"-properNoun-es
+"Ressèc"-properNoun-es "Ressèc"-properNoun-oc
+"Restanca"-properNoun-oc "Restanca"-properNoun-es
+"Restanca"-properNoun-es "Restanca"-properNoun-oc
+"Ribagorça"-properNoun-oc "Ribagorça"-properNoun-es
+"Ribagorça"-properNoun-es "Ribagorça"-properNoun-oc
+"Santet"-properNoun-oc "Santet"-properNoun-es
+"Santet"-properNoun-es "Santet"-properNoun-oc
+"Tereseta"-properNoun-oc "Tereseta"-properNoun-es
+"Tereseta"-properNoun-es "Tereseta"-properNoun-oc
+"Transducens"-properNoun-oc "Transducens"-properNoun-es
+"Transducens"-properNoun-es "Transducens"-properNoun-oc
+"Tredòs"-properNoun-oc "Tredòs"-properNoun-es
+"Tredòs"-properNoun-es "Tredòs"-properNoun-oc
+"Tuca"-properNoun-oc "Tuca"-properNoun-es
+"Tuca"-properNoun-es "Tuca"-properNoun-oc
+"Vetula"-properNoun-oc "Vetula"-properNoun-es
+"Vetula"-properNoun-es "Vetula"-properNoun-oc
+"tour"-properNoun-oc "tour"-properNoun-es
+"tour"-properNoun-es "tour"-properNoun-oc
+"grupcat"-properNoun-oc "grupcat"-properNoun-es
+"grupcat"-properNoun-es "grupcat"-properNoun-oc
+"ATS"-noun-oc "ATS"-noun-es
+"ATS"-noun-es "ATS"-noun-oc
+"DNI"-noun-oc "DNI"-noun-es
+"DNI"-noun-es "DNI"-noun-oc
+"artiga"-noun-oc "artiga"-noun-es
+"artiga"-noun-es "artiga"-noun-oc
+"c"-noun-oc "c"-noun-es
+"c"-noun-es "c"-noun-oc
+"depuradora"-noun-oc "depuradora"-noun-es
+"depuradora"-noun-es "depuradora"-noun-oc
+"estament"-noun-oc "estamento"-noun-es
+"estamento"-noun-es "estament"-noun-oc
+"funerària"-noun-oc "funeraria"-noun-es
+"funeraria"-noun-es "funerària"-noun-oc
+"incineradora"-noun-oc "incineradora"-noun-es
+"incineradora"-noun-es "incineradora"-noun-oc
+"j"-noun-oc "j"-noun-es
+"j"-noun-es "j"-noun-oc
+"k"-noun-oc "k"-noun-es
+"k"-noun-es "k"-noun-oc
+"p"-noun-oc "p"-noun-es
+"p"-noun-es "p"-noun-oc
+"pastoret"-noun-oc "pastorcillo"-noun-es
+"pastorcillo"-noun-es "pastoret"-noun-oc
+"piscifactoria"-noun-oc "piscifactoría"-noun-es
+"piscifactoría"-noun-es "piscifactoria"-noun-oc
+"q"-noun-oc "q"-noun-es
+"q"-noun-es "q"-noun-oc
+"r"-noun-oc "r"-noun-es
+"r"-noun-es "r"-noun-oc
+"sobrassada"-noun-oc "sobrasada"-noun-es
+"sobrasada"-noun-es "sobrassada"-noun-oc
+"tirada"-noun-oc "querencia"-noun-es
+"querencia"-noun-es "tirada"-noun-oc
+"tonatge"-noun-oc "tonelaje"-noun-es
+"tonelaje"-noun-es "tonatge"-noun-oc
+"AGAUR"-noun-oc "AGAUR"-noun-es
+"AGAUR"-noun-es "AGAUR"-noun-oc
+"AMPA"-noun-oc "AMPA"-noun-es
+"AMPA"-noun-es "AMPA"-noun-oc
+"aviram"-noun-oc "averío"-noun-es
+"averío"-noun-es "aviram"-noun-oc
+"CAEI"-noun-oc "CAEI"-noun-es
+"CAEI"-noun-es "CAEI"-noun-oc
+"obrador"-noun-oc "obrador"-noun-es
+"obrador"-noun-es "obrador"-noun-oc
+"OFEA"-noun-oc "OFEA"-noun-es
+"OFEA"-noun-es "OFEA"-noun-oc
+"regidoria"-noun-oc "regidoría"-noun-es
+"regidoría"-noun-es "regidoria"-noun-oc
+"assolit"-adjective-oc "logrado"-adjective-es
+"logrado"-adjective-es "assolit"-adjective-oc
+"cuánto"-adjective-es "quant"-adjective-oc
+"quant"-adjective-oc "cuánto"-adjective-es
+"incomprensiu"-adjective-oc "incomprensivo"-adjective-es
+"incomprensivo"-adjective-es "incomprensiu"-adjective-oc
+"pop"-adjective-oc "pop"-adjective-es
+"pop"-adjective-es "pop"-adjective-oc
+"d'òc"-adjective-oc "de òc"-adjective-es
+"de òc"-adjective-es "d'òc"-adjective-oc
+"maxi"-adjective-oc "maxi"-adjective-es
+"maxi"-adjective-es "maxi"-adjective-oc
+"compulsar"-verb-oc "compulsar"-verb-es
+"compulsar"-verb-es "compulsar"-verb-oc
+"desunir"-verb-oc "desunir"-verb-es
+"desunir"-verb-es "desunir"-verb-oc
+"esmolar"-verb-oc "afilar"-verb-es
+"afilar"-verb-es "esmolar"-verb-oc
+"incomunicar"-verb-oc "incomunicar"-verb-es
+"incomunicar"-verb-es "incomunicar"-verb-oc
+"pertocar"-verb-oc "atañer"-verb-es
+"atañer"-verb-es "pertocar"-verb-oc
+"preexistir"-verb-oc "preexistir"-verb-es
+"preexistir"-verb-es "preexistir"-verb-oc
+"refermar"-verb-oc "arreciar"-verb-es
+"arreciar"-verb-es "refermar"-verb-oc
+"resorgir"-verb-oc "resurgir"-verb-es
+"resurgir"-verb-es "resorgir"-verb-oc
+"sufragar"-verb-oc "sufragar"-verb-es
+"sufragar"-verb-es "sufragar"-verb-oc
+"en tot sens"-adverb-oc "en todos los sentidos"-adverb-es
+"en todos los sentidos"-adverb-es "en tot sens"-adverb-oc
+"por tercera vez"-adverb-es "per tresau còp"-adverb-oc
+"por tercera vez"-adverb-es "per tresau viatge"-adverb-oc
+"per tresau còp"-adverb-oc "por tercera vez"-adverb-es
+"per tresau viatge"-adverb-oc "por tercera vez"-adverb-es
+"per telefon"-adverb-oc "por teléfono"-adverb-es
+"por teléfono"-adverb-es "per telefon"-adverb-oc
+"por teléfono"-adverb-es "per telefòn"-adverb-oc
+"per telefòn"-adverb-oc "por teléfono"-adverb-es
+"de mai de"-preposition-oc "de más de"-preposition-es
+"de más de"-preposition-es "de mai de"-preposition-oc
+"ua partida de"-preposition-oc "una parte de"-preposition-es
+"una parte de"-preposition-es "ua partida de"-preposition-oc
+"una parte de"-preposition-es "una partida de"-preposition-oc
+"una partida de"-preposition-oc "una parte de"-preposition-es

@@ -1,0 +1,262 @@
+"le"-determiner-fr "en"-determiner-ca
+"le"-determiner-fr "en"-personalPronoun-ca
+"en"-determiner-ca "le"-determiner-fr
+"en"-personalPronoun-ca "le"-determiner-fr
+"mon"-determiner-fr "mon"-determiner-ca
+"mon"-determiner-ca "mon"-determiner-fr
+"ton"-determiner-fr "ton"-determiner-ca
+"ton"-determiner-ca "ton"-determiner-fr
+"son"-determiner-fr "son"-determiner-ca
+"son"-determiner-ca "son"-determiner-fr
+"a l'encop"-adverb-ca "à la fois"-adverb-fr
+"à la fois"-adverb-fr "a l'encop"-adverb-ca
+"près"-adverb-fr "vora"-adverb-ca
+"vora"-adverb-ca "près"-adverb-fr
+"vora"-adverb-ca "auprès"-adverb-fr
+"vora"-adverb-ca "à côté"-adverb-fr
+"auprès"-adverb-fr "vora"-adverb-ca
+"à côté"-adverb-fr "vora"-adverb-ca
+"actuellement"-adverb-fr "en l'actualitat"-adverb-ca
+"en l'actualitat"-adverb-ca "actuellement"-adverb-fr
+"d'autre part"-adverb-fr "per altra banda"-adverb-ca
+"per altra banda"-adverb-ca "d'autre part"-adverb-fr
+"per altra banda"-adverb-ca "par ailleurs"-adverb-fr
+"par ailleurs"-adverb-fr "per altra banda"-adverb-ca
+"propiament"-adverb-ca "proprement"-adverb-fr
+"proprement"-adverb-fr "propiament"-adverb-ca
+"en absolut"-adverb-ca "pas du tout"-adverb-fr
+"pas du tout"-adverb-fr "en absolut"-adverb-ca
+"dehors"-adverb-fr "a fora"-adverb-ca
+"a fora"-adverb-ca "dehors"-adverb-fr
+"surtout"-adverb-fr "més que res"-adverb-ca
+"més que res"-adverb-ca "surtout"-adverb-fr
+"bien"-adverb-fr "ben"-adverb-ca
+"ben"-adverb-ca "bien"-adverb-fr
+"à nouveau"-adverb-fr "una altra vegada"-adverb-ca
+"una altra vegada"-adverb-ca "à nouveau"-adverb-fr
+"finalement"-adverb-fr "al capdavall"-adverb-ca
+"al capdavall"-adverb-ca "finalement"-adverb-fr
+"clairement"-adverb-fr "rotundament"-adverb-ca
+"rotundament"-adverb-ca "clairement"-adverb-fr
+"rotundament"-adverb-ca "catégoriquement"-adverb-fr
+"catégoriquement"-adverb-fr "rotundament"-adverb-ca
+"devant"-adverb-fr "capdavant"-adverb-ca
+"capdavant"-adverb-ca "devant"-adverb-fr
+"derrière"-adverb-fr "enrera"-adverb-ca
+"enrera"-adverb-ca "derrière"-adverb-fr
+"véritablement"-adverb-fr "verament"-adverb-ca
+"verament"-adverb-ca "véritablement"-adverb-fr
+"le"-pronoun-fr "prpers"-pronoun-ca
+"prpers"-pronoun-ca "le"-pronoun-fr
+"prpers"-pronoun-ca "moi"-pronoun-fr
+"prpers"-pronoun-ca "toi"-pronoun-fr
+"moi"-pronoun-fr "prpers"-pronoun-ca
+"toi"-pronoun-fr "prpers"-pronoun-ca
+"que"-pronoun-ca "que"-relativePronoun-fr
+"que"-pronoun-ca "que"-pronoun-fr
+"que"-pronoun-ca "qui est-ce qui"-pronoun-fr
+"que"-pronoun-ca "lequel"-relativePronoun-fr
+"que"-pronoun-ca "quel"-pronoun-fr
+"que"-pronoun-ca "qui"-relativePronoun-fr
+"que"-pronoun-ca "qui"-pronoun-fr
+"que"-relativePronoun-fr "que"-pronoun-ca
+"que"-relativePronoun-fr "el que"-pronoun-ca
+"que"-relativePronoun-fr "a qui"-pronoun-ca
+"que"-relativePronoun-fr "el qual"-pronoun-ca
+"que"-relativePronoun-fr "la qual cosa"-pronoun-ca
+"que"-relativePronoun-fr "cosa que"-pronoun-ca
+"que"-pronoun-fr "que"-pronoun-ca
+"que"-pronoun-fr "el que"-pronoun-ca
+"que"-pronoun-fr "a qui"-pronoun-ca
+"que"-pronoun-fr "el qual"-pronoun-ca
+"que"-pronoun-fr "la qual cosa"-pronoun-ca
+"que"-pronoun-fr "cosa que"-pronoun-ca
+"qui est-ce qui"-pronoun-fr "que"-pronoun-ca
+"qui est-ce qui"-pronoun-fr "el que"-pronoun-ca
+"qui est-ce qui"-pronoun-fr "a qui"-pronoun-ca
+"qui est-ce qui"-pronoun-fr "el qual"-pronoun-ca
+"lequel"-relativePronoun-fr "que"-pronoun-ca
+"lequel"-relativePronoun-fr "el qual"-pronoun-ca
+"quel"-pronoun-fr "que"-pronoun-ca
+"quel"-pronoun-fr "el que"-pronoun-ca
+"quel"-pronoun-fr "a qui"-pronoun-ca
+"quel"-pronoun-fr "el qual"-pronoun-ca
+"qui"-relativePronoun-fr "que"-pronoun-ca
+"qui"-relativePronoun-fr "el que"-pronoun-ca
+"qui"-relativePronoun-fr "a qui"-pronoun-ca
+"qui"-relativePronoun-fr "el qual"-pronoun-ca
+"qui"-pronoun-fr "que"-pronoun-ca
+"qui"-pronoun-fr "el que"-pronoun-ca
+"qui"-pronoun-fr "a qui"-pronoun-ca
+"qui"-pronoun-fr "el qual"-pronoun-ca
+"el que"-pronoun-ca "que"-relativePronoun-fr
+"el que"-pronoun-ca "que"-pronoun-fr
+"el que"-pronoun-ca "qui est-ce qui"-pronoun-fr
+"el que"-pronoun-ca "quel"-pronoun-fr
+"el que"-pronoun-ca "qui"-relativePronoun-fr
+"el que"-pronoun-ca "qui"-pronoun-fr
+"a qui"-pronoun-ca "que"-relativePronoun-fr
+"a qui"-pronoun-ca "que"-pronoun-fr
+"a qui"-pronoun-ca "qui est-ce qui"-pronoun-fr
+"a qui"-pronoun-ca "quel"-pronoun-fr
+"a qui"-pronoun-ca "qui"-relativePronoun-fr
+"a qui"-pronoun-ca "qui"-pronoun-fr
+"el qual"-pronoun-ca "que"-relativePronoun-fr
+"el qual"-pronoun-ca "que"-pronoun-fr
+"el qual"-pronoun-ca "qui est-ce qui"-pronoun-fr
+"el qual"-pronoun-ca "lequel"-relativePronoun-fr
+"el qual"-pronoun-ca "quel"-pronoun-fr
+"el qual"-pronoun-ca "qui"-relativePronoun-fr
+"el qual"-pronoun-ca "qui"-pronoun-fr
+"la qual cosa"-pronoun-ca "que"-relativePronoun-fr
+"la qual cosa"-pronoun-ca "que"-pronoun-fr
+"la qual cosa"-pronoun-ca "quoi"-pronoun-fr
+"la qual cosa"-pronoun-ca "qu'est-ce que"-pronoun-fr
+"la qual cosa"-pronoun-ca "qu'est-ce que c'est que"-pronoun-fr
+"cosa que"-pronoun-ca "que"-relativePronoun-fr
+"cosa que"-pronoun-ca "que"-pronoun-fr
+"cosa que"-pronoun-ca "quoi"-pronoun-fr
+"cosa que"-pronoun-ca "qu'est-ce que"-pronoun-fr
+"cosa que"-pronoun-ca "qu'est-ce que c'est que"-pronoun-fr
+"quoi"-pronoun-fr "la qual cosa"-pronoun-ca
+"quoi"-pronoun-fr "cosa que"-pronoun-ca
+"qu'est-ce que"-pronoun-fr "la qual cosa"-pronoun-ca
+"qu'est-ce que"-pronoun-fr "cosa que"-pronoun-ca
+"qu'est-ce que c'est que"-pronoun-fr "la qual cosa"-pronoun-ca
+"qu'est-ce que c'est que"-pronoun-fr "cosa que"-pronoun-ca
+"celui que"-relativePronoun-fr "el qui"-relativePronoun-ca
+"el qui"-relativePronoun-ca "celui que"-relativePronoun-fr
+"el qui"-relativePronoun-ca "celui qui"-relativePronoun-fr
+"celui qui"-relativePronoun-fr "el qui"-relativePronoun-ca
+"où"-relativePronoun-fr "a on"-adverb-ca
+"a on"-adverb-ca "où"-relativePronoun-fr
+"a on"-adverb-ca "où"-adverb-fr
+"où"-adverb-fr "a on"-adverb-ca
+"en dehors de"-preposition-fr "a fora de"-preposition-ca
+"a fora de"-preposition-ca "en dehors de"-preposition-fr
+"degut a"-preposition-ca "à cause de"-preposition-fr
+"à cause de"-preposition-fr "degut a"-preposition-ca
+"en ce qui concerne"-preposition-fr "pel que fa"-preposition-ca
+"pel que fa"-preposition-ca "en ce qui concerne"-preposition-fr
+"renaixença"-noun-ca "renaissance"-noun-fr
+"renaissance"-noun-fr "renaixença"-noun-ca
+"tempête"-noun-fr "tempestat"-noun-ca
+"tempestat"-noun-ca "tempête"-noun-fr
+"police"-noun-fr "pòlissa"-noun-ca
+"pòlissa"-noun-ca "police"-noun-fr
+"écume"-noun-fr "espuma"-noun-ca
+"espuma"-noun-ca "écume"-noun-fr
+"prince"-noun-fr "princesa"-noun-ca
+"princesa"-noun-ca "prince"-noun-fr
+"ennui"-noun-fr "tedi"-noun-ca
+"tedi"-noun-ca "ennui"-noun-fr
+"abecedari"-noun-ca "alphabet"-noun-fr
+"alphabet"-noun-fr "abecedari"-noun-ca
+"trame"-noun-fr "entrellat"-noun-ca
+"entrellat"-noun-ca "trame"-noun-fr
+"couverture"-noun-fr "tapadora"-noun-ca
+"tapadora"-noun-ca "couverture"-noun-fr
+"pension"-noun-fr "dispesa"-noun-ca
+"dispesa"-noun-ca "pension"-noun-fr
+"file"-noun-fr "corrua"-noun-ca
+"corrua"-noun-ca "file"-noun-fr
+"sort"-noun-fr "fat"-noun-ca
+"fat"-noun-ca "sort"-noun-fr
+"volant"-noun-fr "governall"-noun-ca
+"governall"-noun-ca "volant"-noun-fr
+"escampada"-noun-ca "dispersion"-noun-fr
+"dispersion"-noun-fr "escampada"-noun-ca
+"roc"-noun-ca "caillou"-noun-fr
+"caillou"-noun-fr "roc"-noun-ca
+"queue"-noun-fr "pixa"-noun-ca
+"pixa"-noun-ca "queue"-noun-fr
+"foule"-noun-fr "gernació"-noun-ca
+"gernació"-noun-ca "foule"-noun-fr
+"fanfarronada"-noun-ca "vanité"-noun-fr
+"vanité"-noun-fr "fanfarronada"-noun-ca
+"vanité"-noun-fr "fatuïtat"-noun-ca
+"fatuïtat"-noun-ca "vanité"-noun-fr
+"gira"-noun-ca "tournée"-noun-fr
+"tournée"-noun-fr "gira"-noun-ca
+"leçon"-noun-fr "escarment"-noun-ca
+"escarment"-noun-ca "leçon"-noun-fr
+"croissance"-noun-fr "creixament"-noun-ca
+"creixament"-noun-ca "croissance"-noun-fr
+"tristesse"-noun-fr "tristor"-noun-ca
+"tristor"-noun-ca "tristesse"-noun-fr
+"sottise"-noun-fr "disbarat"-noun-ca
+"disbarat"-noun-ca "sottise"-noun-fr
+"rayonnage"-noun-fr "lleixa"-noun-ca
+"lleixa"-noun-ca "rayonnage"-noun-fr
+"decorat"-noun-ca "décor"-noun-fr
+"décor"-noun-fr "decorat"-noun-ca
+"escaire"-noun-ca "équerre"-noun-fr
+"équerre"-noun-fr "escaire"-noun-ca
+"anxiété"-noun-fr "angúnia"-noun-ca
+"angúnia"-noun-ca "anxiété"-noun-fr
+"semblar bé"-verb-ca "dire"-verb-fr
+"dire"-verb-fr "semblar bé"-verb-ca
+"grossier"-adjective-fr "tosc"-adjective-ca
+"tosc"-adjective-ca "grossier"-adjective-fr
+"engrescar"-verb-ca "encourager"-verb-fr
+"engrescar"-verb-ca "animer"-verb-fr
+"encourager"-verb-fr "engrescar"-verb-ca
+"animer"-verb-fr "engrescar"-verb-ca
+"constar de"-verb-ca "compter"-verb-fr
+"compter"-verb-fr "constar de"-verb-ca
+"tourner"-verb-fr "virar"-verb-ca
+"virar"-verb-ca "tourner"-verb-fr
+"atrevit"-adjective-ca "audacieux"-adjective-fr
+"audacieux"-adjective-fr "atrevit"-adjective-ca
+"dernier"-adjective-fr "proppassat"-adjective-ca
+"proppassat"-adjective-ca "dernier"-adjective-fr
+"rendre"-verb-ca "rendre"-verb-fr
+"rendre"-verb-fr "rendre"-verb-ca
+"comme"-preposition-fr "com ara"-preposition-ca
+"com ara"-preposition-ca "comme"-preposition-fr
+"de plus en plus"-adverb-fr "cada cop més"-adverb-ca
+"cada cop més"-adverb-ca "de plus en plus"-adverb-fr
+"de tota manera"-adverb-ca "tout de même"-adverb-fr
+"tout de même"-adverb-fr "de tota manera"-adverb-ca
+"tout de même"-adverb-fr "de totes maneres"-adverb-ca
+"de totes maneres"-adverb-ca "tout de même"-adverb-fr
+"partout"-adverb-fr "pertot"-adverb-ca
+"pertot"-adverb-ca "partout"-adverb-fr
+"un autre"-determiner-fr "altre"-determiner-ca
+"altre"-determiner-ca "un autre"-determiner-fr
+"Bangladesh"-properNoun-fr "Bangla Desh"-properNoun-ca
+"Bangla Desh"-properNoun-ca "Bangladesh"-properNoun-fr
+"Cambotja"-properNoun-ca "Cambodge"-properNoun-fr
+"Cambodge"-properNoun-fr "Cambotja"-properNoun-ca
+"Groenland"-properNoun-fr "Grenlàndia"-properNoun-ca
+"Grenlàndia"-properNoun-ca "Groenland"-properNoun-fr
+"Tokyo"-properNoun-fr "Tokyo"-properNoun-ca
+"Tokyo"-properNoun-ca "Tokyo"-properNoun-fr
+"gasoli"-noun-ca "gasoil"-noun-fr
+"gasoil"-noun-fr "gasoli"-noun-ca
+"ci-dessous"-adverb-fr "aquí sota"-adverb-ca
+"aquí sota"-adverb-ca "ci-dessous"-adverb-fr
+"net"-noun-ca "petit-fils"-noun-fr
+"petit-fils"-noun-fr "net"-noun-ca
+"insecte"-noun-fr "home del sac"-noun-ca
+"home del sac"-noun-ca "insecte"-noun-fr
+"psychique"-adjective-fr "psíquic"-adjective-ca
+"psíquic"-adjective-ca "psychique"-adjective-fr
+"froidement"-adverb-fr "amb fredor"-adverb-ca
+"amb fredor"-adverb-ca "froidement"-adverb-fr
+"Kemper"-properNoun-ca "Quimper"-noun-fr
+"Kemper"-properNoun-ca "Quimper"-properNoun-fr
+"Quimper"-noun-fr "Kemper"-properNoun-ca
+"Quimper"-properNoun-fr "Kemper"-properNoun-ca
+"plus-vàlua"-noun-ca "plus-value"-noun-fr
+"plus-value"-noun-fr "plus-vàlua"-noun-ca
+"Helsinki"-properNoun-ca "Helsinki"-properNoun-fr
+"Helsinki"-properNoun-fr "Helsinki"-properNoun-ca
+"Viana"-properNoun-fr "Viena del Delfinat"-properNoun-ca
+"Viena del Delfinat"-properNoun-ca "Viana"-properNoun-fr
+"fax"-noun-fr "telefax"-noun-ca
+"telefax"-noun-ca "fax"-noun-fr
+"Uviéu"-properNoun-ca "Oviedo"-properNoun-fr
+"Oviedo"-properNoun-fr "Uviéu"-properNoun-ca
+"Xixón"-properNoun-ca "Gijón"-properNoun-fr
+"Gijón"-properNoun-fr "Xixón"-properNoun-ca

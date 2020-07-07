@@ -1,0 +1,2864 @@
+"i"-adverb-oc "hi"-adverb-ca
+"hi"-adverb-ca "i"-adverb-oc
+"hi"-adverb-ca "lai"-pronoun-oc
+"hi"-adverb-ca "çai"-pronoun-oc
+"lai"-pronoun-oc "hi"-adverb-ca
+"çai"-pronoun-oc "hi"-adverb-ca
+"en"-determiner-ca "en"-determiner-oc
+"en"-determiner-oc "en"-determiner-ca
+"en"-determiner-oc "en"-personalPronoun-ca
+"en"-personalPronoun-ca "en"-determiner-oc
+"el qui"-relativePronoun-ca "eth que"-relativePronoun-oc
+"el qui"-relativePronoun-ca "eth qui"-relativePronoun-oc
+"eth que"-relativePronoun-oc "el qui"-relativePronoun-ca
+"eth qui"-relativePronoun-oc "el qui"-relativePronoun-ca
+"usatge"-noun-ca "servança"-noun-oc
+"servança"-noun-oc "usatge"-noun-ca
+"vés amb compte"-interjection-ca "ten compde"-interjection-oc
+"ten compde"-interjection-oc "vés amb compte"-interjection-ca
+"ten compde"-interjection-oc "compte"-interjection-ca
+"ten compde"-interjection-oc "vigila"-interjection-ca
+"compte"-interjection-ca "ten compde"-interjection-oc
+"vigila"-interjection-ca "ten compde"-interjection-oc
+"vigila"-interjection-ca "mèfi"-interjection-oc
+"mèfi"-interjection-oc "vigila"-interjection-ca
+"anar de pressa"-verb-ca "hèr lèu"-verb-oc
+"hèr lèu"-verb-oc "anar de pressa"-verb-ca
+"conèixer bé"-verb-ca "conéisser plan"-verb-oc
+"conéisser plan"-verb-oc "conèixer bé"-verb-ca
+"tirar endavant"-verb-ca "amiar entà deuant"-verb-oc
+"tirar endavant"-verb-ca "amiar entà dauant"-verb-oc
+"tirar endavant"-verb-ca "tirar plan"-verb-oc
+"amiar entà deuant"-verb-oc "tirar endavant"-verb-ca
+"amiar entà dauant"-verb-oc "tirar endavant"-verb-ca
+"tirar plan"-verb-oc "tirar endavant"-verb-ca
+"neguit"-noun-ca "taïna"-noun-oc
+"taïna"-noun-oc "neguit"-noun-ca
+"Xixón"-properNoun-ca "Xixón"-properNoun-oc
+"Xixón"-properNoun-oc "Xixón"-properNoun-ca
+"Uviéu"-properNoun-ca "Uviéu"-properNoun-oc
+"Uviéu"-properNoun-oc "Uviéu"-properNoun-ca
+"Tarassona"-properNoun-ca "Taraçona"-properNoun-oc
+"Taraçona"-properNoun-oc "Tarassona"-properNoun-ca
+"Txornóbil"-properNoun-ca "Chernobyl"-properNoun-oc
+"Chernobyl"-properNoun-oc "Txornóbil"-properNoun-ca
+"Sud àfrica"-properNoun-ca "Sud Africa"-properNoun-oc
+"Sud Africa"-properNoun-oc "Sud àfrica"-properNoun-ca
+"Roazhon"-properNoun-ca "Roazhon"-properNoun-oc
+"Roazhon"-properNoun-oc "Roazhon"-properNoun-ca
+"Mülhausen"-properNoun-ca "Mülhausen"-properNoun-oc
+"Mülhausen"-properNoun-oc "Mülhausen"-properNoun-ca
+"Baixa Normandia"-properNoun-ca "Baisha Normandia"-properNoun-oc
+"Baisha Normandia"-properNoun-oc "Baixa Normandia"-properNoun-ca
+"Mànega"-properNoun-ca "Manja"-properNoun-oc
+"Manja"-properNoun-oc "Mànega"-properNoun-ca
+"Nord-Pas-de-Calais"-properNoun-ca "Nòrd-Pas-de-Calais"-properNoun-oc
+"Nòrd-Pas-de-Calais"-properNoun-oc "Nord-Pas-de-Calais"-properNoun-ca
+"Nagorno-Karabakh"-properNoun-ca "Aut Karabagh"-properNoun-oc
+"Aut Karabagh"-properNoun-oc "Nagorno-Karabakh"-properNoun-ca
+"Ioannina"-properNoun-ca "Ioannina"-properNoun-oc
+"Ioannina"-properNoun-ca "Giannena"-properNoun-oc
+"Ioannina"-properNoun-oc "Ioannina"-properNoun-ca
+"Ioannina"-properNoun-oc "Ioánnina"-properNoun-ca
+"Giannena"-properNoun-oc "Ioannina"-properNoun-ca
+"proscrit"-adjective-ca "proscrit"-adjective-oc
+"proscrit"-adjective-oc "proscrit"-adjective-ca
+"ultratjar"-verb-ca "oltratjar"-verb-oc
+"oltratjar"-verb-oc "ultratjar"-verb-ca
+"Siantiago de Compostel·la"-properNoun-ca "Sant Jacme de Compostèla"-properNoun-oc
+"Siantiago de Compostel·la"-properNoun-ca "Sant Jaume de Compostèla"-properNoun-oc
+"Sant Jacme de Compostèla"-properNoun-oc "Siantiago de Compostel·la"-properNoun-ca
+"Sant Jaume de Compostèla"-properNoun-oc "Siantiago de Compostel·la"-properNoun-ca
+"Ribesaltes"-properNoun-ca "Ribas Autas"-properNoun-oc
+"Ribas Autas"-properNoun-oc "Ribesaltes"-properNoun-ca
+"Brunsvic"-properNoun-ca "Bronswiek"-properNoun-oc
+"Brunsvic"-properNoun-ca "Braunschweig"-properNoun-oc
+"Bronswiek"-properNoun-oc "Brunsvic"-properNoun-ca
+"Braunschweig"-properNoun-oc "Brunsvic"-properNoun-ca
+"ranera"-noun-ca "arranguilh"-noun-oc
+"arranguilh"-noun-oc "ranera"-noun-ca
+"Udin"-properNoun-ca "Udin"-properNoun-oc
+"Udin"-properNoun-oc "Udin"-properNoun-ca
+"Murmansk"-properNoun-ca "Muurman"-properNoun-oc
+"Muurman"-properNoun-oc "Murmansk"-properNoun-ca
+"si no"-adverb-ca "si de non"-adverb-oc
+"si de non"-adverb-oc "si no"-adverb-ca
+"Aland"-properNoun-ca "Åland"-properNoun-oc
+"Åland"-properNoun-oc "Aland"-properNoun-ca
+"Åland"-properNoun-oc "Åland"-properNoun-ca
+"Åland"-properNoun-ca "Åland"-properNoun-oc
+"Àrtida"-properNoun-ca "Artica"-properNoun-oc
+"Artica"-properNoun-oc "Àrtida"-properNoun-ca
+"Prepirineus"-properNoun-ca "Prepirenèus"-properNoun-oc
+"Prepirenèus"-properNoun-oc "Prepirineus"-properNoun-ca
+"Pyongyang"-properNoun-ca "Pyeongyang"-properNoun-oc
+"Pyeongyang"-properNoun-oc "Pyongyang"-properNoun-ca
+"Pyeongyang"-properNoun-oc "P'yongyang"-properNoun-ca
+"llac Baikal"-properNoun-ca "lac Baigal"-properNoun-oc
+"lac Baigal"-properNoun-oc "llac Baikal"-properNoun-ca
+"exdona"-noun-ca "exfemna"-noun-oc
+"exfemna"-noun-oc "exdona"-noun-ca
+"curricular"-adjective-ca "dels estudis"-adjective-oc
+"curricular"-adjective-ca "des estudis"-adjective-oc
+"dels estudis"-adjective-oc "curricular"-adjective-ca
+"dels estudis"-adjective-oc "dels estudis"-adjective-ca
+"des estudis"-adjective-oc "curricular"-adjective-ca
+"des estudis"-adjective-oc "dels estudis"-adjective-ca
+"a casa meva"-adverb-ca "en çò mieu"-adverb-oc
+"a casa meva"-adverb-ca "en cò mèn"-adverb-oc
+"en çò mieu"-adverb-oc "a casa meva"-adverb-ca
+"en cò mèn"-adverb-oc "a casa meva"-adverb-ca
+"en cò mèn"-adverb-oc "a casa meua"-adverb-ca
+"en cò mèn"-adverb-oc "a ca meva"-adverb-ca
+"a casa nostra"-adverb-ca "a cò nòstre"-adverb-oc
+"a casa nostra"-adverb-ca "en çò nòstre"-adverb-oc
+"a casa nostra"-adverb-ca "en çò nòste"-adverb-oc
+"a cò nòstre"-adverb-oc "a casa nostra"-adverb-ca
+"en çò nòstre"-adverb-oc "a casa nostra"-adverb-ca
+"en çò nòste"-adverb-oc "a casa nostra"-adverb-ca
+"cap d'any"-adverb-ca "era fin dera annada"-adverb-oc
+"era fin dera annada"-adverb-oc "cap d'any"-adverb-ca
+"a casa seva"-adverb-ca "a cò sieu"-adverb-oc
+"a casa seva"-adverb-ca "en çò sieu"-adverb-oc
+"a casa seva"-adverb-ca "en çò sòn"-adverb-oc
+"a cò sieu"-adverb-oc "a casa seva"-adverb-ca
+"en çò sieu"-adverb-oc "a casa seva"-adverb-ca
+"en çò sòn"-adverb-oc "a casa seva"-adverb-ca
+"a casa teva"-adverb-ca "en çò tieu"-adverb-oc
+"a casa teva"-adverb-ca "a çò tieu"-adverb-oc
+"a casa teva"-adverb-ca "en çò tòn"-adverb-oc
+"a casa teva"-adverb-ca "a çò tòn"-adverb-oc
+"en çò tieu"-adverb-oc "a casa teva"-adverb-ca
+"a çò tieu"-adverb-oc "a casa teva"-adverb-ca
+"en çò tòn"-adverb-oc "a casa teva"-adverb-ca
+"a çò tòn"-adverb-oc "a casa teva"-adverb-ca
+"a casa vostra"-adverb-ca "en çò vòstre"-adverb-oc
+"a casa vostra"-adverb-ca "a çò vòstre"-adverb-oc
+"a casa vostra"-adverb-ca "en çò vòste"-adverb-oc
+"a casa vostra"-adverb-ca "a çò vòste"-adverb-oc
+"en çò vòstre"-adverb-oc "a casa vostra"-adverb-ca
+"a çò vòstre"-adverb-oc "a casa vostra"-adverb-ca
+"en çò vòste"-adverb-oc "a casa vostra"-adverb-ca
+"a çò vòste"-adverb-oc "a casa vostra"-adverb-ca
+"a casa meua"-adverb-ca "en cò mèn"-adverb-oc
+"a ca meva"-adverb-ca "en cò mèn"-adverb-oc
+"dins de condicions"-adverb-oc "en condicions"-adverb-ca
+"en condicions"-adverb-ca "dins de condicions"-adverb-oc
+"en centre vila"-adverb-oc "al centre de la ciutat"-adverb-ca
+"al centre de la ciutat"-adverb-ca "en centre vila"-adverb-oc
+"a se vendre"-adjective-oc "en venda"-adjective-ca
+"en venda"-adjective-ca "a se vendre"-adjective-oc
+"pèisher"-verb-oc "péixer"-verb-ca
+"péixer"-verb-ca "pèisher"-verb-oc
+"d'ara enlà"-adverb-oc "d'ara en endavant"-adverb-ca
+"d'ara en endavant"-adverb-ca "d'ara enlà"-adverb-oc
+"damb mès de"-preposition-oc "amb més de"-preposition-ca
+"amb més de"-preposition-ca "damb mès de"-preposition-oc
+"amb més de"-preposition-ca "amb mai de"-preposition-oc
+"amb mai de"-preposition-oc "amb més de"-preposition-ca
+"sens relambi"-preposition-oc "sense parar"-preposition-ca
+"sens relambi"-preposition-oc "sense descans"-preposition-ca
+"sense parar"-preposition-ca "sens relambi"-preposition-oc
+"sense parar"-preposition-ca "sense relambi"-preposition-oc
+"sense descans"-preposition-ca "sens relambi"-preposition-oc
+"sense descans"-preposition-ca "sense relambi"-preposition-oc
+"sense relambi"-preposition-oc "sense parar"-preposition-ca
+"sense relambi"-preposition-oc "sense descans"-preposition-ca
+"lèu tot"-pronoun-oc "quasi tot"-pronoun-ca
+"quasi tot"-pronoun-ca "lèu tot"-pronoun-oc
+"tot açò"-pronoun-oc "tot això"-pronoun-ca
+"tot això"-pronoun-ca "tot açò"-pronoun-oc
+"tot això"-pronoun-ca "tot aquò"-pronoun-oc
+"tot aquò"-pronoun-oc "tot això"-pronoun-ca
+"montar a l'ataca"-verb-oc "sortir a l'atac"-verb-ca
+"sortir a l'atac"-verb-ca "montar a l'ataca"-verb-oc
+"provenir de"-verb-oc "procedir de"-verb-ca
+"provenir de"-verb-oc "provenir de"-verb-ca
+"procedir de"-verb-ca "provenir de"-verb-oc
+"procedir de"-verb-ca "provier de"-verb-oc
+"provenir de"-verb-ca "provenir de"-verb-oc
+"provenir de"-verb-ca "provier de"-verb-oc
+"provier de"-verb-oc "procedir de"-verb-ca
+"provier de"-verb-oc "provenir de"-verb-ca
+"tot e arren"-pronoun-oc "tot i res"-pronoun-ca
+"tot i res"-pronoun-ca "tot e arren"-pronoun-oc
+"tot i res"-pronoun-ca "tot e res"-pronoun-oc
+"tot e res"-pronoun-oc "tot i res"-pronoun-ca
+"auer era autorizacion"-verb-oc "tenir llum verda"-verb-ca
+"tenir llum verda"-verb-ca "auer era autorizacion"-verb-oc
+"tenir llum verda"-verb-ca "auer eth lum verd"-verb-oc
+"tenir llum verda"-verb-ca "auer eth huec verd"-verb-oc
+"tenir llum verda"-verb-ca "aver l'autorizacion"-verb-oc
+"tenir llum verda"-verb-ca "aver lo lum verd"-verb-oc
+"tenir llum verda"-verb-ca "aver lo fuòc verd"-verb-oc
+"auer eth lum verd"-verb-oc "tenir llum verda"-verb-ca
+"auer eth huec verd"-verb-oc "tenir llum verda"-verb-ca
+"aver l'autorizacion"-verb-oc "tenir llum verda"-verb-ca
+"aver lo lum verd"-verb-oc "tenir llum verda"-verb-ca
+"aver lo fuòc verd"-verb-oc "tenir llum verda"-verb-ca
+"èster sufisent"-verb-oc "ser suficient"-verb-ca
+"ser suficient"-verb-ca "èster sufisent"-verb-oc
+"èsser una autra musica"-verb-oc "ser una altra història"-verb-ca
+"ser una altra història"-verb-ca "èsser una autra musica"-verb-oc
+"ser una altra història"-verb-ca "èster ua auta musica"-verb-oc
+"ser una altra història"-verb-ca "èster ua auta cançon"-verb-oc
+"ser una altra història"-verb-ca "èster ua auta istòria"-verb-oc
+"ser una altra història"-verb-ca "èsser una autra cançon"-verb-oc
+"ser una altra història"-verb-ca "èsser una autra istòria"-verb-oc
+"èster ua auta musica"-verb-oc "ser una altra història"-verb-ca
+"èster ua auta cançon"-verb-oc "ser una altra història"-verb-ca
+"èster ua auta istòria"-verb-oc "ser una altra història"-verb-ca
+"èsser una autra cançon"-verb-oc "ser una altra història"-verb-ca
+"èsser una autra istòria"-verb-oc "ser una altra història"-verb-ca
+"çò de mès"-determiner-oc "el més"-determiner-ca
+"el més"-determiner-ca "çò de mès"-determiner-oc
+"biannau"-adjective-oc "biannal"-adjective-ca
+"biannal"-adjective-ca "biannau"-adjective-oc
+"biannal"-adjective-ca "biannal"-adjective-oc
+"biannal"-adjective-oc "biannal"-adjective-ca
+"auer eth sentiment"-verb-oc "tenir la sensació"-verb-ca
+"tenir la sensació"-verb-ca "auer eth sentiment"-verb-oc
+"tenir la sensació"-verb-ca "aver lo sentiment"-verb-oc
+"aver lo sentiment"-verb-oc "tenir la sensació"-verb-ca
+"no auer a veir"-verb-oc "no tenir a veure"-verb-ca
+"no tenir a veure"-verb-ca "no auer a veir"-verb-oc
+"no tenir a veure"-verb-ca "aver pas a veire"-verb-oc
+"aver pas a veire"-verb-oc "no tenir a veure"-verb-ca
+"auer arren a veir"-verb-oc "tenir res a veure"-verb-ca
+"tenir res a veure"-verb-ca "auer arren a veir"-verb-oc
+"tenir res a veure"-verb-ca "aver res a veire"-verb-oc
+"aver res a veire"-verb-oc "tenir res a veure"-verb-ca
+"no auer arren a veir"-verb-oc "no tenir res a veure"-verb-ca
+"no tenir res a veure"-verb-ca "no auer arren a veir"-verb-oc
+"no tenir res a veure"-verb-ca "aver pas res a veire"-verb-oc
+"aver pas res a veire"-verb-oc "no tenir res a veure"-verb-ca
+"anonciar que"-verb-oc "avançar que"-verb-ca
+"anonciar que"-verb-oc "anunciar que"-verb-ca
+"avançar que"-verb-ca "anonciar que"-verb-oc
+"anunciar que"-verb-ca "anonciar que"-verb-oc
+"acòrd gramaticau"-noun-oc "concordança gramatical"-noun-ca
+"concordança gramatical"-noun-ca "acòrd gramaticau"-noun-oc
+"concordança gramatical"-noun-ca "acòrd gramatical"-noun-oc
+"acòrd gramatical"-noun-oc "concordança gramatical"-noun-ca
+"sustot pas"-adverb-oc "sobretot no"-adverb-ca
+"sobretot no"-adverb-ca "sustot pas"-adverb-oc
+"sobretot no"-adverb-ca "sustot non"-adverb-oc
+"sustot non"-adverb-oc "sobretot no"-adverb-ca
+"pas sovent"-adverb-oc "sovint no"-adverb-ca
+"sovint no"-adverb-ca "pas sovent"-adverb-oc
+"sovint no"-adverb-ca "soent non"-adverb-oc
+"soent non"-adverb-oc "sovint no"-adverb-ca
+"anar mal"-verb-oc "estar malament"-verb-ca
+"estar malament"-verb-ca "anar mal"-verb-oc
+"estar malament"-verb-ca "anar mau"-verb-oc
+"anar mau"-verb-oc "estar malament"-verb-ca
+"entornejat"-verb-oc "envoltat"-verb-ca
+"envoltat"-verb-ca "entornejat"-verb-oc
+"díder çai sus"-verb-oc "dir més amunt"-verb-ca
+"dir més amunt"-verb-ca "díder çai sus"-verb-oc
+"dir més amunt"-verb-ca "dire çai sus"-verb-oc
+"dire çai sus"-verb-oc "dir més amunt"-verb-ca
+"díder çai jos"-verb-oc "dir més avall"-verb-ca
+"dir més avall"-verb-ca "díder çai jos"-verb-oc
+"dir més avall"-verb-ca "dire çai jos"-verb-oc
+"dire çai jos"-verb-oc "dir més avall"-verb-ca
+"hèr en sòrta"-verb-oc "fer per manera"-verb-ca
+"fer per manera"-verb-ca "hèr en sòrta"-verb-oc
+"fer per manera"-verb-ca "far en sòrta"-verb-oc
+"far en sòrta"-verb-oc "fer per manera"-verb-ca
+"hèr vier cabra"-verb-oc "fer tornar boig"-verb-ca
+"hèr vier cabra"-verb-oc "fer tornar boja"-verb-ca
+"fer tornar boig"-verb-ca "hèr vier cabra"-verb-oc
+"fer tornar boig"-verb-ca "far venir cabra"-verb-oc
+"fer tornar boja"-verb-ca "hèr vier cabra"-verb-oc
+"fer tornar boja"-verb-ca "far venir cabra"-verb-oc
+"far venir cabra"-verb-oc "fer tornar boig"-verb-ca
+"far venir cabra"-verb-oc "fer tornar boja"-verb-ca
+"hèr vier cabres"-verb-oc "fer tornar bojos"-verb-ca
+"hèr vier cabres"-verb-oc "fer tornar boges"-verb-ca
+"fer tornar bojos"-verb-ca "hèr vier cabres"-verb-oc
+"fer tornar bojos"-verb-ca "far venir cabras"-verb-oc
+"fer tornar boges"-verb-ca "hèr vier cabres"-verb-oc
+"fer tornar boges"-verb-ca "far venir cabras"-verb-oc
+"far venir cabras"-verb-oc "fer tornar bojos"-verb-ca
+"far venir cabras"-verb-oc "fer tornar boges"-verb-ca
+"dar era popa"-verb-oc "donar el pit"-verb-ca
+"donar el pit"-verb-ca "dar era popa"-verb-oc
+"donar el pit"-verb-ca "donar la popa"-verb-oc
+"donar la popa"-verb-oc "donar el pit"-verb-ca
+"enténer a parlar"-verb-oc "sentir parlar"-verb-ca
+"sentir parlar"-verb-ca "enténer a parlar"-verb-oc
+"desaucupar"-verb-oc "desocupar"-verb-ca
+"desocupar"-verb-ca "desaucupar"-verb-oc
+"correspondre a"-verb-oc "correspondre a"-verb-ca
+"correspondre a"-verb-ca "correspondre a"-verb-oc
+"correspondre a"-verb-ca "correspóner a"-verb-oc
+"correspóner a"-verb-oc "correspondre a"-verb-ca
+"escríuer çai sus"-verb-oc "escriure més amunt"-verb-ca
+"escriure més amunt"-verb-ca "escríuer çai sus"-verb-oc
+"escriure més amunt"-verb-ca "escriure çai sus"-verb-oc
+"escriure çai sus"-verb-oc "escriure més amunt"-verb-ca
+"escríuer çai jos"-verb-oc "escriure més avall"-verb-ca
+"escriure més avall"-verb-ca "escríuer çai jos"-verb-oc
+"escriure més avall"-verb-ca "escriure çai jos"-verb-oc
+"escriure çai jos"-verb-oc "escriure més avall"-verb-ca
+"modificable"-adjective-oc "modificable"-adjective-ca
+"modificable"-adjective-ca "modificable"-adjective-oc
+"immodificable"-adjective-oc "immodificable"-adjective-ca
+"immodificable"-adjective-ca "immodificable"-adjective-oc
+"participar en una manifestacion"-verb-oc "participar en una manifestació"-verb-ca
+"participar en una manifestació"-verb-ca "participar en una manifestacion"-verb-oc
+"participar en una manifestació"-verb-ca "participar en ua manifestacion"-verb-oc
+"participar en ua manifestacion"-verb-oc "participar en una manifestació"-verb-ca
+"balhar l'autorizacion"-verb-oc "donar llum verda"-verb-ca
+"donar llum verda"-verb-ca "balhar l'autorizacion"-verb-oc
+"donar llum verda"-verb-ca "balhar era autorizacion"-verb-oc
+"donar llum verda"-verb-ca "balhar lo fuòc verd"-verb-oc
+"donar llum verda"-verb-ca "balhar eth huec verd"-verb-oc
+"donar llum verda"-verb-ca "balhar lo lum verd"-verb-oc
+"donar llum verda"-verb-ca "balhar eth lum verd"-verb-oc
+"balhar era autorizacion"-verb-oc "donar llum verda"-verb-ca
+"balhar lo fuòc verd"-verb-oc "donar llum verda"-verb-ca
+"balhar eth huec verd"-verb-oc "donar llum verda"-verb-ca
+"balhar lo lum verd"-verb-oc "donar llum verda"-verb-ca
+"balhar eth lum verd"-verb-oc "donar llum verda"-verb-ca
+"dar tòrt"-verb-oc "donar la culpa"-verb-ca
+"dar tòrt"-verb-oc "donar les culpes"-verb-ca
+"donar la culpa"-verb-ca "dar tòrt"-verb-oc
+"donar la culpa"-verb-ca "donar tòrt"-verb-oc
+"donar les culpes"-verb-ca "dar tòrt"-verb-oc
+"donar les culpes"-verb-ca "donar tòrt"-verb-oc
+"donar tòrt"-verb-oc "donar la culpa"-verb-ca
+"donar tòrt"-verb-oc "donar les culpes"-verb-ca
+"desvolopar de competéncias"-verb-oc "desplegar competències"-verb-ca
+"desplegar competències"-verb-ca "desvolopar de competéncias"-verb-oc
+"desplegar competències"-verb-ca "desvolopar competéncies"-verb-oc
+"desvolopar competéncies"-verb-oc "desplegar competències"-verb-ca
+"desvolopar las competéncias"-verb-oc "desplegar les competències"-verb-ca
+"desplegar les competències"-verb-ca "desvolopar las competéncias"-verb-oc
+"desplegar les competències"-verb-ca "desvolopar es competéncies"-verb-oc
+"desvolopar es competéncies"-verb-oc "desplegar les competències"-verb-ca
+"desvolopar unas competéncias"-verb-oc "desplegar unes competències"-verb-ca
+"desplegar unes competències"-verb-ca "desvolopar unas competéncias"-verb-oc
+"desplegar unes competències"-verb-ca "desvolopar ues competéncies"-verb-oc
+"desvolopar ues competéncies"-verb-oc "desplegar unes competències"-verb-ca
+"desvolopar unas leis"-verb-oc "desplegar unes lleis"-verb-ca
+"desplegar unes lleis"-verb-ca "desvolopar unas leis"-verb-oc
+"desplegar unes lleis"-verb-ca "desvolopar ues leis"-verb-oc
+"desvolopar ues leis"-verb-oc "desplegar unes lleis"-verb-ca
+"desvolopar las leis"-verb-oc "desplegar les lleis"-verb-ca
+"desplegar les lleis"-verb-ca "desvolopar las leis"-verb-oc
+"desplegar les lleis"-verb-ca "desvolopar es leis"-verb-oc
+"desvolopar es leis"-verb-oc "desplegar les lleis"-verb-ca
+"desvolopar una lei"-verb-oc "desplegar una llei"-verb-ca
+"desplegar una llei"-verb-ca "desvolopar una lei"-verb-oc
+"desplegar una llei"-verb-ca "desvolopar ua lei"-verb-oc
+"desvolopar ua lei"-verb-oc "desplegar una llei"-verb-ca
+"desvolopar la lei"-verb-oc "desplegar la llei"-verb-ca
+"desplegar la llei"-verb-ca "desvolopar la lei"-verb-oc
+"desplegar la llei"-verb-ca "desvolopar era lei"-verb-oc
+"desvolopar era lei"-verb-oc "desplegar la llei"-verb-ca
+"desvolopar de leis"-verb-oc "desplegar lleis"-verb-ca
+"desplegar lleis"-verb-ca "desvolopar de leis"-verb-oc
+"desplegar lleis"-verb-ca "desvolopar leis"-verb-oc
+"desvolopar leis"-verb-oc "desplegar lleis"-verb-ca
+"deishar de caire"-verb-oc "deixar de costat"-verb-ca
+"deixar de costat"-verb-ca "deishar de caire"-verb-oc
+"deixar de costat"-verb-ca "daissar de caire"-verb-oc
+"daissar de caire"-verb-oc "deixar de costat"-verb-ca
+"cambiar de bòrd"-verb-oc "canviar de costat"-verb-ca
+"canviar de costat"-verb-ca "cambiar de bòrd"-verb-oc
+"virar la fortuna"-verb-oc "canviar la sort"-verb-ca
+"canviar la sort"-verb-ca "virar la fortuna"-verb-oc
+"canviar la sort"-verb-ca "virar era fortuna"-verb-oc
+"virar era fortuna"-verb-oc "canviar la sort"-verb-ca
+"vertat es"-adverb-oc "és cert"-adverb-ca
+"és cert"-adverb-ca "vertat es"-adverb-oc
+"és cert"-adverb-ca "ei cèrt"-adverb-oc
+"ei cèrt"-adverb-oc "és cert"-adverb-ca
+"demorar en"-verb-oc "viure a"-verb-ca
+"viure a"-verb-ca "demorar en"-verb-oc
+"reméter en causa"-verb-oc "posar en dubte"-verb-ca
+"posar en dubte"-verb-ca "reméter en causa"-verb-oc
+"posar en dubte"-verb-ca "remetre en causa"-verb-oc
+"remetre en causa"-verb-oc "posar en dubte"-verb-ca
+"préner part"-verb-oc "prendre part"-verb-ca
+"prendre part"-verb-ca "préner part"-verb-oc
+"prendre part"-verb-ca "prene part"-verb-oc
+"prene part"-verb-oc "prendre part"-verb-ca
+"no préner part"-verb-oc "no prendre part"-verb-ca
+"no prendre part"-verb-ca "no préner part"-verb-oc
+"no prendre part"-verb-ca "prene pas part"-verb-oc
+"prene pas part"-verb-oc "no prendre part"-verb-ca
+"méter a jorn"-verb-oc "posar al dia"-verb-ca
+"posar al dia"-verb-ca "méter a jorn"-verb-oc
+"posar al dia"-verb-ca "metre a jorn"-verb-oc
+"metre a jorn"-verb-oc "posar al dia"-verb-ca
+"botar en evidéncia"-verb-oc "posar de manifest"-verb-ca
+"botar en evidéncia"-verb-oc "deixar clar"-verb-ca
+"botar en evidéncia"-verb-oc "posar en evidència"-verb-ca
+"posar de manifest"-verb-ca "botar en evidéncia"-verb-oc
+"posar de manifest"-verb-ca "méter en evidéncia"-verb-oc
+"deixar clar"-verb-ca "botar en evidéncia"-verb-oc
+"deixar clar"-verb-ca "daissar clar"-verb-oc
+"deixar clar"-verb-ca "deishar clar"-verb-oc
+"posar en evidència"-verb-ca "botar en evidéncia"-verb-oc
+"posar en evidència"-verb-ca "méter en evidéncia"-verb-oc
+"méter en evidéncia"-verb-oc "posar de manifest"-verb-ca
+"méter en evidéncia"-verb-oc "posar en evidència"-verb-ca
+"daissar clar"-verb-oc "deixar clar"-verb-ca
+"deishar clar"-verb-oc "deixar clar"-verb-ca
+"botar d'obstacles"-verb-oc "posar obstacles"-verb-ca
+"botar d'obstacles"-verb-oc "posar pegues"-verb-ca
+"posar obstacles"-verb-ca "botar d'obstacles"-verb-oc
+"posar obstacles"-verb-ca "méter obstacles"-verb-oc
+"posar obstacles"-verb-ca "far d'empaches"-verb-oc
+"posar pegues"-verb-ca "botar d'obstacles"-verb-oc
+"posar pegues"-verb-ca "méter obstacles"-verb-oc
+"méter obstacles"-verb-oc "posar obstacles"-verb-ca
+"méter obstacles"-verb-oc "posar pegues"-verb-ca
+"far d'empaches"-verb-oc "posar obstacles"-verb-ca
+"au"-adjective-oc "è"-adjective-ca
+"è"-adjective-ca "au"-adjective-oc
+"parimòni"-noun-oc "parimoni"-noun-ca
+"parimoni"-noun-ca "parimòni"-noun-oc
+"Alemanha"-noun-oc "Alemanya"-noun-ca
+"Alemanya"-noun-ca "Alemanha"-noun-oc
+"rampòina"-noun-oc "rampoina"-noun-ca
+"rampoina"-noun-ca "rampòina"-noun-oc
+"resvenja"-noun-oc "resvenja"-noun-ca
+"resvenja"-noun-ca "resvenja"-noun-oc
+"tròca"-noun-oc "troca"-noun-ca
+"troca"-noun-ca "tròca"-noun-oc
+"candidat per"-noun-oc "candidat a"-noun-ca
+"candidat per"-noun-oc "candidat per a"-noun-ca
+"candidat a"-noun-ca "candidat per"-noun-oc
+"candidat a"-noun-ca "candidat tà"-noun-oc
+"candidat per a"-noun-ca "candidat per"-noun-oc
+"candidat per a"-noun-ca "candidat tà"-noun-oc
+"candidat tà"-noun-oc "candidat a"-noun-ca
+"candidat tà"-noun-oc "candidat per a"-noun-ca
+"a pèces"-adverb-oc "a peces"-adverb-ca
+"a pèces"-adverb-oc "en peces"-adverb-ca
+"a peces"-adverb-ca "a pèces"-adverb-oc
+"a peces"-adverb-ca "en pèças"-adverb-oc
+"en peces"-adverb-ca "a pèces"-adverb-oc
+"en peces"-adverb-ca "en pèças"-adverb-oc
+"en pèças"-adverb-oc "a peces"-adverb-ca
+"en pèças"-adverb-oc "en peces"-adverb-ca
+"agotable"-adjective-oc "esgotable"-adjective-ca
+"esgotable"-adjective-ca "agotable"-adjective-oc
+"procediment arbitrari"-noun-oc "procediment arbitrari"-noun-ca
+"procediment arbitrari"-noun-ca "procediment arbitrari"-noun-oc
+"brac"-noun-oc "breu"-noun-ca
+"breu"-noun-ca "brac"-noun-oc
+"breu"-noun-ca "brèu"-noun-oc
+"brèu"-noun-oc "breu"-noun-ca
+"ahèr exterior"-noun-oc "afer exterior"-noun-ca
+"afer exterior"-noun-ca "ahèr exterior"-noun-oc
+"afer exterior"-noun-ca "afar exterior"-noun-oc
+"afar exterior"-noun-oc "afer exterior"-noun-ca
+"ahèr estrangèr"-noun-oc "afer estranger"-noun-ca
+"afer estranger"-noun-ca "ahèr estrangèr"-noun-oc
+"afer estranger"-noun-ca "afar estrangièr"-noun-oc
+"afar estrangièr"-noun-oc "afer estranger"-noun-ca
+"estrangèr ara causa"-adjective-oc "aliè a això"-adjective-ca
+"aliè a això"-adjective-ca "estrangèr ara causa"-adjective-oc
+"aliè a això"-adjective-ca "estrangièr a la causa"-adjective-oc
+"estrangièr a la causa"-adjective-oc "aliè a això"-adjective-ca
+"recomanacion de seguir"-noun-oc "recomanació a seguir"-noun-ca
+"recomanació a seguir"-noun-ca "recomanacion de seguir"-noun-oc
+"recomanació a seguir"-noun-ca "recomandacion de seguir"-noun-oc
+"recomandacion de seguir"-noun-oc "recomanació a seguir"-noun-ca
+"desatencion"-noun-oc "desatenció"-noun-ca
+"desatenció"-noun-ca "desatencion"-noun-oc
+"ensenhament elementari"-noun-oc "educació elemental"-noun-ca
+"educació elemental"-noun-ca "ensenhament elementari"-noun-oc
+"gropet"-noun-oc "grupet"-noun-ca
+"grupet"-noun-ca "gropet"-noun-oc
+"exprumèr"-adjective-oc "exprimer"-adjective-ca
+"exprimer"-adjective-ca "exprumèr"-adjective-oc
+"exprimer"-adjective-ca "exprimièr"-adjective-oc
+"exprimer"-adjective-ca "expurmèr"-adjective-oc
+"exprimièr"-adjective-oc "exprimer"-adjective-ca
+"expurmèr"-adjective-oc "exprimer"-adjective-ca
+"laborau"-noun-oc "laboral"-noun-ca
+"laboral"-noun-ca "laborau"-noun-oc
+"miei naturau"-noun-oc "medi natural"-noun-ca
+"medi natural"-noun-ca "miei naturau"-noun-oc
+"paredau"-adjective-oc "paredal"-adjective-ca
+"paredal"-adjective-ca "paredau"-adjective-oc
+"paredal"-adjective-ca "paredal"-adjective-oc
+"paredal"-adjective-oc "paredal"-adjective-ca
+"proselitista"-adjective-oc "proselitista"-adjective-ca
+"proselitista"-adjective-ca "proselitista"-adjective-oc
+"dels estudis"-adjective-ca "dels estudis"-adjective-oc
+"dels estudis"-adjective-ca "des estudis"-adjective-oc
+"plan al delà"-adverb-oc "molt més enllà"-adverb-ca
+"molt més enllà"-adverb-ca "plan al delà"-adverb-oc
+"molt més enllà"-adverb-ca "plan ath delà"-adverb-oc
+"plan ath delà"-adverb-oc "molt més enllà"-adverb-ca
+"caisha de resson"-noun-oc "caixa de ressonància"-noun-ca
+"caixa de ressonància"-noun-ca "caisha de resson"-noun-oc
+"caixa de ressonància"-noun-ca "caissa de resson"-noun-oc
+"caissa de resson"-noun-oc "caixa de ressonància"-noun-ca
+"psiquiatric"-noun-oc "psiquiàtric"-noun-ca
+"psiquiàtric"-noun-ca "psiquiatric"-noun-oc
+"tendéncia a beure"-noun-oc "tendència a la beguda"-noun-ca
+"tendència a la beguda"-noun-ca "tendéncia a beure"-noun-oc
+"tendència a la beguda"-noun-ca "tendéncia a béuer"-noun-oc
+"tendéncia a béuer"-noun-oc "tendència a la beguda"-noun-ca
+"estimar mès"-verb-oc "estimar més"-verb-ca
+"estimar més"-verb-ca "estimar mès"-verb-oc
+"estimar més"-verb-ca "estimar mai"-verb-oc
+"estimar més"-verb-ca "voler mès"-verb-oc
+"estimar més"-verb-ca "voler mai"-verb-oc
+"estimar més"-verb-ca "aimar mai"-verb-oc
+"estimar mai"-verb-oc "estimar més"-verb-ca
+"voler mès"-verb-oc "estimar més"-verb-ca
+"voler mai"-verb-oc "estimar més"-verb-ca
+"aimar mai"-verb-oc "estimar més"-verb-ca
+"pausar una question"-verb-oc "plantejar una qüestió"-verb-ca
+"pausar una question"-verb-oc "plantejar una pregunta"-verb-ca
+"plantejar una qüestió"-verb-ca "pausar una question"-verb-oc
+"plantejar una qüestió"-verb-ca "pausar ua qüestion"-verb-oc
+"plantejar una pregunta"-verb-ca "pausar una question"-verb-oc
+"plantejar una pregunta"-verb-ca "pausar ua pregunta"-verb-oc
+"pausar ua qüestion"-verb-oc "plantejar una qüestió"-verb-ca
+"pausar ua pregunta"-verb-oc "plantejar una pregunta"-verb-ca
+"pausar de questions"-verb-oc "plantejar qüestions"-verb-ca
+"pausar de questions"-verb-oc "plantejar preguntes"-verb-ca
+"plantejar qüestions"-verb-ca "pausar de questions"-verb-oc
+"plantejar qüestions"-verb-ca "pausar qüestions"-verb-oc
+"plantejar preguntes"-verb-ca "pausar de questions"-verb-oc
+"plantejar preguntes"-verb-ca "pausar preguntes"-verb-oc
+"pausar qüestions"-verb-oc "plantejar qüestions"-verb-ca
+"pausar preguntes"-verb-oc "plantejar preguntes"-verb-ca
+"Baquèira"-properNoun-oc "Baqueira"-properNoun-ca
+"Baqueira"-properNoun-ca "Baquèira"-properNoun-oc
+"Baqueira"-properNoun-oc "Baquèira"-properNoun-ca
+"Baquèira"-properNoun-ca "Baqueira"-properNoun-oc
+"zèro"-adjective-oc "zero"-adjective-ca
+"zero"-adjective-ca "zèro"-adjective-oc
+"sies"-adjective-oc "sis"-adjective-ca
+"sis"-adjective-ca "sies"-adjective-oc
+"sis"-adjective-ca "sièis"-adjective-oc
+"sièis"-adjective-oc "sis"-adjective-ca
+"sèt"-adjective-oc "set"-adjective-ca
+"set"-adjective-ca "sèt"-adjective-oc
+"ueit"-adjective-oc "vuit"-adjective-ca
+"vuit"-adjective-ca "ueit"-adjective-oc
+"vuit"-adjective-ca "uèit"-adjective-oc
+"vuit"-adjective-ca "uèch"-adjective-oc
+"uèit"-adjective-oc "vuit"-adjective-ca
+"uèch"-adjective-oc "vuit"-adjective-ca
+"dètz-e-sèt"-adjective-oc "disset"-adjective-ca
+"disset"-adjective-ca "dètz-e-sèt"-adjective-oc
+"dètz-e-ueit"-adjective-oc "divuit"-adjective-ca
+"divuit"-adjective-ca "dètz-e-ueit"-adjective-oc
+"divuit"-adjective-ca "dètz-e-uèit"-adjective-oc
+"divuit"-adjective-ca "dètz-e-uèch"-adjective-oc
+"dètz-e-uèit"-adjective-oc "divuit"-adjective-ca
+"dètz-e-uèch"-adjective-oc "divuit"-adjective-ca
+"dètz-e-nau"-adjective-oc "dinou"-adjective-ca
+"dinou"-adjective-ca "dètz-e-nau"-adjective-oc
+"dinou"-adjective-ca "dètz-e-nòu"-adjective-oc
+"dètz-e-nòu"-adjective-oc "dinou"-adjective-ca
+"cinc cents"-adjective-oc "cinc-cents"-adjective-ca
+"cinc-cents"-adjective-ca "cinc cents"-adjective-oc
+"cinquanta cinc"-adjective-oc "cinquanta-cinc"-adjective-ca
+"cinquanta-cinc"-adjective-ca "cinquanta cinc"-adjective-oc
+"cinquanta dus"-adjective-oc "cinquanta-dos"-adjective-ca
+"cinquanta-dos"-adjective-ca "cinquanta dus"-adjective-oc
+"cinquanta-dos"-adjective-ca "cinquanta dos"-adjective-oc
+"cinquanta dos"-adjective-oc "cinquanta-dos"-adjective-ca
+"cinquanta nau"-adjective-oc "cinquanta-nou"-adjective-ca
+"cinquanta-nou"-adjective-ca "cinquanta nau"-adjective-oc
+"cinquanta-nou"-adjective-ca "cinquanta nòu"-adjective-oc
+"cinquanta nòu"-adjective-oc "cinquanta-nou"-adjective-ca
+"cinquanta quate"-adjective-oc "cinquanta-quatre"-adjective-ca
+"cinquanta-quatre"-adjective-ca "cinquanta quate"-adjective-oc
+"cinquanta-quatre"-adjective-ca "cinquanta quatre"-adjective-oc
+"cinquanta quatre"-adjective-oc "cinquanta-quatre"-adjective-ca
+"cinquanta sèt"-adjective-oc "cinquanta-set"-adjective-ca
+"cinquanta-set"-adjective-ca "cinquanta sèt"-adjective-oc
+"cinquanta sies"-adjective-oc "cinquanta-sis"-adjective-ca
+"cinquanta-sis"-adjective-ca "cinquanta sies"-adjective-oc
+"cinquanta-sis"-adjective-ca "cinquanta sièis"-adjective-oc
+"cinquanta sièis"-adjective-oc "cinquanta-sis"-adjective-ca
+"cinquanta tres"-adjective-oc "cinquanta-tres"-adjective-ca
+"cinquanta-tres"-adjective-ca "cinquanta tres"-adjective-oc
+"cinquanta un"-adjective-oc "cinquanta-u"-adjective-ca
+"cinquanta-u"-adjective-ca "cinquanta un"-adjective-oc
+"cinquanta ueit"-adjective-oc "cinquanta-vuit"-adjective-ca
+"cinquanta-vuit"-adjective-ca "cinquanta ueit"-adjective-oc
+"cinquanta-vuit"-adjective-ca "cinquanta uèch"-adjective-oc
+"cinquanta-vuit"-adjective-ca "cinquanta uèit"-adjective-oc
+"cinquanta uèch"-adjective-oc "cinquanta-vuit"-adjective-ca
+"cinquanta uèit"-adjective-oc "cinquanta-vuit"-adjective-ca
+"dus cents"-adjective-oc "dos-cents"-adjective-ca
+"dos-cents"-adjective-ca "dus cents"-adjective-oc
+"dos-cents"-adjective-ca "dos cents"-adjective-oc
+"dos cents"-adjective-oc "dos-cents"-adjective-ca
+"nauanta"-adjective-oc "noranta"-adjective-ca
+"noranta"-adjective-ca "nauanta"-adjective-oc
+"noranta"-adjective-ca "nonanta"-adjective-oc
+"nonanta"-adjective-oc "noranta"-adjective-ca
+"nauanta cinc"-adjective-oc "noranta-cinc"-adjective-ca
+"noranta-cinc"-adjective-ca "nauanta cinc"-adjective-oc
+"noranta-cinc"-adjective-ca "nonanta cinc"-adjective-oc
+"nonanta cinc"-adjective-oc "noranta-cinc"-adjective-ca
+"nauanta dus"-adjective-oc "noranta-dos"-adjective-ca
+"noranta-dos"-adjective-ca "nauanta dus"-adjective-oc
+"noranta-dos"-adjective-ca "nonanta dos"-adjective-oc
+"nonanta dos"-adjective-oc "noranta-dos"-adjective-ca
+"nauanta nau"-adjective-oc "noranta-nou"-adjective-ca
+"noranta-nou"-adjective-ca "nauanta nau"-adjective-oc
+"noranta-nou"-adjective-ca "nonanta nòu"-adjective-oc
+"nonanta nòu"-adjective-oc "noranta-nou"-adjective-ca
+"nauanta quate"-adjective-oc "noranta-quatre"-adjective-ca
+"noranta-quatre"-adjective-ca "nauanta quate"-adjective-oc
+"noranta-quatre"-adjective-ca "nonanta quatre"-adjective-oc
+"nonanta quatre"-adjective-oc "noranta-quatre"-adjective-ca
+"nauanta sèt"-adjective-oc "noranta-set"-adjective-ca
+"noranta-set"-adjective-ca "nauanta sèt"-adjective-oc
+"noranta-set"-adjective-ca "nonanta sèt"-adjective-oc
+"nonanta sèt"-adjective-oc "noranta-set"-adjective-ca
+"nauanta sies"-adjective-oc "noranta-sis"-adjective-ca
+"noranta-sis"-adjective-ca "nauanta sies"-adjective-oc
+"noranta-sis"-adjective-ca "nonanta sièis"-adjective-oc
+"nonanta sièis"-adjective-oc "noranta-sis"-adjective-ca
+"nauanta tres"-adjective-oc "noranta-tres"-adjective-ca
+"noranta-tres"-adjective-ca "nauanta tres"-adjective-oc
+"noranta-tres"-adjective-ca "nonanta tres"-adjective-oc
+"nonanta tres"-adjective-oc "noranta-tres"-adjective-ca
+"nauanta un"-adjective-oc "noranta-u"-adjective-ca
+"noranta-u"-adjective-ca "nauanta un"-adjective-oc
+"noranta-u"-adjective-ca "nonanta un"-adjective-oc
+"nonanta un"-adjective-oc "noranta-u"-adjective-ca
+"nauanta ueit"-adjective-oc "noranta-vuit"-adjective-ca
+"noranta-vuit"-adjective-ca "nauanta ueit"-adjective-oc
+"noranta-vuit"-adjective-ca "nonanta uèit"-adjective-oc
+"noranta-vuit"-adjective-ca "nonanta uèch"-adjective-oc
+"nonanta uèit"-adjective-oc "noranta-vuit"-adjective-ca
+"nonanta uèch"-adjective-oc "noranta-vuit"-adjective-ca
+"nau cents"-adjective-oc "nou-cents"-adjective-ca
+"nou-cents"-adjective-ca "nau cents"-adjective-oc
+"nou-cents"-adjective-ca "nòu cents"-adjective-oc
+"nòu cents"-adjective-oc "nou-cents"-adjective-ca
+"quaranta cinc"-adjective-oc "quaranta-cinc"-adjective-ca
+"quaranta-cinc"-adjective-ca "quaranta cinc"-adjective-oc
+"quaranta dus"-adjective-oc "quaranta-dos"-adjective-ca
+"quaranta-dos"-adjective-ca "quaranta dus"-adjective-oc
+"quaranta-dos"-adjective-ca "quaranta dos"-adjective-oc
+"quaranta dos"-adjective-oc "quaranta-dos"-adjective-ca
+"quaranta nau"-adjective-oc "quaranta-nou"-adjective-ca
+"quaranta-nou"-adjective-ca "quaranta nau"-adjective-oc
+"quaranta-nou"-adjective-ca "quaranta nòu"-adjective-oc
+"quaranta nòu"-adjective-oc "quaranta-nou"-adjective-ca
+"quaranta quate"-adjective-oc "quaranta-quatre"-adjective-ca
+"quaranta-quatre"-adjective-ca "quaranta quate"-adjective-oc
+"quaranta-quatre"-adjective-ca "quaranta quatre"-adjective-oc
+"quaranta quatre"-adjective-oc "quaranta-quatre"-adjective-ca
+"quaranta sèt"-adjective-oc "quaranta-set"-adjective-ca
+"quaranta-set"-adjective-ca "quaranta sèt"-adjective-oc
+"quaranta sies"-adjective-oc "quaranta-sis"-adjective-ca
+"quaranta-sis"-adjective-ca "quaranta sies"-adjective-oc
+"quaranta-sis"-adjective-ca "quaranta sièis"-adjective-oc
+"quaranta sièis"-adjective-oc "quaranta-sis"-adjective-ca
+"quaranta tres"-adjective-oc "quaranta-tres"-adjective-ca
+"quaranta-tres"-adjective-ca "quaranta tres"-adjective-oc
+"quaranta un"-adjective-oc "quaranta-u"-adjective-ca
+"quaranta-u"-adjective-ca "quaranta un"-adjective-oc
+"quaranta ueit"-adjective-oc "quaranta-vuit"-adjective-ca
+"quaranta-vuit"-adjective-ca "quaranta ueit"-adjective-oc
+"quaranta-vuit"-adjective-ca "quaranta uèit"-adjective-oc
+"quaranta-vuit"-adjective-ca "quaranta uèch"-adjective-oc
+"quaranta uèit"-adjective-oc "quaranta-vuit"-adjective-ca
+"quaranta uèch"-adjective-oc "quaranta-vuit"-adjective-ca
+"quate cents"-adjective-oc "quatre-cents"-adjective-ca
+"quatre-cents"-adjective-ca "quate cents"-adjective-oc
+"quatre-cents"-adjective-ca "quatre cents"-adjective-oc
+"quatre cents"-adjective-oc "quatre-cents"-adjective-ca
+"seishanta"-adjective-oc "seixanta"-adjective-ca
+"seixanta"-adjective-ca "seishanta"-adjective-oc
+"seixanta"-adjective-ca "seissanta"-adjective-oc
+"seissanta"-adjective-oc "seixanta"-adjective-ca
+"seishanta cinc"-adjective-oc "seixanta-cinc"-adjective-ca
+"seixanta-cinc"-adjective-ca "seishanta cinc"-adjective-oc
+"seixanta-cinc"-adjective-ca "seissanta cinc"-adjective-oc
+"seissanta cinc"-adjective-oc "seixanta-cinc"-adjective-ca
+"seishanta dus"-adjective-oc "seixanta-dos"-adjective-ca
+"seixanta-dos"-adjective-ca "seishanta dus"-adjective-oc
+"seixanta-dos"-adjective-ca "seissanta dos"-adjective-oc
+"seissanta dos"-adjective-oc "seixanta-dos"-adjective-ca
+"seishanta nau"-adjective-oc "seixanta-nou"-adjective-ca
+"seixanta-nou"-adjective-ca "seishanta nau"-adjective-oc
+"seixanta-nou"-adjective-ca "seissanta nòu"-adjective-oc
+"seissanta nòu"-adjective-oc "seixanta-nou"-adjective-ca
+"seishanta quate"-adjective-oc "seixanta-quatre"-adjective-ca
+"seixanta-quatre"-adjective-ca "seishanta quate"-adjective-oc
+"seixanta-quatre"-adjective-ca "seissanta quatre"-adjective-oc
+"seissanta quatre"-adjective-oc "seixanta-quatre"-adjective-ca
+"seishanta sèt"-adjective-oc "seixanta-set"-adjective-ca
+"seixanta-set"-adjective-ca "seishanta sèt"-adjective-oc
+"seixanta-set"-adjective-ca "seissanta sèt"-adjective-oc
+"seissanta sèt"-adjective-oc "seixanta-set"-adjective-ca
+"seishanta sies"-adjective-oc "seixanta-sis"-adjective-ca
+"seixanta-sis"-adjective-ca "seishanta sies"-adjective-oc
+"seixanta-sis"-adjective-ca "seissanta sièis"-adjective-oc
+"seissanta sièis"-adjective-oc "seixanta-sis"-adjective-ca
+"seishanta tres"-adjective-oc "seixanta-tres"-adjective-ca
+"seixanta-tres"-adjective-ca "seishanta tres"-adjective-oc
+"seixanta-tres"-adjective-ca "seissanta tres"-adjective-oc
+"seissanta tres"-adjective-oc "seixanta-tres"-adjective-ca
+"seishanta un"-adjective-oc "seixanta-u"-adjective-ca
+"seixanta-u"-adjective-ca "seishanta un"-adjective-oc
+"seixanta-u"-adjective-ca "seissanta un"-adjective-oc
+"seissanta un"-adjective-oc "seixanta-u"-adjective-ca
+"seishanta ueit"-adjective-oc "seixanta-vuit"-adjective-ca
+"seixanta-vuit"-adjective-ca "seishanta ueit"-adjective-oc
+"seixanta-vuit"-adjective-ca "seissanta uèit"-adjective-oc
+"seixanta-vuit"-adjective-ca "seissanta uèch"-adjective-oc
+"seissanta uèit"-adjective-oc "seixanta-vuit"-adjective-ca
+"seissanta uèch"-adjective-oc "seixanta-vuit"-adjective-ca
+"sèt cents"-adjective-oc "set-cents"-adjective-ca
+"set-cents"-adjective-ca "sèt cents"-adjective-oc
+"setanta cinc"-adjective-oc "setanta-cinc"-adjective-ca
+"setanta-cinc"-adjective-ca "setanta cinc"-adjective-oc
+"setanta dus"-adjective-oc "setanta-dos"-adjective-ca
+"setanta-dos"-adjective-ca "setanta dus"-adjective-oc
+"setanta-dos"-adjective-ca "setanta dos"-adjective-oc
+"setanta dos"-adjective-oc "setanta-dos"-adjective-ca
+"setanta nau"-adjective-oc "setanta-nou"-adjective-ca
+"setanta-nou"-adjective-ca "setanta nau"-adjective-oc
+"setanta-nou"-adjective-ca "setanta nòu"-adjective-oc
+"setanta nòu"-adjective-oc "setanta-nou"-adjective-ca
+"setanta quate"-adjective-oc "setanta-quatre"-adjective-ca
+"setanta-quatre"-adjective-ca "setanta quate"-adjective-oc
+"setanta-quatre"-adjective-ca "setanta quatre"-adjective-oc
+"setanta quatre"-adjective-oc "setanta-quatre"-adjective-ca
+"setanta sèt"-adjective-oc "setanta-set"-adjective-ca
+"setanta-set"-adjective-ca "setanta sèt"-adjective-oc
+"setanta sies"-adjective-oc "setanta-sis"-adjective-ca
+"setanta-sis"-adjective-ca "setanta sies"-adjective-oc
+"setanta-sis"-adjective-ca "setanta sièis"-adjective-oc
+"setanta sièis"-adjective-oc "setanta-sis"-adjective-ca
+"setanta tres"-adjective-oc "setanta-tres"-adjective-ca
+"setanta-tres"-adjective-ca "setanta tres"-adjective-oc
+"setanta un"-adjective-oc "setanta-u"-adjective-ca
+"setanta-u"-adjective-ca "setanta un"-adjective-oc
+"setanta ueit"-adjective-oc "setanta-vuit"-adjective-ca
+"setanta-vuit"-adjective-ca "setanta ueit"-adjective-oc
+"setanta-vuit"-adjective-ca "setanta uèit"-adjective-oc
+"setanta-vuit"-adjective-ca "setanta uèch"-adjective-oc
+"setanta uèit"-adjective-oc "setanta-vuit"-adjective-ca
+"setanta uèch"-adjective-oc "setanta-vuit"-adjective-ca
+"trenta dus"-adjective-oc "trenta-dos"-adjective-ca
+"trenta-dos"-adjective-ca "trenta dus"-adjective-oc
+"trenta-dos"-adjective-ca "trenta dos"-adjective-oc
+"trenta dos"-adjective-oc "trenta-dos"-adjective-ca
+"trenta nau"-adjective-oc "trenta-nou"-adjective-ca
+"trenta-nou"-adjective-ca "trenta nau"-adjective-oc
+"trenta-nou"-adjective-ca "trenta nòu"-adjective-oc
+"trenta nòu"-adjective-oc "trenta-nou"-adjective-ca
+"trenta quate"-adjective-oc "trenta-quatre"-adjective-ca
+"trenta-quatre"-adjective-ca "trenta quate"-adjective-oc
+"trenta-quatre"-adjective-ca "trenta quatre"-adjective-oc
+"trenta quatre"-adjective-oc "trenta-quatre"-adjective-ca
+"trenta sèt"-adjective-oc "trenta-set"-adjective-ca
+"trenta-set"-adjective-ca "trenta sèt"-adjective-oc
+"trenta sies"-adjective-oc "trenta-sis"-adjective-ca
+"trenta-sis"-adjective-ca "trenta sies"-adjective-oc
+"trenta-sis"-adjective-ca "trenta sièis"-adjective-oc
+"trenta sièis"-adjective-oc "trenta-sis"-adjective-ca
+"trenta tres"-adjective-oc "trenta-tres"-adjective-ca
+"trenta-tres"-adjective-ca "trenta tres"-adjective-oc
+"trenta un"-adjective-oc "trenta-u"-adjective-ca
+"trenta-u"-adjective-ca "trenta un"-adjective-oc
+"sies cents"-adjective-oc "sis-cents"-adjective-ca
+"sis-cents"-adjective-ca "sies cents"-adjective-oc
+"sis-cents"-adjective-ca "sièis cents"-adjective-oc
+"sièis cents"-adjective-oc "sis-cents"-adjective-ca
+"trenta cinc"-adjective-oc "trenta-cinc"-adjective-ca
+"trenta-cinc"-adjective-ca "trenta cinc"-adjective-oc
+"trenta ueit"-adjective-oc "trenta-vuit"-adjective-ca
+"trenta-vuit"-adjective-ca "trenta ueit"-adjective-oc
+"trenta-vuit"-adjective-ca "trenta uèit"-adjective-oc
+"trenta-vuit"-adjective-ca "trenta uèch"-adjective-oc
+"trenta uèit"-adjective-oc "trenta-vuit"-adjective-ca
+"trenta uèch"-adjective-oc "trenta-vuit"-adjective-ca
+"tres cents"-adjective-oc "tres-cents"-adjective-ca
+"tres-cents"-adjective-ca "tres cents"-adjective-oc
+"vint-e-cinc"-adjective-oc "vint-i-cinc"-adjective-ca
+"vint-i-cinc"-adjective-ca "vint-e-cinc"-adjective-oc
+"vint-e-dus"-adjective-oc "vint-i-dos"-adjective-ca
+"vint-i-dos"-adjective-ca "vint-e-dus"-adjective-oc
+"vint-i-dos"-adjective-ca "vint-e-dos"-adjective-oc
+"vint-e-dos"-adjective-oc "vint-i-dos"-adjective-ca
+"vint-e-nau"-adjective-oc "vint-i-nou"-adjective-ca
+"vint-i-nou"-adjective-ca "vint-e-nau"-adjective-oc
+"vint-e-quate"-adjective-oc "vint-i-quatre"-adjective-ca
+"vint-i-quatre"-adjective-ca "vint-e-quate"-adjective-oc
+"vint-i-quatre"-adjective-ca "vint-e-quatre"-adjective-oc
+"vint-e-quatre"-adjective-oc "vint-i-quatre"-adjective-ca
+"vint-e-sèt"-adjective-oc "vint-i-set"-adjective-ca
+"vint-i-set"-adjective-ca "vint-e-sèt"-adjective-oc
+"vint-e-sies"-adjective-oc "vint-i-sis"-adjective-ca
+"vint-i-sis"-adjective-ca "vint-e-sies"-adjective-oc
+"vint-i-sis"-adjective-ca "vint-e-sièis"-adjective-oc
+"vint-e-sièis"-adjective-oc "vint-i-sis"-adjective-ca
+"vint-e-tres"-adjective-oc "vint-i-tres"-adjective-ca
+"vint-i-tres"-adjective-ca "vint-e-tres"-adjective-oc
+"vint-e-un"-adjective-oc "vint-i-un"-adjective-ca
+"vint-i-un"-adjective-ca "vint-e-un"-adjective-oc
+"vint-e-ueit"-adjective-oc "vint-i-vuit"-adjective-ca
+"vint-i-vuit"-adjective-ca "vint-e-ueit"-adjective-oc
+"vint-i-vuit"-adjective-ca "vint-e-uèit"-adjective-oc
+"vint-i-vuit"-adjective-ca "vint-e-uèch"-adjective-oc
+"vint-e-uèit"-adjective-oc "vint-i-vuit"-adjective-ca
+"vint-e-uèch"-adjective-oc "vint-i-vuit"-adjective-ca
+"ueit cents"-adjective-oc "vuit-cents"-adjective-ca
+"vuit-cents"-adjective-ca "ueit cents"-adjective-oc
+"vuit-cents"-adjective-ca "uèit cents"-adjective-oc
+"vuit-cents"-adjective-ca "uèch cents"-adjective-oc
+"uèit cents"-adjective-oc "vuit-cents"-adjective-ca
+"uèch cents"-adjective-oc "vuit-cents"-adjective-ca
+"ueitanta"-adjective-oc "vuitanta"-adjective-ca
+"vuitanta"-adjective-ca "ueitanta"-adjective-oc
+"vuitanta"-adjective-ca "oitanta"-adjective-oc
+"vuitanta"-adjective-ca "ochanta"-adjective-oc
+"oitanta"-adjective-oc "vuitanta"-adjective-ca
+"ochanta"-adjective-oc "vuitanta"-adjective-ca
+"ueitanta cinc"-adjective-oc "vuitanta-cinc"-adjective-ca
+"vuitanta-cinc"-adjective-ca "ueitanta cinc"-adjective-oc
+"vuitanta-cinc"-adjective-ca "oitanta cinc"-adjective-oc
+"vuitanta-cinc"-adjective-ca "ochanta cinc"-adjective-oc
+"oitanta cinc"-adjective-oc "vuitanta-cinc"-adjective-ca
+"ochanta cinc"-adjective-oc "vuitanta-cinc"-adjective-ca
+"ueitanta dus"-adjective-oc "vuitanta-dos"-adjective-ca
+"vuitanta-dos"-adjective-ca "ueitanta dus"-adjective-oc
+"vuitanta-dos"-adjective-ca "oitanta dos"-adjective-oc
+"vuitanta-dos"-adjective-ca "ochanta dos"-adjective-oc
+"oitanta dos"-adjective-oc "vuitanta-dos"-adjective-ca
+"ochanta dos"-adjective-oc "vuitanta-dos"-adjective-ca
+"ueitanta nau"-adjective-oc "vuitanta-nou"-adjective-ca
+"vuitanta-nou"-adjective-ca "ueitanta nau"-adjective-oc
+"vuitanta-nou"-adjective-ca "oitanta nòu"-adjective-oc
+"vuitanta-nou"-adjective-ca "ochanta nòu"-adjective-oc
+"oitanta nòu"-adjective-oc "vuitanta-nou"-adjective-ca
+"ochanta nòu"-adjective-oc "vuitanta-nou"-adjective-ca
+"ueitanta quate"-adjective-oc "vuitanta-quatre"-adjective-ca
+"vuitanta-quatre"-adjective-ca "ueitanta quate"-adjective-oc
+"vuitanta-quatre"-adjective-ca "oitanta quatre"-adjective-oc
+"vuitanta-quatre"-adjective-ca "ochanta quatre"-adjective-oc
+"oitanta quatre"-adjective-oc "vuitanta-quatre"-adjective-ca
+"ochanta quatre"-adjective-oc "vuitanta-quatre"-adjective-ca
+"ueitanta sèt"-adjective-oc "vuitanta-set"-adjective-ca
+"vuitanta-set"-adjective-ca "ueitanta sèt"-adjective-oc
+"vuitanta-set"-adjective-ca "oitanta sèt"-adjective-oc
+"vuitanta-set"-adjective-ca "ochanta sèt"-adjective-oc
+"oitanta sèt"-adjective-oc "vuitanta-set"-adjective-ca
+"ochanta sèt"-adjective-oc "vuitanta-set"-adjective-ca
+"ueitanta sies"-adjective-oc "vuitanta-sis"-adjective-ca
+"vuitanta-sis"-adjective-ca "ueitanta sies"-adjective-oc
+"vuitanta-sis"-adjective-ca "oitanta sièis"-adjective-oc
+"vuitanta-sis"-adjective-ca "ochanta sièis"-adjective-oc
+"oitanta sièis"-adjective-oc "vuitanta-sis"-adjective-ca
+"ochanta sièis"-adjective-oc "vuitanta-sis"-adjective-ca
+"ueitanta tres"-adjective-oc "vuitanta-tres"-adjective-ca
+"vuitanta-tres"-adjective-ca "ueitanta tres"-adjective-oc
+"vuitanta-tres"-adjective-ca "oitanta tres"-adjective-oc
+"vuitanta-tres"-adjective-ca "ochanta tres"-adjective-oc
+"oitanta tres"-adjective-oc "vuitanta-tres"-adjective-ca
+"ochanta tres"-adjective-oc "vuitanta-tres"-adjective-ca
+"ueitanta un"-adjective-oc "vuitanta-u"-adjective-ca
+"vuitanta-u"-adjective-ca "ueitanta un"-adjective-oc
+"vuitanta-u"-adjective-ca "oitanta un"-adjective-oc
+"vuitanta-u"-adjective-ca "ochanta un"-adjective-oc
+"oitanta un"-adjective-oc "vuitanta-u"-adjective-ca
+"ochanta un"-adjective-oc "vuitanta-u"-adjective-ca
+"ueitanta ueit"-adjective-oc "vuitanta-vuit"-adjective-ca
+"vuitanta-vuit"-adjective-ca "ueitanta ueit"-adjective-oc
+"vuitanta-vuit"-adjective-ca "oitanta uèit"-adjective-oc
+"vuitanta-vuit"-adjective-ca "ochanta uèch"-adjective-oc
+"oitanta uèit"-adjective-oc "vuitanta-vuit"-adjective-ca
+"ochanta uèch"-adjective-oc "vuitanta-vuit"-adjective-ca
+"salvar de l'oblit"-verb-oc "rescatar de l'oblit"-verb-ca
+"rescatar de l'oblit"-verb-ca "salvar de l'oblit"-verb-oc
+"rescatar de l'oblit"-verb-ca "sauvar der oblit"-verb-oc
+"sauvar der oblit"-verb-oc "rescatar de l'oblit"-verb-ca
+"running"-noun-oc "running"-noun-ca
+"running"-noun-ca "running"-noun-oc
+"stand"-noun-oc "stand"-noun-ca
+"stand"-noun-ca "stand"-noun-oc
+"exjogador"-noun-oc "exjugador"-noun-ca
+"exjugador"-noun-ca "exjogador"-noun-oc
+"exjugador"-noun-ca "exjogaire"-noun-oc
+"exjogaire"-noun-oc "exjugador"-noun-ca
+"Jaquet"-properNoun-oc "Jaquet"-properNoun-ca
+"Jaquet"-properNoun-ca "Jaquet"-properNoun-oc
+"manca de contraròtle"-noun-oc "descontrol"-noun-ca
+"descontrol"-noun-ca "manca de contraròtle"-noun-oc
+"creishença"-noun-oc "creixament >"-noun-ca
+"creixament >"-noun-ca "creishença"-noun-oc
+"arrengueiratge"-noun-oc "arrenglerament"-noun-ca
+"arrenglerament"-noun-ca "arrengueiratge"-noun-oc
+"Peira"-properNoun-oc "Peira"-properNoun-ca
+"Peira"-properNoun-ca "Peira"-properNoun-oc
+"assiténcia"-noun-oc "assitència"-noun-ca
+"assitència"-noun-ca "assiténcia"-noun-oc
+"delictiu"-noun-oc "delictiu"-noun-ca
+"delictiu"-noun-ca "delictiu"-noun-oc
+"nadalenc"-adjective-oc "nadalenc"-adjective-ca
+"nadalenc"-adjective-ca "nadalenc"-adjective-oc
+"Seu"-properNoun-oc "Seu"-properNoun-ca
+"Seu"-properNoun-ca "Seu"-properNoun-oc
+"nivolada"-noun-oc "nuvolada"-noun-ca
+"nuvolada"-noun-ca "nivolada"-noun-oc
+"punar"-verb-oc "petonejar"-verb-ca
+"petonejar"-verb-ca "punar"-verb-oc
+"petonejar"-verb-ca "potonejar"-verb-oc
+"potonejar"-verb-oc "petonejar"-verb-ca
+"presa de contacte"-noun-oc "presa de contacte"-noun-ca
+"presa de contacte"-noun-ca "presa de contacte"-noun-oc
+"presa de contacte"-noun-ca "prenuda de contacte"-noun-oc
+"prenuda de contacte"-noun-oc "presa de contacte"-noun-ca
+"sadorament"-noun-oc "tip"-noun-ca
+"sadorament"-noun-oc "atipament"-noun-ca
+"tip"-noun-ca "sadorament"-noun-oc
+"atipament"-noun-ca "sadorament"-noun-oc
+"tidon"-noun-oc "tió"-noun-ca
+"tió"-noun-ca "tidon"-noun-oc
+"tió"-noun-ca "tison"-noun-oc
+"tison"-noun-oc "tió"-noun-ca
+"barrièra de seguretat"-noun-oc "barrera de seguretat"-noun-ca
+"barrera de seguretat"-noun-ca "barrièra de seguretat"-noun-oc
+"barrera de seguretat"-noun-ca "barrièira de seguretat"-noun-oc
+"barrera de seguretat"-noun-ca "barrèra de seguretat"-noun-oc
+"barrièira de seguretat"-noun-oc "barrera de seguretat"-noun-ca
+"barrèra de seguretat"-noun-oc "barrera de seguretat"-noun-ca
+"escòrça cerebrala"-noun-oc "escorça cerebral"-noun-ca
+"escorça cerebral"-noun-ca "escòrça cerebrala"-noun-oc
+"escorça cerebral"-noun-ca "escòrça cerebrau"-noun-oc
+"escòrça cerebrau"-noun-oc "escorça cerebral"-noun-ca
+"escòrça terrestra"-noun-oc "escorça terrestre"-noun-ca
+"escorça terrestre"-noun-ca "escòrça terrestra"-noun-oc
+"marregada"-noun-oc "ramanxola"-noun-ca
+"ramanxola"-noun-ca "marregada"-noun-oc
+"paupadera"-noun-oc "palpada"-noun-ca
+"paupadera"-noun-oc "palp"-noun-ca
+"palpada"-noun-ca "paupadera"-noun-oc
+"palp"-noun-ca "paupadera"-noun-oc
+"remèrca"-noun-oc "remarca"-noun-ca
+"remarca"-noun-ca "remèrca"-noun-oc
+"esperar impacientament"-verb-oc "esperar amb candaletes"-verb-ca
+"esperar amb candaletes"-verb-ca "esperar impacientament"-verb-oc
+"esperar amb candaletes"-verb-ca "demorar damb candaletes"-verb-oc
+"demorar damb candaletes"-verb-oc "esperar amb candaletes"-verb-ca
+"demorar que"-verb-oc "esperar que"-verb-ca
+"esperar que"-verb-ca "demorar que"-verb-oc
+"esperar que"-verb-ca "esperar que"-verb-oc
+"esperar que"-verb-oc "esperar que"-verb-ca
+"ajocar"-verb-oc "ajocar"-verb-ca
+"ajocar"-verb-ca "ajocar"-verb-oc
+"reborir"-verb-oc "rebullir"-verb-ca
+"rebullir"-verb-ca "reborir"-verb-oc
+"delà"-verb-oc "allà"-verb-ca
+"allà"-verb-ca "delà"-verb-oc
+"destapoar"-verb-oc "treure el tap"-verb-ca
+"treure el tap"-verb-ca "destapoar"-verb-oc
+"termiar"-verb-oc "fer frontera"-verb-ca
+"fer frontera"-verb-ca "termiar"-verb-oc
+"esbolhar"-verb-oc "esventrar"-verb-ca
+"esventrar"-verb-ca "esbolhar"-verb-oc
+"fidèlament"-verb-oc "fidelment"-verb-ca
+"fidelment"-verb-ca "fidèlament"-verb-oc
+"forçadament"-verb-oc "forçosament"-verb-ca
+"forçosament"-verb-ca "forçadament"-verb-oc
+"gargotar"-verb-oc "borbollar"-verb-ca
+"borbollar"-verb-ca "gargotar"-verb-oc
+"copar lo morre"-verb-oc "trencar la cara"-verb-ca
+"trencar la cara"-verb-ca "copar lo morre"-verb-oc
+"trencar la cara"-verb-ca "trincar era cara"-verb-oc
+"trincar era cara"-verb-oc "trencar la cara"-verb-ca
+"trichaire"-adjective-oc "trampós"-adjective-ca
+"trampós"-adjective-ca "trichaire"-adjective-oc
+"pernejar"-verb-oc "guitar"-verb-ca
+"guitar"-verb-ca "pernejar"-verb-oc
+"tirar profièch"-verb-oc "treure profit"-verb-ca
+"treure profit"-verb-ca "tirar profièch"-verb-oc
+"treure profit"-verb-ca "tirar profièit"-verb-oc
+"tirar profièit"-verb-oc "treure profit"-verb-ca
+"licenciar de lo trabalh"-verb-oc "acomiadar de la feina"-verb-ca
+"acomiadar de la feina"-verb-ca "licenciar de lo trabalh"-verb-oc
+"acomiadar de la feina"-verb-ca "licenciar deth trabalh"-verb-oc
+"licenciar deth trabalh"-verb-oc "acomiadar de la feina"-verb-ca
+"paralisia"-noun-oc "baldament"-noun-ca
+"baldament"-noun-ca "paralisia"-noun-oc
+"méter en cap"-verb-oc "ficar al cap"-verb-ca
+"ficar al cap"-verb-ca "méter en cap"-verb-oc
+"ficar al cap"-verb-ca "metre en cap"-verb-oc
+"metre en cap"-verb-oc "ficar al cap"-verb-ca
+"entrevistaire"-noun-oc "entrevistador"-noun-ca
+"entrevistador"-noun-ca "entrevistaire"-noun-oc
+"que ven"-adjective-oc "que ve"-adjective-ca
+"que ve"-adjective-ca "que ven"-adjective-oc
+"Proa"-properNoun-oc "Proa"-properNoun-ca
+"Proa"-properNoun-ca "Proa"-properNoun-oc
+"Paqui"-properNoun-oc "Paqui"-properNoun-ca
+"Paqui"-properNoun-ca "Paqui"-properNoun-oc
+"Magrana"-properNoun-oc "Magrana"-properNoun-ca
+"Magrana"-properNoun-ca "Magrana"-properNoun-oc
+"Atlantis"-properNoun-oc "Atlantis"-properNoun-ca
+"Atlantis"-properNoun-ca "Atlantis"-properNoun-oc
+"caisha d'esturments"-noun-oc "caixa d'eines"-noun-ca
+"caixa d'eines"-noun-ca "caisha d'esturments"-noun-oc
+"caixa d'eines"-noun-ca "caisha d'estruments"-noun-oc
+"caixa d'eines"-noun-ca "caisha d'instruments"-noun-oc
+"caisha d'estruments"-noun-oc "caixa d'eines"-noun-ca
+"caisha d'instruments"-noun-oc "caixa d'eines"-noun-ca
+"Plaus"-properNoun-oc "Plaus"-properNoun-ca
+"Plaus"-properNoun-ca "Plaus"-properNoun-oc
+"ThinkPad"-properNoun-oc "ThinkPad"-properNoun-ca
+"ThinkPad"-properNoun-ca "ThinkPad"-properNoun-oc
+"taus de natalitat"-noun-oc "taxa de natalitat"-noun-ca
+"taxa de natalitat"-noun-ca "taus de natalitat"-noun-oc
+"taus d'interès"-noun-oc "taxa d'interès"-noun-ca
+"taxa d'interès"-noun-ca "taus d'interès"-noun-oc
+"Raval"-properNoun-oc "Raval"-properNoun-ca
+"Raval"-properNoun-ca "Raval"-properNoun-oc
+"prostituït"-adjective-oc "prostitut"-adjective-ca
+"prostitut"-adjective-ca "prostituït"-adjective-oc
+"prostitut"-adjective-ca "prostituit"-adjective-oc
+"prostituit"-adjective-oc "prostitut"-adjective-ca
+"Sénia"-properNoun-oc "Sénia"-properNoun-ca
+"Sénia"-properNoun-ca "Sénia"-properNoun-oc
+"L'avana"-properNoun-oc "L'Havana"-properNoun-ca
+"L'Havana"-properNoun-ca "L'avana"-properNoun-oc
+"L'Havana"-properNoun-ca "L'Avana"-properNoun-oc
+"L'Avana"-properNoun-oc "L'Havana"-properNoun-ca
+"rambalh"-noun-oc "rebombori"-noun-ca
+"rebombori"-noun-ca "rambalh"-noun-oc
+"normalizador"-noun-oc "normalitzador"-noun-ca
+"normalitzador"-noun-ca "normalizador"-noun-oc
+"Eusebi"-properNoun-oc "Eusebi"-properNoun-ca
+"Eusebi"-properNoun-ca "Eusebi"-properNoun-oc
+"sms"-noun-oc "sms"-noun-ca
+"sms"-noun-ca "sms"-noun-oc
+"Romà"-properNoun-oc "Romà"-properNoun-ca
+"Romà"-properNoun-ca "Romà"-properNoun-oc
+"còp de garròt"-noun-oc "garrotada"-noun-ca
+"garrotada"-noun-ca "còp de garròt"-noun-oc
+"garrotada"-noun-ca "còp de baston"-noun-oc
+"còp de baston"-noun-oc "garrotada"-noun-ca
+"còp de baston"-noun-oc "bastonada"-noun-ca
+"bastonada"-noun-ca "còp de baston"-noun-oc
+"subsidiar"-verb-oc "subsidiar"-verb-ca
+"subsidiar"-verb-ca "subsidiar"-verb-oc
+"privadança"-noun-oc "privacitat"-noun-ca
+"privacitat"-noun-ca "privadança"-noun-oc
+"Montréal"-properNoun-oc "Montréal"-properNoun-ca
+"Montréal"-properNoun-ca "Montréal"-properNoun-oc
+"antirrepressiu"-adjective-oc "antirrepressiu"-adjective-ca
+"antirrepressiu"-adjective-ca "antirrepressiu"-adjective-oc
+"inactivar"-verb-oc "inactivar"-verb-ca
+"inactivar"-verb-ca "inactivar"-verb-oc
+"mieicamp"-noun-oc "migcamp"-noun-ca
+"migcamp"-noun-ca "mieicamp"-noun-oc
+"temptar lo sòrt"-verb-oc "temptar la sort"-verb-ca
+"temptar la sort"-verb-ca "temptar lo sòrt"-verb-oc
+"temptar la sort"-verb-ca "temptar era sòrt"-verb-oc
+"temptar era sòrt"-verb-oc "temptar la sort"-verb-ca
+"encaishar"-verb-oc "escaixar"-verb-ca
+"escaixar"-verb-ca "encaishar"-verb-oc
+"Revis"-properNoun-oc "Revis"-properNoun-ca
+"Revis"-properNoun-ca "Revis"-properNoun-oc
+"excap"-noun-oc "excap"-noun-ca
+"excap"-noun-ca "excap"-noun-oc
+"desenganhar"-verb-oc "desenganyar"-verb-ca
+"desenganyar"-verb-ca "desenganhar"-verb-oc
+"desenganyar"-verb-ca "desenganar"-verb-oc
+"desenganar"-verb-oc "desenganyar"-verb-ca
+"Sant Tomé e Principe"-properNoun-oc "Sant Tomé i Príncipe"-properNoun-ca
+"Sant Tomé i Príncipe"-properNoun-ca "Sant Tomé e Principe"-properNoun-oc
+"Ilhes Periferiques Menors d'USA"-properNoun-oc "Illes Perifèriques Menors d'USA"-properNoun-ca
+"Illes Perifèriques Menors d'USA"-properNoun-ca "Ilhes Periferiques Menors d'USA"-properNoun-oc
+"concernent"-adjective-oc "referit a"-adjective-ca
+"referit a"-adjective-ca "concernent"-adjective-oc
+"Charantas"-properNoun-oc "Charentes"-properNoun-ca
+"Charentes"-properNoun-ca "Charantas"-properNoun-oc
+"tièra quimica"-noun-oc "grup químic"-noun-ca
+"grup químic"-noun-ca "tièra quimica"-noun-oc
+"coma se deu"-adjective-oc "com cal"-adjective-ca
+"com cal"-adjective-ca "coma se deu"-adjective-oc
+"a l'escòla"-adverb-oc "a l'escola"-adverb-ca
+"a l'escola"-adverb-ca "a l'escòla"-adverb-oc
+"a la glèisa"-adverb-oc "a l'església"-adverb-ca
+"a l'església"-adverb-ca "a la glèisa"-adverb-oc
+"al mercat"-adverb-oc "al mercat"-adverb-ca
+"al mercat"-adverb-ca "al mercat"-adverb-oc
+"Benevent"-properNoun-oc "Benevent"-properNoun-ca
+"Benevent"-properNoun-ca "Benevent"-properNoun-oc
+"illes Aland"-properNoun-oc "illes Aland"-properNoun-ca
+"illes Aland"-properNoun-ca "illes Aland"-properNoun-oc
+"far atencion a"-verb-oc "anar amb compte amb"-verb-ca
+"anar amb compte amb"-verb-ca "far atencion a"-verb-oc
+"anar amb compte amb"-verb-ca "hèr atencion a"-verb-oc
+"anar amb compte amb"-verb-ca "tier compde de"-verb-oc
+"anar amb compte amb"-verb-ca "téner compte de"-verb-oc
+"hèr atencion a"-verb-oc "anar amb compte amb"-verb-ca
+"tier compde de"-verb-oc "anar amb compte amb"-verb-ca
+"téner compte de"-verb-oc "anar amb compte amb"-verb-ca
+"far concurréncia a"-verb-oc "competir amb"-verb-ca
+"competir amb"-verb-ca "far concurréncia a"-verb-oc
+"competir amb"-verb-ca "hèr concurréncia a"-verb-oc
+"hèr concurréncia a"-verb-oc "competir amb"-verb-ca
+"arribar e engranar"-adverb-oc "arribar i moldre"-adverb-ca
+"arribar i moldre"-adverb-ca "arribar e engranar"-adverb-oc
+"arribar i moldre"-adverb-ca "arribar e móler"-adverb-oc
+"arribar e móler"-adverb-oc "arribar i moldre"-adverb-ca
+"vist e aprovat"-noun-oc "assabentat i conforme"-noun-ca
+"assabentat i conforme"-noun-ca "vist e aprovat"-noun-oc
+"metre al compte"-verb-oc "carregar en compte"-verb-ca
+"carregar en compte"-verb-ca "metre al compte"-verb-oc
+"carregar en compte"-verb-ca "metre sul compte"-verb-oc
+"carregar en compte"-verb-ca "cargar en compde"-verb-oc
+"carregar en compte"-verb-ca "cargar en compte"-verb-oc
+"carregar en compte"-verb-ca "méter en compde"-verb-oc
+"metre sul compte"-verb-oc "carregar en compte"-verb-ca
+"cargar en compde"-verb-oc "carregar en compte"-verb-ca
+"cargar en compte"-verb-oc "carregar en compte"-verb-ca
+"méter en compde"-verb-oc "carregar en compte"-verb-ca
+"ostal d'empenhament"-noun-oc "casa d'empenyorament"-noun-ca
+"casa d'empenyorament"-noun-ca "ostal d'empenhament"-noun-oc
+"casa d'empenyorament"-noun-ca "casa d'empenhament"-noun-oc
+"casa d'empenhament"-noun-oc "casa d'empenyorament"-noun-ca
+"ostal de prèstes"-noun-oc "casa de préstecs"-noun-ca
+"casa de préstecs"-noun-ca "ostal de prèstes"-noun-oc
+"casa de préstecs"-noun-ca "casa de prèstes"-noun-oc
+"casa de prèstes"-noun-oc "casa de préstecs"-noun-ca
+"comission de dubertura"-noun-oc "comissió d'obertura"-noun-ca
+"comissió d'obertura"-noun-ca "comission de dubertura"-noun-oc
+"compte corrent"-noun-oc "compte corrent"-noun-ca
+"compte corrent"-noun-ca "compte corrent"-noun-oc
+"compte corrent"-noun-ca "compde corrent"-noun-oc
+"compde corrent"-noun-oc "compte corrent"-noun-ca
+"deishar estar"-verb-oc "deixar estar"-verb-ca
+"deixar estar"-verb-ca "deishar estar"-verb-oc
+"deixar estar"-verb-ca "daissar estar"-verb-oc
+"daissar estar"-verb-oc "deixar estar"-verb-ca
+"dar el vist e platz"-verb-oc "donar el vistiplau"-verb-ca
+"donar el vistiplau"-verb-ca "dar el vist e platz"-verb-oc
+"donar el vistiplau"-verb-ca "donar l'aprobacion"-verb-oc
+"donar l'aprobacion"-verb-oc "donar el vistiplau"-verb-ca
+"donar l'acòrdi"-verb-oc "donar la conformitat"-verb-ca
+"donar la conformitat"-verb-ca "donar l'acòrdi"-verb-oc
+"donar la conformitat"-verb-ca "dar er acòrd"-verb-oc
+"donar la conformitat"-verb-ca "dar l'acòrdi"-verb-oc
+"donar la conformitat"-verb-ca "donar er acòrd"-verb-oc
+"dar er acòrd"-verb-oc "donar la conformitat"-verb-ca
+"dar l'acòrdi"-verb-oc "donar la conformitat"-verb-ca
+"donar er acòrd"-verb-oc "donar la conformitat"-verb-ca
+"far lo compte rendut"-verb-oc "estendre acta"-verb-ca
+"far lo compte rendut"-verb-oc "llevar acta"-verb-ca
+"far lo compte rendut"-verb-oc "fer l'informe"-verb-ca
+"estendre acta"-verb-ca "far lo compte rendut"-verb-oc
+"estendre acta"-verb-ca "hèr eth compde rendut"-verb-oc
+"llevar acta"-verb-ca "far lo compte rendut"-verb-oc
+"llevar acta"-verb-ca "hèr eth compde rendut"-verb-oc
+"fer l'informe"-verb-ca "far lo compte rendut"-verb-oc
+"fer l'informe"-verb-ca "hèr eth compde rendut"-verb-oc
+"hèr eth compde rendut"-verb-oc "estendre acta"-verb-ca
+"hèr eth compde rendut"-verb-oc "llevar acta"-verb-ca
+"hèr eth compde rendut"-verb-oc "fer l'informe"-verb-ca
+"dreçar acte notariau"-verb-oc "estendre acta notarial"-verb-ca
+"estendre acta notarial"-verb-ca "dreçar acte notariau"-verb-oc
+"estendre acta notarial"-verb-ca "dreçar acte notarial"-verb-oc
+"estendre acta notarial"-verb-ca "dreçar acta notariau"-verb-oc
+"dreçar acte notarial"-verb-oc "estendre acta notarial"-verb-ca
+"dreçar acta notariau"-verb-oc "estendre acta notarial"-verb-ca
+"dreçar un acte notariau"-verb-oc "estendre una acta notarial"-verb-ca
+"estendre una acta notarial"-verb-ca "dreçar un acte notariau"-verb-oc
+"estendre una acta notarial"-verb-ca "dreçar un acte notarial"-verb-oc
+"estendre una acta notarial"-verb-ca "dreçar ua acta notariau"-verb-oc
+"dreçar un acte notarial"-verb-oc "estendre una acta notarial"-verb-ca
+"dreçar ua acta notariau"-verb-oc "estendre una acta notarial"-verb-ca
+"far dormir"-verb-oc "fer venir son"-verb-ca
+"fer venir son"-verb-ca "far dormir"-verb-oc
+"fer venir son"-verb-ca "hèr a dormir"-verb-oc
+"hèr a dormir"-verb-oc "fer venir son"-verb-ca
+"mòde de remborsament"-noun-oc "forma de reemborsament"-noun-ca
+"forma de reemborsament"-noun-ca "mòde de remborsament"-noun-oc
+"montar un dossièr"-verb-oc "formar expedient"-verb-ca
+"montar un dossièr"-verb-oc "obrir expedient"-verb-ca
+"formar expedient"-verb-ca "montar un dossièr"-verb-oc
+"obrir expedient"-verb-ca "montar un dossièr"-verb-oc
+"afranquiment pel destinatari"-noun-oc "franquejar en destinació"-noun-ca
+"afranquiment pel destinatari"-noun-oc "franqueig en destinació"-noun-ca
+"franquejar en destinació"-noun-ca "afranquiment pel destinatari"-noun-oc
+"franqueig en destinació"-noun-ca "afranquiment pel destinatari"-noun-oc
+"amb afranquiment pel destinatari"-adverb-oc "a franquejar en destinació"-adverb-ca
+"a franquejar en destinació"-adverb-ca "amb afranquiment pel destinatari"-adverb-oc
+"fuèlh de tirada"-noun-oc "full de reintegrament"-noun-ca
+"full de reintegrament"-noun-ca "fuèlh de tirada"-noun-oc
+"full de reintegrament"-noun-ca "huèlha de tirada"-noun-oc
+"full de reintegrament"-noun-ca "formulari de tirada"-noun-oc
+"huèlha de tirada"-noun-oc "full de reintegrament"-noun-ca
+"formulari de tirada"-noun-oc "full de reintegrament"-noun-ca
+"retirament del permís"-noun-oc "retirada del carnet"-noun-ca
+"retirament del permís"-noun-oc "retirada del permís"-noun-ca
+"retirada del carnet"-noun-ca "retirament del permís"-noun-oc
+"retirada del carnet"-noun-ca "retirament deth permís"-noun-oc
+"retirada del permís"-noun-ca "retirament del permís"-noun-oc
+"retirada del permís"-noun-ca "retirament deth permís"-noun-oc
+"retirament deth permís"-noun-oc "retirada del carnet"-noun-ca
+"retirament deth permís"-noun-oc "retirada del permís"-noun-ca
+"retirament de permís"-noun-oc "retirada de carnet"-noun-ca
+"retirament de permís"-noun-oc "retirada de permís"-noun-ca
+"retirada de carnet"-noun-ca "retirament de permís"-noun-oc
+"retirada de permís"-noun-ca "retirament de permís"-noun-oc
+"fuèlh d'inscripcion"-noun-oc "full d'inscripció"-noun-ca
+"full d'inscripció"-noun-ca "fuèlh d'inscripcion"-noun-oc
+"full d'inscripció"-noun-ca "huèlha d'inscripcion"-noun-oc
+"huèlha d'inscripcion"-noun-oc "full d'inscripció"-noun-ca
+"abitatge social"-noun-oc "habitatge protegit"-noun-ca
+"abitatge social"-noun-oc "habitatge social"-noun-ca
+"habitatge protegit"-noun-ca "abitatge social"-noun-oc
+"habitatge protegit"-noun-ca "abitatge sociau"-noun-oc
+"habitatge protegit"-noun-ca "abitatge protegit"-noun-oc
+"habitatge protegit"-noun-ca "abitat protegit"-noun-oc
+"habitatge protegit"-noun-ca "abitat social"-noun-oc
+"habitatge protegit"-noun-ca "abitat sociau"-noun-oc
+"habitatge social"-noun-ca "abitatge social"-noun-oc
+"habitatge social"-noun-ca "abitatge sociau"-noun-oc
+"abitatge sociau"-noun-oc "habitatge protegit"-noun-ca
+"abitatge sociau"-noun-oc "habitatge social"-noun-ca
+"abitatge protegit"-noun-oc "habitatge protegit"-noun-ca
+"abitat protegit"-noun-oc "habitatge protegit"-noun-ca
+"abitat social"-noun-oc "habitatge protegit"-noun-ca
+"abitat sociau"-noun-oc "habitatge protegit"-noun-ca
+"impòst de societats"-noun-oc "impost de societats"-noun-ca
+"impost de societats"-noun-ca "impòst de societats"-noun-oc
+"justificatiu de recepcion"-noun-oc "justificant de recepció"-noun-ca
+"justificant de recepció"-noun-ca "justificatiu de recepcion"-noun-oc
+"justificant de recepció"-noun-ca "justificant de recepcion"-noun-oc
+"justificant de recepcion"-noun-oc "justificant de recepció"-noun-ca
+"mejan de pagament"-noun-oc "mitjà de pagament"-noun-ca
+"mitjà de pagament"-noun-ca "mejan de pagament"-noun-oc
+"nombre d'operacions"-noun-oc "nombre d'operacions"-noun-ca
+"nombre d'operacions"-noun-ca "nombre d'operacions"-noun-oc
+"numèro de còdi"-noun-oc "número de codi"-noun-ca
+"numèro de còdi"-noun-oc "número de clau"-noun-ca
+"número de codi"-noun-ca "numèro de còdi"-noun-oc
+"número de codi"-noun-ca "numèro de còde"-noun-oc
+"número de clau"-noun-ca "numèro de còdi"-noun-oc
+"número de clau"-noun-ca "numèro de clau"-noun-oc
+"numèro de còde"-noun-oc "número de codi"-noun-ca
+"numèro de clau"-noun-oc "número de clau"-noun-ca
+"numèro de compte"-noun-oc "número de compte"-noun-ca
+"número de compte"-noun-ca "numèro de compte"-noun-oc
+"número de compte"-noun-ca "numèro de compde"-noun-oc
+"numèro de compde"-noun-oc "número de compte"-noun-ca
+"periòde de caréncia"-noun-oc "període de carència"-noun-ca
+"període de carència"-noun-ca "periòde de caréncia"-noun-oc
+"polissa d'assegurança"-noun-oc "pòlissa d'assegurança"-noun-ca
+"pòlissa d'assegurança"-noun-ca "polissa d'assegurança"-noun-oc
+"pòlissa d'assegurança"-noun-ca "poliça d'assegurança"-noun-oc
+"poliça d'assegurança"-noun-oc "pòlissa d'assegurança"-noun-ca
+"portar mala sòrt"-verb-oc "portar mala sort"-verb-ca
+"portar mala sort"-verb-ca "portar mala sòrt"-verb-oc
+"portar mala sort"-verb-ca "portar malastre"-verb-oc
+"portar malastre"-verb-oc "portar mala sort"-verb-ca
+"portar fortuna"-verb-oc "portar bona sort"-verb-ca
+"portar fortuna"-verb-oc "portar sort"-verb-ca
+"portar fortuna"-verb-oc "portar fortuna"-verb-ca
+"portar bona sort"-verb-ca "portar fortuna"-verb-oc
+"portar bona sort"-verb-ca "portar era sòrt"-verb-oc
+"portar sort"-verb-ca "portar fortuna"-verb-oc
+"portar sort"-verb-ca "portar era sòrt"-verb-oc
+"portar fortuna"-verb-ca "portar fortuna"-verb-oc
+"portar era sòrt"-verb-oc "portar bona sort"-verb-ca
+"portar era sòrt"-verb-oc "portar sort"-verb-ca
+"aver malastre"-verb-oc "tenir mala sort"-verb-ca
+"tenir mala sort"-verb-ca "aver malastre"-verb-oc
+"tenir mala sort"-verb-ca "auer malastre"-verb-oc
+"auer malastre"-verb-oc "tenir mala sort"-verb-ca
+"aver d'astre"-verb-oc "tenir sort"-verb-ca
+"tenir sort"-verb-ca "aver d'astre"-verb-oc
+"tenir sort"-verb-ca "auer sòrt"-verb-oc
+"auer sòrt"-verb-oc "tenir sort"-verb-ca
+"tractament de donades"-noun-oc "processament de dades"-noun-ca
+"processament de dades"-noun-ca "tractament de donades"-noun-oc
+"processament de dades"-noun-ca "tractament de donadas"-noun-oc
+"tractament de donadas"-noun-oc "processament de dades"-noun-ca
+"saldo miei"-noun-oc "saldo mitjà"-noun-ca
+"saldo mitjà"-noun-ca "saldo miei"-noun-oc
+"saldo mitjà"-noun-ca "credit mejan"-noun-oc
+"credit mejan"-noun-oc "saldo mitjà"-noun-ca
+"tablèu d'anóncias"-noun-oc "tauler d'anuncis"-noun-ca
+"tauler d'anuncis"-noun-ca "tablèu d'anóncias"-noun-oc
+"tauler d'anuncis"-noun-ca "tablèu d'anóncies"-noun-oc
+"tablèu d'anóncies"-noun-oc "tauler d'anuncis"-noun-ca
+"anar a campar"-verb-oc "anar a treure el cap"-verb-ca
+"anar a treure el cap"-verb-ca "anar a campar"-verb-oc
+"anar a treure el cap"-verb-ca "anar espinchar"-verb-oc
+"anar espinchar"-verb-oc "anar a treure el cap"-verb-ca
+"tirar del cap"-verb-oc "treure del cap"-verb-ca
+"treure del cap"-verb-ca "tirar del cap"-verb-oc
+"treure del cap"-verb-ca "tirar deth cap"-verb-oc
+"treure del cap"-verb-ca "trèir deth cap"-verb-oc
+"treure del cap"-verb-ca "trèir del cap"-verb-oc
+"tirar deth cap"-verb-oc "treure del cap"-verb-ca
+"trèir deth cap"-verb-oc "treure del cap"-verb-ca
+"trèir del cap"-verb-oc "treure del cap"-verb-ca
+"far gauch"-verb-oc "venir de gust"-verb-ca
+"venir de gust"-verb-ca "far gauch"-verb-oc
+"venir de gust"-verb-ca "hèr gòi"-verb-oc
+"venir de gust"-verb-ca "vier de gust"-verb-oc
+"hèr gòi"-verb-oc "venir de gust"-verb-ca
+"vier de gust"-verb-oc "venir de gust"-verb-ca
+"aver enveja de"-verb-oc "tenir ganes de"-verb-ca
+"tenir ganes de"-verb-ca "aver enveja de"-verb-oc
+"tenir ganes de"-verb-ca "auer talents de"-verb-oc
+"auer talents de"-verb-oc "tenir ganes de"-verb-ca
+"sosagent"-noun-oc "subagent"-noun-ca
+"subagent"-noun-ca "sosagent"-noun-oc
+"soscòdi"-noun-oc "subcodi"-noun-ca
+"subcodi"-noun-ca "soscòdi"-noun-oc
+"soscomission"-noun-oc "subcomissió"-noun-ca
+"subcomissió"-noun-ca "soscomission"-noun-oc
+"soscutanèu"-adjective-oc "subcutani"-adjective-ca
+"subcutani"-adjective-ca "soscutanèu"-adjective-oc
+"sosdelegat"-noun-oc "subdelegat"-noun-ca
+"subdelegat"-noun-ca "sosdelegat"-noun-oc
+"sosdesvolopament"-noun-oc "subdesenvolupament"-noun-ca
+"subdesenvolupament"-noun-ca "sosdesvolopament"-noun-oc
+"sosestimacion"-noun-oc "subestimació"-noun-ca
+"subestimació"-noun-ca "sosestimacion"-noun-oc
+"sosexpausar"-verb-oc "subexposar"-verb-ca
+"subexposar"-verb-ca "sosexpausar"-verb-oc
+"subexposar"-verb-ca "sosexposar"-verb-oc
+"sosexposar"-verb-oc "subexposar"-verb-ca
+"sosexposicion"-noun-oc "subexposició"-noun-ca
+"subexposició"-noun-ca "sosexposicion"-noun-oc
+"soslinhament"-noun-oc "subratllat"-noun-ca
+"subratllat"-noun-ca "soslinhament"-noun-oc
+"sosmultiple"-adjective-oc "submúltiple"-adjective-ca
+"submúltiple"-adjective-ca "sosmultiple"-adjective-oc
+"sosprefècte"-noun-oc "subprefecte"-noun-ca
+"subprefecte"-noun-ca "sosprefècte"-noun-oc
+"sosprefectura"-noun-oc "subprefectura"-noun-ca
+"subprefectura"-noun-ca "sosprefectura"-noun-oc
+"sosproletariat"-noun-oc "subproletariat"-noun-ca
+"subproletariat"-noun-ca "sosproletariat"-noun-oc
+"subnuclear"-adjective-oc "subnuclear"-adjective-ca
+"subnuclear"-adjective-ca "subnuclear"-adjective-oc
+"suboceanic"-adjective-oc "suboceànic"-adjective-ca
+"suboceànic"-adjective-ca "suboceanic"-adjective-oc
+"subpolar"-adjective-oc "subpolar"-adjective-ca
+"subpolar"-adjective-ca "subpolar"-adjective-oc
+"Abu Dhabi"-properNoun-oc "Abu Dhabi"-properNoun-ca
+"Abu Dhabi"-properNoun-oc "Abu Zaby"-properNoun-ca
+"Abu Dhabi"-properNoun-ca "Abu Dhabi"-properNoun-oc
+"Abu Zaby"-properNoun-ca "Abu Dhabi"-properNoun-oc
+"Adriatica"-properNoun-oc "Adriàtica"-properNoun-ca
+"Adriàtica"-properNoun-ca "Adriatica"-properNoun-oc
+"Ahaggar"-properNoun-oc "Ahaggar"-properNoun-ca
+"Ahaggar"-properNoun-oc "Hoggar"-properNoun-ca
+"Ahaggar"-properNoun-ca "Ahaggar"-properNoun-oc
+"Ahaggar"-properNoun-ca "Hoggar"-properNoun-oc
+"Hoggar"-properNoun-ca "Ahaggar"-properNoun-oc
+"Hoggar"-properNoun-oc "Ahaggar"-properNoun-ca
+"Al Andalós"-properNoun-oc "Àndalus"-properNoun-ca
+"Àndalus"-properNoun-ca "Al Andalós"-properNoun-oc
+"Al Dawha"-properNoun-oc "Al Dawha"-properNoun-ca
+"Al Dawha"-properNoun-oc "al-Dawha"-properNoun-ca
+"Al Dawha"-properNoun-ca "Al Dawha"-properNoun-oc
+"Al Dawha"-properNoun-ca "al-Dawha"-properNoun-oc
+"Al Dawha"-properNoun-ca "Dòha"-properNoun-oc
+"al-Dawha"-properNoun-ca "Al Dawha"-properNoun-oc
+"al-Dawha"-properNoun-oc "Al Dawha"-properNoun-ca
+"Dòha"-properNoun-oc "Al Dawha"-properNoun-ca
+"Al Manama"-properNoun-oc "Al Manama"-properNoun-ca
+"Al Manama"-properNoun-oc "al-Manama"-properNoun-ca
+"Al Manama"-properNoun-ca "Al Manama"-properNoun-oc
+"Al Manama"-properNoun-ca "al-Manama"-properNoun-oc
+"al-Manama"-properNoun-ca "Al Manama"-properNoun-oc
+"al-Manama"-properNoun-oc "Al Manama"-properNoun-ca
+"Alcalatín"-properNoun-oc "Alcalatí"-properNoun-ca
+"Alcalatí"-properNoun-ca "Alcalatín"-properNoun-oc
+"Alexandreta"-properNoun-oc "Iskenderun"-properNoun-ca
+"Alexandreta"-properNoun-oc "Alexandreta"-properNoun-ca
+"Iskenderun"-properNoun-ca "Alexandreta"-properNoun-oc
+"Alexandreta"-properNoun-ca "Alexandreta"-properNoun-oc
+"Amodarià"-properNoun-oc "Amudarja"-properNoun-ca
+"Amodarià"-properNoun-oc "Amu-Darja"-properNoun-ca
+"Amudarja"-properNoun-ca "Amodarià"-properNoun-oc
+"Amu-Darja"-properNoun-ca "Amodarià"-properNoun-oc
+"Andaman"-properNoun-oc "Andaman"-properNoun-ca
+"Andaman"-properNoun-ca "Andaman"-properNoun-oc
+"Apúlia"-properNoun-oc "Apúlia"-properNoun-ca
+"Apúlia"-properNoun-ca "Apúlia"-properNoun-oc
+"Argòvia"-properNoun-oc "Aargau"-properNoun-ca
+"Argòvia"-properNoun-oc "Argòvia"-properNoun-ca
+"Aargau"-properNoun-ca "Argòvia"-properNoun-oc
+"Argòvia"-properNoun-ca "Argòvia"-properNoun-oc
+"Arkhangelsk"-properNoun-oc "Arkhànguelsk"-properNoun-ca
+"Arkhangelsk"-properNoun-oc "Arkhangel'sk"-properNoun-ca
+"Arkhànguelsk"-properNoun-ca "Arkhangelsk"-properNoun-oc
+"Arkhangel'sk"-properNoun-ca "Arkhangelsk"-properNoun-oc
+"Arpitània"-properNoun-oc "Arpitània"-properNoun-ca
+"Arpitània"-properNoun-ca "Arpitània"-properNoun-oc
+"Ashgabat"-properNoun-oc "Asgabat"-properNoun-ca
+"Ashgabat"-properNoun-oc "Aixkhabad"-properNoun-ca
+"Ashgabat"-properNoun-oc "Askhabad"-properNoun-ca
+"Ashgabat"-properNoun-oc "Aškhabad"-properNoun-ca
+"Asgabat"-properNoun-ca "Ashgabat"-properNoun-oc
+"Asgabat"-properNoun-ca "Asgabat"-properNoun-oc
+"Aixkhabad"-properNoun-ca "Ashgabat"-properNoun-oc
+"Askhabad"-properNoun-ca "Ashgabat"-properNoun-oc
+"Aškhabad"-properNoun-ca "Ashgabat"-properNoun-oc
+"Asgabat"-properNoun-oc "Asgabat"-properNoun-ca
+"Assoan"-properNoun-oc "Aswan"-properNoun-ca
+"Assoan"-properNoun-oc "Assuan"-properNoun-ca
+"Aswan"-properNoun-ca "Assoan"-properNoun-oc
+"Assuan"-properNoun-ca "Assoan"-properNoun-oc
+"Atacamaf"-properNoun-oc "Atacama"-properNoun-ca
+"Atacama"-properNoun-ca "Atacamaf"-properNoun-oc
+"Atacama"-properNoun-ca "Atacama"-properNoun-oc
+"Atacama"-properNoun-oc "Atacama"-properNoun-ca
+"Baden Württemberg"-properNoun-oc "Baden Württemberg"-properNoun-ca
+"Baden Württemberg"-properNoun-ca "Baden Württemberg"-properNoun-oc
+"baia d'Hudson"-properNoun-oc "badia de Hudson"-properNoun-ca
+"badia de Hudson"-properNoun-ca "baia d'Hudson"-properNoun-oc
+"Balearas"-properNoun-oc "Illes"-properNoun-ca
+"Illes"-properNoun-ca "Balearas"-properNoun-oc
+"Baltica"-properNoun-oc "Bàltic"-properNoun-ca
+"Baltica"-properNoun-oc "Bàltica"-properNoun-ca
+"Bàltic"-properNoun-ca "Baltica"-properNoun-oc
+"Bàltica"-properNoun-ca "Baltica"-properNoun-oc
+"Bas Cinca"-properNoun-oc "Baix Cinca"-properNoun-ca
+"Baix Cinca"-properNoun-ca "Bas Cinca"-properNoun-oc
+"Baix Cinca"-properNoun-ca "Baish Cinca"-properNoun-oc
+"Baish Cinca"-properNoun-oc "Baix Cinca"-properNoun-ca
+"Bashcortostan"-properNoun-oc "Baixkíria"-properNoun-ca
+"Baixkíria"-properNoun-ca "Bashcortostan"-properNoun-oc
+"Baixkíria"-properNoun-ca "Bashquiria"-properNoun-oc
+"Bashquiria"-properNoun-oc "Baixkíria"-properNoun-ca
+"Bassa Cerdanha"-properNoun-oc "Baixa Cerdanya"-properNoun-ca
+"Baixa Cerdanya"-properNoun-ca "Bassa Cerdanha"-properNoun-oc
+"Baixa Cerdanya"-properNoun-ca "Baisha Cerdanha"-properNoun-oc
+"Baisha Cerdanha"-properNoun-oc "Baixa Cerdanya"-properNoun-ca
+"Beqaa"-properNoun-oc "Al Biqa"-properNoun-ca
+"Beqaa"-properNoun-oc "al-Biqa"-properNoun-ca
+"Beqaa"-properNoun-oc "Beqaa"-properNoun-ca
+"Al Biqa"-properNoun-ca "Beqaa"-properNoun-oc
+"al-Biqa"-properNoun-ca "Beqaa"-properNoun-oc
+"Beqaa"-properNoun-ca "Beqaa"-properNoun-oc
+"Bessaràbia"-properNoun-oc "Bessaràbia"-properNoun-ca
+"Bessaràbia"-properNoun-ca "Bessaràbia"-properNoun-oc
+"Bidassoa"-properNoun-oc "Bidasoa"-properNoun-ca
+"Bidasoa"-properNoun-ca "Bidassoa"-properNoun-oc
+"Bishkek"-properNoun-oc "Biskek"-properNoun-ca
+"Bishkek"-properNoun-oc "Biškek"-properNoun-ca
+"Biskek"-properNoun-ca "Bishkek"-properNoun-oc
+"Biškek"-properNoun-ca "Bishkek"-properNoun-oc
+"Bizèrta"-properNoun-oc "Bizerta"-properNoun-ca
+"Bizerta"-properNoun-ca "Bizèrta"-properNoun-oc
+"Blaia"-properNoun-oc "Blaia"-properNoun-ca
+"Blaia"-properNoun-oc "Blaye"-properNoun-ca
+"Blaia"-properNoun-ca "Blaia"-properNoun-oc
+"Blaye"-properNoun-ca "Blaia"-properNoun-oc
+"Blida"-properNoun-oc "Blida"-properNoun-ca
+"Blida"-properNoun-ca "Blida"-properNoun-oc
+"Bogia"-properNoun-oc "Bugia"-properNoun-ca
+"Bogia"-properNoun-oc "Bejaia"-properNoun-ca
+"Bugia"-properNoun-ca "Bogia"-properNoun-oc
+"Bejaia"-properNoun-ca "Bogia"-properNoun-oc
+"Bombai"-properNoun-oc "Mumbai"-properNoun-ca
+"Mumbai"-properNoun-ca "Bombai"-properNoun-oc
+"Borbon d'Archambaud"-properNoun-oc "Bourbon-l'Archambault"-properNoun-ca
+"Bourbon-l'Archambault"-properNoun-ca "Borbon d'Archambaud"-properNoun-oc
+"Bordiguièra"-properNoun-oc "Bordighera"-properNoun-ca
+"Bordighera"-properNoun-ca "Bordiguièra"-properNoun-oc
+"Bornèo"-properNoun-oc "Borneo"-properNoun-ca
+"Borneo"-properNoun-ca "Bornèo"-properNoun-oc
+"Bougainville"-properNoun-oc "Bougainville"-properNoun-ca
+"Bougainville"-properNoun-ca "Bougainville"-properNoun-oc
+"Bramapotra"-properNoun-oc "Brahmaputra"-properNoun-ca
+"Brahmaputra"-properNoun-ca "Bramapotra"-properNoun-oc
+"Brahmaputra"-properNoun-ca "Tsangpo"-properNoun-oc
+"Tsangpo"-properNoun-oc "Brahmaputra"-properNoun-ca
+"Brandeborg"-properNoun-oc "Brandenburg"-properNoun-ca
+"Brandenburg"-properNoun-ca "Brandeborg"-properNoun-oc
+"Brecilianda"-properNoun-oc "Brekilien"-properNoun-ca
+"Brecilianda"-properNoun-oc "Brocíliandef"-properNoun-ca
+"Brekilien"-properNoun-ca "Brecilianda"-properNoun-oc
+"Brocíliandef"-properNoun-ca "Brecilianda"-properNoun-oc
+"Brèma"-properNoun-oc "Brema"-properNoun-ca
+"Brema"-properNoun-ca "Brèma"-properNoun-oc
+"Burgenland"-properNoun-oc "Burgenland"-properNoun-ca
+"Burgenland"-properNoun-ca "Burgenland"-properNoun-oc
+"Burgóndia"-properNoun-oc "Burgúndia"-properNoun-ca
+"Burgúndia"-properNoun-ca "Burgóndia"-properNoun-oc
+"Bòna"-properNoun-oc "Annaba"-properNoun-ca
+"Annaba"-properNoun-ca "Bòna"-properNoun-oc
+"Cairoan"-properNoun-oc "Kairouan"-properNoun-ca
+"Kairouan"-properNoun-ca "Cairoan"-properNoun-oc
+"Calcis"-properNoun-oc "Calcis"-properNoun-ca
+"Calcis"-properNoun-ca "Calcis"-properNoun-oc
+"Canal de Navarrís"-properNoun-oc "Canal de Navarrís"-properNoun-ca
+"Canal de Navarrís"-properNoun-ca "Canal de Navarrís"-properNoun-oc
+"Canaquia"-properNoun-oc "Kanaky"-properNoun-ca
+"Kanaky"-properNoun-ca "Canaquia"-properNoun-oc
+"cap de Bona Esperança"-properNoun-oc "cap de Bona Esperança"-properNoun-ca
+"cap de Bona Esperança"-properNoun-ca "cap de Bona Esperança"-properNoun-oc
+"cap Hòrn"-properNoun-oc "cap d'Hornos"-properNoun-ca
+"cap d'Hornos"-properNoun-ca "cap Hòrn"-properNoun-oc
+"Cariba"-properNoun-oc "Caribm"-properNoun-ca
+"Caribm"-properNoun-ca "Cariba"-properNoun-oc
+"Carolinas"-properNoun-oc "Carolines"-properNoun-ca
+"Carolines"-properNoun-ca "Carolinas"-properNoun-oc
+"Carèlia"-properNoun-oc "Carèlia"-properNoun-ca
+"Carèlia"-properNoun-ca "Carèlia"-properNoun-oc
+"Caspiana"-properNoun-oc "Càspia"-properNoun-ca
+"Caspiana"-properNoun-oc "Caspi"-properNoun-ca
+"Càspia"-properNoun-ca "Caspiana"-properNoun-oc
+"Caspi"-properNoun-ca "Caspiana"-properNoun-oc
+"Castellrosselló"-properNoun-oc "Castellrosselló"-properNoun-ca
+"Castellrosselló"-properNoun-ca "Castellrosselló"-properNoun-oc
+"Castellrosselló"-properNoun-ca "Castèlrosselhon"-properNoun-oc
+"Castèlrosselhon"-properNoun-oc "Castellrosselló"-properNoun-ca
+"Castèl"-properNoun-oc "Càller"-properNoun-ca
+"Càller"-properNoun-ca "Castèl"-properNoun-oc
+"Casèrta"-properNoun-oc "Caserta"-properNoun-ca
+"Caserta"-properNoun-ca "Casèrta"-properNoun-oc
+"Catalonha-Aragon"-properNoun-oc "Catalunya-Aragó"-properNoun-ca
+"Catalunya-Aragó"-properNoun-ca "Catalonha-Aragon"-properNoun-oc
+"Celèbes"-properNoun-oc "Cèlebes"-properNoun-ca
+"Cèlebes"-properNoun-ca "Celèbes"-properNoun-oc
+"Centreafrica"-properNoun-oc "Centreàfrica"-properNoun-ca
+"Centreàfrica"-properNoun-ca "Centreafrica"-properNoun-oc
+"Centreàfrica"-properNoun-ca "Centrafrica*"-properNoun-oc
+"Centrafrica*"-properNoun-oc "Centreàfrica"-properNoun-ca
+"Chalon de Sòna"-properNoun-oc "Chalon-sur-Saône"-properNoun-ca
+"Chalon-sur-Saône"-properNoun-ca "Chalon de Sòna"-properNoun-oc
+"Chalons de Champanha"-properNoun-oc "Châlons-en-Champagne"-properNoun-ca
+"Chalons de Champanha"-properNoun-oc "Châlons-sur-Marne"-properNoun-ca
+"Châlons-en-Champagne"-properNoun-ca "Chalons de Champanha"-properNoun-oc
+"Châlons-sur-Marne"-properNoun-ca "Chalons de Champanha"-properNoun-oc
+"Changchun"-properNoun-oc "Changchun"-properNoun-ca
+"Changchun"-properNoun-ca "Changchun"-properNoun-oc
+"Changsha"-properNoun-oc "Changsha"-properNoun-ca
+"Changsha"-properNoun-ca "Changsha"-properNoun-oc
+"Cheliabinsk"-properNoun-oc "Txeliàbinsk"-properNoun-ca
+"Cheliabinsk"-properNoun-oc "Celjabinsk"-properNoun-ca
+"Txeliàbinsk"-properNoun-ca "Cheliabinsk"-properNoun-oc
+"Celjabinsk"-properNoun-ca "Cheliabinsk"-properNoun-oc
+"Chengdu"-properNoun-oc "Chengdu"-properNoun-ca
+"Chengdu"-properNoun-ca "Chengdu"-properNoun-oc
+"Chisinau"-properNoun-oc "Chisinau"-properNoun-ca
+"Chisinau"-properNoun-ca "Chisinau"-properNoun-oc
+"Chongjing"-properNoun-oc "Chongjing"-properNoun-ca
+"Chongjing"-properNoun-ca "Chongjing"-properNoun-oc
+"Citèra"-properNoun-oc "Citera"-properNoun-ca
+"Citera"-properNoun-ca "Citèra"-properNoun-oc
+"Ciutat de Guatemala"-properNoun-oc "Ciutat de Guatemala"-properNoun-ca
+"Ciutat de Guatemala"-properNoun-ca "Ciutat de Guatemala"-properNoun-oc
+"Ciutat de Guatemala"-properNoun-ca "Ciutat de Güatemala"-properNoun-oc
+"Ciutat de Güatemala"-properNoun-oc "Ciutat de Guatemala"-properNoun-ca
+"Ciutat de Malhòrca"-properNoun-oc "Ciutat de Mallorca"-properNoun-ca
+"Ciutat de Mallorca"-properNoun-ca "Ciutat de Malhòrca"-properNoun-oc
+"Ciutat de Mexic"-properNoun-oc "Ciutat de Mèxic"-properNoun-ca
+"Ciutat de Mèxic"-properNoun-ca "Ciutat de Mexic"-properNoun-oc
+"Ciutat de Panamà"-properNoun-oc "Ciutat de Panamà"-properNoun-ca
+"Ciutat de Panamà"-properNoun-ca "Ciutat de Panamà"-properNoun-oc
+"Ciutat de Vatican"-properNoun-oc "Ciutat del Vaticà"-properNoun-ca
+"Ciutat del Vaticà"-properNoun-ca "Ciutat de Vatican"-properNoun-oc
+"Ciutat del Vaticà"-properNoun-ca "Ciutat del Vatican"-properNoun-oc
+"Ciutat del Vatican"-properNoun-oc "Ciutat del Vaticà"-properNoun-ca
+"Ciutat del Cap"-properNoun-oc "Ciutat del Cap"-properNoun-ca
+"Ciutat del Cap"-properNoun-ca "Ciutat del Cap"-properNoun-oc
+"Ciutat del Cap"-properNoun-ca "Lo Cap"-properNoun-oc
+"Lo Cap"-properNoun-oc "Ciutat del Cap"-properNoun-ca
+"Clarasvals"-properNoun-oc "Claravall"-properNoun-ca
+"Clarasvals"-properNoun-oc "Clairvaux"-properNoun-ca
+"Claravall"-properNoun-ca "Clarasvals"-properNoun-oc
+"Clairvaux"-properNoun-ca "Clarasvals"-properNoun-oc
+"Coberlanda"-properNoun-oc "Cumberland"-properNoun-ca
+"Cumberland"-properNoun-ca "Coberlanda"-properNoun-oc
+"Cocos"-properNoun-oc "Cocos"-properNoun-ca
+"Cocos"-properNoun-ca "Cocos"-properNoun-oc
+"Coira"-properNoun-oc "Chur"-properNoun-ca
+"Chur"-properNoun-ca "Coira"-properNoun-oc
+"Colomnas d'Ercules"-properNoun-oc "Columnes d'Hèrcules"-properNoun-ca
+"Colomnas d'Ercules"-properNoun-oc "colona"-properNoun-ca
+"Columnes d'Hèrcules"-properNoun-ca "Colomnas d'Ercules"-properNoun-oc
+"Columnes d'Hèrcules"-properNoun-ca "Colomnas d'Ercul"-properNoun-oc
+"Columnes d'Hèrcules"-properNoun-ca "Colonas d'Ercules"-properNoun-oc
+"Columnes d'Hèrcules"-properNoun-ca "Colonas d'Ercul"-properNoun-oc
+"colona"-properNoun-ca "Colomnas d'Ercules"-properNoun-oc
+"Colomnas d'Ercul"-properNoun-oc "Columnes d'Hèrcules"-properNoun-ca
+"Colonas d'Ercules"-properNoun-oc "Columnes d'Hèrcules"-properNoun-ca
+"Colonas d'Ercul"-properNoun-oc "Columnes d'Hèrcules"-properNoun-ca
+"Colómbia Britanica"-properNoun-oc "Colúmbia Britànica"-properNoun-ca
+"Colúmbia Britànica"-properNoun-ca "Colómbia Britanica"-properNoun-oc
+"Compenha"-properNoun-oc "Compiègne"-properNoun-ca
+"Compiègne"-properNoun-ca "Compenha"-properNoun-oc
+"Conakry"-properNoun-oc "Conakry"-properNoun-ca
+"Conakry"-properNoun-ca "Conakry"-properNoun-oc
+"Conhac"-properNoun-oc "Cognac"-properNoun-ca
+"Cognac"-properNoun-ca "Conhac"-properNoun-oc
+"Corcira"-properNoun-oc "Corcira"-properNoun-ca
+"Corcira"-properNoun-ca "Corcira"-properNoun-oc
+"Cordilhièra dels Andes"-properNoun-oc "serralada dels Andes"-properNoun-ca
+"Cordilhièra dels Andes"-properNoun-oc "cordillera dels Andes"-properNoun-ca
+"serralada dels Andes"-properNoun-ca "Cordilhièra dels Andes"-properNoun-oc
+"serralada dels Andes"-properNoun-ca "cordilhièra dels Andes"-properNoun-oc
+"cordillera dels Andes"-properNoun-ca "Cordilhièra dels Andes"-properNoun-oc
+"cordilhièra dels Andes"-properNoun-oc "serralada dels Andes"-properNoun-ca
+"Cork"-properNoun-oc "Cork"-properNoun-ca
+"Cork"-properNoun-oc "Corcaigh"-properNoun-ca
+"Cork"-properNoun-ca "Cork"-properNoun-oc
+"Cork"-properNoun-ca "Corcaigh"-properNoun-oc
+"Corcaigh"-properNoun-ca "Cork"-properNoun-oc
+"Corcaigh"-properNoun-oc "Cork"-properNoun-ca
+"corrent del Golf"-properNoun-oc "corrent del Golf"-properNoun-ca
+"corrent del Golf"-properNoun-ca "corrent del Golf"-properNoun-oc
+"Costièra"-properNoun-oc "Costera"-properNoun-ca
+"Costera"-properNoun-ca "Costièra"-properNoun-oc
+"Coïmbra"-properNoun-oc "Coïmbra"-properNoun-ca
+"Coïmbra"-properNoun-ca "Coïmbra"-properNoun-oc
+"Cremona"-properNoun-oc "Cremona"-properNoun-ca
+"Cremona"-properNoun-ca "Cremona"-properNoun-oc
+"Càndia"-properNoun-oc "Càndia"-properNoun-ca
+"Càndia"-properNoun-ca "Càndia"-properNoun-oc
+"Càndia"-properNoun-ca "Irakleio"-properNoun-oc
+"Irakleio"-properNoun-oc "Càndia"-properNoun-ca
+"Còmi"-properNoun-oc "Komi"-properNoun-ca
+"Komi"-properNoun-ca "Còmi"-properNoun-oc
+"Còngo Brazzaville"-properNoun-oc "Congo Brazzaville"-properNoun-ca
+"Congo Brazzaville"-properNoun-ca "Còngo Brazzaville"-properNoun-oc
+"Còngo Kinshasa"-properNoun-oc "Congo Kinshasa"-properNoun-ca
+"Congo Kinshasa"-properNoun-ca "Còngo Kinshasa"-properNoun-oc
+"Còs"-properNoun-oc "Kos"-properNoun-ca
+"Kos"-properNoun-ca "Còs"-properNoun-oc
+"Dalian"-properNoun-oc "Dalian"-properNoun-ca
+"Dalian"-properNoun-ca "Dalian"-properNoun-oc
+"Danzig"-properNoun-oc "Danzig"-properNoun-ca
+"Danzig"-properNoun-ca "Danzig"-properNoun-oc
+"Dar es Salaam"-properNoun-oc "Dar es Salaam"-properNoun-ca
+"Dar es Salaam"-properNoun-ca "Dar es Salaam"-properNoun-oc
+"Dhaka"-properNoun-oc "Dhaka"-properNoun-ca
+"Dhaka"-properNoun-oc "Dacca"-properNoun-ca
+"Dhaka"-properNoun-ca "Dhaka"-properNoun-oc
+"Dhaka"-properNoun-ca "Dacca"-properNoun-oc
+"Dacca"-properNoun-ca "Dhaka"-properNoun-oc
+"Dacca"-properNoun-oc "Dhaka"-properNoun-ca
+"Diedenhofen"-properNoun-oc "Diedenhofen"-properNoun-ca
+"Diedenhofen"-properNoun-oc "Thionville"-properNoun-ca
+"Diedenhofen"-properNoun-ca "Diedenhofen"-properNoun-oc
+"Diedenhofen"-properNoun-ca "Thionville"-properNoun-oc
+"Thionville"-properNoun-ca "Diedenhofen"-properNoun-oc
+"Thionville"-properNoun-oc "Diedenhofen"-properNoun-ca
+"Dièpa"-properNoun-oc "Dieppe"-properNoun-ca
+"Dieppe"-properNoun-ca "Dièpa"-properNoun-oc
+"Dnipropetrovsk"-properNoun-oc "Dnipropetrovsk"-properNoun-ca
+"Dnipropetrovsk"-properNoun-ca "Dnipropetrovsk"-properNoun-oc
+"Doai"-properNoun-oc "Douai"-properNoun-ca
+"Douai"-properNoun-ca "Doai"-properNoun-oc
+"Dobròtja"-properNoun-oc "Dobrudja"-properNoun-ca
+"Dobrudja"-properNoun-ca "Dobròtja"-properNoun-oc
+"Dodoma"-properNoun-oc "Dodoma"-properNoun-ca
+"Dodoma"-properNoun-ca "Dodoma"-properNoun-oc
+"Dolomitas"-properNoun-oc "Dolomites"-properNoun-ca
+"Dolomites"-properNoun-ca "Dolomitas"-properNoun-oc
+"Donbass"-properNoun-oc "Donbass"-properNoun-ca
+"Donbass"-properNoun-ca "Donbass"-properNoun-oc
+"Donbass"-properNoun-ca "Donbas"-properNoun-oc
+"Donbas"-properNoun-oc "Donbass"-properNoun-ca
+"Donetzk"-properNoun-oc "Donetsk"-properNoun-ca
+"Donetzk"-properNoun-oc "Doneck"-properNoun-ca
+"Donetzk"-properNoun-oc "Donec'k"-properNoun-ca
+"Donetsk"-properNoun-ca "Donetzk"-properNoun-oc
+"Doneck"-properNoun-ca "Donetzk"-properNoun-oc
+"Donec'k"-properNoun-ca "Donetzk"-properNoun-oc
+"Doshambí"-properNoun-oc "Dusanbe"-properNoun-ca
+"Doshambí"-properNoun-oc "Dušanbe"-properNoun-ca
+"Dusanbe"-properNoun-ca "Doshambí"-properNoun-oc
+"Dušanbe"-properNoun-ca "Doshambí"-properNoun-oc
+"Douro"-properNoun-oc "Duero"-properNoun-ca
+"Duero"-properNoun-ca "Douro"-properNoun-oc
+"Duero"-properNoun-ca "Duero"-properNoun-oc
+"Duero"-properNoun-oc "Duero"-properNoun-ca
+"Drava"-properNoun-oc "Drava"-properNoun-ca
+"Drava"-properNoun-ca "Drava"-properNoun-oc
+"Dubayy"-properNoun-oc "Dubayy"-properNoun-ca
+"Dubayy"-properNoun-ca "Dubayy"-properNoun-oc
+"Dubayy"-properNoun-ca "Dubai"-properNoun-oc
+"Dubai"-properNoun-oc "Dubayy"-properNoun-ca
+"Dubrovnik"-properNoun-oc "Dubrovnik"-properNoun-ca
+"Dubrovnik"-properNoun-ca "Dubrovnik"-properNoun-oc
+"Duisburg"-properNoun-oc "Duisburg"-properNoun-ca
+"Duisburg"-properNoun-ca "Duisburg"-properNoun-oc
+"Dunedin"-properNoun-oc "Dunedin"-properNoun-ca
+"Dunedin"-properNoun-ca "Dunedin"-properNoun-oc
+"Duratz"-properNoun-oc "Durrës"-properNoun-ca
+"Durrës"-properNoun-ca "Duratz"-properNoun-oc
+"Durrës"-properNoun-ca "Durrës"-properNoun-oc
+"Durrës"-properNoun-oc "Durrës"-properNoun-ca
+"Dvina Occidentala"-properNoun-oc "Dvina Occidental"-properNoun-ca
+"Dvina Occidental"-properNoun-ca "Dvina Occidentala"-properNoun-oc
+"Dvina Occidental"-properNoun-ca "Daugava"-properNoun-oc
+"Dvina Occidental"-properNoun-ca "Dzvina"-properNoun-oc
+"Daugava"-properNoun-oc "Dvina Occidental"-properNoun-ca
+"Dzvina"-properNoun-oc "Dvina Occidental"-properNoun-ca
+"Dvina Septentrionala"-properNoun-oc "Dvina Septentrional"-properNoun-ca
+"Dvina Septentrional"-properNoun-ca "Dvina Septentrionala"-properNoun-oc
+"Ebron"-properNoun-oc "Hebron"-properNoun-ca
+"Ebron"-properNoun-oc "Al-Halil"-properNoun-ca
+"Hebron"-properNoun-ca "Ebron"-properNoun-oc
+"Al-Halil"-properNoun-ca "Ebron"-properNoun-oc
+"Edmonton"-properNoun-oc "Edmonton"-properNoun-ca
+"Edmonton"-properNoun-ca "Edmonton"-properNoun-oc
+"Eivissa e Formentera"-properNoun-oc "Eivissa i Formentera"-properNoun-ca
+"Eivissa i Formentera"-properNoun-ca "Eivissa e Formentera"-properNoun-oc
+"Elborz"-properNoun-oc "Elburz"-properNoun-ca
+"Elburz"-properNoun-ca "Elborz"-properNoun-oc
+"Elbroz"-properNoun-oc "Elbrus"-properNoun-ca
+"Elbroz"-properNoun-oc "El'brus"-properNoun-ca
+"Elbrus"-properNoun-ca "Elbroz"-properNoun-oc
+"El'brus"-properNoun-ca "Elbroz"-properNoun-oc
+"Elida"-properNoun-oc "Èlide"-properNoun-ca
+"Èlide"-properNoun-ca "Elida"-properNoun-oc
+"Engolmís"-properNoun-oc "Angoumois"-properNoun-ca
+"Angoumois"-properNoun-ca "Engolmís"-properNoun-oc
+"Eolia"-properNoun-oc "Eòlia"-properNoun-ca
+"Eòlia"-properNoun-ca "Eolia"-properNoun-oc
+"Eòlia"-properNoun-ca "Eolida"-properNoun-oc
+"Eolida"-properNoun-oc "Eòlia"-properNoun-ca
+"Esfahan"-properNoun-oc "Esfahan"-properNoun-ca
+"Esfahan"-properNoun-ca "Esfahan"-properNoun-oc
+"Espaci Occitanocatalan"-properNoun-oc "Espai Occitanocatalà"-properNoun-ca
+"Espai Occitanocatalà"-properNoun-ca "Espaci Occitanocatalan"-properNoun-oc
+"Espolet"-properNoun-oc "Spoleto"-properNoun-ca
+"Spoleto"-properNoun-ca "Espolet"-properNoun-oc
+"Esporadas"-properNoun-oc "Espòrades"-properNoun-ca
+"Espòrades"-properNoun-ca "Esporadas"-properNoun-oc
+"Essen"-properNoun-oc "Essen"-properNoun-ca
+"Essen"-properNoun-ca "Essen"-properNoun-oc
+"estrech de Bering"-properNoun-oc "estret de Bering"-properNoun-ca
+"estret de Bering"-properNoun-ca "estrech de Bering"-properNoun-oc
+"estret de Bering"-properNoun-ca "destrech de Bering"-properNoun-oc
+"destrech de Bering"-properNoun-oc "estret de Bering"-properNoun-ca
+"estrech de Gibartar"-properNoun-oc "estret de Gibraltar"-properNoun-ca
+"estret de Gibraltar"-properNoun-ca "estrech de Gibartar"-properNoun-oc
+"estret de Gibraltar"-properNoun-ca "destrech de Gibartar"-properNoun-oc
+"destrech de Gibartar"-properNoun-oc "estret de Gibraltar"-properNoun-ca
+"estrech de Magellan"-properNoun-oc "estret de Magallanes"-properNoun-ca
+"estret de Magallanes"-properNoun-ca "estrech de Magellan"-properNoun-oc
+"estret de Magallanes"-properNoun-ca "destrech de Magellan"-properNoun-oc
+"destrech de Magellan"-properNoun-oc "estret de Magallanes"-properNoun-ca
+"estrech de Malaca"-properNoun-oc "estret de Malacca"-properNoun-ca
+"estret de Malacca"-properNoun-ca "estrech de Malaca"-properNoun-oc
+"estret de Malacca"-properNoun-ca "destrech de Malaca"-properNoun-oc
+"destrech de Malaca"-properNoun-oc "estret de Malacca"-properNoun-ca
+"estrech d'Ormuz"-properNoun-oc "estret d'Ormuz"-properNoun-ca
+"estrech d'Ormuz"-properNoun-oc "estret d'Hormuz"-properNoun-ca
+"estret d'Ormuz"-properNoun-ca "estrech d'Ormuz"-properNoun-oc
+"estret d'Ormuz"-properNoun-ca "destrech d'Ormuz"-properNoun-oc
+"estret d'Hormuz"-properNoun-ca "estrech d'Ormuz"-properNoun-oc
+"destrech d'Ormuz"-properNoun-oc "estret d'Ormuz"-properNoun-ca
+"Famagosta"-properNoun-oc "Famagusta"-properNoun-ca
+"Famagusta"-properNoun-ca "Famagosta"-properNoun-oc
+"Fayyum"-properNoun-oc "Faium"-properNoun-ca
+"Faium"-properNoun-ca "Fayyum"-properNoun-oc
+"Fiònia"-properNoun-oc "Fiònia"-properNoun-ca
+"Fiònia"-properNoun-ca "Fiònia"-properNoun-oc
+"fluvi Blau"-properNoun-oc "riu Blau"-properNoun-ca
+"riu Blau"-properNoun-ca "fluvi Blau"-properNoun-oc
+"fluvi Jaune"-properNoun-oc "riu Groc"-properNoun-ca
+"riu Groc"-properNoun-ca "fluvi Jaune"-properNoun-oc
+"Fontebrau"-properNoun-oc "Fontevraud"-properNoun-ca
+"Fontebrau"-properNoun-oc "Fontevraud-l'Abbaye"-properNoun-ca
+"Fontebrau"-properNoun-oc "Fontevrault"-properNoun-ca
+"Fontevraud"-properNoun-ca "Fontebrau"-properNoun-oc
+"Fontevraud-l'Abbaye"-properNoun-ca "Fontebrau"-properNoun-oc
+"Fontevrault"-properNoun-ca "Fontebrau"-properNoun-oc
+"Fortaleza"-properNoun-oc "Fortaleza"-properNoun-ca
+"Fortaleza"-properNoun-ca "Fortaleza"-properNoun-oc
+"Franja"-properNoun-oc "Franja"-properNoun-ca
+"Franja"-properNoun-ca "Franja"-properNoun-oc
+"Freetown"-properNoun-oc "Freetown"-properNoun-ca
+"Freetown"-properNoun-ca "Freetown"-properNoun-oc
+"Friborg de Brisgòvia"-properNoun-oc "Friburg de Brisgòvia"-properNoun-ca
+"Friburg de Brisgòvia"-properNoun-ca "Friborg de Brisgòvia"-properNoun-oc
+"Fukuoka"-properNoun-oc "Fukuoka"-properNoun-ca
+"Fukuoka"-properNoun-ca "Fukuoka"-properNoun-oc
+"Funafuti"-properNoun-oc "Funafuti"-properNoun-ca
+"Funafuti"-properNoun-ca "Funafuti"-properNoun-oc
+"Fushun"-properNoun-oc "Fushun"-properNoun-ca
+"Fushun"-properNoun-ca "Fushun"-properNoun-oc
+"Gaborone"-properNoun-oc "Goborone"-properNoun-ca
+"Goborone"-properNoun-ca "Gaborone"-properNoun-oc
+"Gabès"-properNoun-oc "Gabès"-properNoun-ca
+"Gabès"-properNoun-ca "Gabès"-properNoun-oc
+"Gaeta"-properNoun-oc "Gaeta"-properNoun-ca
+"Gaeta"-properNoun-ca "Gaeta"-properNoun-oc
+"Galligo"-properNoun-oc "Gállego"-properNoun-ca
+"Gállego"-properNoun-ca "Galligo"-properNoun-oc
+"Gállego"-properNoun-ca "Gállego"-properNoun-oc
+"Gállego"-properNoun-oc "Gállego"-properNoun-ca
+"Gambier"-properNoun-oc "Gambier"-properNoun-ca
+"Gambier"-properNoun-ca "Gambier"-properNoun-oc
+"Georgia del Sud"-properNoun-oc "Geòrgia del Sud"-properNoun-ca
+"Geòrgia del Sud"-properNoun-ca "Georgia del Sud"-properNoun-oc
+"Giza"-properNoun-oc "Gizeh"-properNoun-ca
+"Gizeh"-properNoun-ca "Giza"-properNoun-oc
+"Glarus"-properNoun-oc "Glarus"-properNoun-ca
+"Glarus"-properNoun-ca "Glarus"-properNoun-oc
+"golf de Biscaia"-properNoun-oc "golf de Biscaia"-properNoun-ca
+"golf de Biscaia"-properNoun-ca "golf de Biscaia"-properNoun-oc
+"golf de Bòtnia"-properNoun-oc "golf de Bòtnia"-properNoun-ca
+"golf de Bòtnia"-properNoun-ca "golf de Bòtnia"-properNoun-oc
+"golf de Gasconha"-properNoun-oc "golf de Gascunya"-properNoun-ca
+"golf de Gascunya"-properNoun-ca "golf de Gasconha"-properNoun-oc
+"golf de Mexic"-properNoun-oc "golf de Mèxic"-properNoun-ca
+"golf de Mèxic"-properNoun-ca "golf de Mexic"-properNoun-oc
+"golf del Leon"-properNoun-oc "golf del Lleó"-properNoun-ca
+"golf del Lleó"-properNoun-ca "golf del Leon"-properNoun-oc
+"Gotland"-properNoun-oc "Gotland"-properNoun-ca
+"Gotland"-properNoun-ca "Gotland"-properNoun-oc
+"Gran Chaco"-properNoun-oc "Gran Chaco"-properNoun-ca
+"Gran Chaco"-properNoun-ca "Gran Chaco"-properNoun-oc
+"Grands Lacs"-properNoun-oc "Grans Llacs"-properNoun-ca
+"Grans Llacs"-properNoun-ca "Grands Lacs"-properNoun-oc
+"Groninga"-properNoun-oc "Groningen"-properNoun-ca
+"Groningen"-properNoun-ca "Groninga"-properNoun-oc
+"Guadalquivir"-properNoun-oc "Guadalquivir"-properNoun-ca
+"Guadalquivir"-properNoun-ca "Guadalquivir"-properNoun-oc
+"Guadalquivir"-properNoun-ca "Güadalquivir"-properNoun-oc
+"Güadalquivir"-properNoun-oc "Guadalquivir"-properNoun-ca
+"Guadiana"-properNoun-oc "Guadiana"-properNoun-ca
+"Guadiana"-properNoun-ca "Guadiana"-properNoun-oc
+"Guadiana"-properNoun-ca "Güadiana"-properNoun-oc
+"Güadiana"-properNoun-oc "Guadiana"-properNoun-ca
+"Guaianas"-properNoun-oc "Guaianes"-properNoun-ca
+"Guaianes"-properNoun-ca "Guaianas"-properNoun-oc
+"Guayaquil"-properNoun-oc "Guayaquil"-properNoun-ca
+"Guayaquil"-properNoun-ca "Guayaquil"-properNoun-oc
+"Guèldres"-properNoun-oc "Gelderland"-properNoun-ca
+"Gelderland"-properNoun-ca "Guèldres"-properNoun-oc
+"Gòbi"-properNoun-oc "Gobi"-properNoun-ca
+"Gobi"-properNoun-ca "Gòbi"-properNoun-oc
+"Haarlem"-properNoun-oc "Haarlem"-properNoun-ca
+"Haarlem"-properNoun-ca "Haarlem"-properNoun-oc
+"Haidarabad"-properNoun-oc "Hyderabad"-properNoun-ca
+"Hyderabad"-properNoun-ca "Haidarabad"-properNoun-oc
+"Haifa"-properNoun-oc "Haifa"-properNoun-ca
+"Haifa"-properNoun-oc "Heifa"-properNoun-ca
+"Haifa"-properNoun-ca "Haifa"-properNoun-oc
+"Heifa"-properNoun-ca "Haifa"-properNoun-oc
+"Hangzhou"-properNoun-oc "Hangzhou"-properNoun-ca
+"Hangzhou"-properNoun-ca "Hangzhou"-properNoun-oc
+"Harbin"-properNoun-oc "Harbin"-properNoun-ca
+"Harbin"-properNoun-ca "Harbin"-properNoun-oc
+"Hiiumaa"-properNoun-oc "Hiiumaa"-properNoun-ca
+"Hiiumaa"-properNoun-ca "Hiiumaa"-properNoun-oc
+"Ho Chi Minh"-properNoun-oc "Ho Chi Minh"-properNoun-ca
+"Ho Chi Minh"-properNoun-ca "Ho Chi Minh"-properNoun-oc
+"Ho Chi Minh"-properNoun-ca "Ciutat Ho Chi Minh"-properNoun-oc
+"Ciutat Ho Chi Minh"-properNoun-oc "Ho Chi Minh"-properNoun-ca
+"Honiara"-properNoun-oc "Honiara"-properNoun-ca
+"Honiara"-properNoun-ca "Honiara"-properNoun-oc
+"Honshu"-properNoun-oc "Honshu"-properNoun-ca
+"Honshu"-properNoun-ca "Honshu"-properNoun-oc
+"Huanghe"-properNoun-oc "Huang He"-properNoun-ca
+"Huang He"-properNoun-ca "Huanghe"-properNoun-oc
+"Huang He"-properNoun-ca "Huang He"-properNoun-oc
+"Huang He"-properNoun-oc "Huang He"-properNoun-ca
+"Iekaterinburg"-properNoun-oc "Iekaterinburg"-properNoun-ca
+"Iekaterinburg"-properNoun-oc "Jekaterinburg"-properNoun-ca
+"Iekaterinburg"-properNoun-ca "Iekaterinburg"-properNoun-oc
+"Jekaterinburg"-properNoun-ca "Iekaterinburg"-properNoun-oc
+"IJsselmeer"-properNoun-oc "IJsselmeer"-properNoun-ca
+"IJsselmeer"-properNoun-ca "IJsselmeer"-properNoun-oc
+"illa de Pascas"-properNoun-oc "illa de Pasqua"-properNoun-ca
+"illa de Pasqua"-properNoun-ca "illa de Pascas"-properNoun-oc
+"illas Balearas e Pitiusas"-properNoun-oc "illes Balears i Pitiüses"-properNoun-ca
+"illes Balears i Pitiüses"-properNoun-ca "illas Balearas e Pitiusas"-properNoun-oc
+"illes Balears i Pitiüses"-properNoun-ca "illas Balearas e Pitiüsas"-properNoun-oc
+"illas Balearas e Pitiüsas"-properNoun-oc "illes Balears i Pitiüses"-properNoun-ca
+"illas Bounty"-properNoun-oc "illes Bounty"-properNoun-ca
+"illes Bounty"-properNoun-ca "illas Bounty"-properNoun-oc
+"illas de la Societat"-properNoun-oc "illes de la Societat"-properNoun-ca
+"illes de la Societat"-properNoun-ca "illas de la Societat"-properNoun-oc
+"illas Ionianas"-properNoun-oc "illes Jòniques"-properNoun-ca
+"illes Jòniques"-properNoun-ca "illas Ionianas"-properNoun-oc
+"illas Verges"-properNoun-oc "illes Verges"-properNoun-ca
+"illes Verges"-properNoun-ca "illas Verges"-properNoun-oc
+"Impèria"-properNoun-oc "Imperia"-properNoun-ca
+"Imperia"-properNoun-ca "Impèria"-properNoun-oc
+"Indus"-properNoun-oc "Indis"-properNoun-ca
+"Indis"-properNoun-ca "Indus"-properNoun-oc
+"Ingoshia"-properNoun-oc "Ingúixia"-properNoun-ca
+"Ingúixia"-properNoun-ca "Ingoshia"-properNoun-oc
+"Ioánnina"-properNoun-ca "Ioannina"-properNoun-oc
+"Irauadi"-properNoun-oc "Irauadi"-properNoun-ca
+"Irauadi"-properNoun-oc "Erawadi"-properNoun-ca
+"Irauadi"-properNoun-ca "Irauadi"-properNoun-oc
+"Erawadi"-properNoun-ca "Irauadi"-properNoun-oc
+"Irian Jaya"-properNoun-oc "Irian Jaya"-properNoun-ca
+"Irian Jaya"-properNoun-ca "Irian Jaya"-properNoun-oc
+"Irkutsk"-properNoun-oc "Irkustk"-properNoun-ca
+"Irkustk"-properNoun-ca "Irkutsk"-properNoun-oc
+"Irtysh"-properNoun-oc "Irtyix"-properNoun-ca
+"Irtysh"-properNoun-oc "Irtys"-properNoun-ca
+"Irtysh"-properNoun-oc "Irtyš"-properNoun-ca
+"Irtyix"-properNoun-ca "Irtysh"-properNoun-oc
+"Irtyix"-properNoun-ca "Ertis"-properNoun-oc
+"Irtys"-properNoun-ca "Irtysh"-properNoun-oc
+"Irtyš"-properNoun-ca "Irtysh"-properNoun-oc
+"Ertis"-properNoun-oc "Irtyix"-properNoun-ca
+"Ismaïlia"-properNoun-oc "Ismailia"-properNoun-ca
+"Ismailia"-properNoun-ca "Ismaïlia"-properNoun-oc
+"Isèure"-properNoun-oc "Yzeure"-properNoun-ca
+"Yzeure"-properNoun-ca "Isèure"-properNoun-oc
+"Jacetània"-properNoun-oc "Jacetània"-properNoun-ca
+"Jacetània"-properNoun-ca "Jacetània"-properNoun-oc
+"Jayapura"-properNoun-oc "Jayapura"-properNoun-ca
+"Jayapura"-properNoun-ca "Jayapura"-properNoun-oc
+"Jericò"-properNoun-oc "Jericó"-properNoun-ca
+"Jericó"-properNoun-ca "Jericò"-properNoun-oc
+"Jidda"-properNoun-oc "Jidda"-properNoun-ca
+"Jidda"-properNoun-oc "Gidda"-properNoun-ca
+"Jidda"-properNoun-ca "Jidda"-properNoun-oc
+"Gidda"-properNoun-ca "Jidda"-properNoun-oc
+"Jilin"-properNoun-oc "Jilin"-properNoun-ca
+"Jilin"-properNoun-ca "Jilin"-properNoun-oc
+"Jinan"-properNoun-oc "Jinan"-properNoun-ca
+"Jinan"-properNoun-ca "Jinan"-properNoun-oc
+"Jutlàndia"-properNoun-oc "Jutlàndia"-properNoun-ca
+"Jutlàndia"-properNoun-ca "Jutlàndia"-properNoun-oc
+"Jèrba"-properNoun-oc "Gerba"-properNoun-ca
+"Jèrba"-properNoun-oc "Djerba"-properNoun-ca
+"Gerba"-properNoun-ca "Jèrba"-properNoun-oc
+"Djerba"-properNoun-ca "Jèrba"-properNoun-oc
+"K2"-properNoun-oc "K2"-properNoun-ca
+"K2"-properNoun-ca "K2"-properNoun-oc
+"K2"-properNoun-ca "Dapsang"-properNoun-oc
+"Dapsang"-properNoun-oc "K2"-properNoun-ca
+"Kalahari"-properNoun-oc "Kalahari"-properNoun-ca
+"Kalahari"-properNoun-ca "Kalahari"-properNoun-oc
+"Kamchatka"-properNoun-oc "Kamcatka"-properNoun-ca
+"Kamcatka"-properNoun-ca "Kamchatka"-properNoun-oc
+"Kansas City"-properNoun-oc "Kansas City"-properNoun-ca
+"Kansas City"-properNoun-ca "Kansas City"-properNoun-oc
+"Kergelenn"-properNoun-oc "Kerguelen"-properNoun-ca
+"Kerguelen"-properNoun-ca "Kergelenn"-properNoun-oc
+"Kerguelen"-properNoun-ca "Kerguelen"-properNoun-oc
+"Kerguelen"-properNoun-oc "Kerguelen"-properNoun-ca
+"Kermadeg"-properNoun-oc "Kermadec"-properNoun-ca
+"Kermadec"-properNoun-ca "Kermadeg"-properNoun-oc
+"Kermadec"-properNoun-ca "Kermadec"-properNoun-oc
+"Kermadec"-properNoun-oc "Kermadec"-properNoun-ca
+"Khabarovsk"-properNoun-oc "Khabàrovsk"-properNoun-ca
+"Khabarovsk"-properNoun-oc "Khabarovsk"-properNoun-ca
+"Khabàrovsk"-properNoun-ca "Khabarovsk"-properNoun-oc
+"Khabarovsk"-properNoun-ca "Khabarovsk"-properNoun-oc
+"Kharkiv"-properNoun-oc "Khàrkiv"-properNoun-ca
+"Kharkiv"-properNoun-oc "Kharkiv"-properNoun-ca
+"Khàrkiv"-properNoun-ca "Kharkiv"-properNoun-oc
+"Khàrkiv"-properNoun-ca "Kharkòv"-properNoun-oc
+"Kharkiv"-properNoun-ca "Kharkiv"-properNoun-oc
+"Kharkòv"-properNoun-oc "Khàrkiv"-properNoun-ca
+"Kilimanjaro"-properNoun-oc "Kilimanjaro"-properNoun-ca
+"Kilimanjaro"-properNoun-ca "Kilimanjaro"-properNoun-oc
+"Kingstown"-properNoun-oc "Kingstown"-properNoun-ca
+"Kingstown"-properNoun-ca "Kingstown"-properNoun-oc
+"Kirkuk"-properNoun-oc "Kirkuk"-properNoun-ca
+"Kirkuk"-properNoun-ca "Kirkuk"-properNoun-oc
+"Kitakyushu"-properNoun-oc "Kitakyushu"-properNoun-ca
+"Kitakyushu"-properNoun-ca "Kitakyushu"-properNoun-oc
+"Kobe"-properNoun-oc "Kobe"-properNoun-ca
+"Kobe"-properNoun-ca "Kobe"-properNoun-oc
+"Koror"-properNoun-oc "Koror"-properNoun-ca
+"Koror"-properNoun-ca "Koror"-properNoun-oc
+"Königsberg"-properNoun-oc "Königsberg"-properNoun-ca
+"Königsberg"-properNoun-ca "Königsberg"-properNoun-oc
+"Königsberg"-properNoun-ca "Königsbarg"-properNoun-oc
+"Königsbarg"-properNoun-oc "Königsberg"-properNoun-ca
+"Kyushu"-properNoun-oc "Kyushu"-properNoun-ca
+"Kyushu"-properNoun-ca "Kyushu"-properNoun-oc
+"La Canèa"-properNoun-oc "Canea"-properNoun-ca
+"La Canèa"-properNoun-oc "la Canea"-properNoun-ca
+"Canea"-properNoun-ca "La Canèa"-properNoun-oc
+"la Canea"-properNoun-ca "La Canèa"-properNoun-oc
+"La Rioja"-properNoun-oc "la Rioja"-properNoun-ca
+"la Rioja"-properNoun-ca "La Rioja"-properNoun-oc
+"La Valeta"-properNoun-oc "la Valletta"-properNoun-ca
+"la Valletta"-properNoun-ca "La Valeta"-properNoun-oc
+"Lacadivas"-properNoun-oc "Lakshadweep"-properNoun-ca
+"Lakshadweep"-properNoun-ca "Lacadivas"-properNoun-oc
+"lac Balqash"-properNoun-oc "llac Balkhaix"-properNoun-ca
+"lac Balqash"-properNoun-oc "llac Balkhas"-properNoun-ca
+"lac Balqash"-properNoun-oc "llac Balkhaš"-properNoun-ca
+"llac Balkhaix"-properNoun-ca "lac Balqash"-properNoun-oc
+"llac Balkhas"-properNoun-ca "lac Balqash"-properNoun-oc
+"llac Balkhaš"-properNoun-ca "lac Balqash"-properNoun-oc
+"lac de Tiberiàs"-properNoun-oc "llac de Tiberíades"-properNoun-ca
+"llac de Tiberíades"-properNoun-ca "lac de Tiberiàs"-properNoun-oc
+"lac Ladoga"-properNoun-oc "llac Làdoga"-properNoun-ca
+"llac Làdoga"-properNoun-ca "lac Ladoga"-properNoun-oc
+"llac Làdoga"-properNoun-ca "lac Laatokka"-properNoun-oc
+"lac Laatokka"-properNoun-oc "llac Làdoga"-properNoun-ca
+"lac Leman"-properNoun-oc "llac Líman"-properNoun-ca
+"llac Líman"-properNoun-ca "lac Leman"-properNoun-oc
+"llac Líman"-properNoun-ca "lac de Genèva"-properNoun-oc
+"lac de Genèva"-properNoun-oc "llac Líman"-properNoun-ca
+"lac Malawi"-properNoun-oc "llac Malawi"-properNoun-ca
+"llac Malawi"-properNoun-ca "lac Malawi"-properNoun-oc
+"lac Michigan"-properNoun-oc "llac Michigan"-properNoun-ca
+"llac Michigan"-properNoun-ca "lac Michigan"-properNoun-oc
+"lac Nyasa"-properNoun-oc "llac Nyasa"-properNoun-ca
+"llac Nyasa"-properNoun-ca "lac Nyasa"-properNoun-oc
+"lac Onega"-properNoun-oc "llac Onega"-properNoun-ca
+"llac Onega"-properNoun-ca "lac Onega"-properNoun-oc
+"llac Onega"-properNoun-ca "lac Ääninen"-properNoun-oc
+"lac Ääninen"-properNoun-oc "llac Onega"-properNoun-ca
+"lac Ontàrio"-properNoun-oc "llac Ontario"-properNoun-ca
+"llac Ontario"-properNoun-ca "lac Ontàrio"-properNoun-oc
+"lac Superior"-properNoun-oc "llac Superior"-properNoun-ca
+"llac Superior"-properNoun-ca "lac Superior"-properNoun-oc
+"lac Tanganyika"-properNoun-oc "llac Tanganyika"-properNoun-ca
+"llac Tanganyika"-properNoun-ca "lac Tanganyika"-properNoun-oc
+"lac Titicaca"-properNoun-oc "llac Titicaca"-properNoun-ca
+"llac Titicaca"-properNoun-ca "lac Titicaca"-properNoun-oc
+"lac Turkana"-properNoun-oc "llac Turkana"-properNoun-ca
+"llac Turkana"-properNoun-ca "lac Turkana"-properNoun-oc
+"lac Victòria"-properNoun-oc "llac Victòria"-properNoun-ca
+"llac Victòria"-properNoun-ca "lac Victòria"-properNoun-oc
+"lac Winnipeg"-properNoun-oc "llac Winnipeg"-properNoun-ca
+"llac Winnipeg"-properNoun-ca "lac Winnipeg"-properNoun-oc
+"lac Èrie"-properNoun-oc "llac Erie"-properNoun-ca
+"llac Erie"-properNoun-ca "lac Èrie"-properNoun-oc
+"Lahaur"-properNoun-oc "Lahaur"-properNoun-ca
+"Lahaur"-properNoun-oc "Lahore"-properNoun-ca
+"Lahaur"-properNoun-ca "Lahaur"-properNoun-oc
+"Lahaur"-properNoun-ca "Lahòre"-properNoun-oc
+"Lahore"-properNoun-ca "Lahaur"-properNoun-oc
+"Lahòre"-properNoun-oc "Lahaur"-properNoun-ca
+"Lakhnau"-properNoun-oc "Lucknow"-properNoun-ca
+"Lakhnau"-properNoun-oc "Lakhnau"-properNoun-ca
+"Lucknow"-properNoun-ca "Lakhnau"-properNoun-oc
+"Lucknow"-properNoun-ca "Lucknow"-properNoun-oc
+"Lakhnau"-properNoun-ca "Lakhnau"-properNoun-oc
+"Lucknow"-properNoun-oc "Lucknow"-properNoun-ca
+"Lampedosa"-properNoun-oc "Lampedusa"-properNoun-ca
+"Lampedusa"-properNoun-ca "Lampedosa"-properNoun-oc
+"Lanzhou"-properNoun-oc "Lanzhou"-properNoun-ca
+"Lanzhou"-properNoun-ca "Lanzhou"-properNoun-oc
+"Lens"-properNoun-oc "Lens"-properNoun-ca
+"Lens"-properNoun-ca "Lens"-properNoun-oc
+"Levant de Malhòrca"-properNoun-oc "Llevant de Mallorca"-properNoun-ca
+"Llevant de Mallorca"-properNoun-ca "Levant de Malhòrca"-properNoun-oc
+"Levant"-properNoun-oc "Llevant"-properNoun-ca
+"Llevant"-properNoun-ca "Levant"-properNoun-oc
+"Ligorna"-properNoun-oc "Liorna"-properNoun-ca
+"Liorna"-properNoun-ca "Ligorna"-properNoun-oc
+"Lilongwe"-properNoun-oc "Lilongwe"-properNoun-ca
+"Lilongwe"-properNoun-ca "Lilongwe"-properNoun-oc
+"Limassòl"-properNoun-oc "Limassol"-properNoun-ca
+"Limassol"-properNoun-ca "Limassòl"-properNoun-oc
+"Limborg"-properNoun-oc "Limburg"-properNoun-ca
+"Limburg"-properNoun-ca "Limborg"-properNoun-oc
+"Ljouwert"-properNoun-oc "Ljouwert"-properNoun-ca
+"Ljouwert"-properNoun-oc "Leeuwarden"-properNoun-ca
+"Ljouwert"-properNoun-ca "Ljouwert"-properNoun-oc
+"Ljouwert"-properNoun-ca "Leeuwarden"-properNoun-oc
+"Leeuwarden"-properNoun-ca "Ljouwert"-properNoun-oc
+"Leeuwarden"-properNoun-oc "Ljouwert"-properNoun-ca
+"Llitera"-properNoun-oc "Llitera"-properNoun-ca
+"Llitera"-properNoun-ca "Llitera"-properNoun-oc
+"Lomí"-properNoun-oc "Lomí"-properNoun-ca
+"Lomí"-properNoun-ca "Lomí"-properNoun-oc
+"Lucèrna"-properNoun-oc "Lucerna"-properNoun-ca
+"Lucerna"-properNoun-ca "Lucèrna"-properNoun-oc
+"Luhansk"-properNoun-oc "Luhansk"-properNoun-ca
+"Luhansk"-properNoun-ca "Luhansk"-properNoun-oc
+"l'Aia"-properNoun-oc "l'Haia"-properNoun-ca
+"l'Haia"-properNoun-ca "l'Aia"-properNoun-oc
+"Madràs"-properNoun-oc "Madràs"-properNoun-ca
+"Madràs"-properNoun-ca "Madràs"-properNoun-oc
+"Madura"-properNoun-oc "Madura"-properNoun-ca
+"Madura"-properNoun-ca "Madura"-properNoun-oc
+"Maestrat"-properNoun-oc "Maestrat"-properNoun-ca
+"Maestrat"-properNoun-ca "Maestrat"-properNoun-oc
+"Magrèb"-properNoun-oc "Mogreb"-properNoun-ca
+"Magrèb"-properNoun-oc "Mogrib"-properNoun-ca
+"Mogreb"-properNoun-ca "Magrèb"-properNoun-oc
+"Mogrib"-properNoun-ca "Magrèb"-properNoun-oc
+"Male"-properNoun-oc "Male"-properNoun-ca
+"Male"-properNoun-ca "Male"-properNoun-oc
+"Malinas"-properNoun-oc "Malines"-properNoun-ca
+"Malines"-properNoun-ca "Malinas"-properNoun-oc
+"Maputo"-properNoun-oc "Maputo"-properNoun-ca
+"Maputo"-properNoun-ca "Maputo"-properNoun-oc
+"Maracaibo"-properNoun-oc "Maracaibo"-properNoun-ca
+"Maracaibo"-properNoun-ca "Maracaibo"-properNoun-oc
+"mar Blanca"-properNoun-oc "mar Blanca"-properNoun-ca
+"mar Blanca"-properNoun-ca "mar Blanca"-properNoun-oc
+"mar de Bering"-properNoun-oc "mar de Bering"-properNoun-ca
+"mar de Bering"-properNoun-ca "mar de Bering"-properNoun-oc
+"mar de China Meridionala"-properNoun-oc "mar de la Xina Meridional"-properNoun-ca
+"mar de la Xina Meridional"-properNoun-ca "mar de China Meridionala"-properNoun-oc
+"mar de China Orientala"-properNoun-oc "mar de la Xina Oriental"-properNoun-ca
+"mar de la Xina Oriental"-properNoun-ca "mar de China Orientala"-properNoun-oc
+"mar de Kara"-properNoun-oc "mar de Kara"-properNoun-ca
+"mar de Kara"-properNoun-ca "mar de Kara"-properNoun-oc
+"mar de l'Scotia"-properNoun-oc "mar de l'Scotia"-properNoun-ca
+"mar de l'Scotia"-properNoun-oc "mar de Scotia"-properNoun-ca
+"mar de l'Scotia"-properNoun-oc "mar d'Scotia"-properNoun-ca
+"mar de l'Scotia"-properNoun-ca "mar de l'Scotia"-properNoun-oc
+"mar de Scotia"-properNoun-ca "mar de l'Scotia"-properNoun-oc
+"mar d'Scotia"-properNoun-ca "mar de l'Scotia"-properNoun-oc
+"mar de l'Èst"-properNoun-oc "mar de l'Est"-properNoun-ca
+"mar de l'Est"-properNoun-ca "mar de l'Èst"-properNoun-oc
+"mar de Norvègia"-properNoun-oc "mar de Noruega"-properNoun-ca
+"mar de Noruega"-properNoun-ca "mar de Norvègia"-properNoun-oc
+"mar de Weddell"-properNoun-oc "mar de Weddell"-properNoun-ca
+"mar de Weddell"-properNoun-ca "mar de Weddell"-properNoun-oc
+"mar dels Laptevs"-properNoun-oc "mar de Laptev"-properNoun-ca
+"mar de Laptev"-properNoun-ca "mar dels Laptevs"-properNoun-oc
+"mar dels Sargasses"-properNoun-oc "mar dels Sargassos"-properNoun-ca
+"mar dels Sargassos"-properNoun-ca "mar dels Sargasses"-properNoun-oc
+"mar d'Okhotsk"-properNoun-oc "mar d'Okhotsk"-properNoun-ca
+"mar d'Okhotsk"-properNoun-ca "mar d'Okhotsk"-properNoun-oc
+"mar d'Oman"-properNoun-oc "mar d'Oman"-properNoun-ca
+"mar d'Oman"-properNoun-ca "mar d'Oman"-properNoun-oc
+"mar Ioniana"-properNoun-oc "mar Jònica"-properNoun-ca
+"mar Ioniana"-properNoun-oc "mar Jònic"-properNoun-ca
+"mar Jònica"-properNoun-ca "mar Ioniana"-properNoun-oc
+"mar Jònic"-properNoun-ca "mar Ioniana"-properNoun-oc
+"mar Negra"-properNoun-oc "mar Negra"-properNoun-ca
+"mar Negra"-properNoun-ca "mar Negra"-properNoun-oc
+"mar Roja"-properNoun-oc "mar Roja"-properNoun-ca
+"mar Roja"-properNoun-ca "mar Roja"-properNoun-oc
+"Mari Èl"-properNoun-oc "Mari El"-properNoun-ca
+"Mari El"-properNoun-ca "Mari Èl"-properNoun-oc
+"Marquesas"-properNoun-oc "Marqueses"-properNoun-ca
+"Marqueses"-properNoun-ca "Marquesas"-properNoun-oc
+"Marïupol"-properNoun-oc "Mariupol"-properNoun-ca
+"Mariupol"-properNoun-ca "Marïupol"-properNoun-oc
+"Mascat"-properNoun-oc "Masqat"-properNoun-ca
+"Masqat"-properNoun-ca "Mascat"-properNoun-oc
+"Mashhad"-properNoun-oc "Mashhad"-properNoun-ca
+"Mashhad"-properNoun-ca "Mashhad"-properNoun-oc
+"Massachussets"-properNoun-oc "Massachussets"-properNoun-ca
+"Massachussets"-properNoun-ca "Massachussets"-properNoun-oc
+"Matarranya"-properNoun-oc "Matarranya"-properNoun-ca
+"Matarranya"-properNoun-ca "Matarranya"-properNoun-oc
+"Matterhorn"-properNoun-oc "Matterhorn"-properNoun-ca
+"Matterhorn"-properNoun-ca "Matterhorn"-properNoun-oc
+"Mauriana"-properNoun-oc "Maurienne"-properNoun-ca
+"Maurienne"-properNoun-ca "Mauriana"-properNoun-oc
+"Mazúria"-properNoun-oc "Mazury"-properNoun-ca
+"Mazúria"-properNoun-oc "Masúria"-properNoun-ca
+"Mazúria"-properNoun-oc "Mazúria"-properNoun-ca
+"Mazury"-properNoun-ca "Mazúria"-properNoun-oc
+"Masúria"-properNoun-ca "Mazúria"-properNoun-oc
+"Mazúria"-properNoun-ca "Mazúria"-properNoun-oc
+"Meclemborg"-properNoun-oc "Mecklenburg"-properNoun-ca
+"Mecklenburg"-properNoun-ca "Meclemborg"-properNoun-oc
+"Meknès"-properNoun-oc "Meknès"-properNoun-ca
+"Meknès"-properNoun-ca "Meknès"-properNoun-oc
+"Mekong"-properNoun-oc "Mekong"-properNoun-ca
+"Mekong"-properNoun-ca "Mekong"-properNoun-oc
+"Milanís"-properNoun-oc "Milanesat"-properNoun-ca
+"Milanesat"-properNoun-ca "Milanís"-properNoun-oc
+"Mitilena"-properNoun-oc "Mitilene"-properNoun-ca
+"Mitilene"-properNoun-ca "Mitilena"-properNoun-oc
+"Miègjorn de Malhòrca"-properNoun-oc "Migjorn de Mallorca"-properNoun-ca
+"Migjorn de Mallorca"-properNoun-ca "Miègjorn de Malhòrca"-properNoun-oc
+"Migjorn de Mallorca"-properNoun-ca "Miegjorn de Malhòrca"-properNoun-oc
+"Miegjorn de Malhòrca"-properNoun-oc "Migjorn de Mallorca"-properNoun-ca
+"Miègjorn"-properNoun-oc "Migdia"-properNoun-ca
+"Migdia"-properNoun-ca "Miègjorn"-properNoun-oc
+"Migdia"-properNoun-ca "Miegjorn"-properNoun-oc
+"Miegjorn"-properNoun-oc "Migdia"-properNoun-ca
+"Mogadisho"-properNoun-oc "Muqdiisho"-properNoun-ca
+"Mogadisho"-properNoun-oc "Mogadiscio"-properNoun-ca
+"Mogadisho"-properNoun-oc "Mogadishu"-properNoun-ca
+"Muqdiisho"-properNoun-ca "Mogadisho"-properNoun-oc
+"Mogadiscio"-properNoun-ca "Mogadisho"-properNoun-oc
+"Mogadishu"-properNoun-ca "Mogadisho"-properNoun-oc
+"Molise"-properNoun-oc "Molise"-properNoun-ca
+"Molise"-properNoun-ca "Molise"-properNoun-oc
+"Molucas"-properNoun-oc "Moluques"-properNoun-ca
+"Moluques"-properNoun-ca "Molucas"-properNoun-oc
+"Mondví"-properNoun-oc "Mondovì"-properNoun-ca
+"Mondovì"-properNoun-ca "Mondví"-properNoun-oc
+"Mongolia Interiora"-properNoun-oc "Mongòlia Interior"-properNoun-ca
+"Mongòlia Interior"-properNoun-ca "Mongolia Interiora"-properNoun-oc
+"montanhas Rocosas"-properNoun-oc "untanyes Rocalloses"-properNoun-ca
+"untanyes Rocalloses"-properNoun-ca "montanhas Rocosas"-properNoun-oc
+"mont Blanc"-properNoun-oc "mont Blanc"-properNoun-ca
+"mont Blanc"-properNoun-ca "mont Blanc"-properNoun-oc
+"mont Cervin"-properNoun-oc "mont Cervin"-properNoun-ca
+"mont Cervin"-properNoun-ca "mont Cervin"-properNoun-oc
+"mont Everest"-properNoun-oc "mont Everest"-properNoun-ca
+"mont Everest"-properNoun-ca "mont Everest"-properNoun-oc
+"mont Kenya"-properNoun-oc "mont Kenya"-properNoun-ca
+"mont Kenya"-properNoun-ca "mont Kenya"-properNoun-oc
+"mont McKinley"-properNoun-oc "mont McKinley"-properNoun-ca
+"mont McKinley"-properNoun-ca "mont McKinley"-properNoun-oc
+"mont Sinai"-properNoun-oc "mont Sinaí"-properNoun-ca
+"mont Sinaí"-properNoun-ca "mont Sinai"-properNoun-oc
+"mont Sinaí"-properNoun-ca "mont Sinaí"-properNoun-oc
+"mont Sinaí"-properNoun-oc "mont Sinaí"-properNoun-ca
+"Montferrat"-properNoun-oc "Montferrat"-properNoun-ca
+"Montferrat"-properNoun-ca "Montferrat"-properNoun-oc
+"Montríal"-properNoun-oc "Mont-real"-properNoun-ca
+"Mont-real"-properNoun-ca "Montríal"-properNoun-oc
+"Morvedre"-properNoun-oc "Morvedre"-properNoun-ca
+"Morvedre"-properNoun-ca "Morvedre"-properNoun-oc
+"Morèa"-properNoun-oc "Morea"-properNoun-ca
+"Morea"-properNoun-ca "Morèa"-properNoun-oc
+"Moscòva"-properNoun-oc "Moskva"-properNoun-ca
+"Moskva"-properNoun-ca "Moscòva"-properNoun-oc
+"Mostaganèm"-properNoun-oc "Mestghanem"-properNoun-ca
+"Mostaganèm"-properNoun-oc "Mostaganem"-properNoun-ca
+"Mestghanem"-properNoun-ca "Mostaganèm"-properNoun-oc
+"Mostaganem"-properNoun-ca "Mostaganèm"-properNoun-oc
+"Mukden"-properNoun-oc "Mukden"-properNoun-ca
+"Mukden"-properNoun-ca "Mukden"-properNoun-oc
+"Muntènia"-properNoun-oc "Muntènia"-properNoun-ca
+"Muntènia"-properNoun-ca "Muntènia"-properNoun-oc
+"Mwali"-properNoun-oc "Mwali"-properNoun-ca
+"Mwali"-properNoun-oc "Mohíli"-properNoun-ca
+"Mwali"-properNoun-ca "Mwali"-properNoun-oc
+"Mwali"-properNoun-ca "Mohíli"-properNoun-oc
+"Mohíli"-properNoun-ca "Mwali"-properNoun-oc
+"Mohíli"-properNoun-oc "Mwali"-properNoun-ca
+"Môn"-properNoun-oc "Anglesey"-properNoun-ca
+"Anglesey"-properNoun-ca "Môn"-properNoun-oc
+"Anglesey"-properNoun-ca "Anglesey"-properNoun-oc
+"Anglesey"-properNoun-oc "Anglesey"-properNoun-ca
+"Mykolaiiv"-properNoun-oc "Mykolàiiv"-properNoun-ca
+"Mykolaiiv"-properNoun-oc "Mikolaiv"-properNoun-ca
+"Mykolaiiv"-properNoun-oc "Mykolajiv"-properNoun-ca
+"Mykolàiiv"-properNoun-ca "Mykolaiiv"-properNoun-oc
+"Mikolaiv"-properNoun-ca "Mykolaiiv"-properNoun-oc
+"Mykolajiv"-properNoun-ca "Mykolaiiv"-properNoun-oc
+"Nagpur"-properNoun-oc "Nagpur"-properNoun-ca
+"Nagpur"-properNoun-ca "Nagpur"-properNoun-oc
+"Nanchang"-properNoun-oc "Nanchang"-properNoun-ca
+"Nanchang"-properNoun-ca "Nanchang"-properNoun-oc
+"Nanquin"-properNoun-oc "Nanquín"-properNoun-ca
+"Nanquín"-properNoun-ca "Nanquin"-properNoun-oc
+"Naplosa"-properNoun-oc "Nabulus"-properNoun-ca
+"Nabulus"-properNoun-ca "Naplosa"-properNoun-oc
+"Nicobar"-properNoun-oc "Nicobar"-properNoun-ca
+"Nicobar"-properNoun-ca "Nicobar"-properNoun-oc
+"Nicomèdia"-properNoun-oc "Nicomèdia"-properNoun-ca
+"Nicomèdia"-properNoun-ca "Nicomèdia"-properNoun-oc
+"Nil Blanc"-properNoun-oc "Nil Blanc"-properNoun-ca
+"Nil Blanc"-properNoun-oc "Bahr al-Gazal"-properNoun-ca
+"Nil Blanc"-properNoun-ca "Nil Blanc"-properNoun-oc
+"Bahr al-Gazal"-properNoun-ca "Nil Blanc"-properNoun-oc
+"Nil Blau"-properNoun-oc "Nil Blau"-properNoun-ca
+"Nil Blau"-properNoun-oc "Bahr al-Azraq"-properNoun-ca
+"Nil Blau"-properNoun-ca "Nil Blau"-properNoun-oc
+"Bahr al-Azraq"-properNoun-ca "Nil Blau"-properNoun-oc
+"Nivernís"-properNoun-oc "Nivernès"-properNoun-ca
+"Nivernès"-properNoun-ca "Nivernís"-properNoun-oc
+"Nizhnii Novgorod"-properNoun-oc "Nijni Nóvgorod"-properNoun-ca
+"Nizhnii Novgorod"-properNoun-oc "Nižnij Novgorod"-properNoun-ca
+"Nizhnii Novgorod"-properNoun-oc "Niznij Novgorod"-properNoun-ca
+"Nijni Nóvgorod"-properNoun-ca "Nizhnii Novgorod"-properNoun-oc
+"Nižnij Novgorod"-properNoun-ca "Nizhnii Novgorod"-properNoun-oc
+"Niznij Novgorod"-properNoun-ca "Nizhnii Novgorod"-properNoun-oc
+"Nouakchott"-properNoun-oc "Nouakchott"-properNoun-ca
+"Nouakchott"-properNoun-ca "Nouakchott"-properNoun-oc
+"Nouakchott"-properNoun-ca "Nuakshut"-properNoun-oc
+"Nuakshut"-properNoun-oc "Nouakchott"-properNoun-ca
+"Novokuznetzk"-properNoun-oc "Novokuznetzk"-properNoun-ca
+"Novokuznetzk"-properNoun-ca "Novokuznetzk"-properNoun-oc
+"Nuku'alofa"-properNoun-oc "Nuku'alofa"-properNoun-ca
+"Nuku'alofa"-properNoun-ca "Nuku'alofa"-properNoun-oc
+"Nuuk"-properNoun-oc "Nuuk"-properNoun-ca
+"Nuuk"-properNoun-ca "Nuuk"-properNoun-oc
+"N'Djamena"-properNoun-oc "N'Djamena"-properNoun-ca
+"N'Djamena"-properNoun-ca "N'Djamena"-properNoun-oc
+"Nòva Siberia"-properNoun-oc "Nova Sibèria"-properNoun-ca
+"Nova Sibèria"-properNoun-ca "Nòva Siberia"-properNoun-oc
+"Nòva Zembla"-properNoun-oc "Nova Terra"-properNoun-ca
+"Nòva Zembla"-properNoun-oc "Nova Zembla"-properNoun-ca
+"Nova Terra"-properNoun-ca "Nòva Zembla"-properNoun-oc
+"Nova Zembla"-properNoun-ca "Nòva Zembla"-properNoun-oc
+"Obangui"-properNoun-oc "Ubangui"-properNoun-ca
+"Obangui"-properNoun-oc "Ubangi"-properNoun-ca
+"Ubangui"-properNoun-ca "Obangui"-properNoun-oc
+"Ubangi"-properNoun-ca "Obangui"-properNoun-oc
+"O Porto"-properNoun-oc "Oporto"-properNoun-ca
+"Oporto"-properNoun-ca "O Porto"-properNoun-oc
+"ocean Artic"-properNoun-oc "oceà Àrtic"-properNoun-ca
+"oceà Àrtic"-properNoun-ca "ocean Artic"-properNoun-oc
+"Oder"-properNoun-oc "Oder"-properNoun-ca
+"Oder"-properNoun-ca "Oder"-properNoun-oc
+"Odra"-properNoun-oc "Odra"-properNoun-ca
+"Odra"-properNoun-ca "Odra"-properNoun-oc
+"Odèssa"-properNoun-oc "Odessa"-properNoun-ca
+"Odessa"-properNoun-ca "Odèssa"-properNoun-oc
+"Oltènia"-properNoun-oc "Oltènia"-properNoun-ca
+"Oltènia"-properNoun-ca "Oltènia"-properNoun-oc
+"Omsk"-properNoun-oc "Omsk"-properNoun-ca
+"Omsk"-properNoun-ca "Omsk"-properNoun-oc
+"Orcadas del Sud"-properNoun-oc "Òrcades del Sud"-properNoun-ca
+"Òrcades del Sud"-properNoun-ca "Orcadas del Sud"-properNoun-oc
+"Orcadas"-properNoun-oc "Òrcades"-properNoun-ca
+"Òrcades"-properNoun-ca "Orcadas"-properNoun-oc
+"Orleanís"-properNoun-oc "Orleanès"-properNoun-ca
+"Orleanès"-properNoun-ca "Orleanís"-properNoun-oc
+"Ormuz"-properNoun-oc "Ormuz"-properNoun-ca
+"Ormuz"-properNoun-oc "Hormuz"-properNoun-ca
+"Ormuz"-properNoun-ca "Ormuz"-properNoun-oc
+"Hormuz"-properNoun-ca "Ormuz"-properNoun-oc
+"Palembang"-properNoun-oc "Palembang"-properNoun-ca
+"Palembang"-properNoun-ca "Palembang"-properNoun-oc
+"Palma de Malhòrca"-properNoun-oc "Palma de Mallorca"-properNoun-ca
+"Palma de Mallorca"-properNoun-ca "Palma de Malhòrca"-properNoun-oc
+"Palíncia"-properNoun-oc "Palència"-properNoun-ca
+"Palència"-properNoun-ca "Palíncia"-properNoun-oc
+"Pampa"-properNoun-oc "Pampa"-properNoun-ca
+"Pampa"-properNoun-ca "Pampa"-properNoun-oc
+"Papoa Nòva Guinèa"-properNoun-oc "Papua Nova Ginea"-properNoun-ca
+"Papua Nova Ginea"-properNoun-ca "Papoa Nòva Guinèa"-properNoun-oc
+"Paranà"-properNoun-oc "Paranà"-properNoun-ca
+"Paranà"-properNoun-ca "Paranà"-properNoun-oc
+"Patràs"-properNoun-oc "Patres"-properNoun-ca
+"Patres"-properNoun-ca "Patràs"-properNoun-oc
+"Païses de Líger"-properNoun-oc "Països del Loira"-properNoun-ca
+"Països del Loira"-properNoun-ca "Païses de Líger"-properNoun-oc
+"Països del Loira"-properNoun-ca "Païses de Leire"-properNoun-oc
+"Països del Loira"-properNoun-ca "Païses de Leir"-properNoun-oc
+"Païses de Leire"-properNoun-oc "Països del Loira"-properNoun-ca
+"Païses de Leir"-properNoun-oc "Països del Loira"-properNoun-ca
+"peninsula de Kola"-properNoun-oc "península de Kola"-properNoun-ca
+"península de Kola"-properNoun-ca "peninsula de Kola"-properNoun-oc
+"península de Kola"-properNoun-ca "peninsula de Kualok"-properNoun-oc
+"península de Kola"-properNoun-ca "peninsula de Kuâlõk"-properNoun-oc
+"peninsula de Kualok"-properNoun-oc "península de Kola"-properNoun-ca
+"peninsula de Kuâlõk"-properNoun-oc "península de Kola"-properNoun-ca
+"peninsula de Malaca"-properNoun-oc "península de Malacca"-properNoun-ca
+"península de Malacca"-properNoun-ca "peninsula de Malaca"-properNoun-oc
+"peninsula Malaia"-properNoun-oc "península Malaia"-properNoun-ca
+"península Malaia"-properNoun-ca "peninsula Malaia"-properNoun-oc
+"Perm"-properNoun-oc "Perm"-properNoun-ca
+"Perm"-properNoun-oc "Perm'"-properNoun-ca
+"Perm"-properNoun-ca "Perm"-properNoun-oc
+"Perm'"-properNoun-ca "Perm"-properNoun-oc
+"Perosa"-properNoun-oc "Perusa"-properNoun-ca
+"Perusa"-properNoun-ca "Perosa"-properNoun-oc
+"Perth"-properNoun-oc "Perth"-properNoun-ca
+"Perth"-properNoun-ca "Perth"-properNoun-oc
+"Petrozavodsk"-properNoun-oc "Petrozavodsk"-properNoun-ca
+"Petrozavodsk"-properNoun-ca "Petrozavodsk"-properNoun-oc
+"Petrozavodsk"-properNoun-ca "Petroskoi"-properNoun-oc
+"Petroskoi"-properNoun-oc "Petrozavodsk"-properNoun-ca
+"pic Uhuru"-properNoun-oc "pic Uhuru"-properNoun-ca
+"pic Uhuru"-properNoun-ca "pic Uhuru"-properNoun-oc
+"Pichona Polonha"-properNoun-oc "Petita Polònia"-properNoun-ca
+"Petita Polònia"-properNoun-ca "Pichona Polonha"-properNoun-oc
+"Pinde"-properNoun-oc "Pindos"-properNoun-ca
+"Pindos"-properNoun-ca "Pinde"-properNoun-oc
+"Pineròl"-properNoun-oc "Pinerolo"-properNoun-ca
+"Pinerolo"-properNoun-ca "Pineròl"-properNoun-oc
+"Pistòia"-properNoun-oc "Pistoia"-properNoun-ca
+"Pistoia"-properNoun-ca "Pistòia"-properNoun-oc
+"Plana Bassa"-properNoun-oc "Baixa Plana"-properNoun-ca
+"Baixa Plana"-properNoun-ca "Plana Bassa"-properNoun-oc
+"Plan de Malhòrca"-properNoun-oc "Pla de Mallorca"-properNoun-ca
+"Pla de Mallorca"-properNoun-ca "Plan de Malhòrca"-properNoun-oc
+"Plasença"-properNoun-oc "Piacenza"-properNoun-ca
+"Piacenza"-properNoun-ca "Plasença"-properNoun-oc
+"Podlàquia"-properNoun-oc "Podlàquia"-properNoun-ca
+"Podlàquia"-properNoun-ca "Podlàquia"-properNoun-oc
+"Polha"-properNoun-oc "Pulla"-properNoun-ca
+"Pulla"-properNoun-ca "Polha"-properNoun-oc
+"Pulla"-properNoun-ca "Polhas"-properNoun-oc
+"Polhas"-properNoun-oc "Pulla"-properNoun-ca
+"Pomerània"-properNoun-oc "Pomerània"-properNoun-ca
+"Pomerània"-properNoun-ca "Pomerània"-properNoun-oc
+"Port au Prince"-properNoun-oc "Port au Prince"-properNoun-ca
+"Port au Prince"-properNoun-ca "Port au Prince"-properNoun-oc
+"Port au Prince"-properNoun-ca "Port-au-Prince"-properNoun-oc
+"Port-au-Prince"-properNoun-oc "Port au Prince"-properNoun-ca
+"Port Louis"-properNoun-oc "Port Louis"-properNoun-ca
+"Port Louis"-properNoun-ca "Port Louis"-properNoun-oc
+"Port of Spain"-properNoun-oc "Port of Spain"-properNoun-ca
+"Port of Spain"-properNoun-oc "Port-of-Spain"-properNoun-ca
+"Port of Spain"-properNoun-ca "Port of Spain"-properNoun-oc
+"Port-of-Spain"-properNoun-ca "Port of Spain"-properNoun-oc
+"Port Vila"-properNoun-oc "Port Vila"-properNoun-ca
+"Port Vila"-properNoun-ca "Port Vila"-properNoun-oc
+"Porto Novo"-properNoun-oc "Porto Novo"-properNoun-ca
+"Porto Novo"-properNoun-ca "Porto Novo"-properNoun-oc
+"PPCC"-properNoun-oc "PPCC"-properNoun-ca
+"PPCC"-properNoun-ca "PPCC"-properNoun-oc
+"Praia"-properNoun-oc "Praia"-properNoun-ca
+"Praia"-properNoun-ca "Praia"-properNoun-oc
+"Principat de Catalonha"-properNoun-oc "Principat de Catalunya"-properNoun-ca
+"Principat de Catalunya"-properNoun-ca "Principat de Catalonha"-properNoun-oc
+"Principat"-properNoun-oc "Principat"-properNoun-ca
+"Principat"-properNoun-ca "Principat"-properNoun-oc
+"Prishtina"-properNoun-oc "Prishtina"-properNoun-ca
+"Prishtina"-properNoun-oc "Prishtinë"-properNoun-ca
+"Prishtina"-properNoun-oc "Priština"-properNoun-ca
+"Prishtina"-properNoun-ca "Prishtina"-properNoun-oc
+"Prishtina"-properNoun-ca "Prishtinë"-properNoun-oc
+"Prishtina"-properNoun-ca "Pristina"-properNoun-oc
+"Prishtina"-properNoun-ca "Priština"-properNoun-oc
+"Prishtinë"-properNoun-ca "Prishtina"-properNoun-oc
+"Priština"-properNoun-ca "Prishtina"-properNoun-oc
+"Prishtinë"-properNoun-oc "Prishtina"-properNoun-ca
+"Pristina"-properNoun-oc "Prishtina"-properNoun-ca
+"Priština"-properNoun-oc "Prishtina"-properNoun-ca
+"Pune"-properNoun-oc "Pune"-properNoun-ca
+"Pune"-properNoun-ca "Pune"-properNoun-oc
+"Pòrt Saïd"-properNoun-oc "Port Saïd"-properNoun-ca
+"Port Saïd"-properNoun-ca "Pòrt Saïd"-properNoun-oc
+"Pòrts"-properNoun-oc "Ports"-properNoun-ca
+"Ports"-properNoun-ca "Pòrts"-properNoun-oc
+"P'yongyang"-properNoun-ca "Pyeongyang"-properNoun-oc
+"Qarachay Cherquessia"-properNoun-oc "Karatxai-Txerquèssia"-properNoun-ca
+"Qarachay Cherquessia"-properNoun-oc "República dels Karatxais i dels Txerquessos"-properNoun-ca
+"Karatxai-Txerquèssia"-properNoun-ca "Qarachay Cherquessia"-properNoun-oc
+"Karatxai-Txerquèssia"-properNoun-ca "Karachai Cherquessia"-properNoun-oc
+"República dels Karatxais i dels Txerquessos"-properNoun-ca "Qarachay Cherquessia"-properNoun-oc
+"Karachai Cherquessia"-properNoun-oc "Karatxai-Txerquèssia"-properNoun-ca
+"Qaraghandy"-properNoun-oc "Qaraghandy"-properNoun-ca
+"Qaraghandy"-properNoun-oc "Karaganda"-properNoun-ca
+"Qaraghandy"-properNoun-ca "Qaraghandy"-properNoun-oc
+"Qaraghandy"-properNoun-ca "Karaganda"-properNoun-oc
+"Karaganda"-properNoun-ca "Qaraghandy"-properNoun-oc
+"Karaganda"-properNoun-oc "Qaraghandy"-properNoun-ca
+"Qingdao"-properNoun-oc "Qingdao"-properNoun-ca
+"Qingdao"-properNoun-ca "Qingdao"-properNoun-oc
+"Qom"-properNoun-oc "Qom"-properNoun-ca
+"Qom"-properNoun-ca "Qom"-properNoun-oc
+"Quezon City"-properNoun-oc "Quezon City"-properNoun-ca
+"Quezon City"-properNoun-ca "Quezon City"-properNoun-oc
+"Qunaytra"-properNoun-oc "Kenitra"-properNoun-ca
+"Kenitra"-properNoun-ca "Qunaytra"-properNoun-oc
+"Kenitra"-properNoun-ca "Kenitra"-properNoun-oc
+"Kenitra"-properNoun-ca "Kínitra"-properNoun-oc
+"Kenitra"-properNoun-oc "Kenitra"-properNoun-ca
+"Kínitra"-properNoun-oc "Kenitra"-properNoun-ca
+"Raiguer"-properNoun-oc "Raiguer"-properNoun-ca
+"Raiguer"-properNoun-ca "Raiguer"-properNoun-oc
+"Rangon"-properNoun-oc "Yangôn"-properNoun-ca
+"Rangon"-properNoun-oc "Rangoon"-properNoun-ca
+"Yangôn"-properNoun-ca "Rangon"-properNoun-oc
+"Rangoon"-properNoun-ca "Rangon"-properNoun-oc
+"Rarotonga"-properNoun-oc "Rarotonga"-properNoun-ca
+"Rarotonga"-properNoun-ca "Rarotonga"-properNoun-oc
+"Reggio de Calàbria"-properNoun-oc "Reggio de Calàbria"-properNoun-ca
+"Reggio de Calàbria"-properNoun-ca "Reggio de Calàbria"-properNoun-oc
+"Reggio d'Emília"-properNoun-oc "Reggio de l'Emília"-properNoun-ca
+"Reggio de l'Emília"-properNoun-ca "Reggio d'Emília"-properNoun-oc
+"reialme de Malhòrca"-properNoun-oc "regne de Mallorca"-properNoun-ca
+"regne de Mallorca"-properNoun-ca "reialme de Malhòrca"-properNoun-oc
+"reialme de Valíncia"-properNoun-oc "regne de València"-properNoun-ca
+"regne de València"-properNoun-ca "reialme de Valíncia"-properNoun-oc
+"Renània Palatinat"-properNoun-oc "Renània Palatinat"-properNoun-ca
+"Renània Palatinat"-properNoun-ca "Renània Palatinat"-properNoun-oc
+"Republica dels Còmis"-properNoun-oc "República dels Komis"-properNoun-ca
+"República dels Komis"-properNoun-ca "Republica dels Còmis"-properNoun-oc
+"Republica Democratica de Còngo"-properNoun-oc "República Democràtica del Congo"-properNoun-ca
+"República Democràtica del Congo"-properNoun-ca "Republica Democratica de Còngo"-properNoun-oc
+"Reünion"-properNoun-oc "Reunió"-properNoun-ca
+"Reunió"-properNoun-ca "Reünion"-properNoun-oc
+"Riyad"-properNoun-oc "Riad"-properNoun-ca
+"Riyad"-properNoun-oc "Al-Riyad"-properNoun-ca
+"Riad"-properNoun-ca "Riyad"-properNoun-oc
+"Al-Riyad"-properNoun-ca "Riyad"-properNoun-oc
+"Roana"-properNoun-oc "Roanne"-properNoun-ca
+"Roanne"-properNoun-ca "Roana"-properNoun-oc
+"Rodòpe"-properNoun-oc "Ròdope"-properNoun-ca
+"Ròdope"-properNoun-ca "Rodòpe"-properNoun-oc
+"Romània"-properNoun-oc "Romània"-properNoun-ca
+"Romània"-properNoun-ca "Romània"-properNoun-oc
+"Ronçasvals"-properNoun-oc "Roncesvalls"-properNoun-ca
+"Roncesvalls"-properNoun-ca "Ronçasvals"-properNoun-oc
+"Roseau"-properNoun-oc "Roseau"-properNoun-ca
+"Roseau"-properNoun-ca "Roseau"-properNoun-oc
+"Rostov de Dòn"-properNoun-oc "Rostov del Don"-properNoun-ca
+"Rostov del Don"-properNoun-ca "Rostov de Dòn"-properNoun-oc
+"Rutènia"-properNoun-oc "Rutènia"-properNoun-ca
+"Rutènia"-properNoun-ca "Rutènia"-properNoun-oc
+"Ruwenzori"-properNoun-oc "Ruwenzori"-properNoun-ca
+"Ruwenzori"-properNoun-ca "Ruwenzori"-properNoun-oc
+"Río Bravo"-properNoun-oc "Río Bravo"-properNoun-ca
+"Río Bravo"-properNoun-ca "Río Bravo"-properNoun-oc
+"Río de la Plata"-properNoun-oc "Riu de la Plata"-properNoun-ca
+"Riu de la Plata"-properNoun-ca "Río de la Plata"-properNoun-oc
+"Río Grande"-properNoun-oc "Río Grande"-properNoun-ca
+"Río Grande"-properNoun-ca "Río Grande"-properNoun-oc
+"Ryukyu"-properNoun-oc "Ryukyu"-properNoun-ca
+"Ryukyu"-properNoun-ca "Ryukyu"-properNoun-oc
+"Saarbrücken"-properNoun-oc "Saarbrücken"-properNoun-ca
+"Saarbrücken"-properNoun-ca "Saarbrücken"-properNoun-oc
+"Saarland"-properNoun-oc "Saarland"-properNoun-ca
+"Saarland"-properNoun-ca "Saarland"-properNoun-oc
+"Saar"-properNoun-oc "Saar"-properNoun-ca
+"Saar"-properNoun-ca "Saar"-properNoun-oc
+"Sabah"-properNoun-oc "Sabah"-properNoun-ca
+"Sabah"-properNoun-ca "Sabah"-properNoun-oc
+"Sahara Occidental"-properNoun-oc "Sàhara Occidental"-properNoun-ca
+"Sàhara Occidental"-properNoun-ca "Sahara Occidental"-properNoun-oc
+"Sàhara Occidental"-properNoun-ca "Saara Occidental"-properNoun-oc
+"Saara Occidental"-properNoun-oc "Sàhara Occidental"-properNoun-ca
+"Saida"-properNoun-oc "Sayda"-properNoun-ca
+"Sayda"-properNoun-ca "Saida"-properNoun-oc
+"Saint George's"-properNoun-oc "Saint George's"-properNoun-ca
+"Saint George's"-properNoun-ca "Saint George's"-properNoun-oc
+"Sakhalin"-properNoun-oc "Sakhalin"-properNoun-ca
+"Sakhalin"-properNoun-ca "Sakhalin"-properNoun-oc
+"Saluças"-properNoun-oc "Saluzzo"-properNoun-ca
+"Saluzzo"-properNoun-ca "Saluças"-properNoun-oc
+"Samoa Americanas"-properNoun-oc "Samoa Nord-Americana"-properNoun-ca
+"Samoa Nord-Americana"-properNoun-ca "Samoa Americanas"-properNoun-oc
+"Samoa Occidentalas"-properNoun-oc "Samoa Occidental"-properNoun-ca
+"Samoa Occidental"-properNoun-ca "Samoa Occidentalas"-properNoun-oc
+"Sanaa"-properNoun-oc "Sanaa"-properNoun-ca
+"Sanaa"-properNoun-oc "Sana'a"-properNoun-ca
+"Sanaa"-properNoun-oc "San'a'"-properNoun-ca
+"Sanaa"-properNoun-oc "Sanaà"-properNoun-ca
+"Sanaa"-properNoun-oc "Sanà"-properNoun-ca
+"Sanaa"-properNoun-ca "Sanaa"-properNoun-oc
+"Sana'a"-properNoun-ca "Sanaa"-properNoun-oc
+"San'a'"-properNoun-ca "Sanaa"-properNoun-oc
+"Sanaà"-properNoun-ca "Sanaa"-properNoun-oc
+"Sanà"-properNoun-ca "Sanaa"-properNoun-oc
+"San Josí"-properNoun-oc "San Josí"-properNoun-ca
+"San Josí"-properNoun-ca "San Josí"-properNoun-oc
+"San Miguel de Tucumán"-properNoun-oc "San Miguel de Tucumán"-properNoun-ca
+"San Miguel de Tucumán"-properNoun-ca "San Miguel de Tucumán"-properNoun-oc
+"San Murezzan"-properNoun-oc "San Murezzan"-properNoun-ca
+"San Murezzan"-properNoun-ca "San Murezzan"-properNoun-oc
+"Sandwich del Sud"-properNoun-oc "Sandwich del Sud"-properNoun-ca
+"Sandwich del Sud"-properNoun-ca "Sandwich del Sud"-properNoun-oc
+"Sankt Gallen"-properNoun-oc "Sankt Gallen"-properNoun-ca
+"Sankt Gallen"-properNoun-ca "Sankt Gallen"-properNoun-oc
+"Santas"-properNoun-oc "Saintes"-properNoun-ca
+"Saintes"-properNoun-ca "Santas"-properNoun-oc
+"Sant Amand Montrond"-properNoun-oc "Saint-Amand-Montrond"-properNoun-ca
+"Saint-Amand-Montrond"-properNoun-ca "Sant Amand Montrond"-properNoun-oc
+"Sant Joan de la Penha"-properNoun-oc "Sant Joan de la Penya"-properNoun-ca
+"Sant Joan de la Penya"-properNoun-ca "Sant Joan de la Penha"-properNoun-oc
+"Sant Joan de Lus"-properNoun-oc "Sant Joan Lohitzune"-properNoun-ca
+"Sant Joan de Lus"-properNoun-oc "Donibane Lohitzune"-properNoun-ca
+"Sant Joan de Lus"-properNoun-oc "Donibane Lohizune"-properNoun-ca
+"Sant Joan de Lus"-properNoun-oc "Sant Joan Lohizune"-properNoun-ca
+"Sant Joan Lohitzune"-properNoun-ca "Sant Joan de Lus"-properNoun-oc
+"Donibane Lohitzune"-properNoun-ca "Sant Joan de Lus"-properNoun-oc
+"Donibane Lohizune"-properNoun-ca "Sant Joan de Lus"-properNoun-oc
+"Sant Joan Lohizune"-properNoun-ca "Sant Joan de Lus"-properNoun-oc
+"Sant Rímol"-properNoun-oc "Sanremo"-properNoun-ca
+"Sant Rímol"-properNoun-oc "San Remo"-properNoun-ca
+"Sanremo"-properNoun-ca "Sant Rímol"-properNoun-oc
+"San Remo"-properNoun-ca "Sant Rímol"-properNoun-oc
+"Santiago de Chile"-properNoun-oc "Santiago de Xile"-properNoun-ca
+"Santiago de Xile"-properNoun-ca "Santiago de Chile"-properNoun-oc
+"Santorin"-properNoun-oc "Santorí"-properNoun-ca
+"Santorí"-properNoun-ca "Santorin"-properNoun-oc
+"Sapporo"-properNoun-oc "Sapporo"-properNoun-ca
+"Sapporo"-properNoun-ca "Sapporo"-properNoun-oc
+"Sargasses"-properNoun-oc "Sargassos"-properNoun-ca
+"Sargassos"-properNoun-ca "Sargasses"-properNoun-oc
+"Saxònia Anhalt"-properNoun-oc "Saxònia Anhalt"-properNoun-ca
+"Saxònia Anhalt"-properNoun-ca "Saxònia Anhalt"-properNoun-oc
+"Schaffhausen"-properNoun-oc "Schaffhausen"-properNoun-ca
+"Schaffhausen"-properNoun-ca "Schaffhausen"-properNoun-oc
+"Setif"-properNoun-oc "Stif"-properNoun-ca
+"Setif"-properNoun-oc "Sítif"-properNoun-ca
+"Stif"-properNoun-ca "Setif"-properNoun-oc
+"Sítif"-properNoun-ca "Setif"-properNoun-oc
+"Sfaqs"-properNoun-oc "Sfax"-properNoun-ca
+"Sfax"-properNoun-ca "Sfaqs"-properNoun-oc
+"Sfax"-properNoun-ca "Sfax"-properNoun-oc
+"Sfax"-properNoun-oc "Sfax"-properNoun-ca
+"Shatt Al Arab"-properNoun-oc "Xatt al-Arab"-properNoun-ca
+"Shatt Al Arab"-properNoun-oc "Satt al-Arab"-properNoun-ca
+"Shatt Al Arab"-properNoun-oc "Shatt al-Arab"-properNoun-ca
+"Shatt Al Arab"-properNoun-oc "Shatt al-‘Arab"-properNoun-ca
+"Shatt Al Arab"-properNoun-oc "Šatt al-Arab"-properNoun-ca
+"Xatt al-Arab"-properNoun-ca "Shatt Al Arab"-properNoun-oc
+"Xatt al-Arab"-properNoun-ca "Shatt al Arab"-properNoun-oc
+"Satt al-Arab"-properNoun-ca "Shatt Al Arab"-properNoun-oc
+"Shatt al-Arab"-properNoun-ca "Shatt Al Arab"-properNoun-oc
+"Shatt al-‘Arab"-properNoun-ca "Shatt Al Arab"-properNoun-oc
+"Šatt al-Arab"-properNoun-ca "Shatt Al Arab"-properNoun-oc
+"Shatt al Arab"-properNoun-oc "Xatt al-Arab"-properNoun-ca
+"Shenyang"-properNoun-oc "Shenyang"-properNoun-ca
+"Shenyang"-properNoun-ca "Shenyang"-properNoun-oc
+"Shetland del Sud"-properNoun-oc "Shetland del Sud"-properNoun-ca
+"Shetland del Sud"-properNoun-ca "Shetland del Sud"-properNoun-oc
+"Shikoku"-properNoun-oc "Shikoku"-properNoun-ca
+"Shikoku"-properNoun-ca "Shikoku"-properNoun-oc
+"Shiraz"-properNoun-oc "Shiraz"-properNoun-ca
+"Shiraz"-properNoun-ca "Shiraz"-properNoun-oc
+"Sierra Nevada"-properNoun-oc "Sierra Nevada"-properNoun-ca
+"Sierra Nevada"-properNoun-ca "Sierra Nevada"-properNoun-oc
+"Sirdarià"-properNoun-oc "Sirdarja"-properNoun-ca
+"Sirdarià"-properNoun-oc "Sir-Darja"-properNoun-ca
+"Sirdarja"-properNoun-ca "Sirdarià"-properNoun-oc
+"Sir-Darja"-properNoun-ca "Sirdarià"-properNoun-oc
+"Sjælland"-properNoun-oc "Sjælland"-properNoun-ca
+"Sjælland"-properNoun-oc "Sjaelland"-properNoun-ca
+"Sjælland"-properNoun-ca "Sjælland"-properNoun-oc
+"Sjælland"-properNoun-ca "Sjaelland"-properNoun-oc
+"Sjaelland"-properNoun-ca "Sjælland"-properNoun-oc
+"Sjaelland"-properNoun-oc "Sjælland"-properNoun-ca
+"Sobrarb"-properNoun-oc "Sobrarb"-properNoun-ca
+"Sobrarb"-properNoun-ca "Sobrarb"-properNoun-oc
+"Socòtra"-properNoun-oc "Suqutra"-properNoun-ca
+"Socòtra"-properNoun-oc "Socotra"-properNoun-ca
+"Suqutra"-properNoun-ca "Socòtra"-properNoun-oc
+"Socotra"-properNoun-ca "Socòtra"-properNoun-oc
+"Sola"-properNoun-oc "Zuberoa"-properNoun-ca
+"Zuberoa"-properNoun-ca "Sola"-properNoun-oc
+"Solothurn"-properNoun-oc "Solothurn"-properNoun-ca
+"Solothurn"-properNoun-ca "Solothurn"-properNoun-oc
+"Sossa"-properNoun-oc "Sousse"-properNoun-ca
+"Sousse"-properNoun-ca "Sossa"-properNoun-oc
+"Soïssa Alamanica"-properNoun-oc "Suïssa Alamànica"-properNoun-ca
+"Suïssa Alamànica"-properNoun-ca "Soïssa Alamanica"-properNoun-oc
+"Soïssa Italiana"-properNoun-oc "Suïssa Italiana"-properNoun-ca
+"Suïssa Italiana"-properNoun-ca "Soïssa Italiana"-properNoun-oc
+"Soïssa Romancha"-properNoun-oc "Suïssa Romanxa"-properNoun-ca
+"Suïssa Romanxa"-properNoun-ca "Soïssa Romancha"-properNoun-oc
+"Soïssa Romanda"-properNoun-oc "Suïssa Romanda"-properNoun-ca
+"Suïssa Romanda"-properNoun-ca "Soïssa Romanda"-properNoun-oc
+"Sucre"-properNoun-oc "Sucre"-properNoun-ca
+"Sucre"-properNoun-ca "Sucre"-properNoun-oc
+"Sud Tiròl"-properNoun-oc "Tirol del Sud"-properNoun-ca
+"Tirol del Sud"-properNoun-ca "Sud Tiròl"-properNoun-oc
+"Surabaya"-properNoun-oc "Surabaya"-properNoun-ca
+"Surabaya"-properNoun-ca "Surabaya"-properNoun-oc
+"Suva"-properNoun-oc "Suva"-properNoun-ca
+"Suva"-properNoun-ca "Suva"-properNoun-oc
+"Sàsser"-properNoun-oc "Sàsser"-properNoun-ca
+"Sàsser"-properNoun-ca "Sàsser"-properNoun-oc
+"São Tomí e Príncipe"-properNoun-oc "São Tomí i Príncipe"-properNoun-ca
+"São Tomí i Príncipe"-properNoun-ca "São Tomí e Príncipe"-properNoun-oc
+"Sèrra de Tramontana"-properNoun-oc "Serra de Tramuntana"-properNoun-ca
+"Serra de Tramuntana"-properNoun-ca "Sèrra de Tramontana"-properNoun-oc
+"Sòfia"-properNoun-oc "Sòfia"-properNoun-ca
+"Sòfia"-properNoun-ca "Sòfia"-properNoun-oc
+"Tabriz"-properNoun-oc "Tabriz"-properNoun-ca
+"Tabriz"-properNoun-ca "Tabriz"-properNoun-oc
+"Tabriz"-properNoun-ca "Tebriz"-properNoun-oc
+"Tebriz"-properNoun-oc "Tabriz"-properNoun-ca
+"Tahiti"-properNoun-oc "Tahiti"-properNoun-ca
+"Tahiti"-properNoun-ca "Tahiti"-properNoun-oc
+"Taibei"-properNoun-oc "T'aipei"-properNoun-ca
+"Taibei"-properNoun-oc "Taipeh"-properNoun-ca
+"Taibei"-properNoun-oc "Taipei"-properNoun-ca
+"T'aipei"-properNoun-ca "Taibei"-properNoun-oc
+"T'aipei"-properNoun-ca "Taipèi"-properNoun-oc
+"Taipeh"-properNoun-ca "Taibei"-properNoun-oc
+"Taipei"-properNoun-ca "Taibei"-properNoun-oc
+"Taipèi"-properNoun-oc "T'aipei"-properNoun-ca
+"Taiyuan"-properNoun-oc "Taiyuan"-properNoun-ca
+"Taiyuan"-properNoun-ca "Taiyuan"-properNoun-oc
+"Talteüll"-properNoun-oc "Talteüll"-properNoun-ca
+"Talteüll"-properNoun-ca "Talteüll"-properNoun-oc
+"Talteüll"-properNoun-ca "Tautavuèlh"-properNoun-oc
+"Tautavuèlh"-properNoun-oc "Talteüll"-properNoun-ca
+"Tampa"-properNoun-oc "Tampa"-properNoun-ca
+"Tampa"-properNoun-ca "Tampa"-properNoun-oc
+"Tartaria"-properNoun-oc "Tartària"-properNoun-ca
+"Tartària"-properNoun-ca "Tartaria"-properNoun-oc
+"Tassili"-properNoun-oc "Tassili"-properNoun-ca
+"Tassili"-properNoun-ca "Tassili"-properNoun-oc
+"Tataria"-properNoun-oc "Tatària"-properNoun-ca
+"Tatària"-properNoun-ca "Tataria"-properNoun-oc
+"Taure"-properNoun-oc "Taure"-properNoun-ca
+"Taure"-properNoun-ca "Taure"-properNoun-oc
+"Tel Aviv"-properNoun-oc "Tel-Aviv"-properNoun-ca
+"Tel Aviv"-properNoun-oc "Tel Aviv"-properNoun-ca
+"Tel-Aviv"-properNoun-ca "Tel Aviv"-properNoun-oc
+"Tel Aviv"-properNoun-ca "Tel Aviv"-properNoun-oc
+"Tenerí"-properNoun-oc "Tínírí"-properNoun-ca
+"Tínírí"-properNoun-ca "Tenerí"-properNoun-oc
+"Terracina"-properNoun-oc "Terracina"-properNoun-ca
+"Terracina"-properNoun-ca "Terracina"-properNoun-oc
+"Thimphu"-properNoun-oc "Thimbu"-properNoun-ca
+"Thimbu"-properNoun-ca "Thimphu"-properNoun-oc
+"Tianjin"-properNoun-oc "Tianjin"-properNoun-ca
+"Tianjin"-properNoun-ca "Tianjin"-properNoun-oc
+"Tiberiàs"-properNoun-oc "Tiberíades"-properNoun-ca
+"Tiberíades"-properNoun-ca "Tiberiàs"-properNoun-oc
+"Tibèsti"-properNoun-oc "Tibesti"-properNoun-ca
+"Tibesti"-properNoun-ca "Tibèsti"-properNoun-oc
+"Tilimsan"-properNoun-oc "Tilimsen"-properNoun-ca
+"Tilimsan"-properNoun-oc "Tlemcen"-properNoun-ca
+"Tilimsan"-properNoun-oc "Tremissèn"-properNoun-ca
+"Tilimsen"-properNoun-ca "Tilimsan"-properNoun-oc
+"Tilimsen"-properNoun-ca "Tilimsen"-properNoun-oc
+"Tilimsen"-properNoun-ca "Tlemcen"-properNoun-oc
+"Tlemcen"-properNoun-ca "Tilimsan"-properNoun-oc
+"Tremissèn"-properNoun-ca "Tilimsan"-properNoun-oc
+"Tilimsen"-properNoun-oc "Tilimsen"-properNoun-ca
+"Tlemcen"-properNoun-oc "Tilimsen"-properNoun-ca
+"Tisza"-properNoun-oc "Tisza"-properNoun-ca
+"Tisza"-properNoun-ca "Tisza"-properNoun-oc
+"Tomsk"-properNoun-oc "Tomsk"-properNoun-ca
+"Tomsk"-properNoun-ca "Tomsk"-properNoun-oc
+"Tova"-properNoun-oc "Tuva"-properNoun-ca
+"Tuva"-properNoun-ca "Tova"-properNoun-oc
+"Trebizonda"-properNoun-oc "Trebisonda"-properNoun-ca
+"Trebisonda"-properNoun-ca "Trebizonda"-properNoun-oc
+"Trentin Aut Adige"-properNoun-oc "Trentino-Alto Adige"-properNoun-ca
+"Trentino-Alto Adige"-properNoun-ca "Trentin Aut Adige"-properNoun-oc
+"Trentino-Alto Adige"-properNoun-ca "Trentin Naut Adige"-properNoun-oc
+"Trentin Naut Adige"-properNoun-oc "Trentino-Alto Adige"-properNoun-ca
+"Tripolitània"-properNoun-oc "Tripolitània"-properNoun-ca
+"Tripolitània"-properNoun-ca "Tripolitània"-properNoun-oc
+"Tristan da Cunha"-properNoun-oc "Tristão da Cunha"-properNoun-ca
+"Tristão da Cunha"-properNoun-ca "Tristan da Cunha"-properNoun-oc
+"Tristão da Cunha"-properNoun-ca "Tristão da Cunha"-properNoun-oc
+"Tristão da Cunha"-properNoun-oc "Tristão da Cunha"-properNoun-ca
+"Tubruq"-properNoun-oc "Tubruq"-properNoun-ca
+"Tubruq"-properNoun-oc "Tobruk"-properNoun-ca
+"Tubruq"-properNoun-ca "Tubruq"-properNoun-oc
+"Tubruq"-properNoun-ca "Tobruk"-properNoun-oc
+"Tobruk"-properNoun-ca "Tubruq"-properNoun-oc
+"Tobruk"-properNoun-oc "Tubruq"-properNoun-ca
+"Tubuai"-properNoun-oc "Tubuai"-properNoun-ca
+"Tubuai"-properNoun-ca "Tubuai"-properNoun-oc
+"Turgòvia"-properNoun-oc "Thurgau"-properNoun-ca
+"Turgòvia"-properNoun-oc "Turgòvia"-properNoun-ca
+"Thurgau"-properNoun-ca "Turgòvia"-properNoun-oc
+"Turgòvia"-properNoun-ca "Turgòvia"-properNoun-oc
+"Turquestan"-properNoun-oc "Turquestan"-properNoun-ca
+"Turquestan"-properNoun-ca "Turquestan"-properNoun-oc
+"tèrra de Francís Josèp"-properNoun-oc "terra de Francesc Josep"-properNoun-ca
+"terra de Francesc Josep"-properNoun-ca "tèrra de Francís Josèp"-properNoun-oc
+"terra de Francesc Josep"-properNoun-ca "tèrra de Francís-Josèp"-properNoun-oc
+"tèrra de Francís-Josèp"-properNoun-oc "terra de Francesc Josep"-properNoun-ca
+"Tèrra del Fuòc"-properNoun-oc "Terra del Foc"-properNoun-ca
+"Terra del Foc"-properNoun-ca "Tèrra del Fuòc"-properNoun-oc
+"Ufa"-properNoun-oc "Ufa"-properNoun-ca
+"Ufa"-properNoun-ca "Ufa"-properNoun-oc
+"Ufa"-properNoun-ca "Ófö"-properNoun-oc
+"Ófö"-properNoun-oc "Ufa"-properNoun-ca
+"Uhuru"-properNoun-oc "Uhuru"-properNoun-ca
+"Uhuru"-properNoun-ca "Uhuru"-properNoun-oc
+"Ujungpandang"-properNoun-oc "Ujungpandang"-properNoun-ca
+"Ujungpandang"-properNoun-ca "Ujungpandang"-properNoun-oc
+"Ulaanbaatar"-properNoun-oc "Ulaanbaatar"-properNoun-ca
+"Ulaanbaatar"-properNoun-oc "Ulan Bator"-properNoun-ca
+"Ulaanbaatar"-properNoun-ca "Ulaanbaatar"-properNoun-oc
+"Ulan Bator"-properNoun-ca "Ulaanbaatar"-properNoun-oc
+"Unterwalden"-properNoun-oc "Unterwalden"-properNoun-ca
+"Unterwalden"-properNoun-ca "Unterwalden"-properNoun-oc
+"Uviíu"-properNoun-oc "Uviíu"-properNoun-ca
+"Uviíu"-properNoun-ca "Uviíu"-properNoun-oc
+"Valís"-properNoun-oc "Valais"-properNoun-ca
+"Valais"-properNoun-ca "Valís"-properNoun-oc
+"Vaud"-properNoun-oc "Vaud"-properNoun-ca
+"Vaud"-properNoun-ca "Vaud"-properNoun-oc
+"Venècia Eugènia"-properNoun-oc "Venècia Eugènia"-properNoun-ca
+"Venècia Eugènia"-properNoun-ca "Venècia Eugènia"-properNoun-oc
+"Venècia Júlia"-properNoun-oc "Venècia Júlia"-properNoun-ca
+"Venècia Júlia"-properNoun-ca "Venècia Júlia"-properNoun-oc
+"Venècia Tridentina"-properNoun-oc "Venècia Tridentina"-properNoun-ca
+"Venècia Tridentina"-properNoun-ca "Venècia Tridentina"-properNoun-oc
+"Vercèlh"-properNoun-oc "Vercelli"-properNoun-ca
+"Vercelli"-properNoun-ca "Vercèlh"-properNoun-oc
+"Verzelai"-properNoun-oc "Vízelay"-properNoun-ca
+"Vízelay"-properNoun-ca "Verzelai"-properNoun-oc
+"Vicença"-properNoun-oc "Vicença"-properNoun-ca
+"Vicença"-properNoun-ca "Vicença"-properNoun-oc
+"Vitèrbe"-properNoun-oc "Viterbo"-properNoun-ca
+"Viterbo"-properNoun-ca "Vitèrbe"-properNoun-oc
+"Vladivostok"-properNoun-oc "Vladivostok"-properNoun-ca
+"Vladivostok"-properNoun-ca "Vladivostok"-properNoun-oc
+"Voivodina"-properNoun-oc "Vojvodina"-properNoun-ca
+"Vojvodina"-properNoun-ca "Voivodina"-properNoun-oc
+"Volgograd"-properNoun-oc "Volgograd"-properNoun-ca
+"Volgograd"-properNoun-ca "Volgograd"-properNoun-oc
+"Voronezh"-properNoun-oc "Vorónej"-properNoun-ca
+"Voronezh"-properNoun-oc "Voronež"-properNoun-ca
+"Voronezh"-properNoun-oc "Voronez"-properNoun-ca
+"Vorónej"-properNoun-ca "Voronezh"-properNoun-oc
+"Voronež"-properNoun-ca "Voronezh"-properNoun-oc
+"Voronez"-properNoun-ca "Voronezh"-properNoun-oc
+"Vòlos"-properNoun-oc "Volos"-properNoun-ca
+"Vòlos"-properNoun-oc "Bólos"-properNoun-ca
+"Vòlos"-properNoun-oc "Vólos"-properNoun-ca
+"Volos"-properNoun-ca "Vòlos"-properNoun-oc
+"Bólos"-properNoun-ca "Vòlos"-properNoun-oc
+"Vólos"-properNoun-ca "Vòlos"-properNoun-oc
+"Wenzhou"-properNoun-oc "Wenzhou"-properNoun-ca
+"Wenzhou"-properNoun-ca "Wenzhou"-properNoun-oc
+"Èssa"-properNoun-oc "Hessen"-properNoun-ca
+"Hessen"-properNoun-ca "Èssa"-properNoun-oc
+"Öland"-properNoun-oc "Öland"-properNoun-ca
+"Öland"-properNoun-ca "Öland"-properNoun-oc
+"Ürümchi"-properNoun-oc "Urumchi"-properNoun-ca
+"Ürümchi"-properNoun-oc "Urumqi"-properNoun-ca
+"Urumchi"-properNoun-ca "Ürümchi"-properNoun-oc
+"Urumchi"-properNoun-ca "Wulumuqi"-properNoun-oc
+"Urumqi"-properNoun-ca "Ürümchi"-properNoun-oc
+"Wulumuqi"-properNoun-oc "Urumchi"-properNoun-ca
+"Xian"-properNoun-oc "Xian"-properNoun-ca
+"Xian"-properNoun-oc "Xi'an"-properNoun-ca
+"Xian"-properNoun-ca "Xian"-properNoun-oc
+"Xian"-properNoun-ca "Xi'an"-properNoun-oc
+"Xi'an"-properNoun-ca "Xian"-properNoun-oc
+"Xi'an"-properNoun-oc "Xian"-properNoun-ca
+"Yalta"-properNoun-oc "Jalta"-properNoun-ca
+"Jalta"-properNoun-ca "Yalta"-properNoun-oc
+"Yamoussoukro"-properNoun-oc "Yamoussoukro"-properNoun-ca
+"Yamoussoukro"-properNoun-ca "Yamoussoukro"-properNoun-oc
+"Yangzijiang"-properNoun-oc "Iang-Tsí"-properNoun-ca
+"Yangzijiang"-properNoun-oc "Yangzi Jiang"-properNoun-ca
+"Yangzijiang"-properNoun-oc "Yangzijiang"-properNoun-ca
+"Iang-Tsí"-properNoun-ca "Yangzijiang"-properNoun-oc
+"Iang-Tsí"-properNoun-ca "Yangzi Jiang"-properNoun-oc
+"Yangzi Jiang"-properNoun-ca "Yangzijiang"-properNoun-oc
+"Yangzijiang"-properNoun-ca "Yangzijiang"-properNoun-oc
+"Yangzi Jiang"-properNoun-oc "Iang-Tsí"-properNoun-ca
+"Yaoundí"-properNoun-oc "Yaoundí"-properNoun-ca
+"Yaoundí"-properNoun-ca "Yaoundí"-properNoun-oc
+"Yaren"-properNoun-oc "Yaren"-properNoun-ca
+"Yaren"-properNoun-ca "Yaren"-properNoun-oc
+"Yukon"-properNoun-oc "Yukon"-properNoun-ca
+"Yukon"-properNoun-ca "Yukon"-properNoun-oc
+"Zadar"-properNoun-oc "Zadar"-properNoun-ca
+"Zadar"-properNoun-ca "Zadar"-properNoun-oc
+"Zambèzi"-properNoun-oc "Zambezi"-properNoun-ca
+"Zambezi"-properNoun-ca "Zambèzi"-properNoun-oc
+"Zante"-properNoun-oc "Zacint"-properNoun-ca
+"Zante"-properNoun-oc "Zante"-properNoun-ca
+"Zacint"-properNoun-ca "Zante"-properNoun-oc
+"Zante"-properNoun-ca "Zante"-properNoun-oc
+"Zaporizhzhia"-properNoun-oc "Zaporíjjia"-properNoun-ca
+"Zaporizhzhia"-properNoun-oc "Zaporižžja"-properNoun-ca
+"Zaporizhzhia"-properNoun-oc "Zaporizzia"-properNoun-ca
+"Zaporizhzhia"-properNoun-oc "Zaporíjia"-properNoun-ca
+"Zaporíjjia"-properNoun-ca "Zaporizhzhia"-properNoun-oc
+"Zaporižžja"-properNoun-ca "Zaporizhzhia"-properNoun-oc
+"Zaporizzia"-properNoun-ca "Zaporizhzhia"-properNoun-oc
+"Zaporíjia"-properNoun-ca "Zaporizhzhia"-properNoun-oc
+"Zembla del Nòrd"-properNoun-oc "Terra del Nord"-properNoun-ca
+"Terra del Nord"-properNoun-ca "Zembla del Nòrd"-properNoun-oc
+"Zhengzhou"-properNoun-oc "Zhengzhou"-properNoun-ca
+"Zhengzhou"-properNoun-ca "Zhengzhou"-properNoun-oc
+"Zug"-properNoun-oc "Zug"-properNoun-ca
+"Zug"-properNoun-ca "Zug"-properNoun-oc

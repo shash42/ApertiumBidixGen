@@ -1,0 +1,302 @@
+"soi-disant"-adverb-fr "supausadament"-adverb-oc
+"supausadament"-adverb-oc "soi-disant"-adverb-fr
+"defòra"-adverb-oc "en dehors"-adverb-fr
+"en dehors"-adverb-fr "defòra"-adverb-oc
+"en dehors"-adverb-fr "fòra"-adverb-oc
+"fòra"-adverb-oc "en dehors"-adverb-fr
+"carrément"-adverb-fr "francament"-adverb-oc
+"francament"-adverb-oc "carrément"-adverb-fr
+"simplament"-adverb-oc "bonnement"-adverb-fr
+"bonnement"-adverb-fr "simplament"-adverb-oc
+"davant"-adverb-oc "au-devant"-adverb-fr
+"au-devant"-adverb-fr "davant"-adverb-oc
+"au-devant"-adverb-fr "deuant"-adverb-oc
+"au-devant"-adverb-fr "dauant"-adverb-oc
+"au-devant"-adverb-fr "devant"-adverb-oc
+"deuant"-adverb-oc "au-devant"-adverb-fr
+"dauant"-adverb-oc "au-devant"-adverb-fr
+"devant"-adverb-oc "au-devant"-adverb-fr
+"au-dessous"-adverb-fr "dejós"-adverb-oc
+"au-dessous"-adverb-fr "jos"-adverb-oc
+"dejós"-adverb-oc "au-dessous"-adverb-fr
+"jos"-adverb-oc "au-dessous"-adverb-fr
+"recentament"-adverb-oc "naguère"-adverb-fr
+"naguère"-adverb-fr "recentament"-adverb-oc
+"approchant"-adverb-fr "aproximadament"-adverb-oc
+"approchant"-adverb-fr "aperaquí"-adverb-oc
+"aproximadament"-adverb-oc "approchant"-adverb-fr
+"aperaquí"-adverb-oc "approchant"-adverb-fr
+"qué"-pronoun-oc "qu'est-ce que c'est que"-pronoun-fr
+"qu'est-ce que c'est que"-pronoun-fr "qué"-pronoun-oc
+"qual"-pronoun-oc "qui est-ce qui"-pronoun-fr
+"qui est-ce qui"-pronoun-fr "qual"-pronoun-oc
+"òm"-pronoun-oc "on"-reflexivePersonalPronoun-fr
+"on"-reflexivePersonalPronoun-fr "òm"-pronoun-oc
+"on"-reflexivePersonalPronoun-fr "se"-pronoun-oc
+"se"-pronoun-oc "on"-reflexivePersonalPronoun-fr
+"tout le monde"-pronoun-fr "tot"-pronoun-oc
+"tot"-pronoun-oc "tout le monde"-pronoun-fr
+"jos"-preposition-oc "au-dessous de"-preposition-fr
+"au-dessous de"-preposition-fr "jos"-preposition-oc
+"davant"-preposition-oc "au-devant de"-preposition-fr
+"au-devant de"-preposition-fr "davant"-preposition-oc
+"excellent"-adjective-oc "optimal"-adjective-fr
+"optimal"-adjective-fr "excellent"-adjective-oc
+"reflèxe"-noun-oc "reflet"-noun-fr
+"reflet"-noun-fr "reflèxe"-noun-oc
+"bóstia"-noun-oc "boîte aux lettres"-noun-fr
+"boîte aux lettres"-noun-fr "bóstia"-noun-oc
+"gravetat"-noun-oc "sérieux"-noun-fr
+"sérieux"-noun-fr "gravetat"-noun-oc
+"barbouze"-noun-fr "espion"-noun-oc
+"espion"-noun-oc "barbouze"-noun-fr
+"tricòt"-noun-oc "jersey"-noun-fr
+"jersey"-noun-fr "tricòt"-noun-oc
+"gril"-noun-fr "grasilha"-noun-oc
+"grasilha"-noun-oc "gril"-noun-fr
+"embrun"-noun-fr "nèbla"-noun-oc
+"embrun"-noun-fr "bruma"-noun-oc
+"nèbla"-noun-oc "embrun"-noun-fr
+"bruma"-noun-oc "embrun"-noun-fr
+"longitud"-noun-oc "long"-noun-fr
+"long"-noun-fr "longitud"-noun-oc
+"especulacion"-noun-oc "speculation"-noun-fr
+"speculation"-noun-fr "especulacion"-noun-oc
+"arròda"-noun-oc "étrave"-noun-fr
+"étrave"-noun-fr "arròda"-noun-oc
+"étrave"-noun-fr "ròda"-noun-oc
+"ròda"-noun-oc "étrave"-noun-fr
+"presentador"-noun-oc "montreur"-noun-fr
+"montreur"-noun-fr "presentador"-noun-oc
+"gendre"-noun-oc "beau-fils"-noun-fr
+"beau-fils"-noun-fr "gendre"-noun-oc
+"beau-fils"-noun-fr "ireua"-noun-oc
+"ireua"-noun-oc "beau-fils"-noun-fr
+"jòia"-noun-oc "allégresse"-noun-fr
+"allégresse"-noun-fr "jòia"-noun-oc
+"comissariat"-noun-oc "poste de police"-noun-fr
+"poste de police"-noun-fr "comissariat"-noun-oc
+"taxista"-noun-oc "chauffeur de taxi"-noun-fr
+"chauffeur de taxi"-noun-fr "taxista"-noun-oc
+"menaire"-noun-oc "chauffeur"-noun-fr
+"chauffeur"-noun-fr "menaire"-noun-oc
+"prononciament"-noun-oc "putsch"-noun-fr
+"putsch"-noun-fr "prononciament"-noun-oc
+"comonicacion"-noun-oc "comunication"-noun-fr
+"comunication"-noun-fr "comonicacion"-noun-oc
+"comunication"-noun-fr "comunicacion"-noun-oc
+"comunicacion"-noun-oc "comunication"-noun-fr
+"descripcion"-noun-oc "signalement"-noun-fr
+"signalement"-noun-fr "descripcion"-noun-oc
+"nom de familha"-noun-oc "nom de famille"-noun-fr
+"nom de famille"-noun-fr "nom de familha"-noun-oc
+"reduccion"-noun-oc "reduction"-noun-fr
+"reduction"-noun-fr "reduccion"-noun-oc
+"auditòri"-noun-oc "auditorie"-noun-fr
+"auditorie"-noun-fr "auditòri"-noun-oc
+"afront"-noun-oc "injure"-noun-fr
+"injure"-noun-fr "afront"-noun-oc
+"courtier"-noun-fr "correder"-noun-oc
+"correder"-noun-oc "courtier"-noun-fr
+"pòrc"-noun-oc "cochon"-noun-fr
+"cochon"-noun-fr "pòrc"-noun-oc
+"remplaçant"-noun-fr "substitut"-noun-oc
+"substitut"-noun-oc "remplaçant"-noun-fr
+"barraca"-noun-oc "cahute"-noun-fr
+"cahute"-noun-fr "barraca"-noun-oc
+"detencion"-noun-oc "detention"-noun-fr
+"detention"-noun-fr "detencion"-noun-oc
+"cambi"-noun-oc "saute"-noun-fr
+"saute"-noun-fr "cambi"-noun-oc
+"saute"-noun-fr "cambiament"-noun-oc
+"cambiament"-noun-oc "saute"-noun-fr
+"portièr"-noun-oc "portier"-noun-fr
+"portier"-noun-fr "portièr"-noun-oc
+"redaction"-noun-fr "redaccion"-noun-oc
+"redaccion"-noun-oc "redaction"-noun-fr
+"lòc"-noun-oc "post"-noun-fr
+"post"-noun-fr "lòc"-noun-oc
+"post"-noun-fr "luòc"-noun-oc
+"luòc"-noun-oc "post"-noun-fr
+"excès"-noun-oc "surcroît"-noun-fr
+"excès"-noun-oc "outrance"-noun-fr
+"surcroît"-noun-fr "excès"-noun-oc
+"outrance"-noun-fr "excès"-noun-oc
+"sen"-noun-oc "bon sens"-noun-fr
+"bon sens"-noun-fr "sen"-noun-oc
+"cadran"-noun-fr "esfèra"-noun-oc
+"esfèra"-noun-oc "cadran"-noun-fr
+"tiratge"-noun-oc "tirage au sort"-noun-fr
+"tirage au sort"-noun-fr "tiratge"-noun-oc
+"conselhièr"-noun-oc "conseiller municipal"-noun-fr
+"conseiller municipal"-noun-fr "conselhièr"-noun-oc
+"disposicion"-noun-oc "allant"-noun-fr
+"allant"-noun-fr "disposicion"-noun-oc
+"allant"-noun-fr "dispausicion"-noun-oc
+"dispausicion"-noun-oc "allant"-noun-fr
+"descenuda"-noun-oc "abaissement"-noun-fr
+"abaissement"-noun-fr "descenuda"-noun-oc
+"plate"-noun-fr "platèl"-noun-oc
+"platèl"-noun-oc "plate"-noun-fr
+"entorn"-noun-oc "alentours"-noun-fr
+"alentours"-noun-fr "entorn"-noun-oc
+"faisceau"-noun-fr "ponhat"-noun-oc
+"ponhat"-noun-oc "faisceau"-noun-fr
+"ponch"-noun-oc "maille"-noun-fr
+"maille"-noun-fr "ponch"-noun-oc
+"maille"-noun-fr "piquet"-noun-oc
+"piquet"-noun-oc "maille"-noun-fr
+"vaillance"-noun-fr "coratge"-noun-oc
+"coratge"-noun-oc "vaillance"-noun-fr
+"pépite"-noun-fr "semença"-noun-oc
+"pépite"-noun-fr "grana"-noun-oc
+"semença"-noun-oc "pépite"-noun-fr
+"grana"-noun-oc "pépite"-noun-fr
+"fracàs"-noun-oc "insuccès"-noun-fr
+"insuccès"-noun-fr "fracàs"-noun-oc
+"rouleau"-noun-fr "turbina"-noun-oc
+"turbina"-noun-oc "rouleau"-noun-fr
+"tamborèu"-noun-oc "chariot"-noun-fr
+"chariot"-noun-fr "tamborèu"-noun-oc
+"chariot"-noun-fr "carro"-noun-oc
+"chariot"-noun-fr "carri"-noun-oc
+"carro"-noun-oc "chariot"-noun-fr
+"carri"-noun-oc "chariot"-noun-fr
+"rangée"-noun-fr "fila"-noun-oc
+"rangée"-noun-fr "arrua"-noun-oc
+"fila"-noun-oc "rangée"-noun-fr
+"arrua"-noun-oc "rangée"-noun-fr
+"direccion"-noun-oc "rhumb"-noun-fr
+"rhumb"-noun-fr "direccion"-noun-oc
+"escomesa"-noun-oc "pari"-noun-fr
+"pari"-noun-fr "escomesa"-noun-oc
+"étalage"-noun-fr "veirina"-noun-oc
+"veirina"-noun-oc "étalage"-noun-fr
+"brega"-noun-oc "complainte"-noun-fr
+"complainte"-noun-fr "brega"-noun-oc
+"bonnet"-noun-fr "casqueta"-noun-oc
+"casqueta"-noun-oc "bonnet"-noun-fr
+"zèle"-noun-fr "gelosiá"-noun-oc
+"gelosiá"-noun-oc "zèle"-noun-fr
+"solucion"-noun-oc "dénouement"-noun-fr
+"dénouement"-noun-fr "solucion"-noun-oc
+"ralliement"-noun-fr "adesion"-noun-oc
+"adesion"-noun-oc "ralliement"-noun-fr
+"decebuda"-noun-oc "désappointement"-noun-fr
+"désappointement"-noun-fr "decebuda"-noun-oc
+"désappointement"-noun-fr "decepcion"-noun-oc
+"decepcion"-noun-oc "désappointement"-noun-fr
+"banh"-noun-oc "toilette"-noun-fr
+"toilette"-noun-fr "banh"-noun-oc
+"egalizacion"-noun-oc "match nul"-noun-fr
+"match nul"-noun-fr "egalizacion"-noun-oc
+"cooperacion"-noun-oc "partenariat"-noun-fr
+"partenariat"-noun-fr "cooperacion"-noun-oc
+"écriteau"-noun-fr "pancarta"-noun-oc
+"pancarta"-noun-oc "écriteau"-noun-fr
+"halle"-noun-fr "lòtja"-noun-oc
+"lòtja"-noun-oc "halle"-noun-fr
+"còth"-noun-oc "encolure"-noun-fr
+"encolure"-noun-fr "còth"-noun-oc
+"encolure"-noun-fr "còl"-noun-oc
+"còl"-noun-oc "encolure"-noun-fr
+"haleine"-noun-fr "alen"-noun-oc
+"alen"-noun-oc "haleine"-noun-fr
+"ondada"-noun-oc "flot"-noun-fr
+"flot"-noun-fr "ondada"-noun-oc
+"nud"-noun-oc "noeud"-noun-fr
+"noeud"-noun-fr "nud"-noun-oc
+"conflictiu"-adjective-oc "conflictuel"-adjective-fr
+"conflictuel"-adjective-fr "conflictiu"-adjective-oc
+"enfreindre"-verb-fr "transgredir"-verb-oc
+"transgredir"-verb-oc "enfreindre"-verb-fr
+"égal"-adjective-fr "parièr"-adjective-oc
+"parièr"-adjective-oc "égal"-adjective-fr
+"pompar"-verb-oc "bomber"-verb-fr
+"bomber"-verb-fr "pompar"-verb-oc
+"soussigner"-verb-fr "soscriure"-verb-oc
+"soscriure"-verb-oc "soussigner"-verb-fr
+"devenir fou"-verb-fr "alhocardir"-verb-oc
+"alhocardir"-verb-oc "devenir fou"-verb-fr
+"alhocardir"-verb-oc "devenir folle"-verb-fr
+"alhocardir"-verb-oc "devenir folles"-verb-fr
+"alhocardir"-verb-oc "devenir foux"-verb-fr
+"devenir folle"-verb-fr "alhocardir"-verb-oc
+"devenir folles"-verb-fr "alhocardir"-verb-oc
+"devenir foux"-verb-fr "alhocardir"-verb-oc
+"banal"-adjective-fr "van"-adjective-oc
+"van"-adjective-oc "banal"-adjective-fr
+"brilhant"-adjective-oc "éclatant"-adjective-fr
+"éclatant"-adjective-fr "brilhant"-adjective-oc
+"vertuós"-adjective-oc "virtuose"-adjective-fr
+"virtuose"-adjective-fr "vertuós"-adjective-oc
+"insolit"-adjective-oc "inaccoutumé"-adjective-fr
+"inaccoutumé"-adjective-fr "insolit"-adjective-oc
+"estranh"-adjective-oc "bizarre"-adjective-fr
+"bizarre"-adjective-fr "estranh"-adjective-oc
+"prendre la relève de"-verb-fr "relevar"-verb-oc
+"relevar"-verb-oc "prendre la relève de"-verb-fr
+"barrar"-verb-oc "renfermer"-verb-fr
+"renfermer"-verb-fr "barrar"-verb-oc
+"mantier"-verb-oc "entretenir"-verb-fr
+"entretenir"-verb-fr "mantier"-verb-oc
+"entretenir"-verb-fr "manténer"-verb-oc
+"manténer"-verb-oc "entretenir"-verb-fr
+"éconduire"-verb-fr "refusar"-verb-oc
+"refusar"-verb-oc "éconduire"-verb-fr
+"incomòde"-adjective-oc "gênant"-adjective-fr
+"gênant"-adjective-fr "incomòde"-adjective-oc
+"féroce"-adjective-fr "ferotge"-adjective-oc
+"ferotge"-adjective-oc "féroce"-adjective-fr
+"fier"-adjective-fr "orgulhós"-adjective-oc
+"orgulhós"-adjective-oc "fier"-adjective-fr
+"valent"-adjective-oc "brave"-adjective-fr
+"brave"-adjective-fr "valent"-adjective-oc
+"familial"-adjective-fr "familiar"-adjective-oc
+"familial"-adjective-fr "familhar"-adjective-oc
+"familiar"-adjective-oc "familial"-adjective-fr
+"familhar"-adjective-oc "familial"-adjective-fr
+"pressant"-adjective-fr "urgent"-adjective-oc
+"urgent"-adjective-oc "pressant"-adjective-fr
+"simpatic"-adjective-oc "sympa"-adjective-fr
+"sympa"-adjective-fr "simpatic"-adjective-oc
+"pagés"-noun-oc "laboureur"-noun-fr
+"laboureur"-noun-fr "pagés"-noun-oc
+"exclusivitat"-noun-oc "exclusive"-noun-fr
+"exclusive"-noun-fr "exclusivitat"-noun-oc
+"vélo"-noun-fr "biciclèta"-noun-oc
+"biciclèta"-noun-oc "vélo"-noun-fr
+"arbitre"-noun-oc "juge-arbitre"-noun-fr
+"juge-arbitre"-noun-fr "arbitre"-noun-oc
+"generacion"-noun-oc "generation"-noun-fr
+"generation"-noun-fr "generacion"-noun-oc
+"creishent"-adjective-oc "grandissant"-adjective-fr
+"grandissant"-adjective-fr "creishent"-adjective-oc
+"grandissant"-adjective-fr "creissent"-adjective-oc
+"creissent"-adjective-oc "grandissant"-adjective-fr
+"médical"-adjective-fr "medic"-adjective-oc
+"medic"-adjective-oc "médical"-adjective-fr
+"repréner"-verb-oc "renouer"-verb-fr
+"renouer"-verb-fr "repréner"-verb-oc
+"renouer"-verb-fr "reprene"-verb-oc
+"reprene"-verb-oc "renouer"-verb-fr
+"Nigèria"-properNoun-oc "Nigeria"-properNoun-fr
+"Nigeria"-properNoun-fr "Nigèria"-properNoun-oc
+"Veneçuèla"-properNoun-oc "Venezuela"-properNoun-fr
+"Venezuela"-properNoun-fr "Veneçuèla"-properNoun-oc
+"veto"-noun-oc "veto"-noun-fr
+"veto"-noun-fr "veto"-noun-oc
+"Arabia"-properNoun-oc "Arabia"-properNoun-fr
+"Arabia"-properNoun-fr "Arabia"-properNoun-oc
+"Lhèida"-properNoun-oc "Lleida"-properNoun-fr
+"Lleida"-properNoun-fr "Lhèida"-properNoun-oc
+"biologista"-noun-oc "biologue"-noun-fr
+"biologue"-noun-fr "biologista"-noun-oc
+"fusada"-noun-oc "roquette"-noun-fr
+"roquette"-noun-fr "fusada"-noun-oc
+"beaux-parents"-noun-fr "sògre"-noun-oc
+"sògre"-noun-oc "beaux-parents"-noun-fr
+"froment"-noun-fr "blat"-noun-oc
+"blat"-noun-oc "froment"-noun-fr
+"fregadís"-noun-oc "frôlement"-noun-fr
+"frôlement"-noun-fr "fregadís"-noun-oc
