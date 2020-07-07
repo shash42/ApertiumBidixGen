@@ -1,0 +1,230 @@
+"that"-determiner-en "eixe"-determiner-ca
+"that"-determiner-en "aqueix"-determiner-ca
+"eixe"-determiner-ca "that"-determiner-en
+"aqueix"-determiner-ca "that"-determiner-en
+"this"-determiner-en "este"-determiner-ca
+"este"-determiner-ca "this"-determiner-en
+"in conjunction"-adverb-en "ensems"-adverb-ca
+"ensems"-adverb-ca "in conjunction"-adverb-en
+"nowadays"-adverb-en "hui en dia"-adverb-ca
+"nowadays"-adverb-en "avui en dia"-adverb-ca
+"hui en dia"-adverb-ca "nowadays"-adverb-en
+"avui en dia"-adverb-ca "nowadays"-adverb-en
+"below"-adverb-en "dessota"-adverb-ca
+"dessota"-adverb-ca "below"-adverb-en
+"their"-determiner-en "llur"-determiner-ca
+"llur"-determiner-ca "their"-determiner-en
+"who"-relativePronoun-en "a qui"-pronoun-ca
+"who"-relativePronoun-en "el qual"-relativePronoun-ca
+"a qui"-pronoun-ca "who"-relativePronoun-en
+"a qui"-pronoun-ca "who"-pronoun-en
+"a qui"-pronoun-ca "which"-pronoun-en
+"a qui"-pronoun-ca "which"-relativePronoun-en
+"el qual"-relativePronoun-ca "who"-relativePronoun-en
+"el qual"-relativePronoun-ca "who"-pronoun-en
+"el qual"-relativePronoun-ca "which"-pronoun-en
+"el qual"-relativePronoun-ca "which"-relativePronoun-en
+"el qual"-relativePronoun-ca "whom"-pronoun-en
+"who"-pronoun-en "a qui"-pronoun-ca
+"who"-pronoun-en "el qual"-relativePronoun-ca
+"which"-pronoun-en "a qui"-pronoun-ca
+"which"-pronoun-en "el qual"-relativePronoun-ca
+"which"-relativePronoun-en "a qui"-pronoun-ca
+"which"-relativePronoun-en "el qual"-relativePronoun-ca
+"whom"-pronoun-en "el qual"-relativePronoun-ca
+"la qual cosa"-relativePronoun-ca "what"-pronoun-en
+"what"-pronoun-en "la qual cosa"-relativePronoun-ca
+"what"-pronoun-en "la qual cosa"-pronoun-ca
+"what"-pronoun-en "cosa que"-pronoun-ca
+"what"-pronoun-en "cosa que"-relativePronoun-ca
+"la qual cosa"-pronoun-ca "what"-pronoun-en
+"cosa que"-pronoun-ca "what"-pronoun-en
+"cosa que"-relativePronoun-ca "what"-pronoun-en
+"tret de"-preposition-ca "except"-preposition-en
+"except"-preposition-en "tret de"-preposition-ca
+"al darrere de"-preposition-ca "behind"-preposition-en
+"behind"-preposition-en "al darrere de"-preposition-ca
+"to"-preposition-en "envers"-preposition-ca
+"envers"-preposition-ca "to"-preposition-en
+"envers"-preposition-ca "towards"-preposition-en
+"towards"-preposition-en "envers"-preposition-ca
+"from"-preposition-en "d'ençà de"-preposition-ca
+"d'ençà de"-preposition-ca "from"-preposition-en
+"per part de"-preposition-ca "by"-preposition-en
+"by"-preposition-en "per part de"-preposition-ca
+"for"-preposition-en "per tal de"-preposition-ca
+"per tal de"-preposition-ca "for"-preposition-en
+"under"-preposition-en "a sota de"-preposition-ca
+"a sota de"-preposition-ca "under"-preposition-en
+"against"-preposition-en "en contra de"-preposition-ca
+"en contra de"-preposition-ca "against"-preposition-en
+"indígena"-adjective-ca "native"-adjective-en
+"native"-adjective-en "indígena"-adjective-ca
+"neutral"-adjective-ca "neutral"-adjective-en
+"neutral"-adjective-en "neutral"-adjective-ca
+"progressive"-adjective-en "progressista"-adjective-ca
+"progressista"-adjective-ca "progressive"-adjective-en
+"single"-adjective-en "solter"-adjective-ca
+"solter"-adjective-ca "single"-adjective-en
+"immune"-adjective-ca "immune"-adjective-en
+"immune"-adjective-en "immune"-adjective-ca
+"external"-adjective-en "exterior"-adjective-ca
+"exterior"-adjective-ca "external"-adjective-en
+"powerful"-adjective-en "potent"-adjective-ca
+"potent"-adjective-ca "powerful"-adjective-en
+"ideal"-adjective-ca "ideal"-adjective-en
+"ideal"-adjective-en "ideal"-adjective-ca
+"confortable"-adjective-ca "comfortable"-adjective-en
+"comfortable"-adjective-en "confortable"-adjective-ca
+"previous"-adjective-en "anterior"-adjective-ca
+"anterior"-adjective-ca "previous"-adjective-en
+"vulgar"-adjective-ca "tasteless"-adjective-en
+"tasteless"-adjective-en "vulgar"-adjective-ca
+"favourable"-adjective-en "favorable"-adjective-ca
+"favorable"-adjective-ca "favourable"-adjective-en
+"great"-adjective-en "gran"-adjective-ca
+"gran"-adjective-ca "great"-adjective-en
+"dolent"-adjective-ca "bad"-adjective-en
+"bad"-adjective-en "dolent"-adjective-ca
+"legitimate"-adjective-en "legal"-adjective-ca
+"legal"-adjective-ca "legitimate"-adjective-en
+"original"-adjective-ca "original"-adjective-en
+"original"-adjective-en "original"-adjective-ca
+"veloç"-adjective-ca "rapid"-adjective-en
+"rapid"-adjective-en "veloç"-adjective-ca
+"rapid"-adjective-en "prompte"-adjective-ca
+"prompte"-adjective-ca "rapid"-adjective-en
+"fiable"-adjective-ca "reliable"-adjective-en
+"reliable"-adjective-en "fiable"-adjective-ca
+"insuficient"-adjective-ca "scarce"-adjective-en
+"scarce"-adjective-en "insuficient"-adjective-ca
+"lleu"-adjective-ca "lightweight"-adjective-en
+"lightweight"-adjective-en "lleu"-adjective-ca
+"splendid"-adjective-en "esplendorós"-adjective-ca
+"esplendorós"-adjective-ca "splendid"-adjective-en
+"preventive"-adjective-en "cautelar"-adjective-ca
+"cautelar"-adjective-ca "preventive"-adjective-en
+"actual"-adjective-ca "current"-adjective-en
+"current"-adjective-en "actual"-adjective-ca
+"unique"-adjective-en "incomparable"-adjective-ca
+"incomparable"-adjective-ca "unique"-adjective-en
+"inestable"-adjective-ca "precarious"-adjective-en
+"precarious"-adjective-en "inestable"-adjective-ca
+"profitable"-adjective-en "rendible"-adjective-ca
+"rendible"-adjective-ca "profitable"-adjective-en
+"abundant"-adjective-ca "abundant"-adjective-en
+"abundant"-adjective-en "abundant"-adjective-ca
+"at the same time"-adverb-en "al mateix temps"-adverb-ca
+"al mateix temps"-adverb-ca "at the same time"-adverb-en
+"carn"-noun-ca "flesh"-noun-en
+"flesh"-noun-en "carn"-noun-ca
+"student"-noun-en "estudiant"-noun-ca
+"estudiant"-noun-ca "student"-noun-en
+"camí"-noun-ca "way"-noun-en
+"way"-noun-en "camí"-noun-ca
+"way"-noun-en "via"-noun-ca
+"way"-noun-en "carril"-noun-ca
+"mention"-verb-en "mencionar"-verb-ca
+"mencionar"-verb-ca "mention"-verb-en
+"bury"-verb-en "sepultar"-verb-ca
+"sepultar"-verb-ca "bury"-verb-en
+"compete"-verb-en "concórrer"-verb-ca
+"concórrer"-verb-ca "compete"-verb-en
+"hesitate"-verb-en "hesitar"-verb-ca
+"hesitar"-verb-ca "hesitate"-verb-en
+"deixar de banda"-verb-ca "omit"-verb-en
+"omit"-verb-en "deixar de banda"-verb-ca
+"manifest"-verb-en "palesar"-verb-ca
+"palesar"-verb-ca "manifest"-verb-en
+"raise"-verb-en "aixecar"-verb-ca
+"aixecar"-verb-ca "raise"-verb-en
+"crush"-verb-en "esclafar"-verb-ca
+"esclafar"-verb-ca "crush"-verb-en
+"hunger"-noun-en "fam"-noun-ca
+"fam"-noun-ca "hunger"-noun-en
+"negociació"-noun-ca "negotiation"-noun-en
+"negotiation"-noun-en "negociació"-noun-ca
+"check"-noun-en "inspecció"-noun-ca
+"check"-noun-en "control"-noun-ca
+"inspecció"-noun-ca "check"-noun-en
+"control"-noun-ca "check"-noun-en
+"stair"-noun-en "graó"-noun-ca
+"stair"-noun-en "escaló"-noun-ca
+"graó"-noun-ca "stair"-noun-en
+"escaló"-noun-ca "stair"-noun-en
+"boy"-noun-en "nen"-noun-ca
+"boy"-noun-en "nin"-noun-ca
+"boy"-noun-en "xiquet"-noun-ca
+"boy"-noun-en "noi"-noun-ca
+"boy"-noun-en "xic"-noun-ca
+"boy"-noun-en "xicot"-noun-ca
+"nen"-noun-ca "boy"-noun-en
+"nin"-noun-ca "boy"-noun-en
+"xiquet"-noun-ca "boy"-noun-en
+"noi"-noun-ca "boy"-noun-en
+"xic"-noun-ca "boy"-noun-en
+"xicot"-noun-ca "boy"-noun-en
+"criatura"-noun-ca "child"-noun-en
+"child"-noun-en "criatura"-noun-ca
+"child"-noun-en "infant"-noun-ca
+"infant"-noun-ca "child"-noun-en
+"via"-noun-ca "way"-noun-en
+"carril"-noun-ca "way"-noun-en
+"plantilla"-noun-ca "staff"-noun-en
+"plantilla"-noun-ca "personnel"-noun-en
+"staff"-noun-en "plantilla"-noun-ca
+"personnel"-noun-en "plantilla"-noun-ca
+"manner"-noun-en "mode"-noun-ca
+"mode"-noun-ca "manner"-noun-en
+"cloth"-noun-en "drap"-noun-ca
+"cloth"-noun-en "tela"-noun-ca
+"drap"-noun-ca "cloth"-noun-en
+"tela"-noun-ca "cloth"-noun-en
+"clothes"-noun-en "vestit"-noun-ca
+"vestit"-noun-ca "clothes"-noun-en
+"interest"-noun-en "interès"-noun-ca
+"interès"-noun-ca "interest"-noun-en
+"interior"-noun-ca "inside"-noun-en
+"inside"-noun-en "interior"-noun-ca
+"provision"-noun-en "clàusula"-noun-ca
+"clàusula"-noun-ca "provision"-noun-en
+"wood"-noun-en "selva"-noun-ca
+"selva"-noun-ca "wood"-noun-en
+"mosso d'esquadra"-noun-ca "police"-noun-en
+"police"-noun-en "mosso d'esquadra"-noun-ca
+"persona"-noun-ca "person"-noun-en
+"person"-noun-en "persona"-noun-ca
+"management"-noun-en "gerència"-noun-ca
+"gerència"-noun-ca "management"-noun-en
+"pity"-noun-en "dany"-noun-ca
+"dany"-noun-ca "pity"-noun-en
+"fan"-noun-en "ventilador"-noun-ca
+"fan"-noun-en "ventall"-noun-ca
+"ventilador"-noun-ca "fan"-noun-en
+"ventall"-noun-ca "fan"-noun-en
+"west"-noun-en "oest"-noun-ca
+"oest"-noun-ca "west"-noun-en
+"agrícola"-adjective-ca "agricultural"-adjective-en
+"agricultural"-adjective-en "agrícola"-adjective-ca
+"juvenile"-adjective-en "juvenil"-adjective-ca
+"juvenil"-adjective-ca "juvenile"-adjective-en
+"criminal"-adjective-ca "criminal"-adjective-en
+"criminal"-adjective-en "criminal"-adjective-ca
+"criminal"-adjective-en "penal"-adjective-ca
+"penal"-adjective-ca "criminal"-adjective-en
+"freeze"-verb-en "glaçar"-verb-ca
+"glaçar"-verb-ca "freeze"-verb-en
+"tintar"-verb-ca "dye"-verb-en
+"dye"-verb-en "tintar"-verb-ca
+"Pirineus"-properNoun-ca "Pyrenees"-properNoun-en
+"Pyrenees"-properNoun-en "Pirineus"-properNoun-ca
+"accionista"-noun-ca "shareholder"-noun-en
+"shareholder"-noun-en "accionista"-noun-ca
+"feliçment"-adverb-ca "thankfully"-adverb-en
+"feliçment"-adverb-ca "happily"-adverb-en
+"thankfully"-adverb-en "feliçment"-adverb-ca
+"happily"-adverb-en "feliçment"-adverb-ca
+"maternal"-adjective-en "maternal"-adjective-ca
+"maternal"-adjective-ca "maternal"-adjective-en
+"policial"-adjective-ca "police"-adjective-en
+"police"-adjective-en "policial"-adjective-ca

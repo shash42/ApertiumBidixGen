@@ -1,0 +1,292 @@
+"some"-determiner-en "uns quants"-determiner-ca
+"uns quants"-determiner-ca "some"-determiner-en
+"in conjunction"-adverb-en "juntament"-adverb-ca
+"juntament"-adverb-ca "in conjunction"-adverb-en
+"a penes"-adverb-ca "no sooner"-adverb-en
+"no sooner"-adverb-en "a penes"-adverb-ca
+"occasionally"-adverb-en "de vegades"-adverb-ca
+"de vegades"-adverb-ca "occasionally"-adverb-en
+"meantime"-adverb-en "entretant"-adverb-ca
+"entretant"-adverb-ca "meantime"-adverb-en
+"entretant"-adverb-ca "in the meanwhile"-adverb-en
+"entretant"-adverb-ca "in the meantime"-adverb-en
+"entretant"-adverb-ca "in the interim"-adverb-en
+"in the meanwhile"-adverb-en "entretant"-adverb-ca
+"in the meantime"-adverb-en "entretant"-adverb-ca
+"in the interim"-adverb-en "entretant"-adverb-ca
+"merely"-adverb-en "simplement"-adverb-ca
+"merely"-adverb-en "senzillament"-adverb-ca
+"simplement"-adverb-ca "merely"-adverb-en
+"senzillament"-adverb-ca "merely"-adverb-en
+"out"-adverb-en "enfora"-adverb-ca
+"enfora"-adverb-ca "out"-adverb-en
+"gens"-adverb-ca "absolutely not"-adverb-en
+"absolutely not"-adverb-en "gens"-adverb-ca
+"possiblement"-adverb-ca "maybe"-adverb-en
+"possiblement"-adverb-ca "perhaps"-adverb-en
+"maybe"-adverb-en "possiblement"-adverb-ca
+"perhaps"-adverb-en "possiblement"-adverb-ca
+"igualment"-adverb-ca "likewise"-adverb-en
+"likewise"-adverb-en "igualment"-adverb-ca
+"quite a lot"-adverb-en "suficientment"-adverb-ca
+"suficientment"-adverb-ca "quite a lot"-adverb-en
+"suficientment"-adverb-ca "enough"-adverb-en
+"bastant"-adverb-ca "sufficiently"-adverb-en
+"sufficiently"-adverb-en "bastant"-adverb-ca
+"sufficiently"-adverb-en "prou"-adverb-ca
+"prou"-adverb-ca "sufficiently"-adverb-en
+"enough"-adverb-en "suficientment"-adverb-ca
+"entirely"-adverb-en "totalment"-adverb-ca
+"totalment"-adverb-ca "entirely"-adverb-en
+"very much"-adverb-en "gaire"-adverb-ca
+"gaire"-adverb-ca "very much"-adverb-en
+"gaire"-adverb-ca "hugely"-adverb-en
+"gaire"-adverb-ca "greatly"-adverb-en
+"gaire"-adverb-ca "dearly"-adverb-en
+"gaire"-adverb-ca "awfully"-adverb-en
+"hugely"-adverb-en "gaire"-adverb-ca
+"greatly"-adverb-en "gaire"-adverb-ca
+"dearly"-adverb-en "gaire"-adverb-ca
+"awfully"-adverb-en "gaire"-adverb-ca
+"realment"-adverb-ca "truly"-adverb-en
+"truly"-adverb-en "realment"-adverb-ca
+"really"-adverb-en "veritablement"-adverb-ca
+"veritablement"-adverb-ca "really"-adverb-en
+"before"-adverb-en "anteriorment"-adverb-ca
+"anteriorment"-adverb-ca "before"-adverb-en
+"al capdavant"-adverb-ca "in front"-adverb-en
+"in front"-adverb-en "al capdavant"-adverb-ca
+"moreover"-adverb-en "a més a més"-adverb-ca
+"a més a més"-adverb-ca "moreover"-adverb-en
+"a més a més"-adverb-ca "there again"-adverb-en
+"a més a més"-adverb-ca "into the bargain"-adverb-en
+"there again"-adverb-en "a més a més"-adverb-ca
+"into the bargain"-adverb-en "a més a més"-adverb-ca
+"out there"-adverb-en "allà"-adverb-ca
+"allà"-adverb-ca "out there"-adverb-en
+"allà"-adverb-ca "over there"-adverb-en
+"over there"-adverb-en "allà"-adverb-ca
+"below"-adverb-en "baix"-adverb-ca
+"baix"-adverb-ca "below"-adverb-en
+"davall"-adverb-ca "beneath"-adverb-en
+"beneath"-adverb-en "davall"-adverb-ca
+"constantment"-adverb-ca "week in week out"-adverb-en
+"constantment"-adverb-ca "every now and again"-adverb-en
+"week in week out"-adverb-en "constantment"-adverb-ca
+"every now and again"-adverb-en "constantment"-adverb-ca
+"alone"-adverb-en "solament"-adverb-ca
+"solament"-adverb-ca "alone"-adverb-en
+"who"-relativePronoun-en "el que"-pronoun-ca
+"who"-relativePronoun-en "el qual"-pronoun-ca
+"el que"-pronoun-ca "who"-relativePronoun-en
+"el que"-pronoun-ca "who"-pronoun-en
+"el que"-pronoun-ca "which"-pronoun-en
+"el que"-pronoun-ca "which"-relativePronoun-en
+"el qual"-pronoun-ca "who"-relativePronoun-en
+"el qual"-pronoun-ca "who"-pronoun-en
+"who"-pronoun-en "el que"-pronoun-ca
+"who"-pronoun-en "el qual"-pronoun-ca
+"which"-pronoun-en "el que"-pronoun-ca
+"which"-pronoun-en "qui"-pronoun-ca
+"which"-relativePronoun-en "el que"-pronoun-ca
+"which"-relativePronoun-en "qui"-pronoun-ca
+"qui"-pronoun-ca "which"-pronoun-en
+"qui"-pronoun-ca "which"-relativePronoun-en
+"qui"-pronoun-ca "that"-relativePronoun-en
+"that"-relativePronoun-en "qui"-pronoun-ca
+"això"-pronoun-ca "that"-pronoun-en
+"that"-pronoun-en "això"-pronoun-ca
+"that"-pronoun-en "açò"-pronoun-ca
+"açò"-pronoun-ca "that"-pronoun-en
+"tothom"-pronoun-ca "all"-pronoun-en
+"all"-pronoun-en "tothom"-pronoun-ca
+"some"-pronoun-en "algú"-pronoun-ca
+"algú"-pronoun-ca "some"-pronoun-en
+"ningú"-pronoun-ca "none"-pronoun-en
+"none"-pronoun-en "ningú"-pronoun-ca
+"fora de"-preposition-ca "outside"-preposition-en
+"outside"-preposition-en "fora de"-preposition-ca
+"d'acord amb"-preposition-ca "according to"-preposition-en
+"according to"-preposition-en "d'acord amb"-preposition-ca
+"dins de"-preposition-ca "inside"-preposition-en
+"inside"-preposition-en "dins de"-preposition-ca
+"off"-preposition-en "des de"-preposition-ca
+"des de"-preposition-ca "off"-preposition-en
+"des de"-preposition-ca "of"-preposition-en
+"de"-preposition-ca "from"-preposition-en
+"from"-preposition-en "de"-preposition-ca
+"of"-preposition-en "des de"-preposition-ca
+"at about"-preposition-en "damunt"-preposition-ca
+"damunt"-preposition-ca "at about"-preposition-en
+"for"-preposition-en "a favor de"-preposition-ca
+"a favor de"-preposition-ca "for"-preposition-en
+"per"-preposition-en "per a"-preposition-ca
+"per a"-preposition-ca "per"-preposition-en
+"below"-preposition-en "sota de"-preposition-ca
+"sota de"-preposition-ca "below"-preposition-en
+"native"-adjective-en "autòcton"-adjective-ca
+"autòcton"-adjective-ca "native"-adjective-en
+"doubtful"-adjective-en "incert"-adjective-ca
+"incert"-adjective-ca "doubtful"-adjective-en
+"single"-adjective-en "únic"-adjective-ca
+"únic"-adjective-ca "single"-adjective-en
+"únic"-adjective-ca "alone"-adjective-en
+"alone"-adjective-en "únic"-adjective-ca
+"quotidià"-adjective-ca "everyday"-adjective-en
+"everyday"-adjective-en "quotidià"-adjective-ca
+"spontaneous"-adjective-en "voluntari"-adjective-ca
+"voluntari"-adjective-ca "spontaneous"-adjective-en
+"autonomous"-adjective-en "autonòmic"-adjective-ca
+"autonòmic"-adjective-ca "autonomous"-adjective-en
+"dret"-adjective-ca "straight"-adjective-en
+"straight"-adjective-en "dret"-adjective-ca
+"apropiat"-adjective-ca "suitable"-adjective-en
+"suitable"-adjective-en "apropiat"-adjective-ca
+"latter"-adjective-en "darrer"-adjective-ca
+"darrer"-adjective-ca "latter"-adjective-en
+"fearless"-adjective-en "audaç"-adjective-ca
+"audaç"-adjective-ca "fearless"-adjective-en
+"secret"-adjective-en "clandestí"-adjective-ca
+"clandestí"-adjective-ca "secret"-adjective-en
+"casolà"-adjective-ca "domestic"-adjective-en
+"domestic"-adjective-en "casolà"-adjective-ca
+"beautiful"-adjective-en "maco"-adjective-ca
+"maco"-adjective-ca "beautiful"-adjective-en
+"sole"-adjective-en "sol"-adjective-ca
+"sol"-adjective-ca "sole"-adjective-en
+"energetic"-adjective-en "enèrgic"-adjective-ca
+"enèrgic"-adjective-ca "energetic"-adjective-en
+"up to"-preposition-en "fins"-preposition-ca
+"fins"-preposition-ca "up to"-preposition-en
+"such as"-preposition-en "com a"-preposition-ca
+"com a"-preposition-ca "such as"-preposition-en
+"com a"-preposition-ca "like"-preposition-en
+"com a"-preposition-ca "as"-preposition-en
+"com"-preposition-ca "as a"-preposition-en
+"as a"-preposition-en "com"-preposition-ca
+"like"-preposition-en "com a"-preposition-ca
+"as"-preposition-en "com a"-preposition-ca
+"near here"-adverb-en "a la vora"-adverb-ca
+"a la vora"-adverb-ca "near here"-adverb-en
+"at a time"-adverb-en "a la vegada"-adverb-ca
+"a la vegada"-adverb-ca "at a time"-adverb-en
+"a la vegada"-adverb-ca "at the same time"-adverb-en
+"a la vegada"-adverb-ca "concurrently"-adverb-en
+"at the same time"-adverb-en "a la vegada"-adverb-ca
+"concurrently"-adverb-en "a la vegada"-adverb-ca
+"non-"-adverb-en "no pas"-adverb-ca
+"no pas"-adverb-ca "non-"-adverb-en
+"no pas"-adverb-ca "not"-adverb-en
+"no pas"-adverb-ca "non"-adverb-en
+"not"-adverb-en "no pas"-adverb-ca
+"non"-adverb-en "no pas"-adverb-ca
+"swiftly"-adverb-en "de pressa"-adverb-ca
+"de pressa"-adverb-ca "swiftly"-adverb-en
+"de pressa"-adverb-ca "rapidly"-adverb-en
+"de pressa"-adverb-ca "quick"-adverb-en
+"de pressa"-adverb-ca "on the double"-adverb-en
+"de pressa"-adverb-ca "hand over fist"-adverb-en
+"de pressa"-adverb-ca "full blast"-adverb-en
+"de pressa"-adverb-ca "fast"-adverb-en
+"de pressa"-adverb-ca "at the double"-adverb-en
+"rapidly"-adverb-en "de pressa"-adverb-ca
+"quick"-adverb-en "de pressa"-adverb-ca
+"on the double"-adverb-en "de pressa"-adverb-ca
+"hand over fist"-adverb-en "de pressa"-adverb-ca
+"full blast"-adverb-en "de pressa"-adverb-ca
+"fast"-adverb-en "de pressa"-adverb-ca
+"at the double"-adverb-en "de pressa"-adverb-ca
+"on top"-adverb-en "dalt"-adverb-ca
+"dalt"-adverb-ca "on top"-adverb-en
+"dalt"-adverb-ca "aloft"-adverb-en
+"aloft"-adverb-en "dalt"-adverb-ca
+"degrade"-verb-en "descompondre"-verb-ca
+"descompondre"-verb-ca "degrade"-verb-en
+"frame"-verb-en "enquadrar"-verb-ca
+"enquadrar"-verb-ca "frame"-verb-en
+"counsel"-verb-en "assessorar"-verb-ca
+"assessorar"-verb-ca "counsel"-verb-en
+"lligar"-verb-ca "link"-verb-en
+"link"-verb-en "lligar"-verb-ca
+"tie"-verb-en "vincular"-verb-ca
+"vincular"-verb-ca "tie"-verb-en
+"cover"-verb-en "incloure"-verb-ca
+"incloure"-verb-ca "cover"-verb-en
+"explain"-verb-en "aclarir"-verb-ca
+"aclarir"-verb-ca "explain"-verb-en
+"destacar"-verb-ca "underline"-verb-en
+"underline"-verb-en "destacar"-verb-ca
+"elect"-verb-en "escollir"-verb-ca
+"escollir"-verb-ca "elect"-verb-en
+"escollir"-verb-ca "pick"-verb-en
+"pick"-verb-en "escollir"-verb-ca
+"reply"-verb-en "contestar"-verb-ca
+"contestar"-verb-ca "reply"-verb-en
+"contestar"-verb-ca "respond"-verb-en
+"respond"-verb-en "contestar"-verb-ca
+"defugir"-verb-ca "escape"-verb-en
+"escape"-verb-en "defugir"-verb-ca
+"seize"-verb-en "copsar"-verb-ca
+"copsar"-verb-ca "seize"-verb-en
+"copsar"-verb-ca "reach for"-verb-en
+"copsar"-verb-ca "catch"-verb-en
+"reach for"-verb-en "copsar"-verb-ca
+"catch"-verb-en "copsar"-verb-ca
+"assolir"-verb-ca "achieve"-verb-en
+"achieve"-verb-en "assolir"-verb-ca
+"place"-verb-en "ubicar"-verb-ca
+"ubicar"-verb-ca "place"-verb-en
+"arreglar"-verb-ca "repair"-verb-en
+"repair"-verb-en "arreglar"-verb-ca
+"comply"-verb-en "observar"-verb-ca
+"observar"-verb-ca "comply"-verb-en
+"understand"-verb-en "comprendre"-verb-ca
+"comprendre"-verb-ca "understand"-verb-en
+"precisar"-verb-ca "specify"-verb-en
+"specify"-verb-en "precisar"-verb-ca
+"replace"-verb-en "substituir"-verb-ca
+"substituir"-verb-ca "replace"-verb-en
+"cloure"-verb-ca "shut"-verb-en
+"shut"-verb-en "cloure"-verb-ca
+"register"-verb-en "enregistrar"-verb-ca
+"enregistrar"-verb-ca "register"-verb-en
+"swear"-verb-en "renegar"-verb-ca
+"renegar"-verb-ca "swear"-verb-en
+"invest"-verb-en "investir"-verb-ca
+"investir"-verb-ca "invest"-verb-en
+"refuse"-verb-en "refusar"-verb-ca
+"refusar"-verb-ca "refuse"-verb-en
+"cast"-verb-en "llençar"-verb-ca
+"llençar"-verb-ca "cast"-verb-en
+"llençar"-verb-ca "sling"-verb-en
+"sling"-verb-en "llençar"-verb-ca
+"residu"-noun-ca "remains"-noun-en
+"remains"-noun-en "residu"-noun-ca
+"medi ambient"-noun-ca "surroundings"-noun-en
+"surroundings"-noun-en "medi ambient"-noun-ca
+"nord-americà"-adjective-ca "American"-adjective-en
+"American"-adjective-en "nord-americà"-adjective-ca
+"foreign"-adjective-en "aliè"-adjective-ca
+"aliè"-adjective-ca "foreign"-adjective-en
+"saint"-adjective-en "sacre"-adjective-ca
+"saint"-adjective-en "sagrat"-adjective-ca
+"sacre"-adjective-ca "saint"-adjective-en
+"sagrat"-adjective-ca "saint"-adjective-en
+"illustrate"-verb-en "exemplificar"-verb-ca
+"exemplificar"-verb-ca "illustrate"-verb-en
+"unfortunately"-adverb-en "desgraciadament"-adverb-ca
+"unfortunately"-adverb-en "lamentablement"-adverb-ca
+"desgraciadament"-adverb-ca "unfortunately"-adverb-en
+"lamentablement"-adverb-ca "unfortunately"-adverb-en
+"firstly"-adverb-en "primer"-adverb-ca
+"primer"-adverb-ca "firstly"-adverb-en
+"first"-adverb-en "en primer lloc"-adverb-ca
+"en primer lloc"-adverb-ca "first"-adverb-en
+"within"-adverb-en "a dintre"-adverb-ca
+"within"-adverb-en "a dins"-adverb-ca
+"a dintre"-adverb-ca "within"-adverb-en
+"a dins"-adverb-ca "within"-adverb-en
+"Spanish"-adjective-en "hispànic"-adjective-ca
+"hispànic"-adjective-ca "Spanish"-adjective-en
+"devot"-adjective-ca "pious"-adjective-en
+"pious"-adjective-en "devot"-adjective-ca

@@ -1,0 +1,210 @@
+"favourably"-adverb-en "favorablemente"-adverb-es
+"favorablemente"-adverb-es "favourably"-adverb-en
+"quien"-pronoun-es "whom"-pronoun-en
+"whom"-pronoun-en "quien"-pronoun-es
+"whom"-pronoun-en "que"-pronoun-es
+"whom"-pronoun-en "el que"-pronoun-es
+"whom"-pronoun-en "el cual"-pronoun-es
+"whom"-pronoun-en "cual"-pronoun-es
+"whom"-pronoun-en "a quién"-pronoun-es
+"que"-pronoun-es "whom"-pronoun-en
+"el que"-pronoun-es "whom"-pronoun-en
+"el cual"-pronoun-es "whom"-pronoun-en
+"cual"-pronoun-es "whom"-pronoun-en
+"a quién"-pronoun-es "whom"-pronoun-en
+"represivo"-adjective-es "repressive"-adjective-en
+"repressive"-adjective-en "represivo"-adjective-es
+"lujoso"-adjective-es "luxurious"-adjective-en
+"luxurious"-adjective-en "lujoso"-adjective-es
+"reference"-verb-en "referenciar"-verb-es
+"referenciar"-verb-es "reference"-verb-en
+"grotesco"-adjective-es "grotesque"-adjective-en
+"grotesque"-adjective-en "grotesco"-adjective-es
+"escalar"-verb-es "scale"-verb-en
+"scale"-verb-en "escalar"-verb-es
+"colisionar"-verb-es "collide"-verb-en
+"collide"-verb-en "colisionar"-verb-es
+"majestuoso"-adjective-es "stately"-adjective-en
+"stately"-adjective-en "majestuoso"-adjective-es
+"segundo"-adjective-es "second"-adjective-en
+"second"-adjective-en "segundo"-adjective-es
+"cuarto"-adjective-es "fourth"-adjective-en
+"fourth"-adjective-en "cuarto"-adjective-es
+"quinto"-adjective-es "fifth"-adjective-en
+"fifth"-adjective-en "quinto"-adjective-es
+"sixth"-adjective-en "sexto"-adjective-es
+"sexto"-adjective-es "sixth"-adjective-en
+"séptimo"-adjective-es "seventh"-adjective-en
+"seventh"-adjective-en "séptimo"-adjective-es
+"octavo"-adjective-es "eighth"-adjective-en
+"eighth"-adjective-en "octavo"-adjective-es
+"noveno"-adjective-es "ninth"-adjective-en
+"ninth"-adjective-en "noveno"-adjective-es
+"décimo"-adjective-es "tenth"-adjective-en
+"tenth"-adjective-en "décimo"-adjective-es
+"twelfth"-adjective-en "duodécimo"-adjective-es
+"duodécimo"-adjective-es "twelfth"-adjective-en
+"fifteenth"-adjective-en "decimoquinto"-adjective-es
+"decimoquinto"-adjective-es "fifteenth"-adjective-en
+"twentieth"-adjective-en "vigésimo"-adjective-es
+"vigésimo"-adjective-es "twentieth"-adjective-en
+"golf"-noun-es "golf"-noun-en
+"golf"-noun-en "golf"-noun-es
+"gum"-noun-en "encía"-noun-es
+"encía"-noun-es "gum"-noun-en
+"rascal"-noun-en "pícaro"-noun-es
+"pícaro"-noun-es "rascal"-noun-en
+"fortieth"-adjective-en "cuadragésimo"-adjective-es
+"cuadragésimo"-adjective-es "fortieth"-adjective-en
+"sixtieth"-adjective-en "sexagésimo"-adjective-es
+"sexagésimo"-adjective-es "sixtieth"-adjective-en
+"Finnish"-adjective-en "finés"-adjective-es
+"finés"-adjective-es "Finnish"-adjective-en
+"rumano"-adjective-es "Romanian"-adjective-en
+"Romanian"-adjective-en "rumano"-adjective-es
+"nostálgico"-adjective-es "nostalgic"-adjective-en
+"nostalgic"-adjective-en "nostálgico"-adjective-es
+"receptive"-adjective-en "receptivo"-adjective-es
+"receptivo"-adjective-es "receptive"-adjective-en
+"in Spanish"-adverb-en "en castellano"-adverb-es
+"en castellano"-adverb-es "in Spanish"-adverb-en
+"visually"-adverb-en "visualmente"-adverb-es
+"visualmente"-adverb-es "visually"-adverb-en
+"eleventh"-adjective-en "undécimo"-adjective-es
+"undécimo"-adjective-es "eleventh"-adjective-en
+"fiftieth"-adjective-en "quincuagésimo"-adjective-es
+"quincuagésimo"-adjective-es "fiftieth"-adjective-en
+"nineteenth"-adjective-en "decimonoveno"-adjective-es
+"decimonoveno"-adjective-es "nineteenth"-adjective-en
+"seventeenth"-adjective-en "decimoséptimo"-adjective-es
+"decimoséptimo"-adjective-es "seventeenth"-adjective-en
+"sixteenth"-adjective-en "decimosexto"-adjective-es
+"decimosexto"-adjective-es "sixteenth"-adjective-en
+"thirtieth"-adjective-en "trigésimo"-adjective-es
+"trigésimo"-adjective-es "thirtieth"-adjective-en
+"thousandth"-adjective-en "milésimo"-adjective-es
+"milésimo"-adjective-es "thousandth"-adjective-en
+"Unión Soviética"-properNoun-es "Soviet Union"-properNoun-en
+"Soviet Union"-properNoun-en "Unión Soviética"-properNoun-es
+"Caucasus"-properNoun-en "Cáucaso"-properNoun-es
+"Cáucaso"-properNoun-es "Caucasus"-properNoun-en
+"soprano"-noun-en "soprano"-noun-es
+"soprano"-noun-es "soprano"-noun-en
+"azul"-noun-es "blue"-noun-en
+"blue"-noun-en "azul"-noun-es
+"India"-properNoun-en "India"-properNoun-es
+"India"-properNoun-es "India"-properNoun-en
+"centrist"-adjective-en "centrista"-adjective-es
+"centrista"-adjective-es "centrist"-adjective-en
+"en gaélico"-adverb-es "in Gaelic"-adverb-en
+"in Gaelic"-adverb-en "en gaélico"-adverb-es
+"en catalán"-adverb-es "in Catalan"-adverb-en
+"in Catalan"-adverb-en "en catalán"-adverb-es
+"en portugués"-adverb-es "in Portuguese"-adverb-en
+"in Portuguese"-adverb-en "en portugués"-adverb-es
+"en aragonés"-adverb-es "in Aragonese"-adverb-en
+"in Aragonese"-adverb-en "en aragonés"-adverb-es
+"en asturiano"-adverb-es "in Asturian"-adverb-en
+"in Asturian"-adverb-en "en asturiano"-adverb-es
+"en occitano"-adverb-es "in Occitan"-adverb-en
+"in Occitan"-adverb-en "en occitano"-adverb-es
+"en gascón"-adverb-es "in Gascon"-adverb-en
+"in Gascon"-adverb-en "en gascón"-adverb-es
+"en francés"-adverb-es "in French"-adverb-en
+"in French"-adverb-en "en francés"-adverb-es
+"en italiano"-adverb-es "in Italian"-adverb-en
+"in Italian"-adverb-en "en italiano"-adverb-es
+"en friulano"-adverb-es "in Friulian"-adverb-en
+"in Friulian"-adverb-en "en friulano"-adverb-es
+"en sardo"-adverb-es "in Sardinian"-adverb-en
+"in Sardinian"-adverb-en "en sardo"-adverb-es
+"en romanche"-adverb-es "in Romansh"-adverb-en
+"in Romansh"-adverb-en "en romanche"-adverb-es
+"en rumano"-adverb-es "in Romanian"-adverb-en
+"in Romanian"-adverb-en "en rumano"-adverb-es
+"en inglés"-adverb-es "in English"-adverb-en
+"in English"-adverb-en "en inglés"-adverb-es
+"en escocés"-adverb-es "in Scottish Gaelic"-adverb-en
+"en escocés"-adverb-es "in Scots"-adverb-en
+"in Scottish Gaelic"-adverb-en "en escocés"-adverb-es
+"in Scots"-adverb-en "en escocés"-adverb-es
+"en alemán"-adverb-es "in German"-adverb-en
+"in German"-adverb-en "en alemán"-adverb-es
+"en flamenco"-adverb-es "in Flemish"-adverb-en
+"in Flemish"-adverb-en "en flamenco"-adverb-es
+"en irlandés"-adverb-es "in Irish"-adverb-en
+"in Irish"-adverb-en "en irlandés"-adverb-es
+"en bretón"-adverb-es "in Breton"-adverb-en
+"in Breton"-adverb-en "en bretón"-adverb-es
+"en galés"-adverb-es "in Welsh"-adverb-en
+"in Welsh"-adverb-en "en galés"-adverb-es
+"en vasco"-adverb-es "in Basque"-adverb-en
+"in Basque"-adverb-en "en vasco"-adverb-es
+"en danés"-adverb-es "in Danish"-adverb-en
+"in Danish"-adverb-en "en danés"-adverb-es
+"en sueco"-adverb-es "in Swedish"-adverb-en
+"in Swedish"-adverb-en "en sueco"-adverb-es
+"en noruego"-adverb-es "in Norvegian"-adverb-en
+"in Norvegian"-adverb-en "en noruego"-adverb-es
+"en islandés"-adverb-es "in Icelandic"-adverb-en
+"in Icelandic"-adverb-en "en islandés"-adverb-es
+"en lituano"-adverb-es "in Lithuanian"-adverb-en
+"in Lithuanian"-adverb-en "en lituano"-adverb-es
+"en letón"-adverb-es "in Latvian"-adverb-en
+"in Latvian"-adverb-en "en letón"-adverb-es
+"en estonio"-adverb-es "in Estonian"-adverb-en
+"in Estonian"-adverb-en "en estonio"-adverb-es
+"en finés"-adverb-es "in Finnish"-adverb-en
+"in Finnish"-adverb-en "en finés"-adverb-es
+"en húngaro"-adverb-es "in Hungarian"-adverb-en
+"in Hungarian"-adverb-en "en húngaro"-adverb-es
+"en polaco"-adverb-es "in Polish"-adverb-en
+"in Polish"-adverb-en "en polaco"-adverb-es
+"en ruso"-adverb-es "in Russian"-adverb-en
+"in Russian"-adverb-en "en ruso"-adverb-es
+"en bielorruso"-adverb-es "in Belarussian"-adverb-en
+"in Belarussian"-adverb-en "en bielorruso"-adverb-es
+"en ucranio"-adverb-es "in Ukrainian"-adverb-en
+"in Ukrainian"-adverb-en "en ucranio"-adverb-es
+"en checo"-adverb-es "in Czech"-adverb-en
+"in Czech"-adverb-en "en checo"-adverb-es
+"en esloveno"-adverb-es "in Slovene"-adverb-en
+"in Slovene"-adverb-en "en esloveno"-adverb-es
+"en croata"-adverb-es "in Croatian"-adverb-en
+"in Croatian"-adverb-en "en croata"-adverb-es
+"en eslovaco"-adverb-es "in Slovak"-adverb-en
+"in Slovak"-adverb-en "en eslovaco"-adverb-es
+"en serbio"-adverb-es "in Serbian"-adverb-en
+"in Serbian"-adverb-en "en serbio"-adverb-es
+"en serbocroata"-adverb-es "in Serbocroatian"-adverb-en
+"in Serbocroatian"-adverb-en "en serbocroata"-adverb-es
+"en macedonio"-adverb-es "in Macedonian"-adverb-en
+"in Macedonian"-adverb-en "en macedonio"-adverb-es
+"en búlgaro"-adverb-es "in Bulgarian"-adverb-en
+"in Bulgarian"-adverb-en "en búlgaro"-adverb-es
+"en griego"-adverb-es "in Greek"-adverb-en
+"in Greek"-adverb-en "en griego"-adverb-es
+"en albanés"-adverb-es "in Albanian"-adverb-en
+"in Albanian"-adverb-en "en albanés"-adverb-es
+"in Latin"-adverb-en "en latín"-adverb-es
+"en latín"-adverb-es "in Latin"-adverb-en
+"en chino"-adverb-es "in Chinese"-adverb-en
+"in Chinese"-adverb-en "en chino"-adverb-es
+"en hindi"-adverb-es "in Hindi"-adverb-en
+"in Hindi"-adverb-en "en hindi"-adverb-es
+"en bengalí"-adverb-es "in Bengali"-adverb-en
+"in Bengali"-adverb-en "en bengalí"-adverb-es
+"en turco"-adverb-es "in Turkish"-adverb-en
+"in Turkish"-adverb-en "en turco"-adverb-es
+"en kurdo"-adverb-es "in Kurdish"-adverb-en
+"in Kurdish"-adverb-en "en kurdo"-adverb-es
+"en maltés"-adverb-es "in Maltese"-adverb-en
+"in Maltese"-adverb-en "en maltés"-adverb-es
+"en árabe"-adverb-es "in Arabic"-adverb-en
+"in Arabic"-adverb-en "en árabe"-adverb-es
+"en hebreo"-adverb-es "in Hebrew"-adverb-en
+"in Hebrew"-adverb-en "en hebreo"-adverb-es
+"en arameo"-adverb-es "in Aramaic"-adverb-en
+"in Aramaic"-adverb-en "en arameo"-adverb-es
+"en persa"-adverb-es "in Persian"-adverb-en
+"in Persian"-adverb-en "en persa"-adverb-es

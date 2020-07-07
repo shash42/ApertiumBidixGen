@@ -1,0 +1,566 @@
+"that"-determiner-en "ese"-determiner-es
+"ese"-determiner-es "that"-determiner-en
+"merely"-adverb-en "simplemente"-adverb-es
+"merely"-adverb-en "sencillamente"-adverb-es
+"simplemente"-adverb-es "merely"-adverb-en
+"sencillamente"-adverb-es "merely"-adverb-en
+"occasionally"-adverb-en "a veces"-adverb-es
+"a veces"-adverb-es "occasionally"-adverb-en
+"swiftly"-adverb-en "deprisa"-adverb-es
+"deprisa"-adverb-es "swiftly"-adverb-en
+"deprisa"-adverb-es "rapidly"-adverb-en
+"deprisa"-adverb-es "quick"-adverb-en
+"deprisa"-adverb-es "on the double"-adverb-en
+"deprisa"-adverb-es "hand over fist"-adverb-en
+"deprisa"-adverb-es "full blast"-adverb-en
+"deprisa"-adverb-es "fast"-adverb-en
+"deprisa"-adverb-es "at the double"-adverb-en
+"rapidly"-adverb-en "deprisa"-adverb-es
+"quick"-adverb-en "deprisa"-adverb-es
+"on the double"-adverb-en "deprisa"-adverb-es
+"hand over fist"-adverb-en "deprisa"-adverb-es
+"full blast"-adverb-en "deprisa"-adverb-es
+"fast"-adverb-en "deprisa"-adverb-es
+"at the double"-adverb-en "deprisa"-adverb-es
+"concurrently"-adverb-en "a la vez"-adverb-es
+"a la vez"-adverb-es "concurrently"-adverb-en
+"angostamente"-adverb-es "closely"-adverb-en
+"closely"-adverb-en "angostamente"-adverb-es
+"on a day-to-day basis"-adverb-en "a diario"-adverb-es
+"a diario"-adverb-es "on a day-to-day basis"-adverb-en
+"profoundly"-adverb-en "hondamente"-adverb-es
+"hondamente"-adverb-es "profoundly"-adverb-en
+"aparentemente"-adverb-es "seemingly"-adverb-en
+"seemingly"-adverb-en "aparentemente"-adverb-es
+"possibly"-adverb-en "tal vez"-adverb-es
+"possibly"-adverb-en "quizá"-adverb-es
+"possibly"-adverb-en "quizás"-adverb-es
+"tal vez"-adverb-es "possibly"-adverb-en
+"tal vez"-adverb-es "perhaps"-adverb-en
+"quizá"-adverb-es "possibly"-adverb-en
+"quizá"-adverb-es "maybe"-adverb-en
+"quizás"-adverb-es "possibly"-adverb-en
+"perhaps"-adverb-en "tal vez"-adverb-es
+"maybe"-adverb-en "quizá"-adverb-es
+"out"-adverb-en "afuera"-adverb-es
+"afuera"-adverb-es "out"-adverb-en
+"afuera"-adverb-es "off"-adverb-en
+"off"-adverb-en "afuera"-adverb-es
+"de todas maneras"-adverb-es "anyway"-adverb-en
+"de todas maneras"-adverb-es "anyhow"-adverb-en
+"anyway"-adverb-en "de todas maneras"-adverb-es
+"anyhow"-adverb-en "de todas maneras"-adverb-es
+"meanwhile"-adverb-en "mientras tanto"-adverb-es
+"mientras tanto"-adverb-es "meanwhile"-adverb-en
+"primeramente"-adverb-es "first"-adverb-en
+"first"-adverb-en "primeramente"-adverb-es
+"firstly"-adverb-en "primero"-adverb-es
+"primero"-adverb-es "firstly"-adverb-en
+"solamente"-adverb-es "solely"-adverb-en
+"solamente"-adverb-es "just"-adverb-en
+"solely"-adverb-en "solamente"-adverb-es
+"solely"-adverb-en "solo"-adverb-es
+"just"-adverb-en "solamente"-adverb-es
+"just"-adverb-en "solo"-adverb-es
+"solo"-adverb-es "solely"-adverb-en
+"solo"-adverb-es "just"-adverb-en
+"ultimately"-adverb-en "por fin"-adverb-es
+"por fin"-adverb-es "ultimately"-adverb-en
+"por fin"-adverb-es "lastly"-adverb-en
+"por fin"-adverb-es "finally"-adverb-en
+"lastly"-adverb-en "por fin"-adverb-es
+"finally"-adverb-en "por fin"-adverb-es
+"wholly"-adverb-en "por entero"-adverb-es
+"por entero"-adverb-es "wholly"-adverb-en
+"por entero"-adverb-es "to the ground"-adverb-en
+"por entero"-adverb-es "to capacity"-adverb-en
+"por entero"-adverb-es "straight through"-adverb-en
+"por entero"-adverb-es "right through"-adverb-en
+"por entero"-adverb-es "completely"-adverb-en
+"por entero"-adverb-es "all the way"-adverb-en
+"to the ground"-adverb-en "por entero"-adverb-es
+"to capacity"-adverb-en "por entero"-adverb-es
+"straight through"-adverb-en "por entero"-adverb-es
+"right through"-adverb-en "por entero"-adverb-es
+"completely"-adverb-en "por entero"-adverb-es
+"all the way"-adverb-en "por entero"-adverb-es
+"entirely"-adverb-en "por completo"-adverb-es
+"por completo"-adverb-es "entirely"-adverb-en
+"realmente"-adverb-es "truly"-adverb-en
+"truly"-adverb-en "realmente"-adverb-es
+"really"-adverb-en "verdaderamente"-adverb-es
+"verdaderamente"-adverb-es "really"-adverb-en
+"constantly"-adverb-en "continuamente"-adverb-es
+"continuamente"-adverb-es "constantly"-adverb-en
+"después"-adverb-es "next"-adverb-en
+"next"-adverb-en "después"-adverb-es
+"thereafter"-adverb-en "luego"-adverb-es
+"luego"-adverb-es "thereafter"-adverb-en
+"luego"-adverb-es "afterward"-adverb-en
+"luego"-adverb-es "after"-adverb-en
+"afterward"-adverb-en "luego"-adverb-es
+"after"-adverb-en "luego"-adverb-es
+"antes"-adverb-es "previously"-adverb-en
+"antes"-adverb-es "formerly"-adverb-en
+"previously"-adverb-en "antes"-adverb-es
+"formerly"-adverb-en "antes"-adverb-es
+"recién"-adverb-es "freshly"-adverb-en
+"freshly"-adverb-en "recién"-adverb-es
+"there and then"-adverb-en "de inmediato"-adverb-es
+"there and then"-adverb-en "inmediatamente"-adverb-es
+"de inmediato"-adverb-es "there and then"-adverb-en
+"de inmediato"-adverb-es "then and there"-adverb-en
+"de inmediato"-adverb-es "straight away"-adverb-en
+"de inmediato"-adverb-es "right away"-adverb-en
+"de inmediato"-adverb-es "in a little while"-adverb-en
+"de inmediato"-adverb-es "in short order"-adverb-en
+"de inmediato"-adverb-es "forthwith"-adverb-en
+"de inmediato"-adverb-es "right off"-adverb-en
+"de inmediato"-adverb-es "at once"-adverb-en
+"inmediatamente"-adverb-es "there and then"-adverb-en
+"inmediatamente"-adverb-es "then and there"-adverb-en
+"inmediatamente"-adverb-es "straight away"-adverb-en
+"inmediatamente"-adverb-es "right away"-adverb-en
+"inmediatamente"-adverb-es "in a little while"-adverb-en
+"inmediatamente"-adverb-es "in short order"-adverb-en
+"inmediatamente"-adverb-es "forthwith"-adverb-en
+"then and there"-adverb-en "de inmediato"-adverb-es
+"then and there"-adverb-en "inmediatamente"-adverb-es
+"straight away"-adverb-en "de inmediato"-adverb-es
+"straight away"-adverb-en "inmediatamente"-adverb-es
+"right away"-adverb-en "de inmediato"-adverb-es
+"right away"-adverb-en "inmediatamente"-adverb-es
+"in a little while"-adverb-en "de inmediato"-adverb-es
+"in a little while"-adverb-en "inmediatamente"-adverb-es
+"in short order"-adverb-en "de inmediato"-adverb-es
+"in short order"-adverb-en "inmediatamente"-adverb-es
+"forthwith"-adverb-en "de inmediato"-adverb-es
+"forthwith"-adverb-en "inmediatamente"-adverb-es
+"right off"-adverb-en "de inmediato"-adverb-es
+"at once"-adverb-en "de inmediato"-adverb-es
+"specially"-adverb-en "en especial"-adverb-es
+"en especial"-adverb-es "specially"-adverb-en
+"allá"-adverb-es "out there"-adverb-en
+"allá"-adverb-es "over there"-adverb-en
+"out there"-adverb-en "allá"-adverb-es
+"over there"-adverb-en "allá"-adverb-es
+"over here"-adverb-en "ahí"-adverb-es
+"ahí"-adverb-es "over here"-adverb-en
+"por otra parte"-adverb-es "on the other side"-adverb-en
+"on the other side"-adverb-en "por otra parte"-adverb-es
+"suficientemente"-adverb-es "enough"-adverb-en
+"suficientemente"-adverb-es "quite a lot"-adverb-en
+"enough"-adverb-en "suficientemente"-adverb-es
+"quite a lot"-adverb-en "suficientemente"-adverb-es
+"sufficiently"-adverb-en "bastante"-adverb-es
+"bastante"-adverb-es "sufficiently"-adverb-en
+"ello"-pronoun-es "that"-pronoun-en
+"that"-pronoun-en "ello"-pronoun-es
+"that"-pronoun-en "eso"-pronoun-es
+"eso"-pronoun-es "that"-pronoun-en
+"who"-pronoun-en "que"-relativePronoun-es
+"who"-pronoun-en "cuál"-pronoun-es
+"que"-relativePronoun-es "who"-pronoun-en
+"que"-relativePronoun-es "which"-pronoun-en
+"que"-relativePronoun-es "whom"-relativePronoun-en
+"cuál"-pronoun-es "who"-pronoun-en
+"cuál"-pronoun-es "who"-relativePronoun-en
+"cuál"-pronoun-es "whom"-relativePronoun-en
+"cuál"-pronoun-es "that"-relativePronoun-en
+"which"-pronoun-en "que"-relativePronoun-es
+"which"-pronoun-en "quién"-pronoun-es
+"quién"-pronoun-es "which"-pronoun-en
+"quién"-pronoun-es "which"-relativePronoun-en
+"quién"-pronoun-es "whom"-relativePronoun-en
+"quién"-pronoun-es "that"-relativePronoun-en
+"who"-relativePronoun-en "cuál"-pronoun-es
+"which"-relativePronoun-en "quién"-pronoun-es
+"whom"-relativePronoun-en "que"-relativePronoun-es
+"whom"-relativePronoun-en "cuál"-pronoun-es
+"whom"-relativePronoun-en "quién"-pronoun-es
+"that"-relativePronoun-en "cuál"-pronoun-es
+"that"-relativePronoun-en "quién"-pronoun-es
+"sí"-pronoun-es "themselves"-reflexivePersonalPronoun-en
+"sí"-pronoun-es "themselves"-pronoun-en
+"sí"-pronoun-es "itself"-reflexivePersonalPronoun-en
+"sí"-pronoun-es "itself"-pronoun-en
+"sí"-pronoun-es "herself"-pronoun-en
+"sí"-pronoun-es "herself"-reflexivePersonalPronoun-en
+"themselves"-reflexivePersonalPronoun-en "sí"-pronoun-es
+"themselves"-pronoun-en "sí"-pronoun-es
+"itself"-reflexivePersonalPronoun-en "sí"-pronoun-es
+"itself"-pronoun-en "sí"-pronoun-es
+"herself"-pronoun-en "sí"-pronoun-es
+"herself"-reflexivePersonalPronoun-en "sí"-pronoun-es
+"todo"-pronoun-es "everybody"-pronoun-en
+"todo"-pronoun-es "everyone"-pronoun-en
+"everybody"-pronoun-en "todo"-pronoun-es
+"everyone"-pronoun-en "todo"-pronoun-es
+"alguno"-pronoun-es "somebody"-pronoun-en
+"alguno"-pronoun-es "someone"-pronoun-en
+"somebody"-pronoun-en "alguno"-pronoun-es
+"someone"-pronoun-en "alguno"-pronoun-es
+"ninguno"-pronoun-es "nobody"-pronoun-en
+"ninguno"-pronoun-es "no one"-pronoun-en
+"nobody"-pronoun-en "ninguno"-pronoun-es
+"no one"-pronoun-en "ninguno"-pronoun-es
+"none"-pronoun-en "nadie"-pronoun-es
+"nadie"-pronoun-es "none"-pronoun-en
+"en torno a"-preposition-es "round"-preposition-en
+"round"-preposition-en "en torno a"-preposition-es
+"a causa de"-preposition-es "due to"-preposition-en
+"a causa de"-preposition-es "because of"-preposition-en
+"due to"-preposition-en "a causa de"-preposition-es
+"because of"-preposition-en "a causa de"-preposition-es
+"in accordance with"-preposition-en "conforme a"-preposition-es
+"conforme a"-preposition-es "in accordance with"-preposition-en
+"para"-preposition-es "per"-preposition-en
+"per"-preposition-en "para"-preposition-es
+"for"-preposition-en "por"-preposition-es
+"por"-preposition-es "for"-preposition-en
+"by"-preposition-en "de"-preposition-es
+"de"-preposition-es "by"-preposition-en
+"en"-preposition-es "inside"-preposition-en
+"en"-preposition-es "into"-preposition-en
+"inside"-preposition-en "en"-preposition-es
+"into"-preposition-en "en"-preposition-es
+"in"-preposition-en "dentro de"-preposition-es
+"dentro de"-preposition-es "in"-preposition-en
+"con respecto a"-preposition-es "as regards"-preposition-en
+"con respecto a"-preposition-es "concerning"-preposition-en
+"as regards"-preposition-en "con respecto a"-preposition-es
+"as regards"-preposition-en "por lo que respecta a"-preposition-es
+"concerning"-preposition-en "con respecto a"-preposition-es
+"concerning"-preposition-en "por lo que respecta a"-preposition-es
+"regarding"-preposition-en "respecto de"-preposition-es
+"respecto de"-preposition-es "regarding"-preposition-en
+"por lo que respecta a"-preposition-es "as regards"-preposition-en
+"por lo que respecta a"-preposition-es "concerning"-preposition-en
+"salvo"-preposition-es "but"-preposition-en
+"but"-preposition-en "salvo"-preposition-es
+"below"-preposition-en "so"-preposition-es
+"below"-preposition-en "debajo de"-preposition-es
+"so"-preposition-es "below"-preposition-en
+"debajo de"-preposition-es "below"-preposition-en
+"amongst"-preposition-en "por entre"-preposition-es
+"por entre"-preposition-es "amongst"-preposition-en
+"por entre"-preposition-es "amid"-preposition-en
+"por entre"-preposition-es "among"-preposition-en
+"amid"-preposition-en "por entre"-preposition-es
+"among"-preposition-en "por entre"-preposition-es
+"before"-preposition-en "ante"-preposition-es
+"before"-preposition-en "delante de"-preposition-es
+"ante"-preposition-es "before"-preposition-en
+"delante de"-preposition-es "before"-preposition-en
+"despite"-preposition-en "pese a"-preposition-es
+"pese a"-preposition-es "despite"-preposition-en
+"interior"-adjective-es "internal"-adjective-en
+"internal"-adjective-en "interior"-adjective-es
+"urbano"-adjective-es "citizen"-adjective-en
+"citizen"-adjective-en "urbano"-adjective-es
+"medio"-adjective-es "average"-adjective-en
+"average"-adjective-en "medio"-adjective-es
+"middle"-adjective-en "mediano"-adjective-es
+"mediano"-adjective-es "middle"-adjective-en
+"everyday"-adjective-en "cotidiano"-adjective-es
+"cotidiano"-adjective-es "everyday"-adjective-en
+"flawless"-adjective-en "perfecto"-adjective-es
+"perfecto"-adjective-es "flawless"-adjective-en
+"omit"-verb-en "dejar de lado"-verb-es
+"dejar de lado"-verb-es "omit"-verb-en
+"escandaloso"-adjective-es "outrageous"-adjective-en
+"outrageous"-adjective-en "escandaloso"-adjective-es
+"viable"-adjective-en "factible"-adjective-es
+"factible"-adjective-es "viable"-adjective-en
+"illicit"-adjective-en "ilegal"-adjective-es
+"ilegal"-adjective-es "illicit"-adjective-en
+"illegal"-adjective-en "ilícito"-adjective-es
+"ilícito"-adjective-es "illegal"-adjective-en
+"appeal"-verb-en "recurrir"-verb-es
+"recurrir"-verb-es "appeal"-verb-en
+"renounce"-verb-en "desistir"-verb-es
+"desistir"-verb-es "renounce"-verb-en
+"conceive"-verb-en "idear"-verb-es
+"idear"-verb-es "conceive"-verb-en
+"comprehensive"-adjective-en "amplio"-adjective-es
+"amplio"-adjective-es "comprehensive"-adjective-en
+"apropiado"-adjective-es "adequate"-adjective-en
+"apropiado"-adjective-es "suitable"-adjective-en
+"adequate"-adjective-en "apropiado"-adjective-es
+"suitable"-adjective-en "apropiado"-adjective-es
+"provocar"-verb-es "incur"-verb-en
+"incur"-verb-en "provocar"-verb-es
+"slacken"-verb-en "soltar"-verb-es
+"soltar"-verb-es "slacken"-verb-en
+"mal"-adjective-es "nasty"-adjective-en
+"nasty"-adjective-en "mal"-adjective-es
+"lovely"-adjective-en "hermoso"-adjective-es
+"lovely"-adjective-en "bello"-adjective-es
+"hermoso"-adjective-es "lovely"-adjective-en
+"hermoso"-adjective-es "pretty"-adjective-en
+"bello"-adjective-es "lovely"-adjective-en
+"bello"-adjective-es "pretty"-adjective-en
+"pretty"-adjective-en "hermoso"-adjective-es
+"pretty"-adjective-en "bello"-adjective-es
+"pretty"-adjective-en "guapo"-adjective-es
+"beautiful"-adjective-en "guapo"-adjective-es
+"guapo"-adjective-es "pretty"-adjective-en
+"guapo"-adjective-es "beautiful"-adjective-en
+"bonito"-adjective-es "nice"-adjective-en
+"nice"-adjective-en "bonito"-adjective-es
+"enfatizar"-verb-es "underline"-verb-en
+"underline"-verb-en "enfatizar"-verb-es
+"indicar"-verb-es "point"-verb-en
+"point"-verb-en "indicar"-verb-es
+"investigar"-verb-es "poll"-verb-en
+"poll"-verb-en "investigar"-verb-es
+"ascend"-verb-en "subir"-verb-es
+"subir"-verb-es "ascend"-verb-en
+"ascender"-verb-es "climb"-verb-en
+"climb"-verb-en "ascender"-verb-es
+"demonstrate"-verb-en "manifestar"-verb-es
+"manifestar"-verb-es "demonstrate"-verb-en
+"anexar"-verb-es "annex"-verb-en
+"annex"-verb-en "anexar"-verb-es
+"achacar"-verb-es "ascribe"-verb-en
+"ascribe"-verb-en "achacar"-verb-es
+"ascribe"-verb-en "atribuir"-verb-es
+"atribuir"-verb-es "ascribe"-verb-en
+"único"-adjective-es "alone"-adjective-en
+"alone"-adjective-en "único"-adjective-es
+"sole"-adjective-en "solo"-adjective-es
+"solo"-adjective-es "sole"-adjective-en
+"unique"-adjective-en "incomparable"-adjective-es
+"incomparable"-adjective-es "unique"-adjective-en
+"viejo"-adjective-es "venerable"-adjective-en
+"venerable"-adjective-en "viejo"-adjective-es
+"vulgar"-adjective-es "tasteless"-adjective-en
+"tasteless"-adjective-en "vulgar"-adjective-es
+"lightweight"-adjective-en "liviano"-adjective-es
+"liviano"-adjective-es "lightweight"-adjective-en
+"gigantesco"-adjective-es "enormous"-adjective-en
+"enormous"-adjective-en "gigantesco"-adjective-es
+"enormous"-adjective-en "gigante"-adjective-es
+"gigante"-adjective-es "enormous"-adjective-en
+"polemic"-adjective-en "controvertido"-adjective-es
+"controvertido"-adjective-es "polemic"-adjective-en
+"incierto"-adjective-es "doubtful"-adjective-en
+"doubtful"-adjective-en "incierto"-adjective-es
+"attractive"-adjective-en "atrayente"-adjective-es
+"atrayente"-adjective-es "attractive"-adjective-en
+"first"-adjective-en "primo"-adjective-es
+"primo"-adjective-es "first"-adjective-en
+"contrario"-adjective-es "opposite"-adjective-en
+"opposite"-adjective-en "contrario"-adjective-es
+"unstable"-adjective-en "precario"-adjective-es
+"precario"-adjective-es "unstable"-adjective-en
+"mortal"-adjective-es "fatal"-adjective-en
+"fatal"-adjective-en "mortal"-adjective-es
+"evidente"-adjective-es "obvious"-adjective-en
+"obvious"-adjective-en "evidente"-adjective-es
+"lejano"-adjective-es "distant"-adjective-en
+"distant"-adjective-en "lejano"-adjective-es
+"global"-adjective-en "mundial"-adjective-es
+"mundial"-adjective-es "global"-adjective-en
+"abrogar"-verb-es "abolish"-verb-en
+"abolish"-verb-en "abrogar"-verb-es
+"allege"-verb-en "aducir"-verb-es
+"aducir"-verb-es "allege"-verb-en
+"profound"-adjective-en "hondo"-adjective-es
+"hondo"-adjective-es "profound"-adjective-en
+"right-handed"-adjective-en "hábil"-adjective-es
+"hábil"-adjective-es "right-handed"-adjective-en
+"manejar"-verb-es "manipulate"-verb-en
+"manipulate"-verb-en "manejar"-verb-es
+"different"-adjective-en "distinto"-adjective-es
+"distinto"-adjective-es "different"-adjective-en
+"net"-adjective-en "limpio"-adjective-es
+"limpio"-adjective-es "net"-adjective-en
+"calm"-noun-en "tranquilidad"-noun-es
+"tranquilidad"-noun-es "calm"-noun-en
+"gain"-noun-en "adquisición"-noun-es
+"adquisición"-noun-es "gain"-noun-en
+"competidor"-noun-es "competition"-noun-en
+"competition"-noun-en "competidor"-noun-es
+"cave"-noun-en "gruta"-noun-es
+"gruta"-noun-es "cave"-noun-en
+"substitution"-noun-en "reemplazo"-noun-es
+"reemplazo"-noun-es "substitution"-noun-en
+"emission"-noun-en "emanación"-noun-es
+"emanación"-noun-es "emission"-noun-en
+"disculpa"-noun-es "excuse"-noun-en
+"excuse"-noun-en "disculpa"-noun-es
+"cohesion"-noun-en "coherencia"-noun-es
+"coherencia"-noun-es "cohesion"-noun-en
+"driver"-noun-en "automovilista"-noun-es
+"automovilista"-noun-es "driver"-noun-en
+"author"-noun-en "novelista"-noun-es
+"novelista"-noun-es "author"-noun-en
+"fame"-noun-en "renombre"-noun-es
+"renombre"-noun-es "fame"-noun-en
+"creation"-noun-en "criatura"-noun-es
+"criatura"-noun-es "creation"-noun-en
+"concession"-noun-en "cesión"-noun-es
+"cesión"-noun-es "concession"-noun-en
+"coat"-noun-en "chaqueta"-noun-es
+"chaqueta"-noun-es "coat"-noun-en
+"provision"-noun-en "cláusula"-noun-es
+"cláusula"-noun-es "provision"-noun-en
+"demonstration"-noun-en "prueba"-noun-es
+"prueba"-noun-es "demonstration"-noun-en
+"medio ambiente"-noun-es "surroundings"-noun-en
+"surroundings"-noun-en "medio ambiente"-noun-es
+"surroundings"-noun-en "medio"-noun-es
+"medio"-noun-es "surroundings"-noun-en
+"municipality"-noun-en "ciudad"-noun-es
+"ciudad"-noun-es "municipality"-noun-en
+"sacrifice"-noun-en "ofrenda"-noun-es
+"ofrenda"-noun-es "sacrifice"-noun-en
+"residue"-noun-en "resto"-noun-es
+"resto"-noun-es "residue"-noun-en
+"residuo"-noun-es "remnant"-noun-en
+"remnant"-noun-en "residuo"-noun-es
+"obstacle"-noun-en "traba"-noun-es
+"traba"-noun-es "obstacle"-noun-en
+"plantilla"-noun-es "personnel"-noun-en
+"personnel"-noun-en "plantilla"-noun-es
+"expert"-noun-en "especialista"-noun-es
+"especialista"-noun-es "expert"-noun-en
+"store"-noun-en "almacén"-noun-es
+"almacén"-noun-es "store"-noun-en
+"tongue"-noun-en "habla"-noun-es
+"habla"-noun-es "tongue"-noun-en
+"verification"-noun-en "confirmación"-noun-es
+"confirmación"-noun-es "verification"-noun-en
+"consequence"-noun-en "secuela"-noun-es
+"secuela"-noun-es "consequence"-noun-en
+"array"-noun-en "conjunto"-noun-es
+"conjunto"-noun-es "array"-noun-en
+"hall"-noun-en "portal"-noun-es
+"portal"-noun-es "hall"-noun-en
+"confusion"-noun-en "desconcierto"-noun-es
+"desconcierto"-noun-es "confusion"-noun-en
+"altitud"-noun-es "height"-noun-en
+"height"-noun-en "altitud"-noun-es
+"aprovisionamiento"-noun-es "supply"-noun-en
+"supply"-noun-en "aprovisionamiento"-noun-es
+"patrimonio"-noun-es "inheritance"-noun-en
+"inheritance"-noun-en "patrimonio"-noun-es
+"increase"-noun-en "crecimiento"-noun-es
+"crecimiento"-noun-es "increase"-noun-en
+"personality"-noun-en "celebridad"-noun-es
+"celebridad"-noun-es "personality"-noun-en
+"plata"-noun-es "money"-noun-en
+"money"-noun-en "plata"-noun-es
+"attempt"-noun-en "ensayo"-noun-es
+"ensayo"-noun-es "attempt"-noun-en
+"bar"-noun-en "barrera"-noun-es
+"barrera"-noun-es "bar"-noun-en
+"population"-noun-en "pueblo"-noun-es
+"pueblo"-noun-es "population"-noun-en
+"location"-noun-en "emplazamiento"-noun-es
+"emplazamiento"-noun-es "location"-noun-en
+"beginning"-noun-en "inicio"-noun-es
+"inicio"-noun-es "beginning"-noun-en
+"recovery"-noun-en "rescate"-noun-es
+"rescate"-noun-es "recovery"-noun-en
+"graduation"-noun-en "gradación"-noun-es
+"gradación"-noun-es "graduation"-noun-en
+"goal"-noun-en "destino"-noun-es
+"destino"-noun-es "goal"-noun-en
+"fire"-noun-en "chimenea"-noun-es
+"chimenea"-noun-es "fire"-noun-en
+"man"-noun-en "mujer"-noun-es
+"mujer"-noun-es "man"-noun-en
+"servant"-noun-en "servidor"-noun-es
+"servidor"-noun-es "servant"-noun-en
+"punishment"-noun-en "penalización"-noun-es
+"penalización"-noun-es "punishment"-noun-en
+"bridge"-noun-en "pasarela"-noun-es
+"pasarela"-noun-es "bridge"-noun-en
+"attraction"-noun-en "espectáculo"-noun-es
+"espectáculo"-noun-es "attraction"-noun-en
+"poseedor"-noun-es "holder"-noun-en
+"holder"-noun-en "poseedor"-noun-es
+"farm"-noun-en "hacienda"-noun-es
+"hacienda"-noun-es "farm"-noun-en
+"catering"-noun-en "abastecimiento"-noun-es
+"abastecimiento"-noun-es "catering"-noun-en
+"magnitude"-noun-en "grandeza"-noun-es
+"grandeza"-noun-es "magnitude"-noun-en
+"way"-noun-en "vía"-noun-es
+"vía"-noun-es "way"-noun-en
+"slice"-noun-en "tajada"-noun-es
+"tajada"-noun-es "slice"-noun-en
+"rating"-noun-en "valoración"-noun-es
+"rating"-noun-en "estimación"-noun-es
+"rating"-noun-en "apreciación"-noun-es
+"valoración"-noun-es "rating"-noun-en
+"estimación"-noun-es "rating"-noun-en
+"apreciación"-noun-es "rating"-noun-en
+"apreciación"-noun-es "esteem"-noun-en
+"esteem"-noun-en "apreciación"-noun-es
+"trouble"-noun-en "dificultad"-noun-es
+"dificultad"-noun-es "trouble"-noun-en
+"stock"-noun-en "provisión"-noun-es
+"provisión"-noun-es "stock"-noun-en
+"suspicion"-noun-en "desconfianza"-noun-es
+"desconfianza"-noun-es "suspicion"-noun-en
+"plot"-noun-en "intriga"-noun-es
+"intriga"-noun-es "plot"-noun-en
+"disenchantment"-noun-en "desilusión"-noun-es
+"desilusión"-noun-es "disenchantment"-noun-en
+"vote"-noun-en "elección"-noun-es
+"elección"-noun-es "vote"-noun-en
+"sanctuary"-noun-en "refugio"-noun-es
+"refugio"-noun-es "sanctuary"-noun-en
+"accommodation"-noun-en "vivienda"-noun-es
+"vivienda"-noun-es "accommodation"-noun-en
+"shed"-noun-en "barraca"-noun-es
+"barraca"-noun-es "shed"-noun-en
+"observación"-noun-es "surveillance"-noun-en
+"surveillance"-noun-en "observación"-noun-es
+"coup"-noun-en "golpe de estado"-noun-es
+"golpe de estado"-noun-es "coup"-noun-en
+"tie"-noun-en "vínculo"-noun-es
+"vínculo"-noun-es "tie"-noun-en
+"American"-adjective-en "americano"-adjective-es
+"americano"-adjective-es "American"-adjective-en
+"japonés"-adjective-es "Japanese"-adjective-en
+"Japanese"-adjective-en "japonés"-adjective-es
+"santo"-adjective-es "sacred"-adjective-en
+"sacred"-adjective-en "santo"-adjective-es
+"television"-noun-en "tele"-noun-es
+"tele"-noun-es "television"-noun-en
+"famoso"-adjective-es "renowned"-adjective-en
+"renowned"-adjective-en "famoso"-adjective-es
+"renowned"-adjective-en "célebre"-adjective-es
+"célebre"-adjective-es "renowned"-adjective-en
+"cinematic"-adjective-en "cinematográfico"-adjective-es
+"cinematográfico"-adjective-es "cinematic"-adjective-en
+"extraneous"-adjective-en "extranjero"-adjective-es
+"extranjero"-adjective-es "extraneous"-adjective-en
+"desgraciadamente"-adverb-es "unfortunately"-adverb-en
+"unfortunately"-adverb-en "desgraciadamente"-adverb-es
+"strictly"-adverb-en "rigurosamente"-adverb-es
+"rigurosamente"-adverb-es "strictly"-adverb-en
+"furniture"-noun-en "mueble"-noun-es
+"mueble"-noun-es "furniture"-noun-en
+"egg"-noun-en "óvulo"-noun-es
+"óvulo"-noun-es "egg"-noun-en
+"infancy"-noun-en "niñez"-noun-es
+"niñez"-noun-es "infancy"-noun-en
+"earthquake"-noun-en "seísmo"-noun-es
+"seísmo"-noun-es "earthquake"-noun-en
+"prospect"-noun-en "eventualidad"-noun-es
+"eventualidad"-noun-es "prospect"-noun-en
+"reunificación"-noun-es "reunion"-noun-en
+"reunion"-noun-en "reunificación"-noun-es
+"emancipación"-noun-es "release"-noun-en
+"release"-noun-en "emancipación"-noun-es
+"charge"-noun-en "acusación"-noun-es
+"acusación"-noun-es "charge"-noun-en
+"photograph"-noun-en "foto"-noun-es
+"foto"-noun-es "photograph"-noun-en
+"endrino"-noun-es "sled"-noun-en
+"sled"-noun-en "endrino"-noun-es

@@ -1,0 +1,288 @@
+
+adjective
+Vertices in Original/Correct: 8117 / 1942 (23.9251%)
+Extra Vertices: (None, eo-es, Both)
+50 28 244 208 
+Missed Vertices: (None, eo-es, Both)
+1240 1974 709 2986 
+Edges in Original/Correct: 9914 / 2102 (21.2023%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+52 (0.524511%); 30 (0.302602%); 278 (2.80412%); 228 (2.29978%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+1368 (13.7987%); 2260 (22.796%); 772 (7.78697%); 3412 (34.416%); 
+Edge Correct/Predicted (Precision): 78.1413%
+Edge Correct/BothV Predicted (Precision): 90.2146%
+Edge Correct/Total (Recall): 21.2023%
+Edge Correct/BothV Total (Recall) 38.1211%
+Edge Predicted/Original: 27.1333%
+
+
+adverb
+Vertices in Original/Correct: 5128 / 574 (11.1934%)
+Extra Vertices: (None, eo-es, Both)
+14 32 36 111 
+Missed Vertices: (None, eo-es, Both)
+1871 1907 169 929 
+Edges in Original/Correct: 6184 / 654 (10.5757%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+14 (0.226391%); 35 (0.565977%); 40 (0.646831%); 125 (2.02135%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+2056 (33.2471%); 2278 (36.837%); 178 (2.8784%); 1018 (16.4618%); 
+Edge Correct/Predicted (Precision): 75.3456%
+Edge Correct/BothV Predicted (Precision): 83.9538%
+Edge Correct/Total (Recall): 10.5757%
+Edge Correct/BothV Total (Recall) 39.1148%
+Edge Predicted/Original: 14.0362%
+
+
+comma
+Vertices in Original/Correct: 2 / 0 (0%)
+Extra Vertices: (None, eo-es, Both)
+0 0 0 0 
+Missed Vertices: (None, eo-es, Both)
+0 2 0 0 
+Edges in Original/Correct: 2 / 0 (0%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+0 (0%); 0 (0%); 0 (0%); 0 (0%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+0 (0%); 2 (100%); 0 (0%); 0 (0%); 
+Edge Correct/Predicted (Precision): -nan%
+Edge Correct/BothV Predicted (Precision): -nan%
+Edge Correct/Total (Recall): 0%
+Edge Correct/BothV Total (Recall) -nan%
+Edge Predicted/Original: 0%
+
+
+coordinatingConjunction
+Vertices in Original/Correct: 19 / 9 (47.3684%)
+Extra Vertices: (None, eo-es, Both)
+0 0 0 0 
+Missed Vertices: (None, eo-es, Both)
+4 4 0 6 
+Edges in Original/Correct: 24 / 10 (41.6667%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+0 (0%); 0 (0%); 0 (0%); 0 (0%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+4 (16.6667%); 4 (16.6667%); 0 (0%); 6 (25%); 
+Edge Correct/Predicted (Precision): 100%
+Edge Correct/BothV Predicted (Precision): 100%
+Edge Correct/Total (Recall): 41.6667%
+Edge Correct/BothV Total (Recall) 62.5%
+Edge Predicted/Original: 41.6667%
+
+
+determiner
+Vertices in Original/Correct: 70 / 34 (48.5714%)
+Extra Vertices: (None, eo-es, Both)
+2 2 5 7 
+Missed Vertices: (None, eo-es, Both)
+4 17 2 20 
+Edges in Original/Correct: 84 / 40 (47.619%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+2 (2.38095%); 2 (2.38095%); 6 (7.14286%); 8 (9.52381%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+4 (4.7619%); 18 (21.4286%); 2 (2.38095%); 20 (23.8095%); 
+Edge Correct/Predicted (Precision): 68.9655%
+Edge Correct/BothV Predicted (Precision): 83.3333%
+Edge Correct/Total (Recall): 47.619%
+Edge Correct/BothV Total (Recall) 66.6667%
+Edge Predicted/Original: 69.0476%
+
+
+interjection
+Vertices in Original/Correct: 65 / 6 (9.23077%)
+Extra Vertices: (None, eo-es, Both)
+0 0 0 0 
+Missed Vertices: (None, eo-es, Both)
+24 12 8 16 
+Edges in Original/Correct: 68 / 6 (8.82353%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+0 (0%); 0 (0%); 0 (0%); 0 (0%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+24 (35.2941%); 14 (20.5882%); 8 (11.7647%); 16 (23.5294%); 
+Edge Correct/Predicted (Precision): 100%
+Edge Correct/BothV Predicted (Precision): 100%
+Edge Correct/Total (Recall): 8.82353%
+Edge Correct/BothV Total (Recall) 27.2727%
+Edge Predicted/Original: 8.82353%
+
+
+noun
+Vertices in Original/Correct: 43955 / 6553 (14.9084%)
+Extra Vertices: (None, eo-es, Both)
+128 162 969 940 
+Missed Vertices: (None, eo-es, Both)
+2479 24681 1640 11620 
+Edges in Original/Correct: 69283 / 7050 (10.1757%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+135 (0.194853%); 179 (0.258361%); 1064 (1.53573%); 1064 (1.53573%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+2752 (3.97211%); 43461 (62.7297%); 1831 (2.64278%); 14189 (20.4798%); 
+Edge Correct/Predicted (Precision): 74.2731%
+Edge Correct/BothV Predicted (Precision): 86.8869%
+Edge Correct/Total (Recall): 10.1757%
+Edge Correct/BothV Total (Recall) 33.1937%
+Edge Predicted/Original: 13.7003%
+
+
+numeral
+Vertices in Original/Correct: 34 / 6 (17.6471%)
+Extra Vertices: (None, eo-es, Both)
+18 0 0 0 
+Missed Vertices: (None, eo-es, Both)
+10 3 0 16 
+Edges in Original/Correct: 36 / 6 (16.6667%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+18 (50%); 0 (0%); 0 (0%); 0 (0%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+10 (27.7778%); 4 (11.1111%); 0 (0%); 16 (44.4444%); 
+Edge Correct/Predicted (Precision): 25%
+Edge Correct/BothV Predicted (Precision): 100%
+Edge Correct/Total (Recall): 16.6667%
+Edge Correct/BothV Total (Recall) 27.2727%
+Edge Predicted/Original: 66.6667%
+
+
+preposition
+Vertices in Original/Correct: 341 / 91 (26.6862%)
+Extra Vertices: (None, eo-es, Both)
+0 0 11 23 
+Missed Vertices: (None, eo-es, Both)
+95 97 2 102 
+Edges in Original/Correct: 468 / 120 (25.641%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+0 (0%); 0 (0%); 12 (2.5641%); 28 (5.98291%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+98 (20.9402%); 126 (26.9231%); 2 (0.42735%); 122 (26.0684%); 
+Edge Correct/Predicted (Precision): 75%
+Edge Correct/BothV Predicted (Precision): 81.0811%
+Edge Correct/Total (Recall): 25.641%
+Edge Correct/BothV Total (Recall) 49.5868%
+Edge Predicted/Original: 34.188%
+
+
+pronoun
+Vertices in Original/Correct: 96 / 42 (43.75%)
+Extra Vertices: (None, eo-es, Both)
+1 7 15 12 
+Missed Vertices: (None, eo-es, Both)
+6 19 10 36 
+Edges in Original/Correct: 158 / 61 (38.6076%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+1 (0.632911%); 11 (6.96203%); 26 (16.4557%); 26 (16.4557%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+7 (4.43038%); 35 (22.1519%); 11 (6.96203%); 44 (27.8481%); 
+Edge Correct/Predicted (Precision): 48.8%
+Edge Correct/BothV Predicted (Precision): 70.1149%
+Edge Correct/Total (Recall): 38.6076%
+Edge Correct/BothV Total (Recall) 58.0952%
+Edge Predicted/Original: 79.1139%
+
+
+properNoun
+Vertices in Original/Correct: 41521 / 473 (1.13918%)
+Extra Vertices: (None, eo-es, Both)
+26 6 20 2 
+Missed Vertices: (None, eo-es, Both)
+322 35942 317 5641 
+Edges in Original/Correct: 62511 / 484 (0.774264%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+26 (0.0415927%); 6 (0.00959831%); 20 (0.0319944%); 2 (0.00319944%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+390 (0.62389%); 53163 (85.0458%); 365 (0.583897%); 8109 (12.9721%); 
+Edge Correct/Predicted (Precision): 89.9628%
+Edge Correct/BothV Predicted (Precision): 99.5885%
+Edge Correct/Total (Recall): 0.774264%
+Edge Correct/BothV Total (Recall) 5.63249%
+Edge Predicted/Original: 0.860649%
+
+
+punctuation
+Vertices in Original/Correct: 10 / 0 (0%)
+Extra Vertices: (None, eo-es, Both)
+0 0 0 0 
+Missed Vertices: (None, eo-es, Both)
+4 2 2 2 
+Edges in Original/Correct: 10 / 0 (0%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+0 (0%); 0 (0%); 0 (0%); 0 (0%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+4 (40%); 2 (20%); 2 (20%); 2 (20%); 
+Edge Correct/Predicted (Precision): -nan%
+Edge Correct/BothV Predicted (Precision): -nan%
+Edge Correct/Total (Recall): 0%
+Edge Correct/BothV Total (Recall) 0%
+Edge Predicted/Original: 0%
+
+
+reflexivePersonalPronoun
+Vertices in Original/Correct: 5 / 1 (20%)
+Extra Vertices: (None, eo-es, Both)
+0 2 4 3 
+Missed Vertices: (None, eo-es, Both)
+2 1 3 2 
+Edges in Original/Correct: 17 / 1 (5.88235%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+0 (0%); 3 (17.6471%); 12 (70.5882%); 8 (47.0588%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+4 (23.5294%); 1 (5.88235%); 9 (52.9412%); 2 (11.7647%); 
+Edge Correct/Predicted (Precision): 4.16667%
+Edge Correct/BothV Predicted (Precision): 11.1111%
+Edge Correct/Total (Recall): 5.88235%
+Edge Correct/BothV Total (Recall) 33.3333%
+Edge Predicted/Original: 141.176%
+
+
+relativePronoun
+Vertices in Original/Correct: 13 / 5 (38.4615%)
+Extra Vertices: (None, eo-es, Both)
+2 8 0 3 
+Missed Vertices: (None, eo-es, Both)
+1 6 0 6 
+Edges in Original/Correct: 35 / 10 (28.5714%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+3 (8.57143%); 16 (45.7143%); 0 (0%); 9 (25.7143%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+1 (2.85714%); 14 (40%); 0 (0%); 10 (28.5714%); 
+Edge Correct/Predicted (Precision): 26.3158%
+Edge Correct/BothV Predicted (Precision): 52.6316%
+Edge Correct/Total (Recall): 28.5714%
+Edge Correct/BothV Total (Recall) 50%
+Edge Predicted/Original: 108.571%
+
+
+subordinatingConjunction
+Vertices in Original/Correct: 7 / 3 (42.8571%)
+Extra Vertices: (None, eo-es, Both)
+0 0 0 0 
+Missed Vertices: (None, eo-es, Both)
+0 4 2 0 
+Edges in Original/Correct: 12 / 4 (33.3333%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+0 (0%); 0 (0%); 0 (0%); 0 (0%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+0 (0%); 6 (50%); 2 (16.6667%); 0 (0%); 
+Edge Correct/Predicted (Precision): 100%
+Edge Correct/BothV Predicted (Precision): 100%
+Edge Correct/Total (Recall): 33.3333%
+Edge Correct/BothV Total (Recall) 100%
+Edge Predicted/Original: 33.3333%
+
+
+verb
+Vertices in Original/Correct: 1486 / 509 (34.253%)
+Extra Vertices: (None, eo-es, Both)
+1246 88 110 23 
+Missed Vertices: (None, eo-es, Both)
+79 440 53 516 
+Edges in Original/Correct: 1704 / 526 (30.8685%)
+Extra Edges (in P, not in O, classified by O): (None, eo-es, Both)
+1431 (83.9789%); 96 (5.6338%); 116 (6.80751%); 24 (1.40845%); 
+Missed Edges (in O, not in P, classified by D): (None, eo-es, Both)
+80 (4.69484%); 476 (27.9343%); 56 (3.28638%); 566 (33.216%); 
+Edge Correct/Predicted (Precision): 23.9854%
+Edge Correct/BothV Predicted (Precision): 95.6364%
+Edge Correct/Total (Recall): 30.8685%
+Edge Correct/BothV Total (Recall) 48.1685%
+Edge Predicted/Original: 128.697%
+

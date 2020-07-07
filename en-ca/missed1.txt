@@ -1,0 +1,3698 @@
+"any"-determiner-en "gens de"-determiner-ca
+"gens de"-determiner-ca "any"-determiner-en
+"beyond"-preposition-en "allèn de"-preposition-ca
+"allèn de"-preposition-ca "beyond"-preposition-en
+"among"-preposition-en "enmig de"-preposition-ca
+"enmig de"-preposition-ca "among"-preposition-en
+"in the middle of"-preposition-en "al mig de"-preposition-ca
+"al mig de"-preposition-ca "in the middle of"-preposition-en
+"one"-numeral-en "un"-numeral-ca
+"un"-numeral-ca "one"-numeral-en
+"or"-coordinatingConjunction-en "bé"-coordinatingConjunction-ca
+"or"-coordinatingConjunction-en "o bé"-coordinatingConjunction-ca
+"bé"-coordinatingConjunction-ca "or"-coordinatingConjunction-en
+"o bé"-coordinatingConjunction-ca "or"-coordinatingConjunction-en
+"before"-adverb-en "ans"-adverb-ca
+"ans"-adverb-ca "before"-adverb-en
+"overnight"-adverb-en "de la nit al dia"-adverb-ca
+"de la nit al dia"-adverb-ca "overnight"-adverb-en
+"out"-adverb-en "al defora"-adverb-ca
+"al defora"-adverb-ca "out"-adverb-en
+"below"-adverb-en "al dessota"-adverb-ca
+"al dessota"-adverb-ca "below"-adverb-en
+"al dessota"-adverb-ca "underneath"-adverb-en
+"underneath"-adverb-en "al dessota"-adverb-ca
+"afterwards"-adverb-en "en acabat"-adverb-ca
+"en acabat"-adverb-ca "afterwards"-adverb-en
+"for a long time"-adverb-en "molt temps"-adverb-ca
+"molt temps"-adverb-ca "for a long time"-adverb-en
+"after all"-adverb-en "després de tot"-adverb-ca
+"després de tot"-adverb-ca "after all"-adverb-en
+"over and over"-adverb-en "moltes vegades"-adverb-ca
+"moltes vegades"-adverb-ca "over and over"-adverb-en
+"moltes vegades"-adverb-ca "many times"-adverb-en
+"many times"-adverb-en "moltes vegades"-adverb-ca
+"at random"-adverb-en "a l'atzar"-adverb-ca
+"a l'atzar"-adverb-ca "at random"-adverb-en
+"a l'atzar"-adverb-ca "randomly"-adverb-en
+"randomly"-adverb-en "a l'atzar"-adverb-ca
+"always"-adverb-en "a tothora"-adverb-ca
+"a tothora"-adverb-ca "always"-adverb-en
+"rather"-adverb-en "més aïna"-adverb-ca
+"rather"-adverb-en "més aïnes"-adverb-ca
+"rather"-adverb-en "més tost"-adverb-ca
+"més aïna"-adverb-ca "rather"-adverb-en
+"més aïnes"-adverb-ca "rather"-adverb-en
+"més tost"-adverb-ca "rather"-adverb-en
+"almost"-adverb-en "casi"-adverb-ca
+"casi"-adverb-ca "almost"-adverb-en
+"neither"-adverb-en "tampoc no"-adverb-ca
+"tampoc no"-adverb-ca "neither"-adverb-en
+"yesterday"-adverb-en "ahir mateix"-adverb-ca
+"ahir mateix"-adverb-ca "yesterday"-adverb-en
+"again"-adverb-en "un altre cop"-adverb-ca
+"un altre cop"-adverb-ca "again"-adverb-en
+"twice"-adverb-en "dues vegades"-adverb-ca
+"dues vegades"-adverb-ca "twice"-adverb-en
+"tomorrow"-adverb-en "demà mateix"-adverb-ca
+"demà mateix"-adverb-ca "tomorrow"-adverb-en
+"today"-adverb-en "avui mateix"-adverb-ca
+"avui mateix"-adverb-ca "today"-adverb-en
+"tonight"-adverb-en "aquesta nit"-adverb-ca
+"aquesta nit"-adverb-ca "tonight"-adverb-en
+"nowhere"-adverb-en "per enlloc"-adverb-ca
+"per enlloc"-adverb-ca "nowhere"-adverb-en
+"on my own"-adverb-en "pel meu compte"-adverb-ca
+"pel meu compte"-adverb-ca "on my own"-adverb-en
+"on your own"-adverb-en "pel teu compte"-adverb-ca
+"pel teu compte"-adverb-ca "on your own"-adverb-en
+"en el seu propi"-adverb-ca "alone"-adverb-en
+"alone"-adverb-en "en el seu propi"-adverb-ca
+"alone"-adverb-en "sol"-adverb-ca
+"more and more"-adverb-en "més i més"-adverb-ca
+"més i més"-adverb-ca "more and more"-adverb-en
+"the next day"-adverb-en "a l'endemà"-adverb-ca
+"a l'endemà"-adverb-ca "the next day"-adverb-en
+"once"-adverb-en "un cop"-adverb-ca
+"un cop"-adverb-ca "once"-adverb-en
+"once and for all"-adverb-en "d'una vegada per sempre"-adverb-ca
+"d'una vegada per sempre"-adverb-ca "once and for all"-adverb-en
+"back"-adverb-en "arrere"-adverb-ca
+"arrere"-adverb-ca "back"-adverb-en
+"arrere"-adverb-ca "backwards"-adverb-en
+"backwards"-adverb-en "arrere"-adverb-ca
+"lasciviousness"-noun-en "lascívia"-noun-ca
+"lascívia"-noun-ca "lasciviousness"-noun-en
+"hydrostatics"-noun-en "hidrostàtica"-noun-ca
+"hidrostàtica"-noun-ca "hydrostatics"-noun-en
+"football"-noun-en "pilota de futbol"-noun-ca
+"pilota de futbol"-noun-ca "football"-noun-en
+"holiday"-noun-en "vacacions"-noun-ca
+"vacacions"-noun-ca "holiday"-noun-en
+"by the way"-adverb-en "per cert"-adverb-ca
+"per cert"-adverb-ca "by the way"-adverb-en
+"prpers"-pronoun-en "els"-pronoun-ca
+"els"-pronoun-ca "prpers"-pronoun-en
+"",""-comma-en "",""-comma-ca
+"",""-comma-ca "",""-comma-en
+"thousand"-numeral-en "n mil"-numeral-ca
+"n mil"-numeral-ca "thousand"-numeral-en
+"ADP"-noun-en "ADP"-noun-ca
+"ADP"-noun-ca "ADP"-noun-en
+"affix"-verb-en "afixar"-verb-ca
+"afixar"-verb-ca "affix"-verb-en
+"A/H1N1"-noun-en "A/H1N1"-noun-ca
+"A/H1N1"-noun-ca "A/H1N1"-noun-en
+"A/H5N1"-noun-en "A/H5N1"-noun-ca
+"A/H5N1"-noun-ca "A/H5N1"-noun-en
+"anger"-verb-en "enfuriar"-verb-ca
+"enfuriar"-verb-ca "anger"-verb-en
+"enfuriar"-verb-ca "infuriate"-verb-en
+"infuriate"-verb-en "enfuriar"-verb-ca
+"ANSI"-noun-en "ANSI"-noun-ca
+"ANSI"-noun-ca "ANSI"-noun-en
+"AT&T"-noun-en "AT&T"-noun-ca
+"AT&T"-noun-ca "AT&T"-noun-en
+"audition"-verb-en "fer un càsting"-verb-ca
+"fer un càsting"-verb-ca "audition"-verb-en
+"average"-adjective-en "amitjanar"-verb-ca
+"amitjanar"-verb-ca "average"-adjective-en
+"awe"-noun-en "esglaiament"-noun-ca
+"esglaiament"-noun-ca "awe"-noun-en
+"barrel"-verb-en "sortir corrents"-verb-ca
+"sortir corrents"-verb-ca "barrel"-verb-en
+"bird flu"-noun-en "grip aviària"-noun-ca
+"grip aviària"-noun-ca "bird flu"-noun-en
+"blog"-verb-en "bloguejar"-verb-ca
+"bloguejar"-verb-ca "blog"-verb-en
+"blood"-adjective-en "fer olorar la sang"-verb-ca
+"fer olorar la sang"-verb-ca "blood"-adjective-en
+"bolt"-verb-en "collar"-verb-ca
+"bolt"-verb-en "empernar"-verb-ca
+"collar"-verb-ca "bolt"-verb-en
+"empernar"-verb-ca "bolt"-verb-en
+"bombard"-verb-en "bombardar"-verb-ca
+"bombardar"-verb-ca "bombard"-verb-en
+"bridge"-verb-en "abarcar"-verb-ca
+"abarcar"-verb-ca "bridge"-verb-en
+"abarcar"-verb-ca "span"-verb-en
+"span"-verb-en "abarcar"-verb-ca
+"bypass"-verb-en "circumval·lar"-verb-ca
+"circumval·lar"-verb-ca "bypass"-verb-en
+"callipers"-noun-en "peu de rei"-noun-ca
+"peu de rei"-noun-ca "callipers"-noun-en
+"campaign"-verb-en "fer campanya"-verb-ca
+"fer campanya"-verb-ca "campaign"-verb-en
+"captain"-verb-en "capitanejar"-verb-ca
+"capitanejar"-verb-ca "captain"-verb-en
+"carbon dioxide"-noun-en "diòxid de carboni"-noun-ca
+"diòxid de carboni"-noun-ca "carbon dioxide"-noun-en
+"carrier"-adjective-en "carregador"-adjective-ca
+"carregador"-adjective-ca "carrier"-adjective-en
+"car"-adjective-en "automobilístic"-adjective-ca
+"automobilístic"-adjective-ca "car"-adjective-en
+"cash"-noun-en "diner efectiu"-noun-ca
+"diner efectiu"-noun-ca "cash"-noun-en
+"Castroan"-adjective-en "castrenyo"-adjective-ca
+"castrenyo"-adjective-ca "Castroan"-adjective-en
+"chemometrics"-noun-en "quimiometria"-noun-ca
+"quimiometria"-noun-ca "chemometrics"-noun-en
+"cleansing"-adjective-en "netejador"-adjective-ca
+"netejador"-adjective-ca "cleansing"-adjective-en
+"click"-verb-en "fer clic"-verb-ca
+"fer clic"-verb-ca "click"-verb-en
+"Cl-"-noun-en "Cl-"-noun-ca
+"Cl-"-noun-ca "Cl-"-noun-en
+"CO₂"-noun-ca "CO2"-noun-en
+"CO2"-noun-en "CO₂"-noun-ca
+"context-based machine translation"-noun-en "traducció automàtica basada en el context"-noun-ca
+"traducció automàtica basada en el context"-noun-ca "context-based machine translation"-noun-en
+"cook"-verb-en "guisar"-verb-ca
+"guisar"-verb-ca "cook"-verb-en
+"guisar"-verb-ca "stew"-verb-en
+"stew"-verb-en "guisar"-verb-ca
+"coprime"-adjective-en "coprimer"-adjective-ca
+"coprimer"-adjective-ca "coprime"-adjective-en
+"corpus-based machine translation"-noun-en "traducció automàtica basada en corpus"-noun-ca
+"traducció automàtica basada en corpus"-noun-ca "corpus-based machine translation"-noun-en
+"crackdown"-noun-en "mà dura"-noun-ca
+"mà dura"-noun-ca "crackdown"-noun-en
+"crossword"-noun-en "mots encreuats"-noun-ca
+"mots encreuats"-noun-ca "crossword"-noun-en
+"ČSSD"-noun-en "ČSSD"-noun-ca
+"ČSSD"-noun-ca "ČSSD"-noun-en
+"ČTK"-noun-en "ČTK"-noun-ca
+"ČTK"-noun-ca "ČTK"-noun-en
+"current"-adjective-en "en curs"-adjective-ca
+"en curs"-adjective-ca "current"-adjective-en
+"custom"-adjective-en "fet per encàrrec"-adjective-ca
+"fet per encàrrec"-adjective-ca "custom"-adjective-en
+"cutter"-noun-en "guardacostes"-noun-ca
+"guardacostes"-noun-ca "cutter"-noun-en
+"cymbal"-noun-en "platerets"-noun-ca
+"platerets"-noun-ca "cymbal"-noun-en
+"DBMS"-noun-en "SGBD"-noun-ca
+"SGBD"-noun-ca "DBMS"-noun-en
+"decoder"-adjective-en "descodificador"-adjective-ca
+"descodificador"-adjective-ca "decoder"-adjective-en
+"dendrochronology"-noun-en "dendrocronologia"-noun-ca
+"dendrocronologia"-noun-ca "dendrochronology"-noun-en
+"derivative"-adjective-en "derivat"-adjective-ca
+"derivat"-adjective-ca "derivative"-adjective-en
+"dirty clothes"-noun-en "roba bruta"-noun-ca
+"roba bruta"-noun-ca "dirty clothes"-noun-en
+"roba bruta"-noun-ca "laundry"-noun-en
+"laundry"-noun-en "roba bruta"-noun-ca
+"distress"-verb-en "contristar"-verb-ca
+"contristar"-verb-ca "distress"-verb-en
+"dive"-verb-en "bussejar"-verb-ca
+"bussejar"-verb-ca "dive"-verb-en
+"drift"-verb-en "anar a la deriva"-verb-ca
+"anar a la deriva"-verb-ca "drift"-verb-en
+"drop"-verb-en "amollar"-verb-ca
+"amollar"-verb-ca "drop"-verb-en
+"amollar"-verb-ca "release"-verb-en
+"release"-verb-en "amollar"-verb-ca
+"DTP"-noun-en "DTP"-noun-ca
+"DTP"-noun-ca "DTP"-noun-en
+"duplicate"-adjective-en "duplicat"-adjective-ca
+"duplicat"-adjective-ca "duplicate"-adjective-en
+"duplicat"-adjective-ca "duplicate"-verb-en
+"duplicate"-verb-en "duplicat"-adjective-ca
+"dye"-verb-en "colorir"-verb-ca
+"colorir"-verb-ca "dye"-verb-en
+"electrodynamics"-noun-en "electrodinàmica"-noun-ca
+"electrodinàmica"-noun-ca "electrodynamics"-noun-en
+"electrostatics"-noun-en "electroestàtica"-noun-ca
+"electroestàtica"-noun-ca "electrostatics"-noun-en
+"electrotechnics"-noun-en "electrotècnia"-noun-ca
+"electrotècnia"-noun-ca "electrotechnics"-noun-en
+"endodontics"-noun-en "endodòncia"-noun-ca
+"endodòncia"-noun-ca "endodontics"-noun-en
+"EPP-ED"-noun-en "PPE-DE"-noun-ca
+"PPE-DE"-noun-ca "EPP-ED"-noun-en
+"EPROM"-noun-en "EPROM"-noun-ca
+"EPROM"-noun-ca "EPROM"-noun-en
+"face"-verb-en "estar de cara a"-verb-ca
+"estar de cara a"-verb-ca "face"-verb-en
+"FIDE"-noun-en "FIDE"-noun-ca
+"FIDE"-noun-ca "FIDE"-noun-en
+"fighting"-adjective-en "lluitador"-adjective-ca
+"lluitador"-adjective-ca "fighting"-adjective-en
+"fish"-verb-en "feinejar"-verb-ca
+"feinejar"-verb-ca "fish"-verb-en
+"flash"-verb-en "llampegar"-verb-ca
+"flash"-verb-en "pampalluguejar"-verb-ca
+"llampegar"-verb-ca "flash"-verb-en
+"pampalluguejar"-verb-ca "flash"-verb-en
+"flock"-verb-en "anar en massa"-verb-ca
+"anar en massa"-verb-ca "flock"-verb-en
+"foam"-verb-en "espumejar"-verb-ca
+"espumejar"-verb-ca "foam"-verb-en
+"freezing"-adjective-en "gelat"-adjective-ca
+"gelat"-adjective-ca "freezing"-adjective-en
+"freshwater"-noun-en "aigua dolça"-noun-ca
+"aigua dolça"-noun-ca "freshwater"-noun-en
+"fringe"-verb-en "franjar"-verb-ca
+"franjar"-verb-ca "fringe"-verb-en
+"gaze"-verb-en "mirar fixament"-verb-ca
+"mirar fixament"-verb-ca "gaze"-verb-en
+"mirar fixament"-verb-ca "stare"-verb-en
+"stare"-verb-en "mirar fixament"-verb-ca
+"gear"-verb-en "engranar"-verb-ca
+"engranar"-verb-ca "gear"-verb-en
+"engranar"-verb-ca "mesh"-verb-en
+"mesh"-verb-en "engranar"-verb-ca
+"geophysics"-noun-en "geofísica"-noun-ca
+"geofísica"-noun-ca "geophysics"-noun-en
+"georeferencing"-noun-en "georeferenciació"-noun-ca
+"georeferenciació"-noun-ca "georeferencing"-noun-en
+"glia"-noun-en "glia"-noun-ca
+"glia"-noun-ca "glia"-noun-en
+"gold exchange standard"-noun-en "patró canvi or"-noun-ca
+"patró canvi or"-noun-ca "gold exchange standard"-noun-en
+"patró canvi or"-noun-ca "gold-coin standard"-noun-en
+"gold-coin standard"-noun-en "patró canvi or"-noun-ca
+"grade"-verb-en "posar nota"-verb-ca
+"posar nota"-verb-ca "grade"-verb-en
+"granular"-verb-ca "granulate"-verb-en
+"granulate"-verb-en "granular"-verb-ca
+"great-great-grandparent"-noun-en "rebesavi"-noun-ca
+"rebesavi"-noun-ca "great-great-grandparent"-noun-en
+"grill"-verb-en "fer a la brasa"-verb-ca
+"fer a la brasa"-verb-ca "grill"-verb-en
+"groundwater"-noun-en "aigua freàtica"-noun-ca
+"aigua freàtica"-noun-ca "groundwater"-noun-en
+"gum"-verb-en "engomar"-verb-ca
+"engomar"-verb-ca "gum"-verb-en
+"H1N1"-noun-en "H1N1"-noun-ca
+"H1N1"-noun-ca "H1N1"-noun-en
+"H5N1"-noun-en "H5N1"-noun-ca
+"H5N1"-noun-ca "H5N1"-noun-en
+"hexakosioihexekontahexaphobia"-noun-en "hexakosioihexekontahexafòbia"-noun-ca
+"hexakosioihexekontahexafòbia"-noun-ca "hexakosioihexekontahexaphobia"-noun-en
+"hide"-verb-en "agotzonar"-verb-ca
+"agotzonar"-verb-ca "hide"-verb-en
+"hint"-verb-en "donar a entendre"-verb-ca
+"donar a entendre"-verb-ca "hint"-verb-en
+"hodman"-noun-en "manobre"-noun-ca
+"manobre"-noun-ca "hodman"-noun-en
+"hydraulics"-noun-en "hidràulica"-noun-ca
+"hidràulica"-noun-ca "hydraulics"-noun-en
+"IEEE"-noun-en "IEEE"-noun-ca
+"IEEE"-noun-ca "IEEE"-noun-en
+"income tax"-noun-en "IRPF"-noun-ca
+"IRPF"-noun-ca "income tax"-noun-en
+"inshore fishing"-noun-en "pesca litoral"-noun-ca
+"pesca litoral"-noun-ca "inshore fishing"-noun-en
+"IUPAC"-noun-en "IUPAC"-noun-ca
+"IUPAC"-noun-ca "IUPAC"-noun-en
+"Jamaican"-adjective-en "jamaicà"-adjective-ca
+"jamaicà"-adjective-ca "Jamaican"-adjective-en
+"Japanese-American"-adjective-en "americà d'origen japonès"-adjective-ca
+"americà d'origen japonès"-adjective-ca "Japanese-American"-adjective-en
+"jeans"-noun-en "texans"-noun-ca
+"texans"-noun-ca "jeans"-noun-en
+"kick"-verb-en "donar un cop de peu"-verb-ca
+"donar un cop de peu"-verb-ca "kick"-verb-en
+"kinetics"-noun-en "cinètica"-noun-ca
+"cinètica"-noun-ca "kinetics"-noun-en
+"kiss"-verb-en "fer una besada"-verb-ca
+"fer una besada"-verb-ca "kiss"-verb-en
+"knot"-verb-en "nugar"-verb-ca
+"nugar"-verb-ca "knot"-verb-en
+"kPa"-noun-en "kPa"-noun-ca
+"kPa"-noun-ca "kPa"-noun-en
+"Lagrangian"-adjective-en "lagrangià"-adjective-ca
+"lagrangià"-adjective-ca "Lagrangian"-adjective-en
+"LASIK"-noun-en "LASIK"-noun-ca
+"LASIK"-noun-ca "LASIK"-noun-en
+"leftover"-noun-en "resquícies"-noun-ca
+"resquícies"-noun-ca "leftover"-noun-en
+"lock"-verb-en "tancar amb clau"-verb-ca
+"tancar amb clau"-verb-ca "lock"-verb-en
+"magnetochemistry"-noun-en "magnetoquímica"-noun-ca
+"magnetoquímica"-noun-ca "magnetochemistry"-noun-en
+"match"-verb-en "fer joc"-verb-ca
+"fer joc"-verb-ca "match"-verb-en
+"meander"-verb-en "serpejar"-verb-ca
+"serpejar"-verb-ca "meander"-verb-en
+"melomaniac"-adjective-en "melòman"-adjective-ca
+"melòman"-adjective-ca "melomaniac"-adjective-en
+"meridian"-adjective-en "meridià"-adjective-ca
+"meridià"-adjective-ca "meridian"-adjective-en
+"merit"-verb-en "meritar"-verb-ca
+"meritar"-verb-ca "merit"-verb-en
+"metrics"-noun-en "mètrica"-noun-ca
+"mètrica"-noun-ca "metrics"-noun-en
+"minesweeper"-noun-en "pescamines"-noun-ca
+"pescamines"-noun-ca "minesweeper"-noun-en
+"MRI"-noun-en "IRM"-noun-ca
+"IRM"-noun-ca "MRI"-noun-en
+"MS-DOS"-noun-en "MS-DOS"-noun-ca
+"MS-DOS"-noun-ca "MS-DOS"-noun-en
+"mumps"-noun-en "galteres"-noun-ca
+"galteres"-noun-ca "mumps"-noun-en
+"NASDAQ"-noun-en "NASDAQ"-noun-ca
+"NASDAQ"-noun-ca "NASDAQ"-noun-en
+"Na+"-noun-en "Na+"-noun-ca
+"Na+"-noun-ca "Na+"-noun-en
+"neurochemistry"-noun-en "neuroquímica"-noun-ca
+"neuroquímica"-noun-ca "neurochemistry"-noun-en
+"neuropsychology"-noun-en "neuropsicologia"-noun-ca
+"neuropsicologia"-noun-ca "neuropsychology"-noun-en
+"notch"-verb-en "entallar"-verb-ca
+"entallar"-verb-ca "notch"-verb-en
+"nut"-noun-en "fruita seca"-noun-ca
+"fruita seca"-noun-ca "nut"-noun-en
+"ODS"-noun-en "ODS"-noun-ca
+"ODS"-noun-ca "ODS"-noun-en
+"orbit"-verb-en "orbitar"-verb-ca
+"orbitar"-verb-ca "orbit"-verb-en
+"organography"-noun-en "organografia"-noun-ca
+"organografia"-noun-ca "organography"-noun-en
+"orthodontics"-noun-en "ortodòncia"-noun-ca
+"ortodòncia"-noun-ca "orthodontics"-noun-en
+"pack"-verb-en "fer les maletes"-verb-ca
+"fer les maletes"-verb-ca "pack"-verb-en
+"part"-verb-en "part"-adjective-ca
+"part"-adjective-ca "part"-verb-en
+"patrol"-adjective-en "patruller"-adjective-ca
+"patruller"-adjective-ca "patrol"-adjective-en
+"PHP"-noun-en "PHP"-noun-ca
+"PHP"-noun-ca "PHP"-noun-en
+"pH"-noun-en "pH"-noun-ca
+"pH"-noun-ca "pH"-noun-en
+"physical chemistry"-noun-en "fisicoquímica"-noun-ca
+"fisicoquímica"-noun-ca "physical chemistry"-noun-en
+"PKK"-noun-en "PKK"-noun-ca
+"PKK"-noun-ca "PKK"-noun-en
+"polish"-verb-en "lustrar"-verb-ca
+"lustrar"-verb-ca "polish"-verb-en
+"ppm"-noun-en "ppm"-noun-ca
+"ppm"-noun-ca "ppm"-noun-en
+"print"-verb-en "estampat"-adjective-ca
+"estampat"-adjective-ca "print"-verb-en
+"estampat"-adjective-ca "patterned"-adjective-en
+"patterned"-adjective-en "estampat"-adjective-ca
+"psychometrics"-noun-en "psicometria"-noun-ca
+"psicometria"-noun-ca "psychometrics"-noun-en
+"psychopedagogics"-noun-en "psicopedagogia"-noun-ca
+"psicopedagogia"-noun-ca "psychopedagogics"-noun-en
+"punch"-verb-en "punxonar"-verb-ca
+"punxonar"-verb-ca "punch"-verb-en
+"purple"-adjective-en "porprat"-adjective-ca
+"porprat"-adjective-ca "purple"-adjective-en
+"pyroelectricity"-noun-en "piroelectricitat"-noun-ca
+"piroelectricitat"-noun-ca "pyroelectricity"-noun-en
+"quicksilver"-noun-en "argent viu"-noun-ca
+"argent viu"-noun-ca "quicksilver"-noun-en
+"recount"-verb-en "recomptar"-verb-ca
+"recomptar"-verb-ca "recount"-verb-en
+"reel"-verb-en "debanar"-verb-ca
+"debanar"-verb-ca "reel"-verb-en
+"repurchase"-verb-en "recomprar"-verb-ca
+"recomprar"-verb-ca "repurchase"-verb-en
+"RER A"-noun-en "RER A"-noun-ca
+"RER A"-noun-ca "RER A"-noun-en
+"RER B"-noun-en "RER B"-noun-ca
+"RER B"-noun-ca "RER B"-noun-en
+"RER"-noun-en "RER"-noun-ca
+"RER"-noun-ca "RER"-noun-en
+"reverse"-adjective-en "fer marxa arrere"-verb-ca
+"reverse"-adjective-en "fer marxa enrere"-verb-ca
+"fer marxa arrere"-verb-ca "reverse"-adjective-en
+"fer marxa arrere"-verb-ca "reverse"-verb-en
+"fer marxa enrere"-verb-ca "reverse"-adjective-en
+"fer marxa enrere"-verb-ca "reverse"-verb-en
+"reverse"-verb-en "fer marxa arrere"-verb-ca
+"reverse"-verb-en "fer marxa enrere"-verb-ca
+"roast"-verb-en "socarrar"-verb-ca
+"socarrar"-verb-ca "roast"-verb-en
+"roll"-verb-en "caragolar"-verb-ca
+"caragolar"-verb-ca "roll"-verb-en
+"round"-verb-en "arredonir"-verb-ca
+"arredonir"-verb-ca "round"-verb-en
+"RSA"-noun-en "RSA"-noun-ca
+"RSA"-noun-ca "RSA"-noun-en
+"RTL"-noun-en "RTL"-noun-ca
+"RTL"-noun-ca "RTL"-noun-en
+"rule-based machine translation"-noun-en "traducció automàtica basada en regles"-noun-ca
+"traducció automàtica basada en regles"-noun-ca "rule-based machine translation"-noun-en
+"salt water"-noun-en "aigua salada"-noun-ca
+"aigua salada"-noun-ca "salt water"-noun-en
+"sawdust"-noun-en "serradura"-noun-ca
+"serradura"-noun-ca "sawdust"-noun-en
+"seawater"-noun-en "aigua de mar"-noun-ca
+"aigua de mar"-noun-ca "seawater"-noun-en
+"shape"-verb-en "donar forma"-verb-ca
+"donar forma"-verb-ca "shape"-verb-en
+"slam"-verb-en "tancar de colp"-verb-ca
+"slam"-verb-en "tancar de cop"-verb-ca
+"tancar de colp"-verb-ca "slam"-verb-en
+"tancar de cop"-verb-ca "slam"-verb-en
+"slice"-verb-en "llescar"-verb-ca
+"llescar"-verb-ca "slice"-verb-en
+"spare"-adjective-en "sobrer"-adjective-ca
+"sobrer"-adjective-ca "spare"-adjective-en
+"sobrer"-adjective-ca "spare"-verb-en
+"spare"-verb-en "sobrer"-adjective-ca
+"spark"-verb-en "guspirejar"-verb-ca
+"guspirejar"-verb-ca "spark"-verb-en
+"spintronics"-noun-en "espintrònica"-noun-ca
+"espintrònica"-noun-ca "spintronics"-noun-en
+"stage"-verb-en "posar en escena"-verb-ca
+"posar en escena"-verb-ca "stage"-verb-en
+"stamp"-verb-en "picar de peus"-verb-ca
+"picar de peus"-verb-ca "stamp"-verb-en
+"steam"-verb-en "cuinar al vapor"-verb-ca
+"cuinar al vapor"-verb-ca "steam"-verb-en
+"step"-verb-en "fer un pas"-verb-ca
+"fer un pas"-verb-ca "step"-verb-en
+"stereotyping"-noun-en "estereotípia"-noun-ca
+"estereotípia"-noun-ca "stereotyping"-noun-en
+"stink"-verb-en "fer pudor"-verb-ca
+"fer pudor"-verb-ca "stink"-verb-en
+"subconsciousness"-noun-en "subconsciència"-noun-ca
+"subconsciència"-noun-ca "subconsciousness"-noun-en
+"superfluid"-adjective-en "superfluid"-adjective-ca
+"superfluid"-adjective-ca "superfluid"-adjective-en
+"swing"-verb-en "agrunsar"-verb-ca
+"swing"-verb-en "engronsar"-verb-ca
+"swing"-verb-en "engrunsar"-verb-ca
+"swing"-verb-en "gronsar"-verb-ca
+"agrunsar"-verb-ca "swing"-verb-en
+"engronsar"-verb-ca "swing"-verb-en
+"engrunsar"-verb-ca "swing"-verb-en
+"engrunsar"-verb-ca "rock"-verb-en
+"gronsar"-verb-ca "swing"-verb-en
+"rock"-verb-en "engrunsar"-verb-ca
+"tap"-verb-en "donar copets"-verb-ca
+"donar copets"-verb-ca "tap"-verb-en
+"TeV"-noun-en "TeV"-noun-ca
+"TeV"-noun-ca "TeV"-noun-en
+"thread"-verb-en "roscar"-verb-ca
+"roscar"-verb-ca "thread"-verb-en
+"tick"-verb-en "fer tic-tac"-verb-ca
+"fer tic-tac"-verb-ca "tick"-verb-en
+"tip"-verb-en "donar una propina"-verb-ca
+"donar una propina"-verb-ca "tip"-verb-en
+"TNT"-noun-en "TNT"-noun-ca
+"TNT"-noun-ca "TNT"-noun-en
+"tour"-verb-en "anar de viatge"-verb-ca
+"anar de viatge"-verb-ca "tour"-verb-en
+"transfer"-verb-en "fer transbord"-verb-ca
+"transfer"-verb-en "transbordar"-verb-ca
+"fer transbord"-verb-ca "transfer"-verb-en
+"transbordar"-verb-ca "transfer"-verb-en
+"treasure"-verb-en "atresorar"-verb-ca
+"atresorar"-verb-ca "treasure"-verb-en
+"trip"-verb-en "entropessar"-verb-ca
+"entropessar"-verb-ca "trip"-verb-en
+"TV"-noun-en "TV"-noun-ca
+"TV"-noun-ca "TV"-noun-en
+"voyeurism"-noun-en "escopofília"-noun-ca
+"escopofília"-noun-ca "voyeurism"-noun-en
+"W3C"-noun-en "W3C"-noun-ca
+"W3C"-noun-ca "W3C"-noun-en
+"welcome"-adjective-en "donar la benvinguda"-verb-ca
+"donar la benvinguda"-verb-ca "welcome"-adjective-en
+"donar la benvinguda"-verb-ca "welcome"-verb-en
+"welcome"-verb-en "donar la benvinguda"-verb-ca
+"whipped cream"-noun-en "nata muntada"-noun-ca
+"nata muntada"-noun-ca "whipped cream"-noun-en
+"wreck"-noun-en "ruina"-noun-ca
+"ruina"-noun-ca "wreck"-noun-en
+"wrestling"-noun-en "lluita lliure"-noun-ca
+"lluita lliure"-noun-ca "wrestling"-noun-en
+"xenobiology"-noun-en "xenobiologia"-noun-ca
+"xenobiologia"-noun-ca "xenobiology"-noun-en
+"ZDF"-noun-en "ZDF"-noun-ca
+"ZDF"-noun-ca "ZDF"-noun-en
+"ARC"-noun-en "ARC"-noun-ca
+"ARC"-noun-ca "ARC"-noun-en
+"FARC"-noun-en "FARC"-noun-ca
+"FARC"-noun-ca "FARC"-noun-en
+"GP"-noun-en "GP"-noun-ca
+"GP"-noun-ca "GP"-noun-en
+"LGT"-noun-en "LGT"-noun-ca
+"LGT"-noun-ca "LGT"-noun-en
+"SPIUK"-noun-en "SPIUK"-noun-ca
+"SPIUK"-noun-ca "SPIUK"-noun-en
+"XML"-noun-en "XML"-noun-ca
+"XML"-noun-ca "XML"-noun-en
+"abandoned"-adjective-en "abandonat"-adjective-ca
+"abandonat"-adjective-ca "abandoned"-adjective-en
+"abortive"-adjective-en "malmès"-adjective-ca
+"malmès"-adjective-ca "abortive"-adjective-en
+"abstemious"-adjective-en "abstemi"-adjective-ca
+"abstemi"-adjective-ca "abstemious"-adjective-en
+"absurd"-adjective-en "forassenyat"-adjective-ca
+"forassenyat"-adjective-ca "absurd"-adjective-en
+"forassenyat"-adjective-ca "cock-eyed"-adjective-en
+"cock-eyed"-adjective-en "forassenyat"-adjective-ca
+"acidic"-adjective-en "acídic"-adjective-ca
+"acídic"-adjective-ca "acidic"-adjective-en
+"acquisitive"-adjective-en "cobdiciós"-adjective-ca
+"cobdiciós"-adjective-ca "acquisitive"-adjective-en
+"admonitory"-adjective-en "admonitori"-adjective-ca
+"admonitori"-adjective-ca "admonitory"-adjective-en
+"adventitious"-adjective-en "adventici"-adjective-ca
+"adventici"-adjective-ca "adventitious"-adjective-en
+"agreed"-adjective-en "acordat"-adjective-ca
+"acordat"-adjective-ca "agreed"-adjective-en
+"aground"-adjective-en "encallat"-adjective-ca
+"encallat"-adjective-ca "aground"-adjective-en
+"allomorphic"-adjective-en "al·lomòrfic"-adjective-ca
+"al·lomòrfic"-adjective-ca "allomorphic"-adjective-en
+"alone"-adjective-en "tot sol"-adjective-ca
+"tot sol"-adjective-ca "alone"-adjective-en
+"aluminothermic"-adjective-en "aluminotèrmic"-adjective-ca
+"aluminotèrmic"-adjective-ca "aluminothermic"-adjective-en
+"amazed"-adjective-en "fascinat"-adjective-ca
+"fascinat"-adjective-ca "amazed"-adjective-en
+"amitotic"-adjective-en "amitòtic"-adjective-ca
+"amitòtic"-adjective-ca "amitotic"-adjective-en
+"anechoic"-adjective-en "anecoic"-adjective-ca
+"anecoic"-adjective-ca "anechoic"-adjective-en
+"antiferromagnetic"-adjective-en "antiferromagnètic"-adjective-ca
+"antiferromagnètic"-adjective-ca "antiferromagnetic"-adjective-en
+"antihiatic"-adjective-en "antihiàtic"-adjective-ca
+"antihiàtic"-adjective-ca "antihiatic"-adjective-en
+"aphrodisiac"-adjective-en "afrodisíac"-adjective-ca
+"afrodisíac"-adjective-ca "aphrodisiac"-adjective-en
+"arboreal"-adjective-en "arbori"-adjective-ca
+"arbori"-adjective-ca "arboreal"-adjective-en
+"arbori"-adjective-ca "arborescent"-adjective-en
+"arborescent"-adjective-en "arbori"-adjective-ca
+"armed"-adjective-en "armat"-adjective-ca
+"armat"-adjective-ca "armed"-adjective-en
+"armored"-adjective-en "blindat"-adjective-ca
+"blindat"-adjective-ca "armored"-adjective-en
+"blindat"-adjective-ca "armoured"-adjective-en
+"armoured"-adjective-en "blindat"-adjective-ca
+"as dead as a doornail"-adjective-en "mort i ben mort"-adjective-ca
+"mort i ben mort"-adjective-ca "as dead as a doornail"-adjective-en
+"ashamed"-adjective-en "avergonyit"-adjective-ca
+"avergonyit"-adjective-ca "ashamed"-adjective-en
+"asleep"-adjective-en "adormit"-adjective-ca
+"adormit"-adjective-ca "asleep"-adjective-en
+"assertoric"-adjective-en "assertori"-adjective-ca
+"assertori"-adjective-ca "assertoric"-adjective-en
+"asyndetic"-adjective-en "asindètic"-adjective-ca
+"asindètic"-adjective-ca "asyndetic"-adjective-en
+"autodynamic"-adjective-en "autodinàmic"-adjective-ca
+"autodinàmic"-adjective-ca "autodynamic"-adjective-en
+"automotive"-adjective-en "automotriu"-adjective-ca
+"automotriu"-adjective-ca "automotive"-adjective-en
+"avaricious"-adjective-en "cobejós"-adjective-ca
+"cobejós"-adjective-ca "avaricious"-adjective-en
+"barycentric"-adjective-en "baricèntric"-adjective-ca
+"baricèntric"-adjective-ca "barycentric"-adjective-en
+"Bayesian"-adjective-en "bayesià"-adjective-ca
+"bayesià"-adjective-ca "Bayesian"-adjective-en
+"bevel-edged"-adjective-en "bisellat"-adjective-ca
+"bisellat"-adjective-ca "bevel-edged"-adjective-en
+"bigamous"-adjective-en "bígam"-adjective-ca
+"bígam"-adjective-ca "bigamous"-adjective-en
+"biogeochemical"-adjective-en "biogeoquímic"-adjective-ca
+"biogeoquímic"-adjective-ca "biogeochemical"-adjective-en
+"bípede"-adjective-ca "biped"-adjective-en
+"biped"-adjective-en "bípede"-adjective-ca
+"blasphemous"-adjective-en "blasfem"-adjective-ca
+"blasfem"-adjective-ca "blasphemous"-adjective-en
+"blessed"-adjective-en "beneït"-adjective-ca
+"beneït"-adjective-ca "blessed"-adjective-en
+"blinding"-adjective-en "encegador"-adjective-ca
+"encegador"-adjective-ca "blinding"-adjective-en
+"bloodstained"-adjective-en "ensangonat"-adjective-ca
+"ensangonat"-adjective-ca "bloodstained"-adjective-en
+"bluish"-adjective-en "blavós"-adjective-ca
+"blavós"-adjective-ca "bluish"-adjective-en
+"blunt"-verb-en "esmussar"-verb-ca
+"esmussar"-verb-ca "blunt"-verb-en
+"blurred"-adjective-en "borrós"-adjective-ca
+"borrós"-adjective-ca "blurred"-adjective-en
+"borelian"-adjective-en "borelià"-adjective-ca
+"borelià"-adjective-ca "borelian"-adjective-en
+"born"-adjective-en "nascut"-adjective-ca
+"born"-adjective-en "nat"-adjective-ca
+"nascut"-adjective-ca "born"-adjective-en
+"nat"-adjective-ca "born"-adjective-en
+"bounded"-adjective-en "fitat"-adjective-ca
+"fitat"-adjective-ca "bounded"-adjective-en
+"brackish"-adjective-en "salabrós"-adjective-ca
+"salabrós"-adjective-ca "brackish"-adjective-en
+"braided"-adjective-en "anastomosat"-adjective-ca
+"anastomosat"-adjective-ca "braided"-adjective-en
+"brainless"-adjective-en "pàmfil"-adjective-ca
+"brainless"-adjective-en "tòtil"-adjective-ca
+"pàmfil"-adjective-ca "brainless"-adjective-en
+"tòtil"-adjective-ca "brainless"-adjective-en
+"brownish"-adjective-en "marronós"-adjective-ca
+"marronós"-adjective-ca "brownish"-adjective-en
+"burned"-adjective-en "cremat"-adjective-ca
+"cremat"-adjective-ca "burned"-adjective-en
+"Callistoan"-adjective-en "cal·listià"-adjective-ca
+"cal·listià"-adjective-ca "Callistoan"-adjective-en
+"castrated"-adjective-en "castrat"-adjective-ca
+"castrat"-adjective-ca "castrated"-adjective-en
+"cavalier"-adjective-en "desdenyós"-adjective-ca
+"desdenyós"-adjective-ca "cavalier"-adjective-en
+"celebrated"-adjective-en "celebrat"-adjective-ca
+"celebrat"-adjective-ca "celebrated"-adjective-en
+"certifier"-adjective-en "certificador"-adjective-ca
+"certificador"-adjective-ca "certifier"-adjective-en
+"challenging"-adjective-en "desafiador"-adjective-ca
+"desafiador"-adjective-ca "challenging"-adjective-en
+"desafiador"-adjective-ca "defiant"-adjective-en
+"defiant"-adjective-en "desafiador"-adjective-ca
+"championing"-adjective-en "banderer"-adjective-ca
+"banderer"-adjective-ca "championing"-adjective-en
+"chess"-adjective-en "escaquístic"-adjective-ca
+"escaquístic"-adjective-ca "chess"-adjective-en
+"chlorotic"-adjective-en "cloròtic"-adjective-ca
+"cloròtic"-adjective-ca "chlorotic"-adjective-en
+"choropletic"-adjective-en "coroplètic"-adjective-ca
+"coroplètic"-adjective-ca "choropletic"-adjective-en
+"chromatographic"-adjective-en "cromatogràfic"-adjective-ca
+"cromatogràfic"-adjective-ca "chromatographic"-adjective-en
+"chromic"-adjective-en "cròmic"-adjective-ca
+"cròmic"-adjective-ca "chromic"-adjective-en
+"ciliated"-adjective-en "ciliat"-adjective-ca
+"ciliat"-adjective-ca "ciliated"-adjective-en
+"cladistic"-adjective-en "cladístic"-adjective-ca
+"cladístic"-adjective-ca "cladistic"-adjective-en
+"cluttered"-adjective-en "abarrotat"-adjective-ca
+"abarrotat"-adjective-ca "cluttered"-adjective-en
+"abarrotat"-adjective-ca "overcrowded"-adjective-en
+"overcrowded"-adjective-en "abarrotat"-adjective-ca
+"acolorit"-adjective-ca "colourful"-adjective-en
+"colourful"-adjective-en "acolorit"-adjective-ca
+"colourful"-adjective-en "vívid"-adjective-ca
+"vívid"-adjective-ca "colourful"-adjective-en
+"vívid"-adjective-ca "vivid"-adjective-en
+"vivid"-adjective-en "vívid"-adjective-ca
+"commercially oriented"-adjective-en "orientat comercialment"-adjective-ca
+"orientat comercialment"-adjective-ca "commercially oriented"-adjective-en
+"concerted"-adjective-en "concertat"-adjective-ca
+"concertat"-adjective-ca "concerted"-adjective-en
+"conciliatory"-adjective-en "conciliador"-adjective-ca
+"conciliador"-adjective-ca "conciliatory"-adjective-en
+"condensed"-adjective-en "condensat"-adjective-ca
+"condensat"-adjective-ca "condensed"-adjective-en
+"confident"-adjective-en "desenfadat"-adjective-ca
+"desenfadat"-adjective-ca "confident"-adjective-en
+"consanguine"-adjective-en "consanguini"-adjective-ca
+"consanguini"-adjective-ca "consanguine"-adjective-en
+"conspicuous"-adjective-en "conspicu"-adjective-ca
+"conspicu"-adjective-ca "conspicuous"-adjective-en
+"constrained"-adjective-en "cohibit"-adjective-ca
+"cohibit"-adjective-ca "constrained"-adjective-en
+"contrapositive"-adjective-en "contrarecíproc"-adjective-ca
+"contrarecíproc"-adjective-ca "contrapositive"-adjective-en
+"contributory"-adjective-en "contribuïdor"-adjective-ca
+"contribuïdor"-adjective-ca "contributory"-adjective-en
+"converted"-adjective-en "convertit"-adjective-ca
+"convertit"-adjective-ca "converted"-adjective-en
+"coprophagous"-adjective-en "copròfag"-adjective-ca
+"copròfag"-adjective-ca "coprophagous"-adjective-en
+"crimson"-adjective-en "carmesí"-adjective-ca
+"carmesí"-adjective-ca "crimson"-adjective-en
+"cryovolcanic"-adjective-en "criovolcànic"-adjective-ca
+"criovolcànic"-adjective-ca "cryovolcanic"-adjective-en
+"cryptocrystalline"-adjective-en "criptocristal·lí"-adjective-ca
+"criptocristal·lí"-adjective-ca "cryptocrystalline"-adjective-en
+"cultured"-adjective-en "cultivat"-adjective-ca
+"cultivat"-adjective-ca "cultured"-adjective-en
+"cupreous"-adjective-en "cuprós"-adjective-ca
+"cuprós"-adjective-ca "cupreous"-adjective-en
+"cytoplasmic"-adjective-en "citoplasmàtic"-adjective-ca
+"citoplasmàtic"-adjective-ca "cytoplasmic"-adjective-en
+"dasymetric"-adjective-en "dasimètric"-adjective-ca
+"dasimètric"-adjective-ca "dasymetric"-adjective-en
+"debilitating"-adjective-en "debilitador"-adjective-ca
+"debilitador"-adjective-ca "debilitating"-adjective-en
+"decorous"-adjective-en "decorós"-adjective-ca
+"decorós"-adjective-ca "decorous"-adjective-en
+"defeated"-adjective-en "vençut"-adjective-ca
+"vençut"-adjective-ca "defeated"-adjective-en
+"degenerate"-adjective-en "degenerat"-adjective-ca
+"degenerat"-adjective-ca "degenerate"-adjective-en
+"demoniac"-adjective-en "demoníac"-adjective-ca
+"demoníac"-adjective-ca "demoniac"-adjective-en
+"denigratory"-adjective-en "difamador"-adjective-ca
+"difamador"-adjective-ca "denigratory"-adjective-en
+"depository"-adjective-en "dipositari"-adjective-ca
+"dipositari"-adjective-ca "depository"-adjective-en
+"destined"-adjective-en "destinat"-adjective-ca
+"destinat"-adjective-ca "destined"-adjective-en
+"diachronic"-adjective-en "diacrònic"-adjective-ca
+"diacrònic"-adjective-ca "diachronic"-adjective-en
+"dichotomous"-adjective-en "dicotòmic"-adjective-ca
+"dicotòmic"-adjective-ca "dichotomous"-adjective-en
+"diffusing"-adjective-en "difusor"-adjective-ca
+"difusor"-adjective-ca "diffusing"-adjective-en
+"diploic"-adjective-en "diploic"-adjective-ca
+"diploic"-adjective-ca "diploic"-adjective-en
+"dipteral"-adjective-en "dípter"-adjective-ca
+"dípter"-adjective-ca "dipteral"-adjective-en
+"disadvantaged"-adjective-en "desavantatjat"-adjective-ca
+"desavantatjat"-adjective-ca "disadvantaged"-adjective-en
+"disciplined"-adjective-en "disciplinat"-adjective-ca
+"disciplinat"-adjective-ca "disciplined"-adjective-en
+"disenchanted"-adjective-en "desencantat"-adjective-ca
+"desencantat"-adjective-ca "disenchanted"-adjective-en
+"disjoint"-adjective-en "disjunt"-adjective-ca
+"disjunt"-adjective-ca "disjoint"-adjective-en
+"disorderly"-adjective-en "descontrolat"-adjective-ca
+"descontrolat"-adjective-ca "disorderly"-adjective-en
+"descontrolat"-adjective-ca "rampant"-adjective-en
+"rampant"-adjective-en "descontrolat"-adjective-ca
+"menyspreador"-adjective-ca "scornful"-adjective-en
+"scornful"-adjective-en "menyspreador"-adjective-ca
+"disruptive"-adjective-en "perturbador"-adjective-ca
+"perturbador"-adjective-ca "disruptive"-adjective-en
+"distinguished"-adjective-en "assenyalat"-adjective-ca
+"assenyalat"-adjective-ca "distinguished"-adjective-en
+"disyllabic"-adjective-en "bisíl·lab"-adjective-ca
+"disyllabic"-adjective-en "disil·làbic"-adjective-ca
+"bisíl·lab"-adjective-ca "disyllabic"-adjective-en
+"disil·làbic"-adjective-ca "disyllabic"-adjective-en
+"divisive"-adjective-en "divisiu"-adjective-ca
+"divisiu"-adjective-ca "divisive"-adjective-en
+"domesticated"-adjective-en "domesticat"-adjective-ca
+"domesticat"-adjective-ca "domesticated"-adjective-en
+"drowned"-adjective-en "ofegat"-adjective-ca
+"ofegat"-adjective-ca "drowned"-adjective-en
+"eager"-adjective-en "frisós"-adjective-ca
+"frisós"-adjective-ca "eager"-adjective-en
+"ectodynamomorphic"-adjective-en "ectodinamomorf"-adjective-ca
+"ectodinamomorf"-adjective-ca "ectodynamomorphic"-adjective-en
+"educating"-adjective-en "educador"-adjective-ca
+"educador"-adjective-ca "educating"-adjective-en
+"embarrassing"-adjective-en "engavanyador"-adjective-ca
+"engavanyador"-adjective-ca "embarrassing"-adjective-en
+"emphyteutic"-adjective-en "emfitèutic"-adjective-ca
+"emfitèutic"-adjective-ca "emphyteutic"-adjective-en
+"endodynamogenic"-adjective-en "endodinamogènic"-adjective-ca
+"endodinamogènic"-adjective-ca "endodynamogenic"-adjective-en
+"endogenous"-adjective-en "endogen"-adjective-ca
+"endogen"-adjective-ca "endogenous"-adjective-en
+"endolymphatic"-adjective-en "endolimfàtic"-adjective-ca
+"endolimfàtic"-adjective-ca "endolymphatic"-adjective-en
+"ergogenic"-adjective-en "ergogènic"-adjective-ca
+"ergogènic"-adjective-ca "ergogenic"-adjective-en
+"ethereal"-adjective-en "eteri"-adjective-ca
+"eteri"-adjective-ca "ethereal"-adjective-en
+"Eulerian"-adjective-en "eulerià"-adjective-ca
+"eulerià"-adjective-ca "Eulerian"-adjective-en
+"euphemistic"-adjective-en "eufemístic"-adjective-ca
+"eufemístic"-adjective-ca "euphemistic"-adjective-en
+"euryene"-adjective-en "euriè"-adjective-ca
+"euriè"-adjective-ca "euryene"-adjective-en
+"eutrophic"-adjective-en "eutròfic"-adjective-ca
+"eutròfic"-adjective-ca "eutrophic"-adjective-en
+"evergreen"-adjective-en "perennifoli"-adjective-ca
+"perennifoli"-adjective-ca "evergreen"-adjective-en
+"exculpatory"-adjective-en "exculpatori"-adjective-ca
+"exculpatori"-adjective-ca "exculpatory"-adjective-en
+"exocentric"-adjective-en "exocèntric"-adjective-ca
+"exocèntric"-adjective-ca "exocentric"-adjective-en
+"exposed"-adjective-en "exposat"-adjective-ca
+"exposat"-adjective-ca "exposed"-adjective-en
+"extemporaneous"-adjective-en "extemporani"-adjective-ca
+"extemporani"-adjective-ca "extemporaneous"-adjective-en
+"factitious"-adjective-en "factici"-adjective-ca
+"factici"-adjective-ca "factitious"-adjective-en
+"faithless"-adjective-en "descregut"-adjective-ca
+"descregut"-adjective-ca "faithless"-adjective-en
+"feudatory"-adjective-en "feudatari"-adjective-ca
+"feudatari"-adjective-ca "feudatory"-adjective-en
+"fibric"-adjective-en "fíbric"-adjective-ca
+"fíbric"-adjective-ca "fibric"-adjective-en
+"fibroblastic"-adjective-en "fibroblàstic"-adjective-ca
+"fibroblàstic"-adjective-ca "fibroblastic"-adjective-en
+"fimbriated"-adjective-en "perfilat"-adjective-ca
+"perfilat"-adjective-ca "fimbriated"-adjective-en
+"fire-resistant"-adjective-en "ignífug"-adjective-ca
+"ignífug"-adjective-ca "fire-resistant"-adjective-en
+"flaccid"-adjective-en "flàccid"-adjective-ca
+"flàccid"-adjective-ca "flaccid"-adjective-en
+"flexographic"-adjective-en "flexogràfic"-adjective-ca
+"flexogràfic"-adjective-ca "flexographic"-adjective-en
+"fragiaquic"-adjective-en "fragiàqüic"-adjective-ca
+"fragiàqüic"-adjective-ca "fragiaquic"-adjective-en
+"fragic"-adjective-en "fràgic"-adjective-ca
+"fràgic"-adjective-ca "fragic"-adjective-en
+"frosted"-adjective-en "glaçat"-adjective-ca
+"glaçat"-adjective-ca "frosted"-adjective-en
+"geomagnetic"-adjective-en "geomagnètic"-adjective-ca
+"geomagnètic"-adjective-ca "geomagnetic"-adjective-en
+"geomorphic"-adjective-en "geomòrfic"-adjective-ca
+"geomòrfic"-adjective-ca "geomorphic"-adjective-en
+"gifted"-adjective-en "dotat"-adjective-ca
+"dotat"-adjective-ca "gifted"-adjective-en
+"glamourous"-adjective-en "glamurós"-adjective-ca
+"glamurós"-adjective-ca "glamourous"-adjective-en
+"glycemic"-adjective-en "glucèmic"-adjective-ca
+"glucèmic"-adjective-ca "glycemic"-adjective-en
+"graceless"-adjective-en "desairós"-adjective-ca
+"desairós"-adjective-ca "graceless"-adjective-en
+"grated"-adjective-en "rallat"-adjective-ca
+"rallat"-adjective-ca "grated"-adjective-en
+"greenish"-adjective-en "verdosenc"-adjective-ca
+"verdosenc"-adjective-ca "greenish"-adjective-en
+"grooved"-adjective-en "estriat"-adjective-ca
+"estriat"-adjective-ca "grooved"-adjective-en
+"halomorphic"-adjective-en "halomorf"-adjective-ca
+"halomorf"-adjective-ca "halomorphic"-adjective-en
+"Hamiltonian"-adjective-en "hamiltonià"-adjective-ca
+"hamiltonià"-adjective-ca "Hamiltonian"-adjective-en
+"handmade"-adjective-en "fet a mà"-adjective-ca
+"fet a mà"-adjective-ca "handmade"-adjective-en
+"hanged"-adjective-en "penjat"-adjective-ca
+"penjat"-adjective-ca "hanged"-adjective-en
+"hapless"-adjective-en "desventurat"-adjective-ca
+"desventurat"-adjective-ca "hapless"-adjective-en
+"haplic"-adjective-en "hàplic"-adjective-ca
+"hàplic"-adjective-ca "haplic"-adjective-en
+"hard-working"-adjective-en "feinador"-adjective-ca
+"feinador"-adjective-ca "hard-working"-adjective-en
+"harmful"-adjective-en "lesiu"-adjective-ca
+"lesiu"-adjective-ca "harmful"-adjective-en
+"harmless"-adjective-en "inofensiu"-adjective-ca
+"inofensiu"-adjective-ca "harmless"-adjective-en
+"harrowing"-adjective-en "esquinçador"-adjective-ca
+"esquinçador"-adjective-ca "harrowing"-adjective-en
+"esquinçador"-adjective-ca "heartbreaking"-adjective-en
+"heartbreaking"-adjective-en "esquinçador"-adjective-ca
+"hemispherical"-adjective-en "semiesfèric"-adjective-ca
+"semiesfèric"-adjective-ca "hemispherical"-adjective-en
+"hepatogastric"-adjective-en "hepatogàstric"-adjective-ca
+"hepatogàstric"-adjective-ca "hepatogastric"-adjective-en
+"heterometric"-adjective-en "heterometric"-adjective-ca
+"heterometric"-adjective-ca "heterometric"-adjective-en
+"heterosyllabic"-adjective-en "heterosil·làbic"-adjective-ca
+"heterosil·làbic"-adjective-ca "heterosyllabic"-adjective-en
+"heterotrophic"-adjective-en "heteròtrof"-adjective-ca
+"heteròtrof"-adjective-ca "heterotrophic"-adjective-en
+"hexastyle"-adjective-en "hexàstil"-adjective-ca
+"hexàstil"-adjective-ca "hexastyle"-adjective-en
+"HIV positive"-adjective-en "VIH positiu"-adjective-ca
+"VIH positiu"-adjective-ca "HIV positive"-adjective-en
+"homomorphic"-adjective-en "homomòrfic"-adjective-ca
+"homomòrfic"-adjective-ca "homomorphic"-adjective-en
+"horned"-adjective-en "banyut"-adjective-ca
+"banyut"-adjective-ca "horned"-adjective-en
+"hydrolytic"-adjective-en "hidrolític"-adjective-ca
+"hidrolític"-adjective-ca "hydrolytic"-adjective-en
+"hydromorphic"-adjective-en "hidromorf"-adjective-ca
+"hidromorf"-adjective-ca "hydromorphic"-adjective-en
+"hydrophilic"-adjective-en "hidrofílic"-adjective-ca
+"hidrofílic"-adjective-ca "hydrophilic"-adjective-en
+"hydrostatic"-adjective-en "hidroestàtic"-adjective-ca
+"hidroestàtic"-adjective-ca "hydrostatic"-adjective-en
+"hyperfine"-adjective-en "hiperfi"-adjective-ca
+"hiperfi"-adjective-ca "hyperfine"-adjective-en
+"hypotactic"-adjective-en "hipotàctic"-adjective-ca
+"hipotàctic"-adjective-ca "hypotactic"-adjective-en
+"hypsographic"-adjective-en "hipsogràfic"-adjective-ca
+"hipsogràfic"-adjective-ca "hypsographic"-adjective-en
+"idiographic"-adjective-en "idiogràfic"-adjective-ca
+"idiogràfic"-adjective-ca "idiographic"-adjective-en
+"idiomorphic"-adjective-en "idiomorf"-adjective-ca
+"idiomorf"-adjective-ca "idiomorphic"-adjective-en
+"immunological"-adjective-en "immunològic"-adjective-ca
+"immunològic"-adjective-ca "immunological"-adjective-en
+"inarticulate"-adjective-en "inarticulat"-adjective-ca
+"inarticulat"-adjective-ca "inarticulate"-adjective-en
+"included"-adjective-en "comprès"-adjective-ca
+"included"-adjective-en "inclòs"-adjective-ca
+"comprès"-adjective-ca "included"-adjective-en
+"inclòs"-adjective-ca "included"-adjective-en
+"inconclusive"-adjective-en "inconclusiu"-adjective-ca
+"inconclusiu"-adjective-ca "inconclusive"-adjective-en
+"indecisive"-adjective-en "indecisiu"-adjective-ca
+"indecisiu"-adjective-ca "indecisive"-adjective-en
+"infinitesimal"-adjective-en "infinitèsim"-adjective-ca
+"infinitèsim"-adjective-ca "infinitesimal"-adjective-en
+"inhibitory"-adjective-en "inhibitori"-adjective-ca
+"inhibitori"-adjective-ca "inhibitory"-adjective-en
+"innominate"-adjective-en "innominat"-adjective-ca
+"innominat"-adjective-ca "innominate"-adjective-en
+"inspired by"-adjective-en "inspirat en"-adjective-ca
+"inspirat en"-adjective-ca "inspired by"-adjective-en
+"installed"-adjective-en "instal·lat"-adjective-ca
+"instal·lat"-adjective-ca "installed"-adjective-en
+"integrated"-adjective-en "integrat"-adjective-ca
+"integrat"-adjective-ca "integrated"-adjective-en
+"interosseous"-adjective-en "interossi"-adjective-ca
+"interossi"-adjective-ca "interosseous"-adjective-en
+"interparadigmatic"-adjective-en "interparadigmàtic"-adjective-ca
+"interparadigmàtic"-adjective-ca "interparadigmatic"-adjective-en
+"interspecific"-adjective-en "interespecífic"-adjective-ca
+"interespecífic"-adjective-ca "interspecific"-adjective-en
+"intestate"-adjective-en "intestat"-adjective-ca
+"intestat"-adjective-ca "intestate"-adjective-en
+"intoxicated"-adjective-en "embriac"-adjective-ca
+"embriac"-adjective-ca "intoxicated"-adjective-en
+"intraspecific"-adjective-en "intraespecífic"-adjective-ca
+"intraespecífic"-adjective-ca "intraspecific"-adjective-en
+"intricate"-adjective-en "intricat"-adjective-ca
+"intricat"-adjective-ca "intricate"-adjective-en
+"investigative"-adjective-en "investigatiu"-adjective-ca
+"investigatiu"-adjective-ca "investigative"-adjective-en
+"ionospheric"-adjective-en "ionoesfèric"-adjective-ca
+"ionoesfèric"-adjective-ca "ionospheric"-adjective-en
+"isobathic"-adjective-en "isobàtic"-adjective-ca
+"isobàtic"-adjective-ca "isobathic"-adjective-en
+"isochronal"-adjective-en "isòcron"-adjective-ca
+"isòcron"-adjective-ca "isochronal"-adjective-en
+"isochronic"-adjective-en "isocrònic"-adjective-ca
+"isocrònic"-adjective-ca "isochronic"-adjective-en
+"isoclinal"-adjective-en "isoclí"-adjective-ca
+"isoclí"-adjective-ca "isoclinal"-adjective-en
+"isoclinic"-adjective-en "isoclínic"-adjective-ca
+"isoclínic"-adjective-ca "isoclinic"-adjective-en
+"isogonic"-adjective-en "isogònic"-adjective-ca
+"isogònic"-adjective-ca "isogonic"-adjective-en
+"isolated"-adjective-en "incomunicat"-adjective-ca
+"isolated"-adjective-en "isolat"-adjective-ca
+"incomunicat"-adjective-ca "isolated"-adjective-en
+"isolat"-adjective-ca "isolated"-adjective-en
+"isomorphic"-adjective-en "isomòrfic"-adjective-ca
+"isomòrfic"-adjective-ca "isomorphic"-adjective-en
+"isoseismic"-adjective-en "isosísmic"-adjective-ca
+"isosísmic"-adjective-ca "isoseismic"-adjective-en
+"isothermal"-adjective-en "isoterm"-adjective-ca
+"isoterm"-adjective-ca "isothermal"-adjective-en
+"isotropic"-adjective-en "isòtrop"-adjective-ca
+"isòtrop"-adjective-ca "isotropic"-adjective-en
+"Jovian"-adjective-en "jovià"-adjective-ca
+"jovià"-adjective-ca "Jovian"-adjective-en
+"joyous"-adjective-en "benaurat"-adjective-ca
+"benaurat"-adjective-ca "joyous"-adjective-en
+"knotted"-adjective-en "nodós"-adjective-ca
+"nodós"-adjective-ca "knotted"-adjective-en
+"kymographic"-adjective-en "quimogràfic"-adjective-ca
+"quimogràfic"-adjective-ca "kymographic"-adjective-en
+"lacking"-adjective-en "mancat"-adjective-ca
+"mancat"-adjective-ca "lacking"-adjective-en
+"lactiferous"-adjective-en "lactífer"-adjective-ca
+"lactífer"-adjective-ca "lactiferous"-adjective-en
+"languid"-adjective-en "lànguid"-adjective-ca
+"lànguid"-adjective-ca "languid"-adjective-en
+"lànguid"-adjective-ca "listless"-adjective-en
+"listless"-adjective-en "lànguid"-adjective-ca
+"leonine"-adjective-en "lleoní"-adjective-ca
+"lleoní"-adjective-ca "leonine"-adjective-en
+"leptokurtic"-adjective-en "leptocúrtic"-adjective-ca
+"leptocúrtic"-adjective-ca "leptokurtic"-adjective-en
+"lexematic"-adjective-en "lexemàtic"-adjective-ca
+"lexemàtic"-adjective-ca "lexematic"-adjective-en
+"light-hearted"-adjective-en "poc seriós"-adjective-ca
+"poc seriós"-adjective-ca "light-hearted"-adjective-en
+"longevous"-adjective-en "longeu"-adjective-ca
+"longeu"-adjective-ca "longevous"-adjective-en
+"lossy"-adjective-en "dissipat"-adjective-ca
+"dissipat"-adjective-ca "lossy"-adjective-en
+"lysosomal"-adjective-en "lysosòmic"-adjective-ca
+"lysosòmic"-adjective-ca "lysosomal"-adjective-en
+"macrocrystalline"-adjective-en "macrocristal·lí"-adjective-ca
+"macrocristal·lí"-adjective-ca "macrocrystalline"-adjective-en
+"malevolent"-adjective-en "malèvol"-adjective-ca
+"malèvol"-adjective-ca "malevolent"-adjective-en
+"manned"-adjective-en "tripulat"-adjective-ca
+"tripulat"-adjective-ca "manned"-adjective-en
+"marbled"-adjective-en "jaspiat"-adjective-ca
+"jaspiat"-adjective-ca "marbled"-adjective-en
+"matutinal"-adjective-en "matutí"-adjective-ca
+"matutí"-adjective-ca "matutinal"-adjective-en
+"mean"-verb-en "voler dir"-verb-ca
+"voler dir"-verb-ca "mean"-verb-en
+"melodramatic"-adjective-en "melodramatic"-adjective-ca
+"melodramatic"-adjective-ca "melodramatic"-adjective-en
+"meromorphic"-adjective-en "meromorf"-adjective-ca
+"meromorf"-adjective-ca "meromorphic"-adjective-en
+"mesenchymatous"-adjective-en "mesenquimàtic"-adjective-ca
+"mesenquimàtic"-adjective-ca "mesenchymatous"-adjective-en
+"metacarpial"-adjective-en "metacarpià"-adjective-ca
+"metacarpià"-adjective-ca "metacarpial"-adjective-en
+"metachromatic"-adjective-en "metacromàtic"-adjective-ca
+"metacromàtic"-adjective-ca "metachromatic"-adjective-en
+"metazoan"-adjective-en "metazoic"-adjective-ca
+"metazoic"-adjective-ca "metazoan"-adjective-en
+"miscellaneous"-adjective-en "miscel·lani"-adjective-ca
+"miscel·lani"-adjective-ca "miscellaneous"-adjective-en
+"missing"-adjective-en "desaparegut"-adjective-ca
+"desaparegut"-adjective-ca "missing"-adjective-en
+"monopolistic"-adjective-en "monopolitzador"-adjective-ca
+"monopolitzador"-adjective-ca "monopolistic"-adjective-en
+"morphemic"-adjective-en "morfèmic"-adjective-ca
+"morfèmic"-adjective-ca "morphemic"-adjective-en
+"morphometric"-adjective-en "morfomètric"-adjective-ca
+"morfomètric"-adjective-ca "morphometric"-adjective-en
+"morphophysiological"-adjective-en "morfofisiològic"-adjective-ca
+"morfofisiològic"-adjective-ca "morphophysiological"-adjective-en
+"motorised"-adjective-en "motoritzat"-adjective-ca
+"motoritzat"-adjective-ca "motorised"-adjective-en
+"multicentric"-adjective-en "multicentric"-adjective-ca
+"multicentric"-adjective-ca "multicentric"-adjective-en
+"multivitamin"-adjective-en "multivitamínic"-adjective-ca
+"multivitamínic"-adjective-ca "multivitamin"-adjective-en
+"nacreous"-adjective-en "nacrat"-adjective-ca
+"nacrat"-adjective-ca "nacreous"-adjective-en
+"necrophagous"-adjective-en "necròfag"-adjective-ca
+"necròfag"-adjective-ca "necrophagous"-adjective-en
+"neurophysical"-adjective-en "neurofísic"-adjective-ca
+"neurofísic"-adjective-ca "neurophysical"-adjective-en
+"novelesque"-adjective-en "novel·lesc"-adjective-ca
+"novel·lesc"-adjective-ca "novelesque"-adjective-en
+"novelistic"-adjective-en "novel·lístic"-adjective-ca
+"novel·lístic"-adjective-ca "novelistic"-adjective-en
+"nymphomaniac"-adjective-en "nimfòman"-adjective-ca
+"nimfòman"-adjective-ca "nymphomaniac"-adjective-en
+"obscure"-adjective-en "obscurir"-verb-ca
+"obscurir"-verb-ca "obscure"-adjective-en
+"obscurir"-verb-ca "obscure"-verb-en
+"obscure"-verb-en "obscurir"-verb-ca
+"obtuse"-adjective-en "toix"-adjective-ca
+"toix"-adjective-ca "obtuse"-adjective-en
+"olfactory"-adjective-en "olfactori"-adjective-ca
+"olfactori"-adjective-ca "olfactory"-adjective-en
+"oligotrophic"-adjective-en "oligotròfic"-adjective-ca
+"oligotròfic"-adjective-ca "oligotrophic"-adjective-en
+"olivary"-adjective-en "olivari"-adjective-ca
+"olivari"-adjective-ca "olivary"-adjective-en
+"ominous"-adjective-en "ominós"-adjective-ca
+"ominós"-adjective-ca "ominous"-adjective-en
+"oncoming"-adjective-en "venidor"-adjective-ca
+"venidor"-adjective-ca "oncoming"-adjective-en
+"operatic"-adjective-en "operístic"-adjective-ca
+"operístic"-adjective-ca "operatic"-adjective-en
+"oppressive"-adjective-en "oppressor"-adjective-ca
+"oppressor"-adjective-ca "oppressive"-adjective-en
+"orderly"-adjective-en "ordenat"-adjective-ca
+"ordenat"-adjective-ca "orderly"-adjective-en
+"orthic"-adjective-en "òrtic"-adjective-ca
+"òrtic"-adjective-ca "orthic"-adjective-en
+"orthochromatic"-adjective-en "ortocromàtic"-adjective-ca
+"ortocromàtic"-adjective-ca "orthochromatic"-adjective-en
+"orthognathic"-adjective-en "ortògnat"-adjective-ca
+"ortògnat"-adjective-ca "orthognathic"-adjective-en
+"ovarian"-adjective-en "ovàric"-adjective-ca
+"ovàric"-adjective-ca "ovarian"-adjective-en
+"overdetermined"-adjective-en "sobredeterminat"-adjective-ca
+"sobredeterminat"-adjective-ca "overdetermined"-adjective-en
+"overlapped"-adjective-en "fullat"-adjective-ca
+"fullat"-adjective-ca "overlapped"-adjective-en
+"ovoviviparous"-adjective-en "ovovivípar"-adjective-ca
+"ovovivípar"-adjective-ca "ovoviviparous"-adjective-en
+"oxytonic"-adjective-en "oxíton"-adjective-ca
+"oxíton"-adjective-ca "oxytonic"-adjective-en
+"pachic"-adjective-en "pàquic"-adjective-ca
+"pàquic"-adjective-ca "pachic"-adjective-en
+"palatographic"-adjective-en "palatogràfic"-adjective-ca
+"palatogràfic"-adjective-ca "palatographic"-adjective-en
+"palmate"-adjective-en "palmat"-adjective-ca
+"palmat"-adjective-ca "palmate"-adjective-en
+"panchromatic"-adjective-en "pancromàtic"-adjective-ca
+"pancromàtic"-adjective-ca "panchromatic"-adjective-en
+"paralinguistic"-adjective-en "paralingüístic"-adjective-ca
+"paralingüístic"-adjective-ca "paralinguistic"-adjective-en
+"paratactic"-adjective-en "paratàctic"-adjective-ca
+"paratàctic"-adjective-ca "paratactic"-adjective-en
+"parenchymatous"-adjective-en "parenquimàtic"-adjective-ca
+"parenquimàtic"-adjective-ca "parenchymatous"-adjective-en
+"paroxytone"-adjective-en "paroxíton"-adjective-ca
+"paroxíton"-adjective-ca "paroxytone"-adjective-en
+"pelvic"-adjective-en "pèlvic"-adjective-ca
+"pèlvic"-adjective-ca "pelvic"-adjective-en
+"peripteral"-adjective-en "perípter"-adjective-ca
+"perípter"-adjective-ca "peripteral"-adjective-en
+"petroferric"-adjective-en "petrofèrric"-adjective-ca
+"petrofèrric"-adjective-ca "petroferric"-adjective-en
+"phantasmic"-adjective-en "fantasmàtic"-adjective-ca
+"fantasmàtic"-adjective-ca "phantasmic"-adjective-en
+"phonostylistic"-adjective-en "fonoestilístic"-adjective-ca
+"fonoestilístic"-adjective-ca "phonostylistic"-adjective-en
+"photochemical"-adjective-en "fotoquímic"-adjective-ca
+"fotoquímic"-adjective-ca "photochemical"-adjective-en
+"photoelectric"-adjective-en "fotoelètric"-adjective-ca
+"fotoelètric"-adjective-ca "photoelectric"-adjective-en
+"photoelectrochemical"-adjective-en "fotoelectroquímic"-adjective-ca
+"fotoelectroquímic"-adjective-ca "photoelectrochemical"-adjective-en
+"photolithographic"-adjective-en "fotolitogràfic"-adjective-ca
+"fotolitogràfic"-adjective-ca "photolithographic"-adjective-en
+"phytophagous"-adjective-en "fitòfag"-adjective-ca
+"fitòfag"-adjective-ca "phytophagous"-adjective-en
+"plateresque"-adjective-en "plateresc"-adjective-ca
+"plateresc"-adjective-ca "plateresque"-adjective-en
+"platykurtic"-adjective-en "platicúrtic"-adjective-ca
+"platicúrtic"-adjective-ca "platykurtic"-adjective-en
+"playful"-adjective-en "juganer"-adjective-ca
+"juganer"-adjective-ca "playful"-adjective-en
+"plinthic"-adjective-en "plíntic"-adjective-ca
+"plíntic"-adjective-ca "plinthic"-adjective-en
+"plutocratic"-adjective-en "plutocràtic"-adjective-ca
+"plutocràtic"-adjective-ca "plutocratic"-adjective-en
+"poikilothermal"-adjective-en "poiquiloterm"-adjective-ca
+"poiquiloterm"-adjective-ca "poikilothermal"-adjective-en
+"poiquiloterm"-adjective-ca "poikilothermic"-adjective-en
+"poikilothermic"-adjective-en "poiquiloterm"-adjective-ca
+"pointed"-adjective-en "puntegut"-adjective-ca
+"puntegut"-adjective-ca "pointed"-adjective-en
+"polleniferous"-adjective-en "pol·linífer"-adjective-ca
+"pol·linífer"-adjective-ca "polleniferous"-adjective-en
+"polygenetic"-adjective-en "poligenètic"-adjective-ca
+"poligenètic"-adjective-ca "polygenetic"-adjective-en
+"polymeric"-adjective-en "polimèric"-adjective-ca
+"polimèric"-adjective-ca "polymeric"-adjective-en
+"polysyllabic"-adjective-en "polisíl·lab"-adjective-ca
+"polisíl·lab"-adjective-ca "polysyllabic"-adjective-en
+"popularising"-adjective-en "divulgador"-adjective-ca
+"divulgador"-adjective-ca "popularising"-adjective-en
+"populous"-adjective-en "poblat"-adjective-ca
+"poblat"-adjective-ca "populous"-adjective-en
+"pre-formulated"-adjective-en "preformulat"-adjective-ca
+"preformulat"-adjective-ca "pre-formulated"-adjective-en
+"pretonic"-adjective-en "pretònic"-adjective-ca
+"pretònic"-adjective-ca "pretonic"-adjective-en
+"preventive"-adjective-en "precautori"-adjective-ca
+"precautori"-adjective-ca "preventive"-adjective-en
+"probabilistic"-adjective-en "probabilístic"-adjective-ca
+"probabilístic"-adjective-ca "probabilistic"-adjective-en
+"prohibitory"-adjective-en "prohibitori"-adjective-ca
+"prohibitori"-adjective-ca "prohibitory"-adjective-en
+"proparoxytone"-adjective-en "esdrúixol"-adjective-ca
+"proparoxytone"-adjective-en "proparoxíton"-adjective-ca
+"esdrúixol"-adjective-ca "proparoxytone"-adjective-en
+"proparoxíton"-adjective-ca "proparoxytone"-adjective-en
+"proprietary"-adjective-en "registrat"-adjective-ca
+"registrat"-adjective-ca "proprietary"-adjective-en
+"prostyle"-adjective-en "pròstil"-adjective-ca
+"pròstil"-adjective-ca "prostyle"-adjective-en
+"protogenic"-adjective-en "protogènic"-adjective-ca
+"protogènic"-adjective-ca "protogenic"-adjective-en
+"protoplasmic"-adjective-en "protoplasmàtic"-adjective-ca
+"protoplasmàtic"-adjective-ca "protoplasmic"-adjective-en
+"psammophilous"-adjective-en "psammòfil"-adjective-ca
+"psammòfil"-adjective-ca "psammophilous"-adjective-en
+"pseudoprime"-adjective-en "pseudoprimer"-adjective-ca
+"pseudoprimer"-adjective-ca "pseudoprime"-adjective-en
+"pseudoscientific"-adjective-en "pseudocientífic"-adjective-ca
+"pseudocientífic"-adjective-ca "pseudoscientific"-adjective-en
+"psychoactive"-adjective-en "psicotròpic"-adjective-ca
+"psicotròpic"-adjective-ca "psychoactive"-adjective-en
+"psychophysiologic"-adjective-en "psicofisiològic"-adjective-ca
+"psicofisiològic"-adjective-ca "psychophysiologic"-adjective-en
+"psychosomatic"-adjective-en "somatopsíquic"-adjective-ca
+"somatopsíquic"-adjective-ca "psychosomatic"-adjective-en
+"Ptolemaic"-adjective-en "ptolemaic"-adjective-ca
+"ptolemaic"-adjective-ca "Ptolemaic"-adjective-en
+"quadratic"-adjective-en "quadràtic"-adjective-ca
+"quadràtic"-adjective-ca "quadratic"-adjective-en
+"quartic"-adjective-en "quàrtic"-adjective-ca
+"quàrtic"-adjective-ca "quartic"-adjective-en
+"quintic"-adjective-en "quíntic"-adjective-ca
+"quíntic"-adjective-ca "quintic"-adjective-en
+"quivering"-adjective-en "tremolós"-adjective-ca
+"tremolós"-adjective-ca "quivering"-adjective-en
+"tremolós"-adjective-ca "trembling"-adjective-en
+"trembling"-adjective-en "tremolós"-adjective-ca
+"quixotic"-adjective-en "quixotesc"-adjective-ca
+"quixotesc"-adjective-ca "quixotic"-adjective-en
+"ravening"-adjective-en "voraç"-adjective-ca
+"voraç"-adjective-ca "ravening"-adjective-en
+"voraç"-adjective-ca "ravenous"-adjective-en
+"voraç"-adjective-ca "voracious"-adjective-en
+"ravenous"-adjective-en "voraç"-adjective-ca
+"voracious"-adjective-en "voraç"-adjective-ca
+"recognizable"-adjective-en "reconeixedor"-adjective-ca
+"reconeixedor"-adjective-ca "recognizable"-adjective-en
+"reigning"-adjective-en "reinant"-adjective-ca
+"reinant"-adjective-ca "reigning"-adjective-en
+"reliable"-adjective-en "fidedigne"-adjective-ca
+"fidedigne"-adjective-ca "reliable"-adjective-en
+"fidedigne"-adjective-ca "trustworthy"-adjective-en
+"trustworthy"-adjective-en "fidedigne"-adjective-ca
+"renowned"-adjective-en "reconegut"-adjective-ca
+"reconegut"-adjective-ca "renowned"-adjective-en
+"rescissory"-adjective-en "rescissori"-adjective-ca
+"rescissori"-adjective-ca "rescissory"-adjective-en
+"responsive"-adjective-en "responsiu"-adjective-ca
+"responsiu"-adjective-ca "responsive"-adjective-en
+"retarded"-adjective-en "retardat"-adjective-ca
+"retardat"-adjective-ca "retarded"-adjective-en
+"reversionary"-adjective-en "reversionari"-adjective-ca
+"reversionari"-adjective-ca "reversionary"-adjective-en
+"rheostatic"-adjective-en "reostàtic"-adjective-ca
+"reostàtic"-adjective-ca "rheostatic"-adjective-en
+"rhodic"-adjective-en "ròdic"-adjective-ca
+"ròdic"-adjective-ca "rhodic"-adjective-en
+"rhombohedral"-adjective-en "romboèdric"-adjective-ca
+"romboèdric"-adjective-ca "rhombohedral"-adjective-en
+"riveting"-adjective-en "rivetat"-adjective-ca
+"rivetat"-adjective-ca "riveting"-adjective-en
+"rooted"-adjective-en "radicat"-adjective-ca
+"radicat"-adjective-ca "rooted"-adjective-en
+"rule-based"-adjective-en "basat en regles"-adjective-ca
+"basat en regles"-adjective-ca "rule-based"-adjective-en
+"ruled"-adjective-en "quadriculat"-adjective-ca
+"ruled"-adjective-en "reglat"-adjective-ca
+"quadriculat"-adjective-ca "ruled"-adjective-en
+"reglat"-adjective-ca "ruled"-adjective-en
+"rurban"-adjective-en "rurubà"-adjective-ca
+"rurubà"-adjective-ca "rurban"-adjective-en
+"sapric"-adjective-en "sàpric"-adjective-ca
+"sàpric"-adjective-ca "sapric"-adjective-en
+"saprophagous"-adjective-en "sapròfag"-adjective-ca
+"sapròfag"-adjective-ca "saprophagous"-adjective-en
+"saturated"-adjective-en "saturat"-adjective-ca
+"saturat"-adjective-ca "saturated"-adjective-en
+"scalene"-adjective-en "escalè"-adjective-ca
+"escalè"-adjective-ca "scalene"-adjective-en
+"sciophilous"-adjective-en "esciòfil"-adjective-ca
+"esciòfil"-adjective-ca "sciophilous"-adjective-en
+"sclerophyllous"-adjective-en "esclerofil·le"-adjective-ca
+"esclerofil·le"-adjective-ca "sclerophyllous"-adjective-en
+"secretive"-adjective-en "reservat"-adjective-ca
+"reservat"-adjective-ca "secretive"-adjective-en
+"self-centering"-adjective-en "autocentrador"-adjective-ca
+"autocentrador"-adjective-ca "self-centering"-adjective-en
+"self-imposed"-adjective-en "autoimposat"-adjective-ca
+"autoimposat"-adjective-ca "self-imposed"-adjective-en
+"self-lubricating"-adjective-en "autolubrificador"-adjective-ca
+"autolubrificador"-adjective-ca "self-lubricating"-adjective-en
+"semasiological"-adjective-en "semasiològic"-adjective-ca
+"semasiològic"-adjective-ca "semasiological"-adjective-en
+"semi-anechoic"-adjective-en "semianecoic"-adjective-ca
+"semianecoic"-adjective-ca "semi-anechoic"-adjective-en
+"semiaquatic"-adjective-en "semiaquàtic"-adjective-ca
+"semiaquàtic"-adjective-ca "semiaquatic"-adjective-en
+"semiclosed"-adjective-en "semitancat"-adjective-ca
+"semitancat"-adjective-ca "semiclosed"-adjective-en
+"semi-detached"-adjective-en "adossat"-adjective-ca
+"adossat"-adjective-ca "semi-detached"-adjective-en
+"semidiurnal"-adjective-en "semidiürn"-adjective-ca
+"semidiürn"-adjective-ca "semidiurnal"-adjective-en
+"sideric"-adjective-en "sidèric"-adjective-ca
+"sidèric"-adjective-ca "sideric"-adjective-en
+"skew"-adjective-en "torcejat"-adjective-ca
+"skew"-adjective-en "esbiaixar"-verb-ca
+"torcejat"-adjective-ca "skew"-adjective-en
+"torcejat"-adjective-ca "skew"-verb-en
+"esbiaixar"-verb-ca "skew"-adjective-en
+"esbiaixar"-verb-ca "skew"-verb-en
+"skew"-verb-en "torcejat"-adjective-ca
+"skew"-verb-en "esbiaixar"-verb-ca
+"sleeved"-adjective-en "manigut"-adjective-ca
+"manigut"-adjective-ca "sleeved"-adjective-en
+"somatopsychic"-adjective-en "psicosomàtic"-adjective-ca
+"psicosomàtic"-adjective-ca "somatopsychic"-adjective-en
+"sought-after"-adjective-en "cotitzat"-adjective-ca
+"cotitzat"-adjective-ca "sought-after"-adjective-en
+"South African"-adjective-en "sudafricà"-adjective-ca
+"sudafricà"-adjective-ca "South African"-adjective-en
+"sphagnic"-adjective-en "esfàgnic"-adjective-ca
+"esfàgnic"-adjective-ca "sphagnic"-adjective-en
+"splenic"-adjective-en "esplènic"-adjective-ca
+"esplènic"-adjective-ca "splenic"-adjective-en
+"spurious"-adjective-en "espuri"-adjective-ca
+"espuri"-adjective-ca "spurious"-adjective-en
+"staggered"-adjective-en "escalonat"-adjective-ca
+"escalonat"-adjective-ca "staggered"-adjective-en
+"steeled"-adjective-en "acerós"-adjective-ca
+"acerós"-adjective-ca "steeled"-adjective-en
+"stenometopic"-adjective-en "estenometòpic"-adjective-ca
+"estenometòpic"-adjective-ca "stenometopic"-adjective-en
+"stereotypical"-adjective-en "estereotípic"-adjective-ca
+"estereotípic"-adjective-ca "stereotypical"-adjective-en
+"stillborn"-adjective-en "nascut mort"-adjective-ca
+"nascut mort"-adjective-ca "stillborn"-adjective-en
+"stoichiometric"-adjective-en "estequiomètric"-adjective-ca
+"estequiomètric"-adjective-ca "stoichiometric"-adjective-en
+"stressed"-adjective-en "accentuat"-adjective-ca
+"accentuat"-adjective-ca "stressed"-adjective-en
+"subclavian"-adjective-en "subclavi"-adjective-ca
+"subclavi"-adjective-ca "subclavian"-adjective-en
+"subtractive"-adjective-en "subtractiu"-adjective-ca
+"subtractiu"-adjective-ca "subtractive"-adjective-en
+"succinct"-adjective-en "succint"-adjective-ca
+"succint"-adjective-ca "succinct"-adjective-en
+"suggestive"-adjective-en "suggeridor"-adjective-ca
+"suggeridor"-adjective-ca "suggestive"-adjective-en
+"sumptuary"-adjective-en "sumptuari"-adjective-ca
+"sumptuari"-adjective-ca "sumptuary"-adjective-en
+"sunless"-adjective-en "obac"-adjective-ca
+"obac"-adjective-ca "sunless"-adjective-en
+"superconducting"-adjective-en "superconductor"-adjective-ca
+"superconductor"-adjective-ca "superconducting"-adjective-en
+"superconductor"-adjective-ca "superconductive"-adjective-en
+"superconductive"-adjective-en "superconductor"-adjective-ca
+"superheterodyne"-adjective-en "superheterodí"-adjective-ca
+"superheterodí"-adjective-ca "superheterodyne"-adjective-en
+"supervisory"-adjective-en "supervisor"-adjective-ca
+"supervisor"-adjective-ca "supervisory"-adjective-en
+"supplying"-adjective-en "subministrador"-adjective-ca
+"subministrador"-adjective-ca "supplying"-adjective-en
+"supported"-adjective-en "suportat"-adjective-ca
+"suportat"-adjective-ca "supported"-adjective-en
+"supraspinous"-adjective-en "supraspinós"-adjective-ca
+"supraspinós"-adjective-ca "supraspinous"-adjective-en
+"surreptitious"-adjective-en "subreptici"-adjective-ca
+"subreptici"-adjective-ca "surreptitious"-adjective-en
+"synergetic"-adjective-en "sinergètic"-adjective-ca
+"sinergètic"-adjective-ca "synergetic"-adjective-en
+"tautophonic"-adjective-en "tautofònic"-adjective-ca
+"tautofònic"-adjective-ca "tautophonic"-adjective-en
+"tautosyllabic"-adjective-en "tautosil·làbic"-adjective-ca
+"tautosil·làbic"-adjective-ca "tautosyllabic"-adjective-en
+"temperate"-adjective-en "temperat"-adjective-ca
+"temperat"-adjective-ca "temperate"-adjective-en
+"tempting"-adjective-en "temptador"-adjective-ca
+"temptador"-adjective-ca "tempting"-adjective-en
+"terric"-adjective-en "tèrric"-adjective-ca
+"tèrric"-adjective-ca "terric"-adjective-en
+"tetartohedral"-adjective-en "tetartoèdric"-adjective-ca
+"tetartoèdric"-adjective-ca "tetartohedral"-adjective-en
+"thoughtful"-adjective-en "considerat"-adjective-ca
+"thoughtful"-adjective-en "pensarós"-adjective-ca
+"considerat"-adjective-ca "thoughtful"-adjective-en
+"pensarós"-adjective-ca "thoughtful"-adjective-en
+"threaded"-adjective-en "roscat"-adjective-ca
+"roscat"-adjective-ca "threaded"-adjective-en
+"toxigenic"-adjective-en "toxicogènic"-adjective-ca
+"toxicogènic"-adjective-ca "toxigenic"-adjective-en
+"trailing"-adjective-en "enfiladís"-adjective-ca
+"enfiladís"-adjective-ca "trailing"-adjective-en
+"transfinite"-adjective-en "transfinit"-adjective-ca
+"transfinit"-adjective-ca "transfinite"-adjective-en
+"transmissive"-adjective-en "transmissor"-adjective-ca
+"transmissor"-adjective-ca "transmissive"-adjective-en
+"transonic"-adjective-en "transònic"-adjective-ca
+"transònic"-adjective-ca "transonic"-adjective-en
+"truthful"-adjective-en "veraç"-adjective-ca
+"veraç"-adjective-ca "truthful"-adjective-en
+"two-phase"-adjective-en "bifàsic"-adjective-ca
+"bifàsic"-adjective-ca "two-phase"-adjective-en
+"ubiquitous"-adjective-en "ubic"-adjective-ca
+"ubic"-adjective-ca "ubiquitous"-adjective-en
+"ultrapure"-adjective-en "ultrapur"-adjective-ca
+"ultrapur"-adjective-ca "ultrapure"-adjective-en
+"unaffected"-adjective-en "no afectat"-adjective-ca
+"no afectat"-adjective-ca "unaffected"-adjective-en
+"unanchored"-adjective-en "desancorat"-adjective-ca
+"desancorat"-adjective-ca "unanchored"-adjective-en
+"unarmed"-adjective-en "desarmat"-adjective-ca
+"desarmat"-adjective-ca "unarmed"-adjective-en
+"unauthorized"-adjective-en "no autoritzat"-adjective-ca
+"no autoritzat"-adjective-ca "unauthorized"-adjective-en
+"unchanged"-adjective-en "inalterat"-adjective-ca
+"inalterat"-adjective-ca "unchanged"-adjective-en
+"unclear"-adjective-en "poc clar"-adjective-ca
+"poc clar"-adjective-ca "unclear"-adjective-en
+"uncommon"-adjective-en "poc comú"-adjective-ca
+"poc comú"-adjective-ca "uncommon"-adjective-en
+"unconnected"-adjective-en "inconnex"-adjective-ca
+"inconnex"-adjective-ca "unconnected"-adjective-en
+"inconnex"-adjective-ca "unrelated"-adjective-en
+"unrelated"-adjective-en "inconnex"-adjective-ca
+"unrelated"-adjective-en "no relacionat"-adjective-ca
+"uncontrolled"-adjective-en "incontrolat"-adjective-ca
+"incontrolat"-adjective-ca "uncontrolled"-adjective-en
+"uncultured"-adjective-en "illetrat"-adjective-ca
+"illetrat"-adjective-ca "uncultured"-adjective-en
+"undercover"-adjective-en "infiltrat"-adjective-ca
+"infiltrat"-adjective-ca "undercover"-adjective-en
+"underwater"-adjective-en "subaqüàtic"-adjective-ca
+"subaqüàtic"-adjective-ca "underwater"-adjective-en
+"undisciplined"-adjective-en "indisciplinat"-adjective-ca
+"indisciplinat"-adjective-ca "undisciplined"-adjective-en
+"undisclosed"-adjective-en "no revel·lat"-adjective-ca
+"no revel·lat"-adjective-ca "undisclosed"-adjective-en
+"undisputed"-adjective-en "no disputat"-adjective-ca
+"no disputat"-adjective-ca "undisputed"-adjective-en
+"unemployed"-adjective-en "desocupat"-adjective-ca
+"desocupat"-adjective-ca "unemployed"-adjective-en
+"unguligrade"-adjective-en "ungulígrad"-adjective-ca
+"ungulígrad"-adjective-ca "unguligrade"-adjective-en
+"uniformed"-adjective-en "desinformat"-adjective-ca
+"desinformat"-adjective-ca "uniformed"-adjective-en
+"uninhabited"-adjective-en "deshabitat"-adjective-ca
+"deshabitat"-adjective-ca "uninhabited"-adjective-en
+"univocal"-adjective-en "unívoc"-adjective-ca
+"unívoc"-adjective-ca "univocal"-adjective-en
+"unmanned"-adjective-en "no tripulat"-adjective-ca
+"no tripulat"-adjective-ca "unmanned"-adjective-en
+"unproven"-adjective-en "no demostrat"-adjective-ca
+"no demostrat"-adjective-ca "unproven"-adjective-en
+"unpublished"-adjective-en "no publicat"-adjective-ca
+"no publicat"-adjective-ca "unpublished"-adjective-en
+"no relacionat"-adjective-ca "unrelated"-adjective-en
+"unresolved"-adjective-en "no resolt"-adjective-ca
+"no resolt"-adjective-ca "unresolved"-adjective-en
+"no resolt"-adjective-ca "unsolved"-adjective-en
+"unsolved"-adjective-en "no resolt"-adjective-ca
+"unskilled"-adjective-en "no qualificat"-adjective-ca
+"no qualificat"-adjective-ca "unskilled"-adjective-en
+"unspecified"-adjective-en "no especificat"-adjective-ca
+"no especificat"-adjective-ca "unspecified"-adjective-en
+"unsuspecting"-adjective-en "confiat"-adjective-ca
+"confiat"-adjective-ca "unsuspecting"-adjective-en
+"unwanted"-adjective-en "no desitjat"-adjective-ca
+"no desitjat"-adjective-ca "unwanted"-adjective-en
+"unwilling"-adjective-en "poc disposat"-adjective-ca
+"poc disposat"-adjective-ca "unwilling"-adjective-en
+"up to date"-adjective-en "actualitzat"-adjective-ca
+"actualitzat"-adjective-ca "up to date"-adjective-en
+"vandalic"-adjective-en "vandàlic"-adjective-ca
+"vandàlic"-adjective-ca "vandalic"-adjective-en
+"venous"-adjective-en "venós"-adjective-ca
+"venós"-adjective-ca "venous"-adjective-en
+"vicarious"-adjective-en "vicari"-adjective-ca
+"vicari"-adjective-ca "vicarious"-adjective-en
+"walled"-adjective-en "emmurallat"-adjective-ca
+"emmurallat"-adjective-ca "walled"-adjective-en
+"wasteful"-adjective-en "malgastador"-adjective-ca
+"malgastador"-adjective-ca "wasteful"-adjective-en
+"withered"-adjective-en "marcit"-adjective-ca
+"marcit"-adjective-ca "withered"-adjective-en
+"zealous"-adjective-en "zelós"-adjective-ca
+"zelós"-adjective-ca "zealous"-adjective-en
+"abide by"-verb-en "atenir a"-verb-ca
+"atenir a"-verb-ca "abide by"-verb-en
+"agree with"-verb-en "estar d'acord amb"-verb-ca
+"estar d'acord amb"-verb-ca "agree with"-verb-en
+"amend"-verb-en "subsanar"-verb-ca
+"subsanar"-verb-ca "amend"-verb-en
+"antedate"-verb-en "antedatar"-verb-ca
+"antedatar"-verb-ca "antedate"-verb-en
+"be ablaze"-verb-en "estar en flames"-verb-ca
+"estar en flames"-verb-ca "be ablaze"-verb-en
+"be abreast"-verb-en "estar al corrent"-verb-ca
+"estar al corrent"-verb-ca "be abreast"-verb-en
+"be hungry"-verb-en "tenir fam"-verb-ca
+"tenir fam"-verb-ca "be hungry"-verb-en
+"be very sorry"-verb-en "saber molt greu"-verb-ca
+"saber molt greu"-verb-ca "be very sorry"-verb-en
+"bisect"-verb-en "bisecar"-verb-ca
+"bisecar"-verb-ca "bisect"-verb-en
+"blush"-verb-en "enrogir"-verb-ca
+"enrogir"-verb-ca "blush"-verb-en
+"enrogir"-verb-ca "redden"-verb-en
+"redden"-verb-en "enrogir"-verb-ca
+"brandish"-verb-en "brandir"-verb-ca
+"brandir"-verb-ca "brandish"-verb-en
+"brandir"-verb-ca "wield"-verb-en
+"wield"-verb-en "brandir"-verb-ca
+"burgeon"-verb-en "rebrotar"-verb-ca
+"rebrotar"-verb-ca "burgeon"-verb-en
+"char"-verb-en "socarrimar"-verb-ca
+"socarrimar"-verb-ca "char"-verb-en
+"clutter"-verb-en "desendreçar"-verb-ca
+"desendreçar"-verb-ca "clutter"-verb-en
+"collide"-verb-en "col·lidir"-verb-ca
+"col·lidir"-verb-ca "collide"-verb-en
+"computerise"-verb-en "computeritzar"-verb-ca
+"computeritzar"-verb-ca "computerise"-verb-en
+"condone"-verb-en "condonar"-verb-ca
+"condonar"-verb-ca "condone"-verb-en
+"consider"-verb-en "donar per"-verb-ca
+"donar per"-verb-ca "consider"-verb-en
+"construe"-verb-en "analitzar sintàcticament"-verb-ca
+"analitzar sintàcticament"-verb-ca "construe"-verb-en
+"convince"-verb-en "fer el pes"-verb-ca
+"fer el pes"-verb-ca "convince"-verb-en
+"deaden"-verb-en "esmortir"-verb-ca
+"esmortir"-verb-ca "deaden"-verb-en
+"decaffeinate"-verb-en "descafeïnar"-verb-ca
+"descafeïnar"-verb-ca "decaffeinate"-verb-en
+"declutch"-verb-en "desembragar"-verb-ca
+"desembragar"-verb-ca "declutch"-verb-en
+"decouple"-verb-en "desacoblar"-verb-ca
+"desacoblar"-verb-ca "decouple"-verb-en
+"desacoblar"-verb-ca "detach"-verb-en
+"detach"-verb-en "desacoblar"-verb-ca
+"delimit"-verb-en "acotar"-verb-ca
+"acotar"-verb-ca "delimit"-verb-en
+"demarcate"-verb-en "demarcar"-verb-ca
+"demarcar"-verb-ca "demarcate"-verb-en
+"denaturalise"-verb-en "desnaturalitzar"-verb-ca
+"desnaturalitzar"-verb-ca "denaturalise"-verb-en
+"depersonalise"-verb-en "despersonalitzar"-verb-ca
+"despersonalitzar"-verb-ca "depersonalise"-verb-en
+"describe as"-verb-en "qualificar de"-verb-ca
+"qualificar de"-verb-ca "describe as"-verb-en
+"destroy"-verb-en "fer xixines"-verb-ca
+"fer xixines"-verb-ca "destroy"-verb-en
+"disentangle"-verb-en "desenbullar"-verb-ca
+"desenbullar"-verb-ca "disentangle"-verb-en
+"desenbullar"-verb-ca "unravel"-verb-en
+"desenbullar"-verb-ca "untangle"-verb-en
+"unravel"-verb-en "desenbullar"-verb-ca
+"untangle"-verb-en "desenbullar"-verb-ca
+"disturb"-verb-en "avalotar"-verb-ca
+"disturb"-verb-en "escarotar"-verb-ca
+"avalotar"-verb-ca "disturb"-verb-en
+"escarotar"-verb-ca "disturb"-verb-en
+"drink like a fish"-verb-en "beure com un lladre"-verb-ca
+"beure com un lladre"-verb-ca "drink like a fish"-verb-en
+"dull"-verb-en "desllustrar"-verb-ca
+"desllustrar"-verb-ca "dull"-verb-en
+"embezzle"-verb-en "malversar"-verb-ca
+"malversar"-verb-ca "embezzle"-verb-en
+"emulsify"-verb-en "emulsionar"-verb-ca
+"emulsionar"-verb-ca "emulsify"-verb-en
+"enervate"-verb-en "enervar"-verb-ca
+"enervar"-verb-ca "enervate"-verb-en
+"enforce"-verb-en "fer complir"-verb-ca
+"fer complir"-verb-ca "enforce"-verb-en
+"enlarge"-verb-en "engegantir"-verb-ca
+"engegantir"-verb-ca "enlarge"-verb-en
+"equalise"-verb-en "equalitzar"-verb-ca
+"equalitzar"-verb-ca "equalise"-verb-en
+"erupt"-verb-en "entrar en erupció"-verb-ca
+"entrar en erupció"-verb-ca "erupt"-verb-en
+"excommunicate"-verb-en "excomulgar"-verb-ca
+"excomulgar"-verb-ca "excommunicate"-verb-en
+"explode"-verb-en "fer explotar"-verb-ca
+"fer explotar"-verb-ca "explode"-verb-en
+"extort"-verb-en "extorquir"-verb-ca
+"extort"-verb-en "extorsionar"-verb-ca
+"extorquir"-verb-ca "extort"-verb-en
+"extorsionar"-verb-ca "extort"-verb-en
+"extradite"-verb-en "extradir"-verb-ca
+"extradir"-verb-ca "extradite"-verb-en
+"flabbergast"-verb-en "estupefactar"-verb-ca
+"estupefactar"-verb-ca "flabbergast"-verb-en
+"forget"-verb-en "deixar córrer"-verb-ca
+"deixar córrer"-verb-ca "forget"-verb-en
+"frighten off"-verb-en "aüixar"-verb-ca
+"aüixar"-verb-ca "frighten off"-verb-en
+"frown"-verb-en "arrufar les celles"-verb-ca
+"arrufar les celles"-verb-ca "frown"-verb-en
+"get angry"-verb-en "cabrejar"-verb-ca
+"cabrejar"-verb-ca "get angry"-verb-en
+"go Dutch"-verb-en "pagar l'escot"-verb-ca
+"pagar l'escot"-verb-ca "go Dutch"-verb-en
+"groan"-verb-en "gemecar"-verb-ca
+"gemecar"-verb-ca "groan"-verb-en
+"happen"-verb-en "advenir"-verb-ca
+"advenir"-verb-ca "happen"-verb-en
+"have a feeling that"-verb-en "tenir la sospita que"-verb-ca
+"tenir la sospita que"-verb-ca "have a feeling that"-verb-en
+"inflame"-verb-en "aflamar"-verb-ca
+"aflamar"-verb-ca "inflame"-verb-en
+"inflate"-verb-en "unflar"-verb-ca
+"unflar"-verb-ca "inflate"-verb-en
+"infuse"-verb-en "infondre"-verb-ca
+"infondre"-verb-ca "infuse"-verb-en
+"lean out"-verb-en "treure el cap"-verb-ca
+"treure el cap"-verb-ca "lean out"-verb-en
+"lessen"-verb-en "menyscabar"-verb-ca
+"menyscabar"-verb-ca "lessen"-verb-en
+"lose the joke"-verb-en "anar la gràcia"-verb-ca
+"anar la gràcia"-verb-ca "lose the joke"-verb-en
+"magnetise"-verb-en "imantar"-verb-ca
+"imantar"-verb-ca "magnetise"-verb-en
+"mediate"-verb-en "mediar"-verb-ca
+"mediar"-verb-ca "mediate"-verb-en
+"meet"-verb-en "quedar amb"-verb-ca
+"quedar amb"-verb-ca "meet"-verb-en
+"misinterpret"-verb-en "malinterpretar"-verb-ca
+"malinterpretar"-verb-ca "misinterpret"-verb-en
+"malinterpretar"-verb-ca "misunderstand"-verb-en
+"misunderstand"-verb-en "malinterpretar"-verb-ca
+"misunderstand"-verb-en "entendre malament"-verb-ca
+"entendre malament"-verb-ca "misunderstand"-verb-en
+"nod"-verb-en "assentir amb el cap"-verb-ca
+"nod"-verb-en "saludar amb el cap"-verb-ca
+"assentir amb el cap"-verb-ca "nod"-verb-en
+"saludar amb el cap"-verb-ca "nod"-verb-en
+"notarise"-verb-en "instrumentar"-verb-ca
+"instrumentar"-verb-ca "notarise"-verb-en
+"obtain"-verb-en "agenciar"-verb-ca
+"agenciar"-verb-ca "obtain"-verb-en
+"pay attention"-verb-en "parar atenció"-verb-ca
+"parar atenció"-verb-ca "pay attention"-verb-en
+"pay cash"-verb-en "pagar en metàl·lic"-verb-ca
+"pagar en metàl·lic"-verb-ca "pay cash"-verb-en
+"peer"-verb-en "mirar atentament"-verb-ca
+"mirar atentament"-verb-ca "peer"-verb-en
+"place in front"-verb-en "avantposar"-verb-ca
+"avantposar"-verb-ca "place in front"-verb-en
+"plumb"-verb-en "aplomar"-verb-ca
+"aplomar"-verb-ca "plumb"-verb-en
+"pounce"-verb-en "estergir"-verb-ca
+"estergir"-verb-ca "pounce"-verb-en
+"precede"-verb-en "antecedir"-verb-ca
+"antecedir"-verb-ca "precede"-verb-en
+"prestress"-verb-en "pretesar"-verb-ca
+"pretesar"-verb-ca "prestress"-verb-en
+"prevaricate"-verb-en "prevaricar"-verb-ca
+"prevaricar"-verb-ca "prevaricate"-verb-en
+"readjust"-verb-en "reajustar"-verb-ca
+"reajustar"-verb-ca "readjust"-verb-en
+"reassign"-verb-en "reassignar"-verb-ca
+"reassignar"-verb-ca "reassign"-verb-en
+"receive communion"-verb-en "combregar"-verb-ca
+"combregar"-verb-ca "receive communion"-verb-en
+"combregar"-verb-ca "take communion"-verb-en
+"take communion"-verb-en "combregar"-verb-ca
+"redevelop"-verb-en "reurbanitzar"-verb-ca
+"reurbanitzar"-verb-ca "redevelop"-verb-en
+"redirect"-verb-en "readreçar"-verb-ca
+"readreçar"-verb-ca "redirect"-verb-en
+"reestablish"-verb-en "reestablir"-verb-ca
+"reestablir"-verb-ca "reestablish"-verb-en
+"reexamine"-verb-en "reexaminar"-verb-ca
+"reexaminar"-verb-ca "reexamine"-verb-en
+"reissue"-verb-en "reestrenar"-verb-ca
+"reestrenar"-verb-ca "reissue"-verb-en
+"relocate"-verb-en "resituar"-verb-ca
+"relocate"-verb-en "reubicar"-verb-ca
+"resituar"-verb-ca "relocate"-verb-en
+"reubicar"-verb-ca "relocate"-verb-en
+"remount"-verb-en "remuntar el vol"-verb-ca
+"remuntar el vol"-verb-ca "remount"-verb-en
+"replenish"-verb-en "reomplir"-verb-ca
+"reomplir"-verb-ca "replenish"-verb-en
+"reposition"-verb-en "recol·locar"-verb-ca
+"recol·locar"-verb-ca "reposition"-verb-en
+"reread"-verb-en "rellegir"-verb-ca
+"rellegir"-verb-ca "reread"-verb-en
+"restrain"-verb-en "refrenar"-verb-ca
+"refrenar"-verb-ca "restrain"-verb-en
+"revisit"-verb-en "revisitar"-verb-ca
+"revisitar"-verb-ca "revisit"-verb-en
+"revolve"-verb-en "regirar"-verb-ca
+"regirar"-verb-ca "revolve"-verb-en
+"satiate"-verb-en "sadollar"-verb-ca
+"sadollar"-verb-ca "satiate"-verb-en
+"see the joke"-verb-en "veure la gràcia"-verb-ca
+"veure la gràcia"-verb-ca "see the joke"-verb-en
+"set fire to"-verb-en "calar foc a"-verb-ca
+"calar foc a"-verb-ca "set fire to"-verb-en
+"settle down"-verb-en "asseure cap"-verb-ca
+"asseure cap"-verb-ca "settle down"-verb-en
+"shear"-verb-en "cisallar"-verb-ca
+"cisallar"-verb-ca "shear"-verb-en
+"shed light on"-verb-en "ajudar a entendre"-verb-ca
+"ajudar a entendre"-verb-ca "shed light on"-verb-en
+"shrink"-verb-en "encongir"-verb-ca
+"encongir"-verb-ca "shrink"-verb-en
+"smuggle"-verb-en "fer contraban"-verb-ca
+"fer contraban"-verb-ca "smuggle"-verb-en
+"spoil"-verb-en "esgarrar"-verb-ca
+"esgarrar"-verb-ca "spoil"-verb-en
+"start afresh"-verb-en "començar de nou"-verb-ca
+"començar de nou"-verb-ca "start afresh"-verb-en
+"starve"-verb-en "passar gana"-verb-ca
+"passar gana"-verb-ca "starve"-verb-en
+"stick to"-verb-en "aferrar a"-verb-ca
+"aferrar a"-verb-ca "stick to"-verb-en
+"stiffen"-verb-en "engarrotar"-verb-ca
+"stiffen"-verb-en "enrigidir"-verb-ca
+"engarrotar"-verb-ca "stiffen"-verb-en
+"enrigidir"-verb-ca "stiffen"-verb-en
+"stigmatise"-verb-en "estigmatitzar"-verb-ca
+"estigmatitzar"-verb-ca "stigmatise"-verb-en
+"stud"-verb-en "tatxonar"-verb-ca
+"tatxonar"-verb-ca "stud"-verb-en
+"table a motion"-verb-en "presentar una moció"-verb-ca
+"presentar una moció"-verb-ca "table a motion"-verb-en
+"table the motion"-verb-en "presentar la moció"-verb-ca
+"presentar la moció"-verb-ca "table the motion"-verb-en
+"tackle"-verb-en "mamprendre"-verb-ca
+"mamprendre"-verb-ca "tackle"-verb-en
+"mamprendre"-verb-ca "undertake"-verb-en
+"undertake"-verb-en "mamprendre"-verb-ca
+"taper"-verb-en "afuar"-verb-ca
+"afuar"-verb-ca "taper"-verb-en
+"thank"-verb-en "donar les gràcies"-verb-ca
+"donar les gràcies"-verb-ca "thank"-verb-en
+"thicken"-verb-en "espessir"-verb-ca
+"espessir"-verb-ca "thicken"-verb-en
+"think so"-verb-en "creure que sí"-verb-ca
+"creure que sí"-verb-ca "think so"-verb-en
+"tuck"-verb-en "entaforar"-verb-ca
+"entaforar"-verb-ca "tuck"-verb-en
+"unfold"-verb-en "desdoblegar"-verb-ca
+"desdoblegar"-verb-ca "unfold"-verb-en
+"unscrew"-verb-en "descaragolar"-verb-ca
+"descaragolar"-verb-ca "unscrew"-verb-en
+"Rías Bajas"-properNoun-en "Rías Baixas"-properNoun-ca
+"Rías Baixas"-properNoun-ca "Rías Bajas"-properNoun-en
+"20th Century Fox"-properNoun-en "20th Century Fox"-properNoun-ca
+"20th Century Fox"-properNoun-ca "20th Century Fox"-properNoun-en
+"AC/DC"-properNoun-en "AC/DC"-properNoun-ca
+"AC/DC"-properNoun-ca "AC/DC"-properNoun-en
+"Aer Lingus"-properNoun-en "Aer Lingus"-properNoun-ca
+"Aer Lingus"-properNoun-ca "Aer Lingus"-properNoun-en
+"Alice in Chains"-properNoun-en "Alice in Chains"-properNoun-ca
+"Alice in Chains"-properNoun-ca "Alice in Chains"-properNoun-en
+"Athletic Bilbao"-properNoun-en "Athletic Club Bilbao"-properNoun-ca
+"Athletic Club Bilbao"-properNoun-ca "Athletic Bilbao"-properNoun-en
+"Battle of Austerlitz"-properNoun-en "Batalla d'Austerlitz"-properNoun-ca
+"Batalla d'Austerlitz"-properNoun-ca "Battle of Austerlitz"-properNoun-en
+"Bermeo Hiriko"-properNoun-en "Bermeo Hiriko"-properNoun-ca
+"Bermeo Hiriko"-properNoun-ca "Bermeo Hiriko"-properNoun-en
+"Bing"-properNoun-en "Bing"-properNoun-ca
+"Bing"-properNoun-ca "Bing"-properNoun-en
+"Brazomar inlet"-properNoun-en "entrada de Brazomar"-properNoun-ca
+"entrada de Brazomar"-properNoun-ca "Brazomar inlet"-properNoun-en
+"CAC 40"-properNoun-en "CAC 40"-properNoun-ca
+"CAC 40"-properNoun-ca "CAC 40"-properNoun-en
+"Callisto"-properNoun-en "Cal·listo"-properNoun-ca
+"Cal·listo"-properNoun-ca "Callisto"-properNoun-en
+"China National Petroleum Corporation"-properNoun-en "China National Petroleum Corporation"-properNoun-ca
+"China National Petroleum Corporation"-properNoun-ca "China National Petroleum Corporation"-properNoun-en
+"Cold War"-properNoun-en "Guerra Freda"-properNoun-ca
+"Guerra Freda"-properNoun-ca "Cold War"-properNoun-en
+"Conducator"-properNoun-en "Conducator"-properNoun-ca
+"Conducator"-properNoun-ca "Conducator"-properNoun-en
+"Dopplr"-properNoun-en "Dopplr"-properNoun-ca
+"Dopplr"-properNoun-ca "Dopplr"-properNoun-en
+"Dow Jones"-properNoun-en "Dow Jones"-properNoun-ca
+"Dow Jones"-properNoun-ca "Dow Jones"-properNoun-en
+"Duran Duran"-properNoun-en "Duran Duran"-properNoun-ca
+"Duran Duran"-properNoun-ca "Duran Duran"-properNoun-en
+"El Correo"-properNoun-en "El Correo"-properNoun-ca
+"El Correo"-properNoun-ca "El Correo"-properNoun-en
+"European Defence Agency"-properNoun-en "Agència Europea de Defensa"-properNoun-ca
+"Agència Europea de Defensa"-properNoun-ca "European Defence Agency"-properNoun-en
+"European People's Party"-properNoun-en "Partit Popular Europeu"-properNoun-ca
+"Partit Popular Europeu"-properNoun-ca "European People's Party"-properNoun-en
+"Flaviobriga flag"-properNoun-en "Bandera Flaviobriga"-properNoun-ca
+"Bandera Flaviobriga"-properNoun-ca "Flaviobriga flag"-properNoun-en
+"Flickr"-properNoun-en "Flickr"-properNoun-ca
+"Flickr"-properNoun-ca "Flickr"-properNoun-en
+"FORTRAN"-properNoun-en "FORTRAN"-properNoun-ca
+"FORTRAN"-properNoun-ca "FORTRAN"-properNoun-en
+"Fortune 500"-properNoun-en "Fortune 500"-properNoun-ca
+"Fortune 500"-properNoun-ca "Fortune 500"-properNoun-en
+"Friendfeed"-properNoun-en "Friendfeed"-properNoun-ca
+"Friendfeed"-properNoun-ca "Friendfeed"-properNoun-en
+"FTSE 100"-properNoun-en "FTSE 100"-properNoun-ca
+"FTSE 100"-properNoun-ca "FTSE 100"-properNoun-en
+"Galician sports foundation"-properNoun-en "Fundació Deporti Galego"-properNoun-ca
+"Fundació Deporti Galego"-properNoun-ca "Galician sports foundation"-properNoun-en
+"Ganymede"-properNoun-en "Ganimedes"-properNoun-ca
+"Ganimedes"-properNoun-ca "Ganymede"-properNoun-en
+"Garmin"-properNoun-en "Garmin"-properNoun-ca
+"Garmin"-properNoun-ca "Garmin"-properNoun-en
+"Great Depression"-properNoun-en "Gran depressió"-properNoun-ca
+"Gran depressió"-properNoun-ca "Great Depression"-properNoun-en
+"Great War"-properNoun-en "Gran Guerra"-properNoun-ca
+"Gran Guerra"-properNoun-ca "Great War"-properNoun-en
+"Grupo Barbanza"-properNoun-en "Grupo Barbanza"-properNoun-ca
+"Grupo Barbanza"-properNoun-ca "Grupo Barbanza"-properNoun-en
+"Hubble Space Telescope"-properNoun-en "Telescopi espacial Hubble"-properNoun-ca
+"Telescopi espacial Hubble"-properNoun-ca "Hubble Space Telescope"-properNoun-en
+"Iberia Ashland"-properNoun-en "Iberia Ashland"-properNoun-ca
+"Iberia Ashland"-properNoun-ca "Iberia Ashland"-properNoun-en
+"Ibex 35"-properNoun-en "Ibex 35"-properNoun-ca
+"Ibex 35"-properNoun-ca "Ibex 35"-properNoun-en
+"IHeardItOn"-properNoun-en "IHeardItOn"-properNoun-ca
+"IHeardItOn"-properNoun-ca "IHeardItOn"-properNoun-en
+"International Bank for Reconstruction and Development"-properNoun-en "Banc Internacional de Reconstrucció i Foment"-properNoun-ca
+"International Bank for Reconstruction and Development"-properNoun-en "Banc Internacional per a la Reconstrucció i el Foment"-properNoun-ca
+"Banc Internacional de Reconstrucció i Foment"-properNoun-ca "International Bank for Reconstruction and Development"-properNoun-en
+"Banc Internacional per a la Reconstrucció i el Foment"-properNoun-ca "International Bank for Reconstruction and Development"-properNoun-en
+"International Monetary Fund"-properNoun-en "Fons Monetari Internacional"-properNoun-ca
+"Fons Monetari Internacional"-properNoun-ca "International Monetary Fund"-properNoun-en
+"Kursaal"-properNoun-en "Kursaal"-properNoun-ca
+"Kursaal"-properNoun-ca "Kursaal"-properNoun-en
+"Lexmark"-properNoun-en "Lexmark"-properNoun-ca
+"Lexmark"-properNoun-ca "Lexmark"-properNoun-en
+"Los Alamos National Laboratory"-properNoun-en "Laboratori National de Los Alamos"-properNoun-ca
+"Laboratori National de Los Alamos"-properNoun-ca "Los Alamos National Laboratory"-properNoun-en
+"Metallica"-properNoun-en "Metallica"-properNoun-ca
+"Metallica"-properNoun-ca "Metallica"-properNoun-en
+"Microsoft Bing"-properNoun-en "Microsoft Bing"-properNoun-ca
+"Microsoft Bing"-properNoun-ca "Microsoft Bing"-properNoun-en
+"Middle Kingdom"-properNoun-en "Imperi mitjà"-properNoun-ca
+"Imperi mitjà"-properNoun-ca "Middle Kingdom"-properNoun-en
+"National Anti-Doping Agency"-properNoun-en "Agència Estatal Antidopatge"-properNoun-ca
+"Agència Estatal Antidopatge"-properNoun-ca "National Anti-Doping Agency"-properNoun-en
+"New York Stock Exchange"-properNoun-en "Borsa de Nova York"-properNoun-ca
+"Borsa de Nova York"-properNoun-ca "New York Stock Exchange"-properNoun-en
+"North Atlantic Treaty Organization"-properNoun-en "Organització del Tractat de l'Atlàntic Nord"-properNoun-ca
+"Organització del Tractat de l'Atlàntic Nord"-properNoun-ca "North Atlantic Treaty Organization"-properNoun-en
+"Oracle"-properNoun-en "Oracle"-properNoun-ca
+"Oracle"-properNoun-ca "Oracle"-properNoun-en
+"Paris Bourse"-properNoun-en "Borsa de París"-properNoun-ca
+"Borsa de París"-properNoun-ca "Paris Bourse"-properNoun-en
+"Pasai San Pedro"-properNoun-en "Pasai Sant Pere"-properNoun-ca
+"Pasai Sant Pere"-properNoun-ca "Pasai San Pedro"-properNoun-en
+"Phoney War"-properNoun-en "Guerra de broma"-properNoun-ca
+"Guerra de broma"-properNoun-ca "Phoney War"-properNoun-en
+"Pleistocene"-properNoun-en "Pleistocè"-properNoun-ca
+"Pleistocene"-properNoun-en "Plistocè"-properNoun-ca
+"Pleistocè"-properNoun-ca "Pleistocene"-properNoun-en
+"Plistocè"-properNoun-ca "Pleistocene"-properNoun-en
+"Prague Spring"-properNoun-en "Primavera de Praga"-properNoun-ca
+"Primavera de Praga"-properNoun-ca "Prague Spring"-properNoun-en
+"Realitatea TV"-properNoun-en "Realitatea TV"-properNoun-ca
+"Realitatea TV"-properNoun-ca "Realitatea TV"-properNoun-en
+"Rowing Club of Zumaia"-properNoun-en "Zumaiako Arraun Elkartea"-properNoun-ca
+"Zumaiako Arraun Elkartea"-properNoun-ca "Rowing Club of Zumaia"-properNoun-en
+"Rowing Club"-properNoun-en "Arraun Elkartea"-properNoun-ca
+"Arraun Elkartea"-properNoun-ca "Rowing Club"-properNoun-en
+"S&P 500"-properNoun-en "S&P 500"-properNoun-ca
+"S&P 500"-properNoun-ca "S&P 500"-properNoun-en
+"S&P TSX"-properNoun-en "S&P TSX"-properNoun-ca
+"S&P TSX"-properNoun-ca "S&P TSX"-properNoun-en
+"Texas Instruments"-properNoun-en "Texas Instruments"-properNoun-ca
+"Texas Instruments"-properNoun-ca "Texas Instruments"-properNoun-en
+"Treaty establishing a Constitution for Europe"-properNoun-en "Tractat pel qual s'establix una Constitució per a Europa"-properNoun-ca
+"Tractat pel qual s'establix una Constitució per a Europa"-properNoun-ca "Treaty establishing a Constitution for Europe"-properNoun-en
+""Treaty of Friendship, Cooperation and Mutual Assistance""-properNoun-en ""Tractat d'Amistat, Col·laboració i Assistència Mútua""-properNoun-ca
+""Tractat d'Amistat, Col·laboració i Assistència Mútua""-properNoun-ca ""Treaty of Friendship, Cooperation and Mutual Assistance""-properNoun-en
+"University of Pisa"-properNoun-en "Universitat de Pisa"-properNoun-ca
+"Universitat de Pisa"-properNoun-ca "University of Pisa"-properNoun-en
+"VeriSign"-properNoun-en "VeriSign"-properNoun-ca
+"VeriSign"-properNoun-ca "VeriSign"-properNoun-en
+"Waiting for Godot"-properNoun-en "Tot esperant Godot"-properNoun-ca
+"Tot esperant Godot"-properNoun-ca "Waiting for Godot"-properNoun-en
+"Wall Street Journal"-properNoun-en "Wall Street Journal"-properNoun-ca
+"Wall Street Journal"-properNoun-ca "Wall Street Journal"-properNoun-en
+"Warsaw Pact"-properNoun-en "Pacte de Varsòvia"-properNoun-ca
+"Pacte de Varsòvia"-properNoun-ca "Warsaw Pact"-properNoun-en
+"Wi-Fi"-properNoun-en "Wi-Fi"-properNoun-ca
+"Wi-Fi"-properNoun-ca "Wi-Fi"-properNoun-en
+"World Anti-Doping Agency"-properNoun-en "Agència Mundial Antidopatge"-properNoun-ca
+"Agència Mundial Antidopatge"-properNoun-ca "World Anti-Doping Agency"-properNoun-en
+"World Bank"-properNoun-en "Banc Mundial"-properNoun-ca
+"Banc Mundial"-properNoun-ca "World Bank"-properNoun-en
+"World Health Organisation"-properNoun-en "Organització Mundial de la Salut"-properNoun-ca
+"Organització Mundial de la Salut"-properNoun-ca "World Health Organisation"-properNoun-en
+"Yahoo!"-properNoun-en "Yahoo!"-properNoun-ca
+"Yahoo!"-properNoun-ca "Yahoo!"-properNoun-en
+"a moment"-adverb-en "un moment"-adverb-ca
+"un moment"-adverb-ca "a moment"-adverb-en
+"un moment"-adverb-ca "for a moment"-adverb-en
+"for a moment"-adverb-en "un moment"-adverb-ca
+"above all else"-adverb-en "per damunt de tot"-adverb-ca
+"per damunt de tot"-adverb-ca "above all else"-adverb-en
+"abroad"-adverb-en "a l'estranger"-adverb-ca
+"a l'estranger"-adverb-ca "abroad"-adverb-en
+"a l'estranger"-adverb-ca "broad"-adverb-en
+"a l'estranger"-adverb-ca "overseas"-adverb-en
+"broad"-adverb-en "a l'estranger"-adverb-ca
+"overseas"-adverb-en "a l'estranger"-adverb-ca
+"absent-mindedly"-adverb-en "distretament"-adverb-ca
+"distretament"-adverb-ca "absent-mindedly"-adverb-en
+"distretament"-adverb-ca "distractedly"-adverb-en
+"distractedly"-adverb-en "distretament"-adverb-ca
+"abundantly"-adverb-en "cabalosament"-adverb-ca
+"cabalosament"-adverb-ca "abundantly"-adverb-en
+"accurately"-adverb-en "de forma exacta"-adverb-ca
+"accurately"-adverb-en "de manera exacta"-adverb-ca
+"de forma exacta"-adverb-ca "accurately"-adverb-en
+"de manera exacta"-adverb-ca "accurately"-adverb-en
+"acoustically"-adverb-en "acústicament"-adverb-ca
+"acústicament"-adverb-ca "acoustically"-adverb-en
+"across the road"-adverb-en "a través de la carretera"-adverb-ca
+"a través de la carretera"-adverb-ca "across the road"-adverb-en
+"actively"-adverb-en "de forma activa"-adverb-ca
+"actively"-adverb-en "de manera activa"-adverb-ca
+"de forma activa"-adverb-ca "actively"-adverb-en
+"de manera activa"-adverb-ca "actively"-adverb-en
+"ad infinitum"-adverb-en "ad infinitum"-adverb-ca
+"ad infinitum"-adverb-ca "ad infinitum"-adverb-en
+"ad nauseam"-adverb-en "ad nauseam"-adverb-ca
+"ad nauseam"-adverb-ca "ad nauseam"-adverb-en
+"adequately"-adverb-en "adientment"-adverb-ca
+"adequately"-adverb-en "de forma adequada"-adverb-ca
+"adequately"-adverb-en "de manera adequada"-adverb-ca
+"adientment"-adverb-ca "adequately"-adverb-en
+"adientment"-adverb-ca "properly"-adverb-en
+"de forma adequada"-adverb-ca "adequately"-adverb-en
+"de manera adequada"-adverb-ca "adequately"-adverb-en
+"properly"-adverb-en "adientment"-adverb-ca
+"ad-lib"-adverb-en "ad libitum"-adverb-ca
+"ad libitum"-adverb-ca "ad-lib"-adverb-en
+"adventurously"-adverb-en "amb esperit aventurer"-adverb-ca
+"adventurously"-adverb-en "aventurerament"-adverb-ca
+"amb esperit aventurer"-adverb-ca "adventurously"-adverb-en
+"aventurerament"-adverb-ca "adventurously"-adverb-en
+"aft"-adverb-en "a popa"-adverb-ca
+"a popa"-adverb-ca "aft"-adverb-en
+"against my will"-adverb-en "en contra de la meua voluntat"-adverb-ca
+"against my will"-adverb-en "en contra de la meva voluntat"-adverb-ca
+"en contra de la meua voluntat"-adverb-ca "against my will"-adverb-en
+"en contra de la meva voluntat"-adverb-ca "against my will"-adverb-en
+"airily"-adverb-en "a la lleugera"-adverb-ca
+"a la lleugera"-adverb-ca "airily"-adverb-en
+"a la lleugera"-adverb-ca "hastily"-adverb-en
+"a la lleugera"-adverb-ca "lightly"-adverb-en
+"hastily"-adverb-en "a la lleugera"-adverb-ca
+"lightly"-adverb-en "a la lleugera"-adverb-ca
+"alas"-adverb-en "dissortadament"-adverb-ca
+"dissortadament"-adverb-ca "alas"-adverb-en
+"alfresco"-adverb-en "a ple aire"-adverb-ca
+"a ple aire"-adverb-ca "alfresco"-adverb-en
+"a ple aire"-adverb-ca "in the open air"-adverb-en
+"a ple aire"-adverb-ca "outdoors"-adverb-en
+"in the open air"-adverb-en "a ple aire"-adverb-ca
+"outdoors"-adverb-en "a ple aire"-adverb-ca
+"all autumn"-adverb-en "tota la tardor"-adverb-ca
+"tota la tardor"-adverb-ca "all autumn"-adverb-en
+"all day"-adverb-en "tot el dia"-adverb-ca
+"tot el dia"-adverb-ca "all day"-adverb-en
+"all expenses paid"-adverb-en "amb totes les despeses pagades"-adverb-ca
+"amb totes les despeses pagades"-adverb-ca "all expenses paid"-adverb-en
+"all night"-adverb-en "tota la nit"-adverb-ca
+"tota la nit"-adverb-ca "all night"-adverb-en
+"all other things being equal"-adverb-en "en les mateixes circumstàncies"-adverb-ca
+"en les mateixes circumstàncies"-adverb-ca "all other things being equal"-adverb-en
+"all over town"-adverb-en "per tota la ciutat"-adverb-ca
+"per tota la ciutat"-adverb-ca "all over town"-adverb-en
+"sol"-adverb-ca "alone"-adverb-en
+"a grans trets"-adverb-ca "in bold strokes"-adverb-en
+"in bold strokes"-adverb-en "a grans trets"-adverb-ca
+"en algun moment"-adverb-ca "at some time"-adverb-en
+"at some time"-adverb-en "en algun moment"-adverb-ca
+"amid a lot of hype"-adverb-en "a so de bombo i platerets"-adverb-ca
+"a so de bombo i platerets"-adverb-ca "amid a lot of hype"-adverb-en
+"amidships"-adverb-en "al mig del vaixell"-adverb-ca
+"al mig del vaixell"-adverb-ca "amidships"-adverb-en
+"analogously"-adverb-en "anàlogament"-adverb-ca
+"anàlogament"-adverb-ca "analogously"-adverb-en
+"en el sentit contrari de les agulles del rellotge"-adverb-ca "counterclockwise"-adverb-en
+"counterclockwise"-adverb-en "en el sentit contrari de les agulles del rellotge"-adverb-ca
+"any day now"-adverb-en "qualsevol dia"-adverb-ca
+"qualsevol dia"-adverb-ca "any day now"-adverb-en
+"en qualsevol moment"-adverb-ca "anytime"-adverb-en
+"en qualsevol moment"-adverb-ca "at the drop of a hat"-adverb-en
+"anytime"-adverb-en "en qualsevol moment"-adverb-ca
+"at the drop of a hat"-adverb-en "en qualsevol moment"-adverb-ca
+"anyway"-adverb-en "de cap de les maneres"-adverb-ca
+"de cap de les maneres"-adverb-ca "anyway"-adverb-en
+"appropriately"-adverb-en "corresponentment"-adverb-ca
+"corresponentment"-adverb-ca "appropriately"-adverb-en
+"aptly"-adverb-en "encertadament"-adverb-ca
+"encertadament"-adverb-ca "aptly"-adverb-en
+"encertadament"-adverb-ca "rightly"-adverb-en
+"rightly"-adverb-en "encertadament"-adverb-ca
+"around"-adverb-en "pels volts"-adverb-ca
+"pels volts"-adverb-ca "around"-adverb-en
+"arrogantly"-adverb-en "arrogantment"-adverb-ca
+"arrogantment"-adverb-ca "arrogantly"-adverb-en
+"enginyosament"-adverb-ca "cleverly"-adverb-en
+"cleverly"-adverb-en "enginyosament"-adverb-ca
+"as a consequence"-adverb-en "en conseqüència"-adverb-ca
+"en conseqüència"-adverb-ca "as a consequence"-adverb-en
+"as a general rule"-adverb-en "per norma general"-adverb-ca
+"per norma general"-adverb-ca "as a general rule"-adverb-en
+"as a result"-adverb-en "com a resultat"-adverb-ca
+"com a resultat"-adverb-ca "as a result"-adverb-en
+"as a rule"-adverb-en "per regla general"-adverb-ca
+"per regla general"-adverb-ca "as a rule"-adverb-en
+"al més prompte possible"-adverb-ca "as soon as possible"-adverb-en
+"as soon as possible"-adverb-en "al més prompte possible"-adverb-ca
+"as follows"-adverb-en "de la manera següent"-adverb-ca
+"de la manera següent"-adverb-ca "as follows"-adverb-en
+"en línia recta"-adverb-ca "in a straight line"-adverb-en
+"in a straight line"-adverb-en "en línia recta"-adverb-ca
+"ashore"-adverb-en "en terra"-adverb-ca
+"en terra"-adverb-ca "ashore"-adverb-en
+"aside"-adverb-en "a banda"-adverb-ca
+"a banda"-adverb-ca "aside"-adverb-en
+"askance"-adverb-en "de gairell"-adverb-ca
+"de gairell"-adverb-ca "askance"-adverb-en
+"astride"-adverb-en ""cama ací, cama allà""-adverb-ca
+""cama ací, cama allà""-adverb-ca "astride"-adverb-en
+"at a distance"-adverb-en "a certa distància"-adverb-ca
+"a certa distància"-adverb-ca "at a distance"-adverb-en
+"at a glance"-adverb-en "a l'instant"-adverb-ca
+"a l'instant"-adverb-ca "at a glance"-adverb-en
+"at a price"-adverb-en "a un preu molt alt"-adverb-ca
+"a un preu molt alt"-adverb-ca "at a price"-adverb-en
+"at a snail's pace"-adverb-en "a pas de tortuga"-adverb-ca
+"a pas de tortuga"-adverb-ca "at a snail's pace"-adverb-en
+"a tot preu"-adverb-ca "at all costs"-adverb-en
+"at all costs"-adverb-en "a tot preu"-adverb-ca
+"at all costs"-adverb-en "costi el que costi"-adverb-ca
+"at all costs"-adverb-en "coste el que coste"-adverb-ca
+"costi el que costi"-adverb-ca "at all costs"-adverb-en
+"costi el que costi"-adverb-ca "regardless"-adverb-en
+"coste el que coste"-adverb-ca "at all costs"-adverb-en
+"coste el que coste"-adverb-ca "regardless"-adverb-en
+"regardless"-adverb-en "costi el que costi"-adverb-ca
+"regardless"-adverb-en "coste el que coste"-adverb-ca
+"regardless"-adverb-en "malgrat tot"-adverb-ca
+"en qualsevol cas"-adverb-ca "in any case"-adverb-en
+"in any case"-adverb-en "en qualsevol cas"-adverb-ca
+"at all times"-adverb-en "en tot moment"-adverb-ca
+"en tot moment"-adverb-ca "at all times"-adverb-en
+"at bottom"-adverb-en "en el fons"-adverb-ca
+"en el fons"-adverb-ca "at bottom"-adverb-en
+"a boca de canó"-adverb-ca "point-blank"-adverb-en
+"point-blank"-adverb-en "a boca de canó"-adverb-ca
+"point-blank"-adverb-en "a crema-roba"-adverb-ca
+"point-blank"-adverb-en "a frec de roba"-adverb-ca
+"en desacord"-adverb-ca "at variance"-adverb-en
+"at variance"-adverb-en "en desacord"-adverb-ca
+"al peu de la lletra"-adverb-ca "to the letter"-adverb-en
+"to the letter"-adverb-en "al peu de la lletra"-adverb-ca
+"at first sight"-adverb-en "a ull nu"-adverb-ca
+"a ull nu"-adverb-ca "at first sight"-adverb-en
+"at first"-adverb-en "al principi"-adverb-ca
+"al principi"-adverb-ca "at first"-adverb-en
+"al principi"-adverb-ca "at the beginning"-adverb-en
+"al principi"-adverb-ca "originally"-adverb-en
+"at the beginning"-adverb-en "al principi"-adverb-ca
+"at the beginning"-adverb-en "al començament"-adverb-ca
+"originally"-adverb-en "al principi"-adverb-ca
+"a tota marxa"-adverb-ca "at full speed"-adverb-en
+"at full speed"-adverb-en "a tota marxa"-adverb-ca
+"at full speed"-adverb-en "a tota velocitat"-adverb-ca
+"a tota velocitat"-adverb-ca "at full speed"-adverb-en
+"at gunpoint"-adverb-en "a punta de pistola"-adverb-ca
+"a punta de pistola"-adverb-ca "at gunpoint"-adverb-en
+"at half-mast"-adverb-en "a mitja vela"-adverb-ca
+"a mitja vela"-adverb-ca "at half-mast"-adverb-en
+"at intervals"-adverb-en "a intervals"-adverb-ca
+"a intervals"-adverb-ca "at intervals"-adverb-en
+"at most"-adverb-en "pel cap alt"-adverb-ca
+"pel cap alt"-adverb-ca "at most"-adverb-en
+"pel cap alt"-adverb-ca "at the outside"-adverb-en
+"at the outside"-adverb-en "pel cap alt"-adverb-ca
+"at one stroke"-adverb-en "d'una plomada"-adverb-ca
+"at one stroke"-adverb-en "d'un cop de ploma"-adverb-ca
+"d'una plomada"-adverb-ca "at one stroke"-adverb-en
+"d'un cop de ploma"-adverb-ca "at one stroke"-adverb-en
+"en pau"-adverb-ca "in peace"-adverb-en
+"in peace"-adverb-en "en pau"-adverb-ca
+"en joc"-adverb-ca "at stake"-adverb-en
+"at stake"-adverb-en "en joc"-adverb-ca
+"at present"-adverb-en "avui per avui"-adverb-ca
+"avui per avui"-adverb-ca "at present"-adverb-en
+"en perill"-adverb-ca "in danger"-adverb-en
+"in danger"-adverb-en "en perill"-adverb-ca
+"al començament"-adverb-ca "at the beginning"-adverb-en
+"at the earliest opportunity"-adverb-en "a la primera oportunitat"-adverb-ca
+"a la primera oportunitat"-adverb-ca "at the earliest opportunity"-adverb-en
+"at the end"-adverb-en "al remat"-adverb-ca
+"al remat"-adverb-ca "at the end"-adverb-en
+"al fons de tot"-adverb-ca "deep down"-adverb-en
+"deep down"-adverb-en "al fons de tot"-adverb-ca
+"audaciously"-adverb-en "audaçment"-adverb-ca
+"audaçment"-adverb-ca "audaciously"-adverb-en
+"authentically"-adverb-en "castissament"-adverb-ca
+"castissament"-adverb-ca "authentically"-adverb-en
+"awkwardly"-adverb-en "de manera incòmoda"-adverb-ca
+"de manera incòmoda"-adverb-ca "awkwardly"-adverb-en
+"back in circulation"-adverb-en "de nou en circulació"-adverb-ca
+"de nou en circulació"-adverb-ca "back in circulation"-adverb-en
+"ben aviat"-adverb-ca "very soon"-adverb-en
+"very soon"-adverb-en "ben aviat"-adverb-ca
+"very soon"-adverb-en "molt aviat"-adverb-ca
+"blasphemously"-adverb-en "blasfemament"-adverb-ca
+"blasfemament"-adverb-ca "blasphemously"-adverb-en
+"boisterously"-adverb-en "bulliciosament"-adverb-ca
+"bulliciosament"-adverb-ca "boisterously"-adverb-en
+"boldly"-adverb-en "valentment"-adverb-ca
+"valentment"-adverb-ca "boldly"-adverb-en
+"boringly"-adverb-en "avorridament"-adverb-ca
+"avorridament"-adverb-ca "boringly"-adverb-en
+"bravely"-adverb-en "animosament"-adverb-ca
+"animosament"-adverb-ca "bravely"-adverb-en
+"brillantment"-adverb-ca "brilliantly"-adverb-en
+"brilliantly"-adverb-en "brillantment"-adverb-ca
+"en poques paraules"-adverb-ca "in a nutshell"-adverb-en
+"en poques paraules"-adverb-ca "in few words"-adverb-en
+"in a nutshell"-adverb-en "en poques paraules"-adverb-ca
+"in few words"-adverb-en "en poques paraules"-adverb-ca
+"broadly"-adverb-en "en termes generals"-adverb-ca
+"en termes generals"-adverb-ca "broadly"-adverb-en
+"en termes generals"-adverb-ca "in general terms"-adverb-en
+"en termes generals"-adverb-ca "loosely speaking"-adverb-en
+"in general terms"-adverb-en "en termes generals"-adverb-ca
+"loosely speaking"-adverb-en "en termes generals"-adverb-ca
+"by a hair's breadth"-adverb-en "pels pèls"-adverb-ca
+"pels pèls"-adverb-ca "by a hair's breadth"-adverb-en
+"pels pèls"-adverb-ca "by a whisker"-adverb-en
+"pels pèls"-adverb-ca "by the skin of her teeth"-adverb-en
+"pels pèls"-adverb-ca "by the skin of his teeth"-adverb-en
+"pels pèls"-adverb-ca "by the skin of its teeth"-adverb-en
+"pels pèls"-adverb-ca "by the skin of my teeth"-adverb-en
+"pels pèls"-adverb-ca "by the skin of one's teeth"-adverb-en
+"pels pèls"-adverb-ca "by the skin of our teeth"-adverb-en
+"pels pèls"-adverb-ca "by the skin of their teeth"-adverb-en
+"pels pèls"-adverb-ca "by the skin of your teeth"-adverb-en
+"by a whisker"-adverb-en "pels pèls"-adverb-ca
+"by the skin of her teeth"-adverb-en "pels pèls"-adverb-ca
+"by the skin of his teeth"-adverb-en "pels pèls"-adverb-ca
+"by the skin of its teeth"-adverb-en "pels pèls"-adverb-ca
+"by the skin of my teeth"-adverb-en "pels pèls"-adverb-ca
+"by the skin of one's teeth"-adverb-en "pels pèls"-adverb-ca
+"by the skin of our teeth"-adverb-en "pels pèls"-adverb-ca
+"by the skin of their teeth"-adverb-en "pels pèls"-adverb-ca
+"by the skin of your teeth"-adverb-en "pels pèls"-adverb-ca
+"by a majority"-adverb-en "per majoria"-adverb-ca
+"per majoria"-adverb-ca "by a majority"-adverb-en
+"per sort"-adverb-ca "luckily"-adverb-en
+"luckily"-adverb-en "per sort"-adverb-ca
+"per un colp de sort"-adverb-ca "by a stroke of good luck"-adverb-en
+"by a stroke of good luck"-adverb-en "per un colp de sort"-adverb-ca
+"by a stroke of good luck"-adverb-en "per un cop de sort"-adverb-ca
+"per un cop de sort"-adverb-ca "by a stroke of good luck"-adverb-en
+"per avió"-adverb-ca "by plane"-adverb-en
+"by plane"-adverb-en "per avió"-adverb-ca
+"by analogy"-adverb-en "per analogia"-adverb-ca
+"per analogia"-adverb-ca "by analogy"-adverb-en
+"by an absolute majority"-adverb-en "per majoria absoluta"-adverb-ca
+"per majoria absoluta"-adverb-ca "by an absolute majority"-adverb-en
+"en comparació"-adverb-ca "in comparison"-adverb-en
+"in comparison"-adverb-en "en comparació"-adverb-ca
+"per contrast"-adverb-ca "in contrast"-adverb-en
+"in contrast"-adverb-en "per contrast"-adverb-ca
+"by definition"-adverb-en "per definició"-adverb-ca
+"per definició"-adverb-ca "by definition"-adverb-en
+"by fair means or foul"-adverb-en "per les bones o per les dolentes"-adverb-ca
+"per les bones o per les dolentes"-adverb-ca "by fair means or foul"-adverb-en
+"by fits and starts"-adverb-en "a la babalà"-adverb-ca
+"a la babalà"-adverb-ca "by fits and starts"-adverb-en
+"a la babalà"-adverb-ca "in a crazy way"-adverb-en
+"in a crazy way"-adverb-en "a la babalà"-adverb-ca
+"by forced marches"-adverb-en "a marxes forçades"-adverb-ca
+"a marxes forçades"-adverb-ca "by forced marches"-adverb-en
+"by force"-adverb-en "a la força"-adverb-ca
+"a la força"-adverb-ca "by force"-adverb-en
+"by judicial mandate"-adverb-en "per mandat judicial"-adverb-ca
+"per mandat judicial"-adverb-ca "by judicial mandate"-adverb-en
+"by piece"-adverb-en "per peça"-adverb-ca
+"per peça"-adverb-ca "by piece"-adverb-en
+"by popular request"-adverb-en "per petició popular"-adverb-ca
+"per petició popular"-adverb-ca "by popular request"-adverb-en
+"by return mail"-adverb-en "a correu seguit"-adverb-ca
+"a correu seguit"-adverb-ca "by return mail"-adverb-en
+"a correu seguit"-adverb-ca "by return of post"-adverb-en
+"by return of post"-adverb-en "a correu seguit"-adverb-ca
+"by the present"-adverb-en "amb aquest escrit"-adverb-ca
+"by the present"-adverb-en "per la present"-adverb-ca
+"amb aquest escrit"-adverb-ca "by the present"-adverb-en
+"per la present"-adverb-ca "by the present"-adverb-en
+"by the same token"-adverb-en "per la mateixa regla de tres"-adverb-ca
+"per la mateixa regla de tres"-adverb-ca "by the same token"-adverb-en
+"calmly"-adverb-en "amb calma"-adverb-ca
+"amb calma"-adverb-ca "calmly"-adverb-en
+"carefully"-adverb-en "amb compte"-adverb-ca
+"carefully"-adverb-en "curosament"-adverb-ca
+"amb compte"-adverb-ca "carefully"-adverb-en
+"curosament"-adverb-ca "carefully"-adverb-en
+"carelessly"-adverb-en "despreocupadament"-adverb-ca
+"despreocupadament"-adverb-ca "carelessly"-adverb-en
+"carnally"-adverb-en "carnalment"-adverb-ca
+"carnalment"-adverb-ca "carnally"-adverb-en
+"casually"-adverb-en "de manera informal"-adverb-ca
+"de manera informal"-adverb-ca "casually"-adverb-en
+"celestially"-adverb-en "celestialment"-adverb-ca
+"celestialment"-adverb-ca "celestially"-adverb-en
+"cellularly"-adverb-en "cel·lularment"-adverb-ca
+"cel·lularment"-adverb-ca "cellularly"-adverb-en
+"cheaply"-adverb-en "amb pocs diners"-adverb-ca
+"cheaply"-adverb-en "baratament"-adverb-ca
+"amb pocs diners"-adverb-ca "cheaply"-adverb-en
+"baratament"-adverb-ca "cheaply"-adverb-en
+"cheerfully"-adverb-en "trempadament"-adverb-ca
+"trempadament"-adverb-ca "cheerfully"-adverb-en
+"netament"-adverb-ca "transparently"-adverb-en
+"transparently"-adverb-en "netament"-adverb-ca
+"clockwise"-adverb-en "en el sentit de les agulles del rellotge"-adverb-ca
+"en el sentit de les agulles del rellotge"-adverb-ca "clockwise"-adverb-en
+"closely"-adverb-en "de prop"-adverb-ca
+"de prop"-adverb-ca "closely"-adverb-en
+"de costa a costa"-adverb-ca "from coast to coast"-adverb-en
+"from coast to coast"-adverb-en "de costa a costa"-adverb-ca
+"collectively"-adverb-en "en conjunt"-adverb-ca
+"en conjunt"-adverb-ca "collectively"-adverb-en
+"communally"-adverb-en "comunalment"-adverb-ca
+"comunalment"-adverb-ca "communally"-adverb-en
+"de manera similar"-adverb-ca "similarly"-adverb-en
+"similarly"-adverb-en "de manera similar"-adverb-ca
+"competently"-adverb-en "competentment"-adverb-ca
+"competentment"-adverb-ca "competently"-adverb-en
+"competitively"-adverb-en "competitivament"-adverb-ca
+"competitivament"-adverb-ca "competitively"-adverb-en
+"completely"-adverb-en "de cap a peus"-adverb-ca
+"de cap a peus"-adverb-ca "completely"-adverb-en
+"de cap a peus"-adverb-ca "from beginning to end"-adverb-en
+"de cap a peus"-adverb-ca "head over heels"-adverb-en
+"from beginning to end"-adverb-en "de cap a peus"-adverb-ca
+"from beginning to end"-adverb-en "de cap a cap"-adverb-ca
+"head over heels"-adverb-en "de cap a peus"-adverb-ca
+"confidently"-adverb-en "confiadament"-adverb-ca
+"confiadament"-adverb-ca "confidently"-adverb-en
+"conscientiously"-adverb-en "amb diligència"-adverb-ca
+"amb diligència"-adverb-ca "conscientiously"-adverb-en
+"conveniently"-adverb-en "escaientment"-adverb-ca
+"escaientment"-adverb-ca "conveniently"-adverb-en
+"escaientment"-adverb-ca "opportunely"-adverb-en
+"opportunely"-adverb-en "escaientment"-adverb-ca
+"convincingly"-adverb-en "convincentment"-adverb-ca
+"convincentment"-adverb-ca "convincingly"-adverb-en
+"cooperatively"-adverb-en "de manera cooperativa"-adverb-ca
+"de manera cooperativa"-adverb-ca "cooperatively"-adverb-en
+"copulatively"-adverb-en "copulativament"-adverb-ca
+"copulativament"-adverb-ca "copulatively"-adverb-en
+"correlatively"-adverb-en "correlativament"-adverb-ca
+"correlativament"-adverb-ca "correlatively"-adverb-en
+"corruptly"-adverb-en "corruptament"-adverb-ca
+"corruptament"-adverb-ca "corruptly"-adverb-en
+"covertly"-adverb-en "d'amagat"-adverb-ca
+"d'amagat"-adverb-ca "covertly"-adverb-en
+"d'amagat"-adverb-ca "on the quiet"-adverb-en
+"d'amagat"-adverb-ca "on the sly"-adverb-en
+"on the quiet"-adverb-en "d'amagat"-adverb-ca
+"on the quiet"-adverb-en "a la callada"-adverb-ca
+"on the sly"-adverb-en "d'amagat"-adverb-ca
+"on the sly"-adverb-en "d'amagatotis"-adverb-ca
+"crazily"-adverb-en "destrellatadament"-adverb-ca
+"crazily"-adverb-en "eixelebradament"-adverb-ca
+"crazily"-adverb-en "esbojarradament"-adverb-ca
+"destrellatadament"-adverb-ca "crazily"-adverb-en
+"eixelebradament"-adverb-ca "crazily"-adverb-en
+"esbojarradament"-adverb-ca "crazily"-adverb-en
+"credulously"-adverb-en "crèdulament"-adverb-ca
+"crèdulament"-adverb-ca "credulously"-adverb-en
+"crescendo"-adverb-en "crescendo"-adverb-ca
+"crescendo"-adverb-ca "crescendo"-adverb-en
+"day and night"-adverb-en "dia i nit"-adverb-ca
+"dia i nit"-adverb-ca "day and night"-adverb-en
+"day in day out"-adverb-en "dia a dia"-adverb-ca
+"dia a dia"-adverb-ca "day in day out"-adverb-en
+"deceitfully"-adverb-en "amb falsedat"-adverb-ca
+"amb falsedat"-adverb-ca "deceitfully"-adverb-en
+"differently"-adverb-en "de forma diferent"-adverb-ca
+"differently"-adverb-en "de manera diferent"-adverb-ca
+"de forma diferent"-adverb-ca "differently"-adverb-en
+"de manera diferent"-adverb-ca "differently"-adverb-en
+"during the day"-adverb-en "durant el dia"-adverb-ca
+"durant el dia"-adverb-ca "during the day"-adverb-en
+"eagerly"-adverb-en "amb entusiasme"-adverb-ca
+"amb entusiasme"-adverb-ca "eagerly"-adverb-en
+"amb entusiasme"-adverb-ca "enthusiastically"-adverb-en
+"amb entusiasme"-adverb-ca "keenly"-adverb-en
+"amb entusiasme"-adverb-ca "wholeheartedly"-adverb-en
+"enthusiastically"-adverb-en "amb entusiasme"-adverb-ca
+"keenly"-adverb-en "amb entusiasme"-adverb-ca
+"wholeheartedly"-adverb-en "amb entusiasme"-adverb-ca
+"earlier"-adverb-en "més d'hora"-adverb-ca
+"més d'hora"-adverb-ca "earlier"-adverb-en
+"early"-adverb-en "dejorn"-adverb-ca
+"early"-adverb-en "enjorn"-adverb-ca
+"dejorn"-adverb-ca "early"-adverb-en
+"enjorn"-adverb-ca "early"-adverb-en
+"easily"-adverb-en "amb facilitat"-adverb-ca
+"easily"-adverb-en "de manera senzilla"-adverb-ca
+"amb facilitat"-adverb-ca "easily"-adverb-en
+"de manera senzilla"-adverb-ca "easily"-adverb-en
+"east"-adverb-en "a l'est"-adverb-ca
+"a l'est"-adverb-ca "east"-adverb-en
+"cap a l'est"-adverb-ca "eastwards"-adverb-en
+"eastwards"-adverb-en "cap a l'est"-adverb-ca
+"efficiently"-adverb-en "de forma eficient"-adverb-ca
+"de forma eficient"-adverb-ca "efficiently"-adverb-en
+"elsewhere"-adverb-en "en qualsevol altre lloc"-adverb-ca
+"en qualsevol altre lloc"-adverb-ca "elsewhere"-adverb-en
+"en bloc"-adverb-en "en bloc"-adverb-ca
+"en bloc"-adverb-ca "en bloc"-adverb-en
+"endless"-adverb-en "sense fi"-adverb-ca
+"sense fi"-adverb-ca "endless"-adverb-en
+"enough and to spare"-adverb-en "de sobres"-adverb-ca
+"de sobres"-adverb-ca "enough and to spare"-adverb-en
+"de sobres"-adverb-ca "more than enough"-adverb-en
+"de sobres"-adverb-ca "to spare"-adverb-en
+"more than enough"-adverb-en "de sobres"-adverb-ca
+"to spare"-adverb-en "de sobres"-adverb-ca
+"equally"-adverb-en "equitativament"-adverb-ca
+"equitativament"-adverb-ca "equally"-adverb-en
+"equitativament"-adverb-ca "equitably"-adverb-en
+"equitativament"-adverb-ca "evenly"-adverb-en
+"equitativament"-adverb-ca "fairly"-adverb-en
+"equitably"-adverb-en "equitativament"-adverb-ca
+"evenly"-adverb-en "equitativament"-adverb-ca
+"fairly"-adverb-en "equitativament"-adverb-ca
+"even less"-adverb-en "encara menys"-adverb-ca
+"encara menys"-adverb-ca "even less"-adverb-en
+"even more"-adverb-en "encara més"-adverb-ca
+"encara més"-adverb-ca "even more"-adverb-en
+"ever before"-adverb-en "mai abans"-adverb-ca
+"mai abans"-adverb-ca "ever before"-adverb-en
+"mai abans"-adverb-ca "never before"-adverb-en
+"never before"-adverb-en "mai abans"-adverb-ca
+"molt de tant en tant"-adverb-ca "once in a blue moon"-adverb-en
+"once in a blue moon"-adverb-en "molt de tant en tant"-adverb-ca
+"once in a blue moon"-adverb-en "de tard en tard"-adverb-ca
+"every time"-adverb-en "cada colp"-adverb-ca
+"cada colp"-adverb-ca "every time"-adverb-en
+"ex cathedra"-adverb-en "ex cathedra"-adverb-ca
+"ex cathedra"-adverb-ca "ex cathedra"-adverb-en
+"excessively"-adverb-en "sense estar-se de res"-adverb-ca
+"sense estar-se de res"-adverb-ca "excessively"-adverb-en
+"expensively"-adverb-en "costosament"-adverb-ca
+"costosament"-adverb-ca "expensively"-adverb-en
+"face down"-adverb-en "de bocaterrosa"-adverb-ca
+"face down"-adverb-en "de cap per avall"-adverb-ca
+"de bocaterrosa"-adverb-ca "face down"-adverb-en
+"de cap per avall"-adverb-ca "face down"-adverb-en
+"dèbilment"-adverb-ca "weakly"-adverb-en
+"weakly"-adverb-en "dèbilment"-adverb-ca
+"weakly"-adverb-en "feblement"-adverb-ca
+"en altre temps"-adverb-ca "in olden days"-adverb-en
+"en altre temps"-adverb-ca "in olden times"-adverb-en
+"in olden days"-adverb-en "en altre temps"-adverb-ca
+"in olden times"-adverb-en "en altre temps"-adverb-ca
+"finally"-adverb-en "a la fi"-adverb-ca
+"a la fi"-adverb-ca "finally"-adverb-en
+"first and foremost"-adverb-en "abans de tot"-adverb-ca
+"abans de tot"-adverb-ca "first and foremost"-adverb-en
+""first come, first served""-adverb-en "per ordre d'arribada"-adverb-ca
+"per ordre d'arribada"-adverb-ca ""first come, first served""-adverb-en
+"foolishly"-adverb-en "ximplement"-adverb-ca
+"ximplement"-adverb-ca "foolishly"-adverb-en
+"for example"-adverb-en "posem per cas"-adverb-ca
+"posem per cas"-adverb-ca "for example"-adverb-en
+"for God's sake"-adverb-en "per l'amor de Déu"-adverb-ca
+"per l'amor de Déu"-adverb-ca "for God's sake"-adverb-en
+"per l'amor de Déu"-adverb-ca "for the sake of God"-adverb-en
+"for the sake of God"-adverb-en "per l'amor de Déu"-adverb-ca
+"for life"-adverb-en "per a tota la vida"-adverb-ca
+"per a tota la vida"-adverb-ca "for life"-adverb-en
+"for many years"-adverb-en "des de fa molts anys"-adverb-ca
+"for many years"-adverb-en "durant molts anys"-adverb-ca
+"des de fa molts anys"-adverb-ca "for many years"-adverb-en
+"durant molts anys"-adverb-ca "for many years"-adverb-en
+"for medical reasons"-adverb-en "per raons de salut"-adverb-ca
+"per raons de salut"-adverb-ca "for medical reasons"-adverb-en
+"per part meua"-adverb-ca "on my part"-adverb-en
+"on my part"-adverb-en "per part meua"-adverb-ca
+"on my part"-adverb-en "per part meva"-adverb-ca
+"on my part"-adverb-en "per la meua banda"-adverb-ca
+"on my part"-adverb-en "per la meva banda"-adverb-ca
+"per part meva"-adverb-ca "on my part"-adverb-en
+"per res"-adverb-ca "for nothing"-adverb-en
+"for nothing"-adverb-en "per res"-adverb-ca
+"for once"-adverb-en "per una vegada"-adverb-ca
+"per una vegada"-adverb-ca "for once"-adverb-en
+"for one moment"-adverb-en "per un moment"-adverb-ca
+"per un moment"-adverb-ca "for one moment"-adverb-en
+"for one reason or another"-adverb-en "per naps o per cols"-adverb-ca
+"for one reason or another"-adverb-en "per una raó o una altra"-adverb-ca
+"per naps o per cols"-adverb-ca "for one reason or another"-adverb-en
+"per una raó o una altra"-adverb-ca "for one reason or another"-adverb-en
+"per part nostra"-adverb-ca "on our part"-adverb-en
+"on our part"-adverb-en "per part nostra"-adverb-ca
+"on our part"-adverb-en "per la nostra banda"-adverb-ca
+"for reasons of principle"-adverb-en "per raons de principi"-adverb-ca
+"per raons de principi"-adverb-ca "for reasons of principle"-adverb-en
+"for some time now"-adverb-en "d'un temps a ara"-adverb-ca
+"d'un temps a ara"-adverb-ca "for some time now"-adverb-en
+"for the last time"-adverb-en "per darrera vegada"-adverb-ca
+"for the last time"-adverb-en "per darrer cop"-adverb-ca
+"per darrera vegada"-adverb-ca "for the last time"-adverb-en
+"per darrer cop"-adverb-ca "for the last time"-adverb-en
+"for this reason"-adverb-en "per aquesta raó"-adverb-ca
+"for this reason"-adverb-en "per aquest motiu"-adverb-ca
+"per aquesta raó"-adverb-ca "for this reason"-adverb-en
+"per aquest motiu"-adverb-ca "for this reason"-adverb-en
+"forcefully"-adverb-en "amb energia"-adverb-ca
+"amb energia"-adverb-ca "forcefully"-adverb-en
+"amb energia"-adverb-ca "with energy"-adverb-en
+"with energy"-adverb-en "amb energia"-adverb-ca
+"fortissimo"-adverb-en "fortissimo"-adverb-ca
+"fortissimo"-adverb-ca "fortissimo"-adverb-en
+"sense interferències"-adverb-ca "with no interferences"-adverb-en
+"with no interferences"-adverb-en "sense interferències"-adverb-ca
+"freely"-adverb-en "a lloure"-adverb-ca
+"a lloure"-adverb-ca "freely"-adverb-en
+"frequently"-adverb-en "amb freqüència"-adverb-ca
+"amb freqüència"-adverb-ca "frequently"-adverb-en
+"from above"-adverb-en "des de sobre"-adverb-ca
+"des de sobre"-adverb-ca "from above"-adverb-en
+"from bad to worse"-adverb-en "com més va pitjor"-adverb-ca
+"com més va pitjor"-adverb-ca "from bad to worse"-adverb-en
+"de cap a cap"-adverb-ca "from beginning to end"-adverb-en
+"from below"-adverb-en "des de sota"-adverb-ca
+"des de sota"-adverb-ca "from below"-adverb-en
+"from everywhere"-adverb-en "d'arreu"-adverb-ca
+"from everywhere"-adverb-en "de tot arreu"-adverb-ca
+"d'arreu"-adverb-ca "from everywhere"-adverb-en
+"de tot arreu"-adverb-ca "from everywhere"-adverb-en
+"from the beginning"-adverb-en "des del principi"-adverb-ca
+"des del principi"-adverb-ca "from the beginning"-adverb-en
+"from time to time"-adverb-en "ara i adés"-adverb-ca
+"ara i adés"-adverb-ca "from time to time"-adverb-en
+"further back"-adverb-en "més arrere"-adverb-ca
+"més arrere"-adverb-ca "further back"-adverb-en
+"gladly"-adverb-en "amb molt de gust"-adverb-ca
+"amb molt de gust"-adverb-ca "gladly"-adverb-en
+"glumly"-adverb-en "amb tristesa"-adverb-ca
+"amb tristesa"-adverb-ca "glumly"-adverb-en
+"amb tristesa"-adverb-ca "sadly"-adverb-en
+"sadly"-adverb-en "amb tristesa"-adverb-ca
+"God willing"-adverb-en "si Déu vol"-adverb-ca
+"si Déu vol"-adverb-ca "God willing"-adverb-en
+"gracefully"-adverb-en "amb gràcia"-adverb-ca
+"amb gràcia"-adverb-ca "gracefully"-adverb-en
+"gropingly"-adverb-en "a les palpentes"-adverb-ca
+"a les palpentes"-adverb-ca "gropingly"-adverb-en
+"half"-adverb-en "a mig fer"-adverb-ca
+"a mig fer"-adverb-ca "half"-adverb-en
+"hand and foot"-adverb-en "de mans i peus"-adverb-ca
+"de mans i peus"-adverb-ca "hand and foot"-adverb-en
+"cap al cel"-adverb-ca "skywards"-adverb-en
+"skywards"-adverb-en "cap al cel"-adverb-ca
+"helically"-adverb-en "helicoidalment"-adverb-ca
+"helicoidalment"-adverb-ca "helically"-adverb-en
+"here and there"-adverb-en "aquí i allà"-adverb-ca
+"aquí i allà"-adverb-ca "here and there"-adverb-en
+"hitherto"-adverb-en "fins aquí"-adverb-ca
+"fins aquí"-adverb-ca "hitherto"-adverb-en
+"hopefully"-adverb-en "tant de bo"-adverb-ca
+"tant de bo"-adverb-ca "hopefully"-adverb-en
+"how long"-adverb-en "quant temps"-adverb-ca
+"quant temps"-adverb-ca "how long"-adverb-en
+"ibidem"-adverb-en "ibídem"-adverb-ca
+"ibídem"-adverb-ca "ibidem"-adverb-en
+"if necessary"-adverb-en "si és necessari"-adverb-ca
+"si és necessari"-adverb-ca "if necessary"-adverb-en
+"immediately"-adverb-en "al moment"-adverb-ca
+"al moment"-adverb-ca "immediately"-adverb-en
+"importantly"-adverb-en "importantment"-adverb-ca
+"importantment"-adverb-ca "importantly"-adverb-en
+"sense voler"-adverb-ca "unintentionally"-adverb-en
+"sense voler"-adverb-ca "unwittingly"-adverb-en
+"unintentionally"-adverb-en "sense voler"-adverb-ca
+"unwittingly"-adverb-en "sense voler"-adverb-ca
+"in a blink of the eye"-adverb-en "en un obrir i tancar d'ulls"-adverb-ca
+"en un obrir i tancar d'ulls"-adverb-ca "in a blink of the eye"-adverb-en
+"en un obrir i tancar d'ulls"-adverb-ca "in a trice"-adverb-en
+"en un obrir i tancar d'ulls"-adverb-ca "in the twinkling of an eye"-adverb-en
+"in a trice"-adverb-en "en un obrir i tancar d'ulls"-adverb-ca
+"in a trice"-adverb-en "en un tres i no res"-adverb-ca
+"in the twinkling of an eye"-adverb-en "en un obrir i tancar d'ulls"-adverb-ca
+"in a contiguous way"-adverb-en "contiguament"-adverb-ca
+"contiguament"-adverb-ca "in a contiguous way"-adverb-en
+"in a flash"-adverb-en "en un instant"-adverb-ca
+"en un instant"-adverb-ca "in a flash"-adverb-en
+"in a jiffy"-adverb-en "en un tres i no res"-adverb-ca
+"en un tres i no res"-adverb-ca "in a trice"-adverb-en
+"en un tres i no res"-adverb-ca "in a jiffy"-adverb-en
+"in a minute"-adverb-en "en un minut"-adverb-ca
+"en un minut"-adverb-ca "in a minute"-adverb-en
+"in a northeasterly direction"-adverb-en "en direcció nord-est"-adverb-ca
+"en direcció nord-est"-adverb-ca "in a northeasterly direction"-adverb-en
+"in a northerly direction"-adverb-en "en direcció nord"-adverb-ca
+"en direcció nord"-adverb-ca "in a northerly direction"-adverb-en
+"in a northwesterly direction"-adverb-en "en direcció nord-oest"-adverb-ca
+"en direcció nord-oest"-adverb-ca "in a northwesterly direction"-adverb-en
+"in a second"-adverb-en "en un moment"-adverb-ca
+"en un moment"-adverb-ca "in a second"-adverb-en
+"in a sense"-adverb-en "en certa manera"-adverb-ca
+"en certa manera"-adverb-ca "in a sense"-adverb-en
+"in a single place"-adverb-en "en un sol lloc"-adverb-ca
+"en un sol lloc"-adverb-ca "in a single place"-adverb-en
+"in a small way"-adverb-en "a petita escala"-adverb-ca
+"a petita escala"-adverb-ca "in a small way"-adverb-en
+"in a southeasterly direction"-adverb-en "en direcció sud-est"-adverb-ca
+"en direcció sud-est"-adverb-ca "in a southeasterly direction"-adverb-en
+"in a southerly direction"-adverb-en "en direcció sud"-adverb-ca
+"en direcció sud"-adverb-ca "in a southerly direction"-adverb-en
+"in a southwesterly direction"-adverb-en "en direcció sud-oest"-adverb-ca
+"en direcció sud-oest"-adverb-ca "in a southwesterly direction"-adverb-en
+"in a torrent"-adverb-en "a borbollons"-adverb-ca
+"a borbollons"-adverb-ca "in a torrent"-adverb-en
+"in a westerly direction"-adverb-en "en direcció oest"-adverb-ca
+"en direcció oest"-adverb-ca "in a westerly direction"-adverb-en
+"in accordance with the regulations"-adverb-en "reglamentàriament"-adverb-ca
+"reglamentàriament"-adverb-ca "in accordance with the regulations"-adverb-en
+"in action"-adverb-en "en acció"-adverb-ca
+"en acció"-adverb-ca "in action"-adverb-en
+"in advance"-adverb-en "anticipadament"-adverb-ca
+"anticipadament"-adverb-ca "in advance"-adverb-en
+"in all fairness"-adverb-en "amb tota justícia"-adverb-ca
+"amb tota justícia"-adverb-ca "in all fairness"-adverb-en
+"in alphabetical order"-adverb-en "per ordre alfabètic"-adverb-ca
+"per ordre alfabètic"-adverb-ca "in alphabetical order"-adverb-en
+"in an easterly direction"-adverb-en "en direcció est"-adverb-ca
+"en direcció est"-adverb-ca "in an easterly direction"-adverb-en
+"in apposition"-adverb-en "en aposició"-adverb-ca
+"en aposició"-adverb-ca "in apposition"-adverb-en
+"in bad faith"-adverb-en "de mala fe"-adverb-ca
+"de mala fe"-adverb-ca "in bad faith"-adverb-en
+"in black and white"-adverb-en "en blanc i negre"-adverb-ca
+"en blanc i negre"-adverb-ca "in black and white"-adverb-en
+"in blocks"-adverb-en "en blocs"-adverb-ca
+"en blocs"-adverb-ca "in blocks"-adverb-en
+"in bloom"-adverb-en "en flor"-adverb-ca
+"en flor"-adverb-ca "in bloom"-adverb-en
+"in broad day light"-adverb-en "en ple dia"-adverb-ca
+"en ple dia"-adverb-ca "in broad day light"-adverb-en
+"in broad daylight"-adverb-en "a ple dia"-adverb-ca
+"a ple dia"-adverb-ca "in broad daylight"-adverb-en
+"in bytes"-adverb-en "en bytes"-adverb-ca
+"en bytes"-adverb-ca "in bytes"-adverb-en
+"en majúscules"-adverb-ca "in upper case"-adverb-en
+"in upper case"-adverb-en "en majúscules"-adverb-ca
+"per si de cas"-adverb-ca "just in case"-adverb-en
+"just in case"-adverb-en "per si de cas"-adverb-ca
+"in cold blood"-adverb-en "a sang freda"-adverb-ca
+"a sang freda"-adverb-ca "in cold blood"-adverb-en
+"en color"-adverb-ca "in colour"-adverb-en
+"in colour"-adverb-en "en color"-adverb-ca
+"in concert"-adverb-en "en concert"-adverb-ca
+"en concert"-adverb-ca "in concert"-adverb-en
+"en el futur"-adverb-ca "in the future"-adverb-en
+"in the future"-adverb-en "en el futur"-adverb-ca
+"in detail"-adverb-en "en detall"-adverb-ca
+"en detall"-adverb-ca "in detail"-adverb-en
+"in essence"-adverb-en "en essència"-adverb-ca
+"en essència"-adverb-ca "in essence"-adverb-en
+"in every respect"-adverb-en "en tots els respectes"-adverb-ca
+"en tots els respectes"-adverb-ca "in every respect"-adverb-en
+"in evidence"-adverb-en "en evidència"-adverb-ca
+"en evidència"-adverb-ca "in evidence"-adverb-en
+"in flames"-adverb-en "en flames"-adverb-ca
+"en flames"-adverb-ca "in flames"-adverb-en
+"in for a penny"-adverb-en ""perdut per perdut, la manta al coll""-adverb-ca
+""perdut per perdut, la manta al coll""-adverb-ca "in for a penny"-adverb-en
+"in force"-adverb-en "en vigor"-adverb-ca
+"en vigor"-adverb-ca "in force"-adverb-en
+"de broma"-adverb-ca "jokingly"-adverb-en
+"jokingly"-adverb-en "de broma"-adverb-ca
+"in good conscience"-adverb-en "amb la consciència tranquil·la"-adverb-ca
+"amb la consciència tranquil·la"-adverb-ca "in good conscience"-adverb-en
+"in great quantity"-adverb-en "a manta"-adverb-ca
+"in great quantity"-adverb-en "en gran quantitat"-adverb-ca
+"a manta"-adverb-ca "in great quantity"-adverb-en
+"en gran quantitat"-adverb-ca "in great quantity"-adverb-en
+"in high season"-adverb-en "en temporada alta"-adverb-ca
+"en temporada alta"-adverb-ca "in high season"-adverb-en
+"in Indian file"-adverb-en "en fila índia"-adverb-ca
+"en fila índia"-adverb-ca "in Indian file"-adverb-en
+"en fila índia"-adverb-ca "single file"-adverb-en
+"single file"-adverb-en "en fila índia"-adverb-ca
+"en gran part"-adverb-ca "largely"-adverb-en
+"largely"-adverb-en "en gran part"-adverb-ca
+"largely"-adverb-en "en gran mesura"-adverb-ca
+"in low season"-adverb-en "en temporada baixa"-adverb-ca
+"en temporada baixa"-adverb-ca "in low season"-adverb-en
+"in lower case"-adverb-en "en minúscules"-adverb-ca
+"en minúscules"-adverb-ca "in lower case"-adverb-en
+"in many respects"-adverb-en "en molts aspectes"-adverb-ca
+"en molts aspectes"-adverb-ca "in many respects"-adverb-en
+"in midsummer"-adverb-en "a ple estiu"-adverb-ca
+"a ple estiu"-adverb-ca "in midsummer"-adverb-en
+"in mint condition"-adverb-en "en perfecte estat"-adverb-ca
+"en perfecte estat"-adverb-ca "in mint condition"-adverb-en
+"in more detail"-adverb-en "amb més detall"-adverb-ca
+"amb més detall"-adverb-ca "in more detail"-adverb-en
+"in mourning"-adverb-en "de dol"-adverb-ca
+"de dol"-adverb-ca "in mourning"-adverb-en
+"in my opinion"-adverb-en "al meu entendre"-adverb-ca
+"al meu entendre"-adverb-ca "in my opinion"-adverb-en
+"in no case"-adverb-en "en cap cas"-adverb-ca
+"en cap cas"-adverb-ca "in no case"-adverb-en
+"en cap cas"-adverb-ca "on no account"-adverb-en
+"on no account"-adverb-en "en cap cas"-adverb-ca
+"on no account"-adverb-en "en cap concepte"-adverb-ca
+"in no sense"-adverb-en "en cap sentit"-adverb-ca
+"en cap sentit"-adverb-ca "in no sense"-adverb-en
+"in octets"-adverb-en "en octets"-adverb-ca
+"en octets"-adverb-ca "in octets"-adverb-en
+"in other respects"-adverb-en "en altres aspectes"-adverb-ca
+"en altres aspectes"-adverb-ca "in other respects"-adverb-en
+"in other words"-adverb-en "en altres paraules"-adverb-ca
+"en altres paraules"-adverb-ca "in other words"-adverb-en
+"in passing"-adverb-en "de passada"-adverb-ca
+"de passada"-adverb-ca "in passing"-adverb-en
+"in person"-adverb-en "en persona"-adverb-ca
+"en persona"-adverb-ca "in person"-adverb-en
+"en privat"-adverb-ca "privately"-adverb-en
+"privately"-adverb-en "en privat"-adverb-ca
+"en construcció"-adverb-ca "under construction"-adverb-en
+"under construction"-adverb-en "en construcció"-adverb-ca
+"in public"-adverb-en "en públic"-adverb-ca
+"en públic"-adverb-ca "in public"-adverb-en
+"in question"-adverb-en "en qüestió"-adverb-ca
+"en qüestió"-adverb-ca "in question"-adverb-en
+"in reality"-adverb-en "en realitat"-adverb-ca
+"en realitat"-adverb-ca "in reality"-adverb-en
+"in reply"-adverb-en "en resposta"-adverb-ca
+"en resposta"-adverb-ca "in reply"-adverb-en
+"in ruins"-adverb-en "en ruïnes"-adverb-ca
+"en ruïnes"-adverb-ca "in ruins"-adverb-en
+"in series"-adverb-en "en sèrie"-adverb-ca
+"en sèrie"-adverb-ca "in series"-adverb-en
+"in seventh heaven"-adverb-en "al setè cel"-adverb-ca
+"al setè cel"-adverb-ca "in seventh heaven"-adverb-en
+"in shape"-adverb-en "en forma"-adverb-ca
+"en forma"-adverb-ca "in shape"-adverb-en
+"in sight"-adverb-en "a la vista"-adverb-ca
+"in sight"-adverb-en "a les envistes"-adverb-ca
+"a la vista"-adverb-ca "in sight"-adverb-en
+"a les envistes"-adverb-ca "in sight"-adverb-en
+"in single file"-adverb-en "en fila d'un"-adverb-ca
+"en fila d'un"-adverb-ca "in single file"-adverb-en
+"fins a cert punt"-adverb-ca "to a certain degree"-adverb-en
+"fins a cert punt"-adverb-ca "to a certain extent"-adverb-en
+"fins a cert punt"-adverb-ca "to a degree"-adverb-en
+"fins a cert punt"-adverb-ca "to some extent"-adverb-en
+"to a certain degree"-adverb-en "fins a cert punt"-adverb-ca
+"to a certain extent"-adverb-en "fins a cert punt"-adverb-ca
+"to a degree"-adverb-en "fins a cert punt"-adverb-ca
+"to some extent"-adverb-en "fins a cert punt"-adverb-ca
+"in stock"-adverb-en "en estoc"-adverb-ca
+"en estoc"-adverb-ca "in stock"-adverb-en
+"in such a case"-adverb-en "en tal cas"-adverb-ca
+"en tal cas"-adverb-ca "in such a case"-adverb-en
+"in such a way"-adverb-en "de tal manera"-adverb-ca
+"de tal manera"-adverb-ca "in such a way"-adverb-en
+"en aquest cas"-adverb-ca "in this case"-adverb-en
+"in this case"-adverb-en "en aquest cas"-adverb-ca
+"in the afternoon"-adverb-en "a la vesprada"-adverb-ca
+"in the afternoon"-adverb-en "de tarda"-adverb-ca
+"in the afternoon"-adverb-en "de vesprada"-adverb-ca
+"a la vesprada"-adverb-ca "in the afternoon"-adverb-en
+"de tarda"-adverb-ca "in the afternoon"-adverb-en
+"de vesprada"-adverb-ca "in the afternoon"-adverb-en
+"in the dead of winter"-adverb-en "a ple hivern"-adverb-ca
+"a ple hivern"-adverb-ca "in the dead of winter"-adverb-en
+"in the distant future"-adverb-en "en un futur llunyà"-adverb-ca
+"en un futur llunyà"-adverb-ca "in the distant future"-adverb-en
+"in the final stages"-adverb-en "a la fase final"-adverb-ca
+"a la fase final"-adverb-ca "in the final stages"-adverb-en
+"en un futur pròxim"-adverb-ca "in the near future"-adverb-en
+"in the near future"-adverb-en "en un futur pròxim"-adverb-ca
+"in the middle of nowhere"-adverb-en "a la quinta forca"-adverb-ca
+"in the middle of nowhere"-adverb-en "en la quinta forca"-adverb-ca
+"in the middle of nowhere"-adverb-en "enmig del no-res"-adverb-ca
+"a la quinta forca"-adverb-ca "in the middle of nowhere"-adverb-en
+"en la quinta forca"-adverb-ca "in the middle of nowhere"-adverb-en
+"enmig del no-res"-adverb-ca "in the middle of nowhere"-adverb-en
+"in the prime of life"-adverb-en "a la flor de la vida"-adverb-ca
+"a la flor de la vida"-adverb-ca "in the prime of life"-adverb-en
+"in the right place"-adverb-en "en el lloc adequat"-adverb-ca
+"en el lloc adequat"-adverb-ca "in the right place"-adverb-en
+"in the rough"-adverb-en "en brut"-adverb-ca
+"en brut"-adverb-ca "in the rough"-adverb-en
+"in the second place"-adverb-en "en segon lloc"-adverb-ca
+"en segon lloc"-adverb-ca "in the second place"-adverb-en
+"en segon lloc"-adverb-ca "secondly"-adverb-en
+"secondly"-adverb-en "en segon lloc"-adverb-ca
+"en les properes setmanes"-adverb-ca "in the weeks to come"-adverb-en
+"in the weeks to come"-adverb-en "en les properes setmanes"-adverb-ca
+"in the wrong place"-adverb-en "en el lloc equivocat"-adverb-ca
+"en el lloc equivocat"-adverb-ca "in the wrong place"-adverb-en
+"in tow"-adverb-en "a remolc"-adverb-ca
+"a remolc"-adverb-ca "in tow"-adverb-en
+"in triplicate"-adverb-en "per triplicat"-adverb-ca
+"per triplicat"-adverb-ca "in triplicate"-adverb-en
+"in truth"-adverb-en "en veritat"-adverb-ca
+"en veritat"-adverb-ca "in truth"-adverb-en
+"in vain"-adverb-en "debades"-adverb-ca
+"in vain"-adverb-en "en va"-adverb-ca
+"debades"-adverb-ca "in vain"-adverb-en
+"debades"-adverb-ca "to little avail"-adverb-en
+"en va"-adverb-ca "in vain"-adverb-en
+"to little avail"-adverb-en "debades"-adverb-ca
+"incoherently"-adverb-en "incoherentment"-adverb-ca
+"incoherentment"-adverb-ca "incoherently"-adverb-en
+"indefinitely"-adverb-en "de forma indefinida"-adverb-ca
+"indefinitely"-adverb-en "de manera indefinida"-adverb-ca
+"de forma indefinida"-adverb-ca "indefinitely"-adverb-en
+"de manera indefinida"-adverb-ca "indefinitely"-adverb-en
+"indiscriminately"-adverb-en "a tort i a dret"-adverb-ca
+"a tort i a dret"-adverb-ca "indiscriminately"-adverb-en
+"a tort i a dret"-adverb-ca "to right and left"-adverb-en
+"to right and left"-adverb-en "a tort i a dret"-adverb-ca
+"innately"-adverb-en "de manera innata"-adverb-ca
+"de manera innata"-adverb-ca "innately"-adverb-en
+"inside and out"-adverb-en "per dins i per fora"-adverb-ca
+"per dins i per fora"-adverb-ca "inside and out"-adverb-en
+"intestate"-adverb-en "abintestat"-adverb-ca
+"abintestat"-adverb-ca "intestate"-adverb-en
+"into disuse"-adverb-en "en desús"-adverb-ca
+"en desús"-adverb-ca "into disuse"-adverb-en
+"intrinsically"-adverb-en "intrínsecament"-adverb-ca
+"intrínsecament"-adverb-ca "intrinsically"-adverb-en
+"inwardly"-adverb-en "en el seu fur intern"-adverb-ca
+"inwardly"-adverb-en "per dins"-adverb-ca
+"en el seu fur intern"-adverb-ca "inwardly"-adverb-en
+"per dins"-adverb-ca "inwardly"-adverb-en
+"inwards"-adverb-en "cap a dins"-adverb-ca
+"inwards"-adverb-en "cap a dintre"-adverb-ca
+"cap a dins"-adverb-ca "inwards"-adverb-en
+"cap a dintre"-adverb-ca "inwards"-adverb-en
+"it's no use crying over spilt milk"-adverb-en "al fet pit"-adverb-ca
+"al fet pit"-adverb-ca "it's no use crying over spilt milk"-adverb-en
+"jauntily"-adverb-en "amb desenfado"-adverb-ca
+"amb desenfado"-adverb-ca "jauntily"-adverb-en
+"amb desenfado"-adverb-ca "with confidence"-adverb-en
+"with confidence"-adverb-en "amb desenfado"-adverb-ca
+"just around the corner"-adverb-en "molt a la vora"-adverb-ca
+"molt a la vora"-adverb-ca "just around the corner"-adverb-en
+"just in time"-adverb-en "just a temps"-adverb-ca
+"just a temps"-adverb-ca "just in time"-adverb-en
+"kindly"-adverb-en "amb simpatia"-adverb-ca
+"amb simpatia"-adverb-ca "kindly"-adverb-en
+"knowingly"-adverb-en "a gratcient"-adverb-ca
+"a gratcient"-adverb-ca "knowingly"-adverb-en
+"en gran mesura"-adverb-ca "largely"-adverb-en
+"larghetto"-adverb-en "larghetto"-adverb-ca
+"larghetto"-adverb-ca "larghetto"-adverb-en
+"lastly"-adverb-en "en fi"-adverb-ca
+"en fi"-adverb-ca "lastly"-adverb-en
+"late at night"-adverb-en "tard a la nit"-adverb-ca
+"tard a la nit"-adverb-ca "late at night"-adverb-en
+"leftwards"-adverb-en "cap a l'esquerra"-adverb-ca
+"cap a l'esquerra"-adverb-ca "leftwards"-adverb-en
+"like a shot"-adverb-en "com una bala"-adverb-ca
+"com una bala"-adverb-ca "like a shot"-adverb-en
+"like clockwork"-adverb-en "com un rellotge"-adverb-ca
+"com un rellotge"-adverb-ca "like clockwork"-adverb-en
+"little by little"-adverb-en "a poc a poquet"-adverb-ca
+"a poc a poquet"-adverb-ca "little by little"-adverb-en
+"lo and behold"-adverb-en "vet ací"-adverb-ca
+"lo and behold"-adverb-en "vet aquí"-adverb-ca
+"lo and behold"-adverb-en "veus ací"-adverb-ca
+"lo and behold"-adverb-en "veus aquí"-adverb-ca
+"vet ací"-adverb-ca "lo and behold"-adverb-en
+"vet aquí"-adverb-ca "lo and behold"-adverb-en
+"veus ací"-adverb-ca "lo and behold"-adverb-en
+"veus aquí"-adverb-ca "lo and behold"-adverb-en
+"meanwhile"-adverb-en "mentre"-adverb-ca
+"mentre"-adverb-ca "meanwhile"-adverb-en
+"mildly"-adverb-en "mollament"-adverb-ca
+"mildly"-adverb-en "tovament"-adverb-ca
+"mollament"-adverb-ca "mildly"-adverb-en
+"tovament"-adverb-ca "mildly"-adverb-en
+"month by month"-adverb-en "mes a mes"-adverb-ca
+"mes a mes"-adverb-ca "month by month"-adverb-en
+"most deeply"-adverb-en "molt profundament"-adverb-ca
+"molt profundament"-adverb-ca "most deeply"-adverb-en
+"mysteriously"-adverb-en "arcanament"-adverb-ca
+"arcanament"-adverb-ca "mysteriously"-adverb-en
+"narrowly"-adverb-en "per poc"-adverb-ca
+"per poc"-adverb-ca "narrowly"-adverb-en
+"near"-adverb-en "a devora"-adverb-ca
+"a devora"-adverb-ca "near"-adverb-en
+"neatly"-adverb-en "amb cura"-adverb-ca
+"amb cura"-adverb-ca "neatly"-adverb-en
+"next April"-adverb-en "el proper abril"-adverb-ca
+"next April"-adverb-en "l'abril que ve"-adverb-ca
+"el proper abril"-adverb-ca "next April"-adverb-en
+"el proper abril"-adverb-ca "the next April"-adverb-en
+"l'abril que ve"-adverb-ca "next April"-adverb-en
+"the next April"-adverb-en "el proper abril"-adverb-ca
+"next August"-adverb-en "el proper agost"-adverb-ca
+"next August"-adverb-en "l'agost que ve"-adverb-ca
+"el proper agost"-adverb-ca "next August"-adverb-en
+"el proper agost"-adverb-ca "the next August"-adverb-en
+"l'agost que ve"-adverb-ca "next August"-adverb-en
+"the next August"-adverb-en "el proper agost"-adverb-ca
+"next autumn"-adverb-en "la propera tardor"-adverb-ca
+"next autumn"-adverb-en "la tardor que ve"-adverb-ca
+"la propera tardor"-adverb-ca "next autumn"-adverb-en
+"la propera tardor"-adverb-ca "next fall"-adverb-en
+"la propera tardor"-adverb-ca "the next autumn"-adverb-en
+"la propera tardor"-adverb-ca "the next fall"-adverb-en
+"la tardor que ve"-adverb-ca "next autumn"-adverb-en
+"la tardor que ve"-adverb-ca "next fall"-adverb-en
+"next fall"-adverb-en "la propera tardor"-adverb-ca
+"next fall"-adverb-en "la tardor que ve"-adverb-ca
+"the next autumn"-adverb-en "la propera tardor"-adverb-ca
+"the next fall"-adverb-en "la propera tardor"-adverb-ca
+"next Christmas"-adverb-en "el Nadal que ve"-adverb-ca
+"next Christmas"-adverb-en "el proper Nadal"-adverb-ca
+"el Nadal que ve"-adverb-ca "next Christmas"-adverb-en
+"el proper Nadal"-adverb-ca "next Christmas"-adverb-en
+"el proper Nadal"-adverb-ca "the next Christmas"-adverb-en
+"the next Christmas"-adverb-en "el proper Nadal"-adverb-ca
+"next December"-adverb-en "el desembre que ve"-adverb-ca
+"next December"-adverb-en "el proper desembre"-adverb-ca
+"el desembre que ve"-adverb-ca "next December"-adverb-en
+"el proper desembre"-adverb-ca "next December"-adverb-en
+"el proper desembre"-adverb-ca "the next December"-adverb-en
+"the next December"-adverb-en "el proper desembre"-adverb-ca
+"next February"-adverb-en "el febrer que ve"-adverb-ca
+"next February"-adverb-en "el proper febrer"-adverb-ca
+"el febrer que ve"-adverb-ca "next February"-adverb-en
+"el proper febrer"-adverb-ca "next February"-adverb-en
+"el proper febrer"-adverb-ca "the next February"-adverb-en
+"the next February"-adverb-en "el proper febrer"-adverb-ca
+"next Friday"-adverb-en "divendres que ve"-adverb-ca
+"next Friday"-adverb-en "divendres vinent"-adverb-ca
+"next Friday"-adverb-en "el divendres que ve"-adverb-ca
+"next Friday"-adverb-en "el proper divendres"-adverb-ca
+"divendres que ve"-adverb-ca "next Friday"-adverb-en
+"divendres que ve"-adverb-ca "the next Friday"-adverb-en
+"divendres vinent"-adverb-ca "next Friday"-adverb-en
+"el divendres que ve"-adverb-ca "next Friday"-adverb-en
+"el proper divendres"-adverb-ca "next Friday"-adverb-en
+"el proper divendres"-adverb-ca "the next Friday"-adverb-en
+"the next Friday"-adverb-en "divendres que ve"-adverb-ca
+"the next Friday"-adverb-en "el proper divendres"-adverb-ca
+"next January"-adverb-en "el gener que ve"-adverb-ca
+"next January"-adverb-en "el proper gener"-adverb-ca
+"el gener que ve"-adverb-ca "next January"-adverb-en
+"el proper gener"-adverb-ca "next January"-adverb-en
+"el proper gener"-adverb-ca "the next January"-adverb-en
+"the next January"-adverb-en "el proper gener"-adverb-ca
+"next July"-adverb-en "el juliol que ve"-adverb-ca
+"next July"-adverb-en "el proper juliol"-adverb-ca
+"el juliol que ve"-adverb-ca "next July"-adverb-en
+"el proper juliol"-adverb-ca "next July"-adverb-en
+"el proper juliol"-adverb-ca "the next July"-adverb-en
+"the next July"-adverb-en "el proper juliol"-adverb-ca
+"next June"-adverb-en "el juny que ve"-adverb-ca
+"next June"-adverb-en "el proper juny"-adverb-ca
+"el juny que ve"-adverb-ca "next June"-adverb-en
+"el proper juny"-adverb-ca "next June"-adverb-en
+"el proper juny"-adverb-ca "the next June"-adverb-en
+"the next June"-adverb-en "el proper juny"-adverb-ca
+"next March"-adverb-en "el març que ve"-adverb-ca
+"next March"-adverb-en "el proper març"-adverb-ca
+"el març que ve"-adverb-ca "next March"-adverb-en
+"el proper març"-adverb-ca "next March"-adverb-en
+"el proper març"-adverb-ca "the next March"-adverb-en
+"the next March"-adverb-en "el proper març"-adverb-ca
+"next May"-adverb-en "el maig que ve"-adverb-ca
+"next May"-adverb-en "el proper maig"-adverb-ca
+"el maig que ve"-adverb-ca "next May"-adverb-en
+"el proper maig"-adverb-ca "next May"-adverb-en
+"el proper maig"-adverb-ca "the next May"-adverb-en
+"the next May"-adverb-en "el proper maig"-adverb-ca
+"next Monday"-adverb-en "dilluns que ve"-adverb-ca
+"next Monday"-adverb-en "dilluns vinent"-adverb-ca
+"next Monday"-adverb-en "el dilluns que ve"-adverb-ca
+"next Monday"-adverb-en "el proper dilluns"-adverb-ca
+"dilluns que ve"-adverb-ca "next Monday"-adverb-en
+"dilluns que ve"-adverb-ca "the next Monday"-adverb-en
+"dilluns vinent"-adverb-ca "next Monday"-adverb-en
+"el dilluns que ve"-adverb-ca "next Monday"-adverb-en
+"el proper dilluns"-adverb-ca "next Monday"-adverb-en
+"el proper dilluns"-adverb-ca "the next Monday"-adverb-en
+"the next Monday"-adverb-en "dilluns que ve"-adverb-ca
+"the next Monday"-adverb-en "el proper dilluns"-adverb-ca
+"next November"-adverb-en "el novembre que ve"-adverb-ca
+"next November"-adverb-en "el proper novembre"-adverb-ca
+"el novembre que ve"-adverb-ca "next November"-adverb-en
+"el proper novembre"-adverb-ca "next November"-adverb-en
+"el proper novembre"-adverb-ca "the next November"-adverb-en
+"the next November"-adverb-en "el proper novembre"-adverb-ca
+"next October"-adverb-en "el proper octubre"-adverb-ca
+"next October"-adverb-en "l'octubre que ve"-adverb-ca
+"el proper octubre"-adverb-ca "next October"-adverb-en
+"el proper octubre"-adverb-ca "the next October"-adverb-en
+"l'octubre que ve"-adverb-ca "next October"-adverb-en
+"the next October"-adverb-en "el proper octubre"-adverb-ca
+"next Saturday"-adverb-en "dissabte que ve"-adverb-ca
+"next Saturday"-adverb-en "dissabte vinent"-adverb-ca
+"next Saturday"-adverb-en "el dissabte que ve"-adverb-ca
+"next Saturday"-adverb-en "el proper dissabte"-adverb-ca
+"dissabte que ve"-adverb-ca "next Saturday"-adverb-en
+"dissabte que ve"-adverb-ca "the next Saturday"-adverb-en
+"dissabte vinent"-adverb-ca "next Saturday"-adverb-en
+"el dissabte que ve"-adverb-ca "next Saturday"-adverb-en
+"el proper dissabte"-adverb-ca "next Saturday"-adverb-en
+"el proper dissabte"-adverb-ca "the next Saturday"-adverb-en
+"the next Saturday"-adverb-en "dissabte que ve"-adverb-ca
+"the next Saturday"-adverb-en "el proper dissabte"-adverb-ca
+"next September"-adverb-en "el proper setembre"-adverb-ca
+"next September"-adverb-en "el setembre que ve"-adverb-ca
+"el proper setembre"-adverb-ca "next September"-adverb-en
+"el proper setembre"-adverb-ca "the next September"-adverb-en
+"el setembre que ve"-adverb-ca "next September"-adverb-en
+"the next September"-adverb-en "el proper setembre"-adverb-ca
+"next spring"-adverb-en "la primavera que ve"-adverb-ca
+"next spring"-adverb-en "la propera primavera"-adverb-ca
+"la primavera que ve"-adverb-ca "next spring"-adverb-en
+"la propera primavera"-adverb-ca "next spring"-adverb-en
+"la propera primavera"-adverb-ca "the next spring"-adverb-en
+"the next spring"-adverb-en "la propera primavera"-adverb-ca
+"next summer"-adverb-en "el proper estiu"-adverb-ca
+"next summer"-adverb-en "l'estiu que ve"-adverb-ca
+"el proper estiu"-adverb-ca "next summer"-adverb-en
+"el proper estiu"-adverb-ca "the next summer"-adverb-en
+"l'estiu que ve"-adverb-ca "next summer"-adverb-en
+"the next summer"-adverb-en "el proper estiu"-adverb-ca
+"next Sunday"-adverb-en "diumenge que ve"-adverb-ca
+"next Sunday"-adverb-en "diumenge vinent"-adverb-ca
+"next Sunday"-adverb-en "el diumenge que ve"-adverb-ca
+"next Sunday"-adverb-en "el proper diumenge"-adverb-ca
+"diumenge que ve"-adverb-ca "next Sunday"-adverb-en
+"diumenge que ve"-adverb-ca "the next Sunday"-adverb-en
+"diumenge vinent"-adverb-ca "next Sunday"-adverb-en
+"el diumenge que ve"-adverb-ca "next Sunday"-adverb-en
+"el proper diumenge"-adverb-ca "next Sunday"-adverb-en
+"el proper diumenge"-adverb-ca "the next Sunday"-adverb-en
+"the next Sunday"-adverb-en "diumenge que ve"-adverb-ca
+"the next Sunday"-adverb-en "el proper diumenge"-adverb-ca
+"next Thursday"-adverb-en "dijous que ve"-adverb-ca
+"next Thursday"-adverb-en "dijous vinent"-adverb-ca
+"next Thursday"-adverb-en "el dijous que ve"-adverb-ca
+"next Thursday"-adverb-en "el proper dijous"-adverb-ca
+"dijous que ve"-adverb-ca "next Thursday"-adverb-en
+"dijous que ve"-adverb-ca "the next Thursday"-adverb-en
+"dijous vinent"-adverb-ca "next Thursday"-adverb-en
+"el dijous que ve"-adverb-ca "next Thursday"-adverb-en
+"el proper dijous"-adverb-ca "next Thursday"-adverb-en
+"el proper dijous"-adverb-ca "the next Thursday"-adverb-en
+"the next Thursday"-adverb-en "dijous que ve"-adverb-ca
+"the next Thursday"-adverb-en "el proper dijous"-adverb-ca
+"next Tuesday"-adverb-en "dimarts que ve"-adverb-ca
+"next Tuesday"-adverb-en "dimarts vinent"-adverb-ca
+"next Tuesday"-adverb-en "el dimarts que ve"-adverb-ca
+"next Tuesday"-adverb-en "el proper dimarts"-adverb-ca
+"dimarts que ve"-adverb-ca "next Tuesday"-adverb-en
+"dimarts que ve"-adverb-ca "the next Tuesday"-adverb-en
+"dimarts vinent"-adverb-ca "next Tuesday"-adverb-en
+"el dimarts que ve"-adverb-ca "next Tuesday"-adverb-en
+"el proper dimarts"-adverb-ca "next Tuesday"-adverb-en
+"el proper dimarts"-adverb-ca "the next Tuesday"-adverb-en
+"the next Tuesday"-adverb-en "dimarts que ve"-adverb-ca
+"the next Tuesday"-adverb-en "el proper dimarts"-adverb-ca
+"next Wednesday"-adverb-en "dimecres que ve"-adverb-ca
+"next Wednesday"-adverb-en "dimecres vinent"-adverb-ca
+"next Wednesday"-adverb-en "el dimecres que ve"-adverb-ca
+"next Wednesday"-adverb-en "el proper dimecres"-adverb-ca
+"dimecres que ve"-adverb-ca "next Wednesday"-adverb-en
+"dimecres que ve"-adverb-ca "the next Wednesday"-adverb-en
+"dimecres vinent"-adverb-ca "next Wednesday"-adverb-en
+"el dimecres que ve"-adverb-ca "next Wednesday"-adverb-en
+"el proper dimecres"-adverb-ca "next Wednesday"-adverb-en
+"el proper dimecres"-adverb-ca "the next Wednesday"-adverb-en
+"the next Wednesday"-adverb-en "dimecres que ve"-adverb-ca
+"the next Wednesday"-adverb-en "el proper dimecres"-adverb-ca
+"next week"-adverb-en "la propera setmana"-adverb-ca
+"next week"-adverb-en "la setmana que ve"-adverb-ca
+"next week"-adverb-en "setmana que ve"-adverb-ca
+"la propera setmana"-adverb-ca "next week"-adverb-en
+"la propera setmana"-adverb-ca "the next week"-adverb-en
+"la setmana que ve"-adverb-ca "next week"-adverb-en
+"setmana que ve"-adverb-ca "next week"-adverb-en
+"the next week"-adverb-en "la propera setmana"-adverb-ca
+"next winter"-adverb-en "el proper hivern"-adverb-ca
+"next winter"-adverb-en "l'hivern que ve"-adverb-ca
+"el proper hivern"-adverb-ca "next winter"-adverb-en
+"el proper hivern"-adverb-ca "the next winter"-adverb-en
+"l'hivern que ve"-adverb-ca "next winter"-adverb-en
+"the next winter"-adverb-en "el proper hivern"-adverb-ca
+"next year"-adverb-en "any que ve"-adverb-ca
+"next year"-adverb-en "el proper any"-adverb-ca
+"any que ve"-adverb-ca "next year"-adverb-en
+"el proper any"-adverb-ca "next year"-adverb-en
+"el proper any"-adverb-ca "the next year"-adverb-en
+"the next year"-adverb-en "el proper any"-adverb-ca
+"night and day"-adverb-en "nit i dia"-adverb-ca
+"nit i dia"-adverb-ca "night and day"-adverb-en
+"nine times out of ten"-adverb-en "nou vegades de cada deu"-adverb-ca
+"nou vegades de cada deu"-adverb-ca "nine times out of ten"-adverb-en
+"ninety-nine times out of a hundred"-adverb-en "noranta-nou vegades de cada cent"-adverb-ca
+"noranta-nou vegades de cada cent"-adverb-ca "ninety-nine times out of a hundred"-adverb-en
+"non-functionally"-adverb-en "no funcionalment"-adverb-ca
+"no funcionalment"-adverb-ca "non-functionally"-adverb-en
+"northeast"-adverb-en "cap al nord-est"-adverb-ca
+"cap al nord-est"-adverb-ca "northeast"-adverb-en
+"north"-adverb-en "cap al nord"-adverb-ca
+"cap al nord"-adverb-ca "north"-adverb-en
+"northwest"-adverb-en "cap al nord-oest"-adverb-ca
+"cap al nord-oest"-adverb-ca "northwest"-adverb-en
+"now more than ever"-adverb-en "ara més que mai"-adverb-ca
+"ara més que mai"-adverb-ca "now more than ever"-adverb-en
+"now or never"-adverb-en "ara o mai"-adverb-ca
+"ara o mai"-adverb-ca "now or never"-adverb-en
+"o'clock"-adverb-en "en punt"-adverb-ca
+"en punt"-adverb-ca "o'clock"-adverb-en
+"en punt"-adverb-ca "on the dot"-adverb-en
+"on the dot"-adverb-en "en punt"-adverb-ca
+"of all time"-adverb-en "de tots els temps"-adverb-ca
+"de tots els temps"-adverb-ca "of all time"-adverb-en
+"per voluntat pròpia"-adverb-ca "voluntarily"-adverb-en
+"voluntarily"-adverb-en "per voluntat pròpia"-adverb-ca
+"off duty"-adverb-en "fora de servei"-adverb-ca
+"fora de servei"-adverb-ca "off duty"-adverb-en
+"often"-adverb-en "tot sovint"-adverb-ca
+"tot sovint"-adverb-ca "often"-adverb-en
+"on a case by case basis"-adverb-en "cas per cas"-adverb-ca
+"cas per cas"-adverb-ca "on a case by case basis"-adverb-en
+"on a shoestring"-adverb-en "amb poquíssim diners"-adverb-ca
+"amb poquíssim diners"-adverb-ca "on a shoestring"-adverb-en
+"on a tightrope"-adverb-en "a la corda fluixa"-adverb-ca
+"a la corda fluixa"-adverb-ca "on a tightrope"-adverb-en
+"on an international scale"-adverb-en "a escala internacional"-adverb-ca
+"a escala internacional"-adverb-ca "on an international scale"-adverb-en
+"on call"-adverb-en "de guàrdia"-adverb-ca
+"de guàrdia"-adverb-ca "on call"-adverb-en
+"on exhibition"-adverb-en "en exposició"-adverb-ca
+"en exposició"-adverb-ca "on exhibition"-adverb-en
+"on holiday"-adverb-en "de vacances"-adverb-ca
+"de vacances"-adverb-ca "on holiday"-adverb-en
+"per la meua banda"-adverb-ca "on my part"-adverb-en
+"per la meva banda"-adverb-ca "on my part"-adverb-en
+"en cap concepte"-adverb-ca "on no account"-adverb-en
+"per la nostra banda"-adverb-ca "on our part"-adverb-en
+"on request"-adverb-en "a sol·licitud"-adverb-ca
+"a sol·licitud"-adverb-ca "on request"-adverb-en
+"on the contrary"-adverb-en "al contrari"-adverb-ca
+"al contrari"-adverb-ca "on the contrary"-adverb-en
+"on the high seas"-adverb-en "en alta mar"-adverb-ca
+"en alta mar"-adverb-ca "on the high seas"-adverb-en
+"a la callada"-adverb-ca "on the quiet"-adverb-en
+"on the same line"-adverb-en "en la mateixa línia"-adverb-ca
+"en la mateixa línia"-adverb-ca "on the same line"-adverb-en
+"d'amagatotis"-adverb-ca "on the sly"-adverb-en
+"on the warpath"-adverb-en "en peu de guerra"-adverb-ca
+"en peu de guerra"-adverb-ca "on the warpath"-adverb-en
+"on the way"-adverb-en "en el camí"-adverb-ca
+"en el camí"-adverb-ca "on the way"-adverb-en
+"once a day"-adverb-en "una vegada al dia"-adverb-ca
+"once a day"-adverb-en "un cop al dia"-adverb-ca
+"una vegada al dia"-adverb-ca "once a day"-adverb-en
+"un cop al dia"-adverb-ca "once a day"-adverb-en
+"once a month"-adverb-en "una vegada al mes"-adverb-ca
+"una vegada al mes"-adverb-ca "once a month"-adverb-en
+"once a week"-adverb-en "una vegada a la setmana"-adverb-ca
+"once a week"-adverb-en "un cop a la setmana"-adverb-ca
+"una vegada a la setmana"-adverb-ca "once a week"-adverb-en
+"un cop a la setmana"-adverb-ca "once a week"-adverb-en
+"once a year"-adverb-en "una vegada a l'any"-adverb-ca
+"once a year"-adverb-en "un cop l'any"-adverb-ca
+"una vegada a l'any"-adverb-ca "once a year"-adverb-en
+"un cop l'any"-adverb-ca "once a year"-adverb-en
+"once again"-adverb-en "un cop més"-adverb-ca
+"un cop més"-adverb-ca "once again"-adverb-en
+"de tard en tard"-adverb-ca "once in a blue moon"-adverb-en
+"one by one"-adverb-en "d'un en un"-adverb-ca
+"one by one"-adverb-en "un per un"-adverb-ca
+"d'un en un"-adverb-ca "one by one"-adverb-en
+"un per un"-adverb-ca "one by one"-adverb-en
+"onward"-adverb-en "cap avant"-adverb-ca
+"cap avant"-adverb-ca "onward"-adverb-en
+"cap avant"-adverb-ca "onwards"-adverb-en
+"onwards"-adverb-en "cap avant"-adverb-ca
+"out of breath"-adverb-en "sense alè"-adverb-ca
+"sense alè"-adverb-ca "out of breath"-adverb-en
+"out of context"-adverb-en "fora de context"-adverb-ca
+"fora de context"-adverb-ca "out of context"-adverb-en
+"out of control"-adverb-en "fora de control"-adverb-ca
+"fora de control"-adverb-ca "out of control"-adverb-en
+"out of harm's way"-adverb-en "fora del perill"-adverb-ca
+"fora del perill"-adverb-ca "out of harm's way"-adverb-en
+"out of place"-adverb-en "fora de lloc"-adverb-ca
+"fora de lloc"-adverb-ca "out of place"-adverb-en
+"fora de lloc"-adverb-ca "out of position"-adverb-en
+"fora de lloc"-adverb-ca "out of turn"-adverb-en
+"out of position"-adverb-en "fora de lloc"-adverb-ca
+"out of turn"-adverb-en "fora de lloc"-adverb-ca
+"out of season"-adverb-en "fora de temporada"-adverb-ca
+"fora de temporada"-adverb-ca "out of season"-adverb-en
+"out of sorts"-adverb-en "a mal borràs"-adverb-ca
+"out of sorts"-adverb-en "de mal borràs"-adverb-ca
+"a mal borràs"-adverb-ca "out of sorts"-adverb-en
+"de mal borràs"-adverb-ca "out of sorts"-adverb-en
+"over my dead body"-adverb-en "per sobre del meu cadàver"-adverb-ca
+"per sobre del meu cadàver"-adverb-ca "over my dead body"-adverb-en
+"over time"-adverb-en "amb el temps"-adverb-ca
+"amb el temps"-adverb-ca "over time"-adverb-en
+"per person"-adverb-en "per persona"-adverb-ca
+"per persona"-adverb-ca "per person"-adverb-en
+"permanently"-adverb-en "de forma permanent"-adverb-ca
+"de forma permanent"-adverb-ca "permanently"-adverb-en
+"plausibly"-adverb-en "factiblement"-adverb-ca
+"factiblement"-adverb-ca "plausibly"-adverb-en
+"a crema-roba"-adverb-ca "point-blank"-adverb-en
+"a frec de roba"-adverb-ca "point-blank"-adverb-en
+"poorly"-adverb-en "pobrament"-adverb-ca
+"pobrament"-adverb-ca "poorly"-adverb-en
+"pobrament"-adverb-ca "shabbily"-adverb-en
+"shabbily"-adverb-en "pobrament"-adverb-ca
+"preceptively"-adverb-en "preceptivament"-adverb-ca
+"preceptivament"-adverb-ca "preceptively"-adverb-en
+"prestissimo"-adverb-en "prestissimo"-adverb-ca
+"prestissimo"-adverb-ca "prestissimo"-adverb-en
+"presto"-adverb-en "presto"-adverb-ca
+"presto"-adverb-ca "presto"-adverb-en
+"pro tempore"-adverb-en "pro tempore"-adverb-ca
+"pro tempore"-adverb-ca "pro tempore"-adverb-en
+"proudly"-adverb-en "amb orgull"-adverb-ca
+"amb orgull"-adverb-ca "proudly"-adverb-en
+"quietly"-adverb-en "calladament"-adverb-ca
+"calladament"-adverb-ca "quietly"-adverb-en
+"malgrat tot"-adverb-ca "regardless"-adverb-en
+"reliably"-adverb-en "de manera fiable"-adverb-ca
+"de manera fiable"-adverb-ca "reliably"-adverb-en
+"reportedly"-adverb-en "segons es diu"-adverb-ca
+"segons es diu"-adverb-ca "reportedly"-adverb-en
+"right at the end"-adverb-en "just al final"-adverb-ca
+"just al final"-adverb-ca "right at the end"-adverb-en
+"rightwards"-adverb-en "cap a la dreta"-adverb-ca
+"cap a la dreta"-adverb-ca "rightwards"-adverb-en
+"routinely"-adverb-en "rutinàriament"-adverb-ca
+"rutinàriament"-adverb-ca "routinely"-adverb-en
+"safely"-adverb-en "de forma segura"-adverb-ca
+"de forma segura"-adverb-ca "safely"-adverb-en
+"sarcastically"-adverb-en "amb sarcasme"-adverb-ca
+"amb sarcasme"-adverb-ca "sarcastically"-adverb-en
+"scantily"-adverb-en "curtament"-adverb-ca
+"curtament"-adverb-ca "scantily"-adverb-en
+"scherzando"-adverb-en "scherzando"-adverb-ca
+"scherzando"-adverb-ca "scherzando"-adverb-en
+"separately"-adverb-en "per separat"-adverb-ca
+"per separat"-adverb-ca "separately"-adverb-en
+"sharply"-adverb-en "agudament"-adverb-ca
+"agudament"-adverb-ca "sharply"-adverb-en
+"shortly"-adverb-en "abans de gaire"-adverb-ca
+"shortly"-adverb-en "d'aquí a una mica"-adverb-ca
+"shortly"-adverb-en "en breu"-adverb-ca
+"abans de gaire"-adverb-ca "shortly"-adverb-en
+"d'aquí a una mica"-adverb-ca "shortly"-adverb-en
+"en breu"-adverb-ca "shortly"-adverb-en
+"sine die"-adverb-en "sine die"-adverb-ca
+"sine die"-adverb-ca "sine die"-adverb-en
+"slowly"-adverb-en "lent"-adverb-ca
+"lent"-adverb-ca "slowly"-adverb-en
+"so little"-adverb-en "tan poc"-adverb-ca
+"tan poc"-adverb-ca "so little"-adverb-en
+"sometime"-adverb-en "algun cop"-adverb-ca
+"algun cop"-adverb-ca "sometime"-adverb-en
+"sotto voce"-adverb-en "sotto voce"-adverb-ca
+"sotto voce"-adverb-ca "sotto voce"-adverb-en
+"southeast"-adverb-en "cap al sud-est"-adverb-ca
+"cap al sud-est"-adverb-ca "southeast"-adverb-en
+"south"-adverb-en "cap al sud"-adverb-ca
+"cap al sud"-adverb-ca "south"-adverb-en
+"southwest"-adverb-en "cap al sud-oest"-adverb-ca
+"cap al sud-oest"-adverb-ca "southwest"-adverb-en
+"spontaneously"-adverb-en "de forma espontània"-adverb-ca
+"de forma espontània"-adverb-ca "spontaneously"-adverb-en
+"squatting"-adverb-en "a la gatzoneta"-adverb-ca
+"a la gatzoneta"-adverb-ca "squatting"-adverb-en
+"pas a pas"-adverb-ca "step by step"-adverb-en
+"step by step"-adverb-en "pas a pas"-adverb-ca
+"incondicionalment"-adverb-ca "unconditionally"-adverb-en
+"unconditionally"-adverb-en "incondicionalment"-adverb-ca
+"straight"-adverb-en "a seques"-adverb-ca
+"a seques"-adverb-ca "straight"-adverb-en
+"stupendously"-adverb-en "estupendament"-adverb-ca
+"estupendament"-adverb-ca "stupendously"-adverb-en
+"such and such"-adverb-en "tal i tal"-adverb-ca
+"tal i tal"-adverb-ca "such and such"-adverb-en
+"suddenly"-adverb-en "de colp i volta"-adverb-ca
+"suddenly"-adverb-en "de cop i volta"-adverb-ca
+"suddenly"-adverb-en "tot d'una"-adverb-ca
+"de colp i volta"-adverb-ca "suddenly"-adverb-en
+"de cop i volta"-adverb-ca "suddenly"-adverb-en
+"tot d'una"-adverb-ca "suddenly"-adverb-en
+"summarily"-adverb-en "sumàriament"-adverb-ca
+"sumàriament"-adverb-ca "summarily"-adverb-en
+"suspiciously"-adverb-en "cavil·losament"-adverb-ca
+"cavil·losament"-adverb-ca "suspiciously"-adverb-en
+"tandem"-adverb-en "en tàndem"-adverb-ca
+"en tàndem"-adverb-ca "tandem"-adverb-en
+"taxonomically"-adverb-en "taxonomicament"-adverb-ca
+"taxonomicament"-adverb-ca "taxonomically"-adverb-en
+"telephonically"-adverb-en "via telefònica"-adverb-ca
+"via telefònica"-adverb-ca "telephonically"-adverb-en
+"the day after tomorrow"-adverb-en "despús-ahir"-adverb-ca
+"the day after tomorrow"-adverb-en "despús-demà"-adverb-ca
+"despús-ahir"-adverb-ca "the day after tomorrow"-adverb-en
+"despús-ahir"-adverb-ca "the day before yesterday"-adverb-en
+"despús-demà"-adverb-ca "the day after tomorrow"-adverb-en
+"the day before yesterday"-adverb-en "despús-ahir"-adverb-ca
+"the day before yesterday"-adverb-en "dellà-ahir"-adverb-ca
+"the day after"-adverb-en "el dia després"-adverb-ca
+"el dia després"-adverb-ca "the day after"-adverb-en
+"dellà-ahir"-adverb-ca "the day before yesterday"-adverb-en
+"the day before"-adverb-en "el dia abans"-adverb-ca
+"el dia abans"-adverb-ca "the day before"-adverb-en
+"the evening before"-adverb-en "el vespre abans"-adverb-ca
+"el vespre abans"-adverb-ca "the evening before"-adverb-en
+"the last time"-adverb-en "l'última vegada"-adverb-ca
+"l'última vegada"-adverb-ca "the last time"-adverb-en
+"the other afternoon"-adverb-en "l'altra tarda"-adverb-ca
+"the other afternoon"-adverb-en "l'altra vesprada"-adverb-ca
+"l'altra tarda"-adverb-ca "the other afternoon"-adverb-en
+"l'altra vesprada"-adverb-ca "the other afternoon"-adverb-en
+"the other day"-adverb-en "l'altre dia"-adverb-ca
+"l'altre dia"-adverb-ca "the other day"-adverb-en
+"the other evening"-adverb-en "l'altre vespre"-adverb-ca
+"l'altre vespre"-adverb-ca "the other evening"-adverb-en
+"the other morning"-adverb-en "l'altre matí"-adverb-ca
+"l'altre matí"-adverb-ca "the other morning"-adverb-en
+"the other week"-adverb-en "l'altra setmana"-adverb-ca
+"l'altra setmana"-adverb-ca "the other week"-adverb-en
+"the way things are going"-adverb-en "tal com van les coses"-adverb-ca
+"tal com van les coses"-adverb-ca "the way things are going"-adverb-en
+"this afternoon"-adverb-en "aquesta tarda"-adverb-ca
+"this afternoon"-adverb-en "aquesta vesprada"-adverb-ca
+"aquesta tarda"-adverb-ca "this afternoon"-adverb-en
+"aquesta vesprada"-adverb-ca "this afternoon"-adverb-en
+"this evening"-adverb-en "aquest vespre"-adverb-ca
+"aquest vespre"-adverb-ca "this evening"-adverb-en
+"this noon"-adverb-en "aquest migdia"-adverb-ca
+"aquest migdia"-adverb-ca "this noon"-adverb-en
+"thrice"-adverb-en "tres vegades"-adverb-ca
+"tres vegades"-adverb-ca "thrice"-adverb-en
+"through thick and thin"-adverb-en "de manera incondicional"-adverb-ca
+"de manera incondicional"-adverb-ca "through thick and thin"-adverb-en
+"through word of mouth"-adverb-en "de boca en boca"-adverb-ca
+"de boca en boca"-adverb-ca "through word of mouth"-adverb-en
+"tightly"-adverb-en "atapeïdament"-adverb-ca
+"atapeïdament"-adverb-ca "tightly"-adverb-en
+"till lately"-adverb-en "fins fa poc"-adverb-ca
+"fins fa poc"-adverb-ca "till lately"-adverb-en
+"tirelessly"-adverb-en "incansablement"-adverb-ca
+"incansablement"-adverb-ca "tirelessly"-adverb-en
+"incansablement"-adverb-ca "untiringly"-adverb-en
+"incansablement"-adverb-ca "unwearyingly"-adverb-en
+"untiringly"-adverb-en "incansablement"-adverb-ca
+"unwearyingly"-adverb-en "incansablement"-adverb-ca
+"to a high degree"-adverb-en "en alt grau"-adverb-ca
+"en alt grau"-adverb-ca "to a high degree"-adverb-en
+"to a large extent"-adverb-en "en gran manera"-adverb-ca
+"en gran manera"-adverb-ca "to a large extent"-adverb-en
+"to be exact"-adverb-en "per ser exactes"-adverb-ca
+"per ser exactes"-adverb-ca "to be exact"-adverb-en
+"to be frank"-adverb-en "per ser francs"-adverb-ca
+"per ser francs"-adverb-ca "to be frank"-adverb-en
+"to tell the truth"-adverb-en "si hem d'ésser francs"-adverb-ca
+"si hem d'ésser francs"-adverb-ca "to tell the truth"-adverb-en
+"to the end"-adverb-en "cap al final"-adverb-ca
+"cap al final"-adverb-ca "to the end"-adverb-en
+"to the top"-adverb-en "fins al capdamunt"-adverb-ca
+"fins al capdamunt"-adverb-ca "to the top"-adverb-en
+"to the utmost"-adverb-en "amb totes les forces"-adverb-ca
+"amb totes les forces"-adverb-ca "to the utmost"-adverb-en
+"tomorrow afternoon"-adverb-en "demà a la vesprada"-adverb-ca
+"demà a la vesprada"-adverb-ca "tomorrow afternoon"-adverb-en
+"too close up"-adverb-en "massa a prop"-adverb-ca
+"massa a prop"-adverb-ca "too close up"-adverb-en
+"too late"-adverb-en "massa tard"-adverb-ca
+"massa tard"-adverb-ca "too late"-adverb-en
+"tremendously"-adverb-en "tremendament"-adverb-ca
+"tremendament"-adverb-ca "tremendously"-adverb-en
+"twice a day"-adverb-en "dues vegades al dia"-adverb-ca
+"dues vegades al dia"-adverb-ca "twice a day"-adverb-en
+"twice a month"-adverb-en "dues vegades al mes"-adverb-ca
+"dues vegades al mes"-adverb-ca "twice a month"-adverb-en
+"twice a year"-adverb-en "dues vegades a l'any"-adverb-ca
+"dues vegades a l'any"-adverb-ca "twice a year"-adverb-en
+"two by two"-adverb-en "de dos en dos"-adverb-ca
+"de dos en dos"-adverb-ca "two by two"-adverb-en
+"unawares"-adverb-en "per sorpresa"-adverb-ca
+"per sorpresa"-adverb-ca "unawares"-adverb-en
+"undeniably"-adverb-en "innegablement"-adverb-ca
+"innegablement"-adverb-ca "undeniably"-adverb-en
+"under contract"-adverb-en "sota contracte"-adverb-ca
+"sota contracte"-adverb-ca "under contract"-adverb-en
+"under control"-adverb-en "sota control"-adverb-ca
+"sota control"-adverb-ca "under control"-adverb-en
+"under licence"-adverb-en "sota llicència"-adverb-ca
+"sota llicència"-adverb-ca "under licence"-adverb-en
+"under no circumstances"-adverb-en "en cap circumstància"-adverb-ca
+"en cap circumstància"-adverb-ca "under no circumstances"-adverb-en
+"under the counter"-adverb-en "per sota mà"-adverb-ca
+"per sota mà"-adverb-ca "under the counter"-adverb-en
+"under the influence"-adverb-en "sota la influència"-adverb-ca
+"sota la influència"-adverb-ca "under the influence"-adverb-en
+"under the same roof"-adverb-en "sota el mateix sostre"-adverb-ca
+"sota el mateix sostre"-adverb-ca "under the same roof"-adverb-en
+"uneasily"-adverb-en "inquietament"-adverb-ca
+"inquietament"-adverb-ca "uneasily"-adverb-en
+"unexpectedly"-adverb-en "a la impensada"-adverb-ca
+"a la impensada"-adverb-ca "unexpectedly"-adverb-en
+"unnecessarily"-adverb-en "unnecessàriament"-adverb-ca
+"unnecessàriament"-adverb-ca "unnecessarily"-adverb-en
+"unsurprisingly"-adverb-en "sense sorpresa"-adverb-ca
+"sense sorpresa"-adverb-ca "unsurprisingly"-adverb-en
+"until further notice"-adverb-en "fins a un altre avís"-adverb-ca
+"fins a un altre avís"-adverb-ca "until further notice"-adverb-en
+"until further orders"-adverb-en "fins a una altra ordre"-adverb-ca
+"fins a una altra ordre"-adverb-ca "until further orders"-adverb-en
+"until no more is needed nor desired"-adverb-en "fins a la sacietat"-adverb-ca
+"fins a la sacietat"-adverb-ca "until no more is needed nor desired"-adverb-en
+"up to a point"-adverb-en "fins a un cert punt"-adverb-ca
+"fins a un cert punt"-adverb-ca "up to a point"-adverb-en
+"upstairs"-adverb-en "al pis de dalt"-adverb-ca
+"al pis de dalt"-adverb-ca "upstairs"-adverb-en
+"upwards"-adverb-en "enlaire"-adverb-ca
+"enlaire"-adverb-ca "upwards"-adverb-en
+"molt aviat"-adverb-ca "very soon"-adverb-en
+"vividly"-adverb-en "vívidament"-adverb-ca
+"vívidament"-adverb-ca "vividly"-adverb-en
+"feblement"-adverb-ca "weakly"-adverb-en
+"week by week"-adverb-en "setmana a setmana"-adverb-ca
+"setmana a setmana"-adverb-ca "week by week"-adverb-en
+"west"-adverb-en "cap a l'oest"-adverb-ca
+"cap a l'oest"-adverb-ca "west"-adverb-en
+"whatever happens"-adverb-en "passada el que passi"-adverb-ca
+"passada el que passi"-adverb-ca "whatever happens"-adverb-en
+"where appropriate"-adverb-en "on pertoqui"-adverb-ca
+"where appropriate"-adverb-en "quan escaigui"-adverb-ca
+"on pertoqui"-adverb-ca "where appropriate"-adverb-en
+"quan escaigui"-adverb-ca "where appropriate"-adverb-en
+"wide open"-adverb-en "de bat a bat"-adverb-ca
+"de bat a bat"-adverb-ca "wide open"-adverb-en
+"widthways"-adverb-en "a l'ample"-adverb-ca
+"a l'ample"-adverb-ca "widthways"-adverb-en
+"willingly or by force"-adverb-en "de grau o per força"-adverb-ca
+"de grau o per força"-adverb-ca "willingly or by force"-adverb-en
+"willingly"-adverb-en "bonament"-adverb-ca
+"willingly"-adverb-en "molt de grat"-adverb-ca
+"bonament"-adverb-ca "willingly"-adverb-en
+"molt de grat"-adverb-ca "willingly"-adverb-en
+"wisely"-adverb-en "amb saviesa"-adverb-ca
+"amb saviesa"-adverb-ca "wisely"-adverb-en
+"with a smile"-adverb-en "amb un somriure"-adverb-ca
+"amb un somriure"-adverb-ca "with a smile"-adverb-en
+"with any luck"-adverb-en "amb una mica de sort"-adverb-ca
+"amb una mica de sort"-adverb-ca "with any luck"-adverb-en
+"with each passing day"-adverb-en "cada dia que passa"-adverb-ca
+"cada dia que passa"-adverb-ca "with each passing day"-adverb-en
+"with great difficulty"-adverb-en "amb gran dificultat"-adverb-ca
+"amb gran dificultat"-adverb-ca "with great difficulty"-adverb-en
+"with great pain"-adverb-en "amb gran dolor"-adverb-ca
+"amb gran dolor"-adverb-ca "with great pain"-adverb-en
+"with hindsight"-adverb-en "a posteriori"-adverb-ca
+"a posteriori"-adverb-ca "with hindsight"-adverb-en
+"with luck"-adverb-en "amb sort"-adverb-ca
+"amb sort"-adverb-ca "with luck"-adverb-en
+"with no conditions"-adverb-en "sense condicions"-adverb-ca
+"sense condicions"-adverb-ca "with no conditions"-adverb-en
+"with one accord"-adverb-en "de comú acord"-adverb-ca
+"with one accord"-adverb-en "de mutu acord"-adverb-ca
+"de comú acord"-adverb-ca "with one accord"-adverb-en
+"de mutu acord"-adverb-ca "with one accord"-adverb-en
+"with the whole family"-adverb-en "amb tota la família"-adverb-ca
+"amb tota la família"-adverb-ca "with the whole family"-adverb-en
+"with utmost difficulty"-adverb-en "a males penes"-adverb-ca
+"a males penes"-adverb-ca "with utmost difficulty"-adverb-en
+"within a matter of minutes"-adverb-en "en qüestió de minuts"-adverb-ca
+"en qüestió de minuts"-adverb-ca "within a matter of minutes"-adverb-en
+"within sight distance"-adverb-en "a l'abast de la vista"-adverb-ca
+"a l'abast de la vista"-adverb-ca "within sight distance"-adverb-en
+"without a purpose"-adverb-en "sense cap propòsit"-adverb-ca
+"sense cap propòsit"-adverb-ca "without a purpose"-adverb-en
+"without having anything to do with it"-adverb-en "sense moure un dit"-adverb-ca
+"sense moure un dit"-adverb-ca "without having anything to do with it"-adverb-en
+"without prior notice"-adverb-en "sense previ avís"-adverb-ca
+"sense previ avís"-adverb-ca "without prior notice"-adverb-en
+"without reservation"-adverb-en "sense reserves"-adverb-ca
+"sense reserves"-adverb-ca "without reservation"-adverb-en
+"wonderfully"-adverb-en "d'allò més bé"-adverb-ca
+"d'allò més bé"-adverb-ca "wonderfully"-adverb-en
+"word for word"-adverb-en "paraula per paraula"-adverb-ca
+"paraula per paraula"-adverb-ca "word for word"-adverb-en
+"yesterday afternoon"-adverb-en "ahir a la vesprada"-adverb-ca
+"ahir a la vesprada"-adverb-ca "yesterday afternoon"-adverb-en
+"bingo"-interjection-en "bingo"-interjection-ca
+"bingo"-interjection-ca "bingo"-interjection-en
+"congratulations"-interjection-en "l'enhorabona"-interjection-ca
+"l'enhorabona"-interjection-ca "congratulations"-interjection-en
+"good afternoon"-interjection-en "bona tarda"-interjection-ca
+"bona tarda"-interjection-ca "good afternoon"-interjection-en
+"good night"-interjection-en "bona nit"-interjection-ca
+"bona nit"-interjection-ca "good night"-interjection-en
+"hallelujah"-interjection-en "al·leluia"-interjection-ca
+"al·leluia"-interjection-ca "hallelujah"-interjection-en
+"see you later"-interjection-en "fins ara"-interjection-ca
+"fins ara"-interjection-ca "see you later"-interjection-en
+"wow"-interjection-en "renoi"-interjection-ca
+"renoi"-interjection-ca "wow"-interjection-en
+"just across"-preposition-en "al otro lado de"-preposition-ca
+"al otro lado de"-preposition-ca "just across"-preposition-en
+"straight across"-preposition-en "directe a través de"-preposition-ca
+"directe a través de"-preposition-ca "straight across"-preposition-en
+"at a rate of"-preposition-en "a raó de"-preposition-ca
+"a raó de"-preposition-ca "at a rate of"-preposition-en
+"at the expense of"-preposition-en "a costa de"-preposition-ca
+"a costa de"-preposition-ca "at the expense of"-preposition-en
+"by dint of"-preposition-en "a força de"-preposition-ca
+"a força de"-preposition-ca "by dint of"-preposition-en
+"in compliance with"-preposition-en "de conformitat amb"-preposition-ca
+"de conformitat amb"-preposition-ca "in compliance with"-preposition-en
+"in order of"-preposition-en "per ordre de"-preposition-ca
+"per ordre de"-preposition-ca "in order of"-preposition-en
+"in pursuit of"-preposition-en "en persecució de"-preposition-ca
+"en persecució de"-preposition-ca "in pursuit of"-preposition-en
+"less than"-preposition-en "menys que"-preposition-ca
+"menys que"-preposition-ca "less than"-preposition-en
+"owing to"-preposition-en "per causa de"-preposition-ca
+"per causa de"-preposition-ca "owing to"-preposition-en
+"right in front of"-preposition-en "just davant de"-preposition-ca
+"just davant de"-preposition-ca "right in front of"-preposition-en
+"throughout"-preposition-en "per tot"-preposition-ca
+"per tot"-preposition-ca "throughout"-preposition-en
+"with a view to"-preposition-en "amb vista a"-preposition-ca
+"amb vista a"-preposition-ca "with a view to"-preposition-en
+"both"-coordinatingConjunction-en "tant"-coordinatingConjunction-ca
+"tant"-coordinatingConjunction-ca "both"-coordinatingConjunction-en
+"a shitload of"-determiner-en "una pila de"-determiner-ca
+"una pila de"-determiner-ca "a shitload of"-determiner-en
+"more than half of"-determiner-en "més de la meitat de"-determiner-ca
+"més de la meitat de"-determiner-ca "more than half of"-determiner-en
+"every"-determiner-en "tot"-determiner-ca
+"tot"-determiner-ca "every"-determiner-en
+"whose"-determiner-en "de qui"-determiner-ca
+"de qui"-determiner-ca "whose"-determiner-en
+"another"-pronoun-en "un altre"-pronoun-ca
+"un altre"-pronoun-ca "another"-pronoun-en
+"un altre"-pronoun-ca "another one"-pronoun-en
+"un altre"-pronoun-ca "others"-pronoun-en
+"another one"-pronoun-en "un altre"-pronoun-ca
+"others"-pronoun-en "un altre"-pronoun-ca
+"others"-pronoun-en "altres"-pronoun-ca
+"both"-pronoun-en "tots dos"-pronoun-ca
+"tots dos"-pronoun-ca "both"-pronoun-en
+"many"-pronoun-en "gaire"-pronoun-ca
+"gaire"-pronoun-ca "many"-pronoun-en
+"most"-pronoun-en "la majoria"-pronoun-ca
+"la majoria"-pronoun-ca "most"-pronoun-en
+"altres"-pronoun-ca "others"-pronoun-en
+"the one"-pronoun-en "la"-pronoun-ca
+"la"-pronoun-ca "the one"-pronoun-en
+"whose"-pronoun-en "de qui"-pronoun-ca
+"de qui"-pronoun-ca "whose"-pronoun-en
+"de qui"-pronoun-ca "whose"-relativePronoun-en
+"whose"-relativePronoun-en "de qui"-pronoun-ca
+"a billion"-numeral-en "un bilió"-numeral-ca
+"a billion"-numeral-en "mil milions"-numeral-ca
+"un bilió"-numeral-ca "a billion"-numeral-en
+"un bilió"-numeral-ca "one billion"-numeral-en
+"mil milions"-numeral-ca "a billion"-numeral-en
+"mil milions"-numeral-ca "billion"-numeral-en
+"one billion"-numeral-en "un bilió"-numeral-ca
+"one billion"-numeral-en "un bilió de"-numeral-ca
+"billion"-numeral-en "mil milions"-numeral-ca
+"billion"-numeral-en "bilió"-numeral-ca
+"billion"-numeral-en "bilió de"-numeral-ca
+"billion"-numeral-en "mil milions de"-numeral-ca
+"a million"-numeral-en "un milió"-numeral-ca
+"un milió"-numeral-ca "a million"-numeral-en
+"un milió"-numeral-ca "one million"-numeral-en
+"one million"-numeral-en "un milió"-numeral-ca
+"one million"-numeral-en "un milió de"-numeral-ca
+"bilió"-numeral-ca "billion"-numeral-en
+"bilió de"-numeral-ca "billion"-numeral-en
+"mil milions de"-numeral-ca "billion"-numeral-en
+"eighteen hundred"-numeral-en "mil vuit-cents"-numeral-ca
+"mil vuit-cents"-numeral-ca "eighteen hundred"-numeral-en
+"eighteen thousand"-numeral-en "divuit mil"-numeral-ca
+"divuit mil"-numeral-ca "eighteen thousand"-numeral-en
+"eleven hundred"-numeral-en "mil cent"-numeral-ca
+"mil cent"-numeral-ca "eleven hundred"-numeral-en
+"eleven thousand"-numeral-en "onze mil"-numeral-ca
+"onze mil"-numeral-ca "eleven thousand"-numeral-en
+"fifteen hundred"-numeral-en "mil cinc-cents"-numeral-ca
+"mil cinc-cents"-numeral-ca "fifteen hundred"-numeral-en
+"fifteen thousand"-numeral-en "quinze mil"-numeral-ca
+"quinze mil"-numeral-ca "fifteen thousand"-numeral-en
+"fourteen hundred"-numeral-en "mil quatre-cents"-numeral-ca
+"mil quatre-cents"-numeral-ca "fourteen hundred"-numeral-en
+"fourteen thousand"-numeral-en "catorze mil"-numeral-ca
+"catorze mil"-numeral-ca "fourteen thousand"-numeral-en
+"million"-numeral-en "milió"-numeral-ca
+"million"-numeral-en "milió de"-numeral-ca
+"milió"-numeral-ca "million"-numeral-en
+"milió de"-numeral-ca "million"-numeral-en
+"nineteen hundred"-numeral-en "mil nou-cents"-numeral-ca
+"mil nou-cents"-numeral-ca "nineteen hundred"-numeral-en
+"nineteen thousand"-numeral-en "dinou mil"-numeral-ca
+"dinou mil"-numeral-ca "nineteen thousand"-numeral-en
+"un bilió de"-numeral-ca "one billion"-numeral-en
+"un milió de"-numeral-ca "one million"-numeral-en
+"seventeen hundred"-numeral-en "mil set-cents"-numeral-ca
+"mil set-cents"-numeral-ca "seventeen hundred"-numeral-en
+"seventeen thousand"-numeral-en "disset mil"-numeral-ca
+"disset mil"-numeral-ca "seventeen thousand"-numeral-en
+"sixteen hundred"-numeral-en "mil sis-cents"-numeral-ca
+"mil sis-cents"-numeral-ca "sixteen hundred"-numeral-en
+"sixteen thousand"-numeral-en "setze mil"-numeral-ca
+"setze mil"-numeral-ca "sixteen thousand"-numeral-en
+"ten thousand"-numeral-en "deu mil"-numeral-ca
+"deu mil"-numeral-ca "ten thousand"-numeral-en
+"thirteen hundred"-numeral-en "mil tres-cents"-numeral-ca
+"mil tres-cents"-numeral-ca "thirteen hundred"-numeral-en
+"thirteen thousand"-numeral-en "tretze mil"-numeral-ca
+"tretze mil"-numeral-ca "thirteen thousand"-numeral-en
+"twelve hundred"-numeral-en "mil dos-cents"-numeral-ca
+"mil dos-cents"-numeral-ca "twelve hundred"-numeral-en
+"twelve thousand"-numeral-en "dotze mil"-numeral-ca
+"dotze mil"-numeral-ca "twelve thousand"-numeral-en
+"Euskadi Irratia"-properNoun-en "Euskadi Irratia"-properNoun-ca
+"Euskadi Irratia"-properNoun-ca "Euskadi Irratia"-properNoun-en
+"Federation of Cantabria"-properNoun-en "Federació Càntabra"-properNoun-ca
+"Federació Càntabra"-properNoun-ca "Federation of Cantabria"-properNoun-en
+"Ondartza Society"-properNoun-en "Societat Ondartza"-properNoun-ca
+"Societat Ondartza"-properNoun-ca "Ondartza Society"-properNoun-en
+"Fishermen's museum"-properNoun-en "Museu del Pescador"-properNoun-ca
+"Museu del Pescador"-properNoun-ca "Fishermen's museum"-properNoun-en
+"Chile room"-properNoun-en "Sala Xile"-properNoun-ca
+"Sala Xile"-properNoun-ca "Chile room"-properNoun-en
+"Inmobiliaria Orio"-properNoun-en "Immobiliària Orio"-properNoun-ca
+"Immobiliària Orio"-properNoun-ca "Inmobiliaria Orio"-properNoun-en
+"San Pedro"-properNoun-en "Sant Pere"-properNoun-ca
+"Sant Pere"-properNoun-ca "San Pedro"-properNoun-en
+"Pasajes San Juan"-properNoun-en "Passatges Sant Joan"-properNoun-ca
+"Passatges Sant Joan"-properNoun-ca "Pasajes San Juan"-properNoun-en
+"Pasajes San Pedro"-properNoun-en "Passatges Sant Pere"-properNoun-ca
+"Passatges Sant Pere"-properNoun-ca "Pasajes San Pedro"-properNoun-en
+"Seguros Zurich"-properNoun-en "Seguros Zurich"-properNoun-ca
+"Seguros Zurich"-properNoun-ca "Seguros Zurich"-properNoun-en
+"Servicristal"-properNoun-en "Servicristal"-properNoun-ca
+"Servicristal"-properNoun-ca "Servicristal"-properNoun-en
+"Super BM"-properNoun-en "Super BM"-properNoun-ca
+"Super BM"-properNoun-ca "Super BM"-properNoun-en
+"Talaiberri Txakolindegia"-properNoun-en "Talaiberri Txakolindegia"-properNoun-ca
+"Talaiberri Txakolindegia"-properNoun-ca "Talaiberri Txakolindegia"-properNoun-en
+"Tirán"-properNoun-en "Tirán"-properNoun-ca
+"Tirán"-properNoun-ca "Tirán"-properNoun-en
+"Tostartean"-properNoun-en "Tostartean"-properNoun-ca
+"Tostartean"-properNoun-ca "Tostartean"-properNoun-en
+"Trintxerpe"-properNoun-en "Trintxerpe"-properNoun-ca
+"Trintxerpe"-properNoun-ca "Trintxerpe"-properNoun-en
+"Trintxerpeko"-properNoun-en "Trintxerpeko"-properNoun-ca
+"Trintxerpeko"-properNoun-ca "Trintxerpeko"-properNoun-en
+"Umpro"-properNoun-en "Umpro"-properNoun-ca
+"Umpro"-properNoun-ca "Umpro"-properNoun-en
+"Ur Kirolak"-properNoun-en "Ur Kirolak"-properNoun-ca
+"Ur Kirolak"-properNoun-ca "Ur Kirolak"-properNoun-en
+"Urcabal"-properNoun-en "Urcabal"-properNoun-ca
+"Urcabal"-properNoun-ca "Urcabal"-properNoun-en
+"Urdaibai"-properNoun-en "Urdaibai"-properNoun-ca
+"Urdaibai"-properNoun-ca "Urdaibai"-properNoun-en
+"Urdiales"-properNoun-en "Urdiales"-properNoun-ca
+"Urdiales"-properNoun-ca "Urdiales"-properNoun-en
+"Zurich"-properNoun-en "Zurich"-properNoun-ca
+"Zurich"-properNoun-ca "Zurich"-properNoun-en
+"ACT"-properNoun-en "ACT"-properNoun-ca
+"ACT"-properNoun-ca "ACT"-properNoun-en
+"AOL"-properNoun-en "AOL"-properNoun-ca
+"AOL"-properNoun-ca "AOL"-properNoun-en
+"Mecos Mondariz"-properNoun-en "Mecos Mondariz"-properNoun-ca
+"Mecos Mondariz"-properNoun-ca "Mecos Mondariz"-properNoun-en
+"Naturhouse"-properNoun-en "Naturhouse"-properNoun-ca
+"Naturhouse"-properNoun-ca "Naturhouse"-properNoun-en
+"Naturhouse Castro"-properNoun-en "Naturhouse Castro"-properNoun-ca
+"Naturhouse Castro"-properNoun-ca "Naturhouse Castro"-properNoun-en
+"Open Directory"-properNoun-en "Open Directory"-properNoun-ca
+"Open Directory"-properNoun-ca "Open Directory"-properNoun-en
+"Orioko Txanpa"-properNoun-en "Orioko Txanpa"-properNoun-ca
+"Orioko Txanpa"-properNoun-ca "Orioko Txanpa"-properNoun-en
+"Pasquier"-properNoun-en "Pasquier"-properNoun-ca
+"Pasquier"-properNoun-ca "Pasquier"-properNoun-en
+"Relax"-properNoun-en "Relax"-properNoun-ca
+"Relax"-properNoun-ca "Relax"-properNoun-en
+"Aiten Etxe"-properNoun-en "Aiten Etxe"-properNoun-ca
+"Aiten Etxe"-properNoun-ca "Aiten Etxe"-properNoun-en
+"Algorri"-properNoun-en "Algorri"-properNoun-ca
+"Algorri"-properNoun-ca "Algorri"-properNoun-en
+"Ambilamp"-properNoun-en "Ambilamp"-properNoun-ca
+"Ambilamp"-properNoun-ca "Ambilamp"-properNoun-en
+"Aquarium"-properNoun-en "Aquarium"-properNoun-ca
+"Aquarium"-properNoun-ca "Aquarium"-properNoun-en
+"Arkote"-properNoun-en "Arkote"-properNoun-ca
+"Arkote"-properNoun-ca "Arkote"-properNoun-en
+"Ashland"-properNoun-en "Ashland"-properNoun-ca
+"Ashland"-properNoun-ca "Ashland"-properNoun-en
+"Astillero"-properNoun-en "Astillero"-properNoun-ca
+"Astillero"-properNoun-ca "Astillero"-properNoun-en
+"DMOZ"-properNoun-en "DMOZ"-properNoun-ca
+"DMOZ"-properNoun-ca "DMOZ"-properNoun-en
+"Diario Montañés"-properNoun-en "Diario Montañés"-properNoun-ca
+"Diario Montañés"-properNoun-ca "Diario Montañés"-properNoun-en
+"Donibane"-properNoun-en "Donibane"-properNoun-ca
+"Donibane"-properNoun-ca "Donibane"-properNoun-en
+"EPO"-properNoun-en "EPO"-properNoun-ca
+"EPO"-properNoun-ca "EPO"-properNoun-en
+"EPO-rh"-properNoun-en "EPO-rh"-properNoun-ca
+"EPO-rh"-properNoun-ca "EPO-rh"-properNoun-en
+"Ecolmare"-properNoun-en "Ecolmare"-properNoun-ca
+"Ecolmare"-properNoun-ca "Ecolmare"-properNoun-en
+"Erriko Kirolak"-properNoun-en "Erriko Kirolak"-properNoun-ca
+"Erriko Kirolak"-properNoun-ca "Erriko Kirolak"-properNoun-en
+"Eusko Label"-properNoun-en "Eusko Label"-properNoun-ca
+"Eusko Label"-properNoun-ca "Eusko Label"-properNoun-en
+"Eusko Tren"-properNoun-en "Eusko Tren"-properNoun-ca
+"Eusko Tren"-properNoun-ca "Eusko Tren"-properNoun-en
+"Eusko Trenbideak"-properNoun-en "Eusko Trenbideak"-properNoun-ca
+"Eusko Trenbideak"-properNoun-ca "Eusko Trenbideak"-properNoun-en
+"Euskolabel"-properNoun-en "Euskolabel"-properNoun-ca
+"Euskolabel"-properNoun-ca "Euskolabel"-properNoun-en
+"Euskotren"-properNoun-en "Euskotren"-properNoun-ca
+"Euskotren"-properNoun-ca "Euskotren"-properNoun-en
+"Fat Man"-properNoun-en "Fat Man"-properNoun-ca
+"Fat Man"-properNoun-ca "Fat Man"-properNoun-en
+"Indaux"-properNoun-en "Indaux"-properNoun-ca
+"Indaux"-properNoun-ca "Indaux"-properNoun-en
+"Isuntza"-properNoun-en "Isuntza"-properNoun-ca
+"Isuntza"-properNoun-ca "Isuntza"-properNoun-en
+"Kaiku"-properNoun-en "Kaiku"-properNoun-ca
+"Kaiku"-properNoun-ca "Kaiku"-properNoun-en
+"Koxtape"-properNoun-en "Koxtape"-properNoun-ca
+"Koxtape"-properNoun-ca "Koxtape"-properNoun-en
+"Laredo RC"-properNoun-en "Laredo RC"-properNoun-ca
+"Laredo RC"-properNoun-ca "Laredo RC"-properNoun-en
+"Little Boy"-properNoun-en "Little Boy"-properNoun-ca
+"Little Boy"-properNoun-ca "Little Boy"-properNoun-en
+"Samertolameu"-properNoun-en "Samertolameu"-properNoun-ca
+"Samertolameu"-properNoun-ca "Samertolameu"-properNoun-en
+"SPICE"-properNoun-en "SPICE"-properNoun-ca
+"SPICE"-properNoun-ca "SPICE"-properNoun-en
+"Grafilur"-properNoun-en "Grafilur"-properNoun-ca
+"Grafilur"-properNoun-ca "Grafilur"-properNoun-en
+"Avia"-properNoun-en "Avia"-properNoun-ca
+"Avia"-properNoun-ca "Avia"-properNoun-en
+"Localia"-properNoun-en "Localia"-properNoun-ca
+"Localia"-properNoun-ca "Localia"-properNoun-en
+"Orsa"-properNoun-en "Orsa"-properNoun-ca
+"Orsa"-properNoun-ca "Orsa"-properNoun-en
+"Pedreña"-properNoun-en "Pedreña"-properNoun-ca
+"Pedreña"-properNoun-ca "Pedreña"-properNoun-en
+"Reta"-properNoun-en "Reta"-properNoun-ca
+"Reta"-properNoun-ca "Reta"-properNoun-en
+"Carglass"-properNoun-en "Carglass"-properNoun-ca
+"Carglass"-properNoun-ca "Carglass"-properNoun-en
+"Xunta de Galicia"-properNoun-en "Xunta de Galícia"-properNoun-ca
+"Xunta de Galícia"-properNoun-ca "Xunta de Galicia"-properNoun-en
+"Abra-Real Sporting Club"-properNoun-en "Abra-Real Sporting Club"-properNoun-ca
+"Abra-Real Sporting Club"-properNoun-ca "Abra-Real Sporting Club"-properNoun-en
+"Batura Mobile Solutions"-properNoun-en "Batura Mobile Solutions"-properNoun-ca
+"Batura Mobile Solutions"-properNoun-ca "Batura Mobile Solutions"-properNoun-en
+"CAIXANOVA"-properNoun-en "CAIXANOVA"-properNoun-ca
+"CAIXANOVA"-properNoun-ca "CAIXANOVA"-properNoun-en
+"San Miguel League"-properNoun-en "liga San Miguel"-properNoun-ca
+"liga San Miguel"-properNoun-ca "San Miguel League"-properNoun-en
+"Xunqueiriña"-properNoun-en "Xunqueiriña"-properNoun-ca
+"Xunqueiriña"-properNoun-ca "Xunqueiriña"-properNoun-en
+"Crown Caja Madrid"-properNoun-en "Corona Caja Madrid"-properNoun-ca
+"Corona Caja Madrid"-properNoun-ca "Crown Caja Madrid"-properNoun-en

@@ -1,0 +1,4060 @@
+"alta"-noun-ca "malalitigo"-noun-eo
+"malalitigo"-noun-eo "alta"-noun-ca
+"assistent"-adjective-ca "ĉeesta"-adjective-eo
+"ĉeesta"-adjective-eo "assistent"-adjective-ca
+"candent"-adjective-ca "brulanta"-adjective-eo
+"brulanta"-adjective-eo "candent"-adjective-ca
+"cigarreta"-noun-ca "cigareto"-noun-eo
+"cigareto"-noun-eo "cigarreta"-noun-ca
+"broquet"-noun-ca "buŝaĵo"-noun-eo
+"buŝaĵo"-noun-eo "broquet"-noun-ca
+"cantell"-noun-ca "randumo"-noun-eo
+"randumo"-noun-eo "cantell"-noun-ca
+"bruguerola"-noun-ca "kaluno"-noun-eo
+"kaluno"-noun-eo "bruguerola"-noun-ca
+"viable"-adverb-ca "realigeble"-adverb-eo
+"realigeble"-adverb-eo "viable"-adverb-ca
+"putada"-noun-ca "ĉikanaĵo"-noun-eo
+"ĉikanaĵo"-noun-eo "putada"-noun-ca
+"fagina"-noun-ca "mustelkato"-noun-eo
+"mustelkato"-noun-eo "fagina"-noun-ca
+"lleu"-adverb-ca "bagatela"-adverb-eo
+"lleu"-adverb-ca "malgrava"-adverb-eo
+"lleu"-adverb-ca "leĝera"-adverb-eo
+"lleu"-adverb-ca "malpeza"-adverb-eo
+"bagatela"-adverb-eo "lleu"-adverb-ca
+"bagatela"-adverb-eo "banal"-adverb-ca
+"bagatela"-adverb-eo "insignificant"-adverb-ca
+"malgrava"-adverb-eo "lleu"-adverb-ca
+"malgrava"-adverb-eo "fútil"-adverb-ca
+"leĝera"-adverb-eo "lleu"-adverb-ca
+"leĝera"-adverb-eo "superficial"-adverb-ca
+"malpeza"-adverb-eo "lleu"-adverb-ca
+"instruït"-adjective-ca "instruita"-adjective-eo
+"instruita"-adjective-eo "instruït"-adjective-ca
+"cotxinilla"-noun-ca "koĉo"-noun-eo
+"koĉo"-noun-eo "cotxinilla"-noun-ca
+"coloquinta"-noun-ca "citrolo"-noun-eo
+"citrolo"-noun-eo "coloquinta"-noun-ca
+"citrolo"-noun-eo "sindriera"-noun-ca
+"citrolo"-noun-eo "xíndria"-noun-ca
+"contralt"-noun-ca "kontraltulino"-noun-eo
+"kontraltulino"-noun-eo "contralt"-noun-ca
+"crin"-noun-ca "kolharo"-noun-eo
+"kolharo"-noun-eo "crin"-noun-ca
+"melonera"-noun-ca "melonujo"-noun-eo
+"melonujo"-noun-eo "melonera"-noun-ca
+"esca"-noun-ca "meĉaĵo"-noun-eo
+"meĉaĵo"-noun-eo "esca"-noun-ca
+"meĉaĵo"-noun-eo "ble"-noun-ca
+"rosec"-noun-ca "timeto"-noun-eo
+"timeto"-noun-eo "rosec"-noun-ca
+"miosotis"-noun-ca "neforgesumino"-noun-eo
+"neforgesumino"-noun-eo "miosotis"-noun-ca
+"condemnar a mort"-verb-ca "mortpuni"-verb-eo
+"mortpuni"-verb-eo "condemnar a mort"-verb-ca
+"necesser"-noun-ca "tualetujo"-noun-eo
+"tualetujo"-noun-eo "necesser"-noun-ca
+"paramilitar"-noun-ca "armeecano"-noun-eo
+"paramilitar"-noun-ca "paraarmeano"-noun-eo
+"armeecano"-noun-eo "paramilitar"-noun-ca
+"paraarmeano"-noun-eo "paramilitar"-noun-ca
+"piquet"-noun-ca "strikoposteno"-noun-eo
+"strikoposteno"-noun-eo "piquet"-noun-ca
+"reietó"-noun-ca "reĝeto"-noun-eo
+"reĝeto"-noun-eo "reietó"-noun-ca
+"pintallavis"-noun-ca "ruĝigilo"-noun-eo
+"ruĝigilo"-noun-eo "pintallavis"-noun-ca
+"ruĝigilo"-noun-eo "coloret"-noun-ca
+"rulot"-noun-ca "domveturilo"-noun-eo
+"domveturilo"-noun-eo "rulot"-noun-ca
+"irresponsable"-noun-ca "malrespondeculo"-noun-eo
+"irresponsable"-noun-ca "malresponsulo"-noun-eo
+"irresponsable"-noun-ca "nerespondeculo"-noun-eo
+"irresponsable"-noun-ca "neresponsulo"-noun-eo
+"malrespondeculo"-noun-eo "irresponsable"-noun-ca
+"malresponsulo"-noun-eo "irresponsable"-noun-ca
+"nerespondeculo"-noun-eo "irresponsable"-noun-ca
+"neresponsulo"-noun-eo "irresponsable"-noun-ca
+"sociolingüísticament"-adverb-ca "socilingve"-adverb-eo
+"socilingve"-adverb-eo "sociolingüísticament"-adverb-ca
+"tetera"-noun-ca "temaŝino"-noun-eo
+"temaŝino"-noun-eo "tetera"-noun-ca
+"trucatge"-noun-ca "trukaĵo"-noun-eo
+"trukaĵo"-noun-eo "trucatge"-noun-ca
+"virtuós"-noun-ca "virtulo"-noun-eo
+"virtulo"-noun-eo "virtuós"-noun-ca
+"sublevar"-verb-ca "ribeligi"-verb-eo
+"ribeligi"-verb-eo "sublevar"-verb-ca
+"picador"-noun-ca "rajdejo"-noun-eo
+"rajdejo"-noun-eo "picador"-noun-ca
+"fer soroll"-verb-ca "brui"-verb-eo
+"brui"-verb-eo "fer soroll"-verb-ca
+"estelat"-adjective-ca "stelforma"-adjective-eo
+"stelforma"-adjective-eo "estelat"-adjective-ca
+"sense sostre"-adjective-ca "senhejme"-adjective-eo
+"senhejme"-adjective-eo "sense sostre"-adjective-ca
+"a"-noun-eo "a"-noun-ca
+"a"-noun-ca "a"-noun-eo
+"spite"-adverb-eo "a despit"-adverb-ca
+"a despit"-adverb-ca "spite"-adverb-eo
+"spite al"-preposition-eo "a despit de"-preposition-ca
+"a despit de"-preposition-ca "spite al"-preposition-eo
+"plenmane"-adverb-eo "a grapats"-adverb-ca
+"a grapats"-adverb-ca "plenmane"-adverb-eo
+"de hodiaŭ"-adverb-eo "a partir d'hui"-adverb-ca
+"a partir d'hui"-adverb-ca "de hodiaŭ"-adverb-eo
+"lenpulme"-adverb-eo "a plens pulmons"-adverb-ca
+"a plens pulmons"-adverb-ca "lenpulme"-adverb-eo
+"tuj antaŭ"-preposition-eo "a punt de"-preposition-ca
+"a punt de"-preposition-ca "tuj antaŭ"-preposition-eo
+"popece"-adverb-eo "a tant la peça"-adverb-ca
+"a tant la peça"-adverb-ca "popece"-adverb-eo
+"abatino"-noun-eo "abadessa"-noun-ca
+"abadessa"-noun-ca "abatino"-noun-eo
+"enabismiĝi"-verb-eo "abismar-se"-verb-ca
+"abismar-se"-verb-ca "enabismiĝi"-verb-eo
+"burĝiĝi"-verb-eo "aburgesar-se"-verb-ca
+"aburgesar-se"-verb-ca "burĝiĝi"-verb-eo
+"misuzo de aŭtoritato"-noun-eo "abús de poder"-noun-ca
+"abús de poder"-noun-ca "misuzo de aŭtoritato"-noun-eo
+"kampadprotesto"-noun-eo "acampada de protesta"-noun-ca
+"acampada de protesta"-noun-ca "kampadprotesto"-noun-eo
+"atingebla"-adverb-eo "accessible"-adverb-ca
+"atingebla"-adverb-eo "assequible"-adverb-ca
+"accessible"-adverb-ca "atingebla"-adverb-eo
+"assequible"-adverb-ca "atingebla"-adverb-eo
+"protesta ago"-noun-eo "acció-protesta"-noun-ca
+"acció-protesta"-noun-ca "protesta ago"-noun-eo
+"elmontro de malaprobo"-noun-eo "acció de rebuig"-noun-ca
+"acció de rebuig"-noun-ca "elmontro de malaprobo"-noun-eo
+"rekta ago"-noun-eo "acció directa"-noun-ca
+"acció directa"-noun-ca "rekta ago"-noun-eo
+"akra"-adverb-eo "acre"-adverb-ca
+"acre"-adverb-ca "akra"-adverb-eo
+"akromata"-adverb-eo "acromàticament"-adverb-ca
+"acromàticament"-adverb-ca "akromata"-adverb-eo
+"akuza"-adverb-eo "acusador"-adverb-ca
+"acusador"-adverb-ca "akuza"-adverb-eo
+"senkapa"-adverb-eo "acèfal"-adverb-ca
+"acèfal"-adverb-ca "senkapa"-adverb-eo
+"admirinda"-adverb-eo "admirable"-adverb-ca
+"admirable"-adverb-ca "admirinda"-adverb-eo
+"ekdormi"-verb-eo "adormir-se"-verb-ca
+"adormir-se"-verb-ca "ekdormi"-verb-eo
+"adulti"-verb-eo "cometre adulteri"-verb-ca
+"cometre adulteri"-verb-ca "adulti"-verb-eo
+"antaŭaverta"-adjective-eo "advertidor"-adjective-ca
+"advertidor"-adjective-ca "antaŭaverta"-adjective-eo
+"antaŭaverta"-adverb-eo "advertidor"-adverb-ca
+"advertidor"-adverb-ca "antaŭaverta"-adverb-eo
+"defenda advokato"-noun-eo "advocat defensor"-noun-ca
+"advocat defensor"-noun-ca "defenda advokato"-noun-eo
+"afabla"-adverb-eo "afable"-adverb-ca
+"afable"-adverb-ca "afabla"-adverb-eo
+"afable"-adverb-ca "malakra"-adverb-eo
+"afable"-adverb-ca "plaĉa"-adverb-eo
+"malakra"-adverb-eo "afable"-adverb-ca
+"plaĉa"-adverb-eo "afable"-adverb-ca
+"filigi"-verb-eo "afillar"-verb-ca
+"afillar"-verb-ca "filigi"-verb-eo
+"malĝoji"-verb-eo "afligir-se"-verb-ca
+"afligir-se"-verb-ca "malĝoji"-verb-eo
+"senvoĉa"-adverb-eo "afònicament"-adverb-ca
+"afònicament"-adverb-ca "senvoĉa"-adverb-eo
+"malvarmumi"-verb-eo "agafar fred"-verb-ca
+"malvarmumi"-verb-eo "constipar-se"-verb-ca
+"malvarmumi"-verb-eo "refredar-se"-verb-ca
+"agafar fred"-verb-ca "malvarmumi"-verb-eo
+"constipar-se"-verb-ca "malvarmumi"-verb-eo
+"refredar-se"-verb-ca "malvarmumi"-verb-eo
+"agnostika"-adverb-eo "agnòsticament"-adverb-ca
+"agnòsticament"-adverb-ca "agnostika"-adverb-eo
+"dolĉacida"-adjective-eo "agredolç"-adjective-ca
+"agredolç"-adjective-ca "dolĉacida"-adjective-eo
+"farungluo"-noun-eo "aiguacuit"-noun-ca
+"aiguacuit"-noun-ca "farungluo"-noun-eo
+"lavŝtono"-noun-eo "aigüera"-noun-ca
+"aigüera"-noun-ca "lavŝtono"-noun-eo
+"ĉirkaŭ mi"-adverb-eo "als meus voltants"-adverb-ca
+"als meus voltants"-adverb-ca "ĉirkaŭ mi"-adverb-eo
+"ĉirkaŭ ni"-adverb-eo "als nostres voltants"-adverb-ca
+"als nostres voltants"-adverb-ca "ĉirkaŭ ni"-adverb-eo
+"ĉirkaŭ li"-adverb-eo "al seu voltant"-adverb-ca
+"ĉirkaŭ li"-adverb-eo "als seus voltants"-adverb-ca
+"al seu voltant"-adverb-ca "ĉirkaŭ li"-adverb-eo
+"al seu voltant"-adverb-ca "ĉirkaŭ ŝi"-adverb-eo
+"al seu voltant"-adverb-ca "ĉirkaŭ ĝi"-adverb-eo
+"al seu voltant"-adverb-ca "ĉirkaŭ ili"-adverb-eo
+"als seus voltants"-adverb-ca "ĉirkaŭ li"-adverb-eo
+"ĉirkaŭ ŝi"-adverb-eo "al seu voltant"-adverb-ca
+"ĉirkaŭ ĝi"-adverb-eo "al seu voltant"-adverb-ca
+"ĉirkaŭ ili"-adverb-eo "al seu voltant"-adverb-ca
+"ĉirkaŭ vi"-adverb-eo "als teus voltants"-adverb-ca
+"ĉirkaŭ vi"-adverb-eo "als vostres voltants"-adverb-ca
+"als teus voltants"-adverb-ca "ĉirkaŭ vi"-adverb-eo
+"als vostres voltants"-adverb-ca "ĉirkaŭ vi"-adverb-eo
+"ektagiĝo"-noun-eo "albada"-noun-ca
+"albada"-noun-ca "ektagiĝo"-noun-eo
+"aĉetatesto"-noun-eo "albarà"-noun-ca
+"albarà"-noun-ca "aĉetatesto"-noun-eo
+"poplejo"-noun-eo "pollancreda"-noun-ca
+"pollancreda"-noun-ca "poplejo"-noun-eo
+"morfotaktiko"-noun-eo "morfotàctica"-noun-ca
+"morfotàctica"-noun-ca "morfotaktiko"-noun-eo
+"baŝkiro"-noun-eo "baixkort"-noun-ca
+"baixkort"-noun-ca "baŝkiro"-noun-eo
+"baŝkira"-adjective-eo "baixkort"-adjective-ca
+"baixkort"-adjective-ca "baŝkira"-adjective-eo
+"Alcalatén"-properNoun-eo "Alcalatén"-properNoun-ca
+"Alcalatén"-properNoun-ca "Alcalatén"-properNoun-eo
+"fisvatisto"-noun-eo "alcavot"-noun-ca
+"alcavot"-noun-ca "fisvatisto"-noun-eo
+"alegoria"-adverb-eo "alegòricament"-adverb-ca
+"alegòricament"-adverb-ca "alegoria"-adverb-eo
+"Algero"-properNoun-eo "Alguer"-properNoun-ca
+"Alguer"-properNoun-ca "Algero"-properNoun-eo
+"algera"-adjective-eo "algerès"-adjective-ca
+"algerès"-adjective-ca "algera"-adjective-eo
+"algerano"-noun-eo "algerès"-noun-ca
+"algerès"-noun-ca "algerano"-noun-eo
+"Alianore-"-properNoun-eo "Alianore-"-properNoun-ca
+"Alianore-"-properNoun-ca "Alianore-"-properNoun-eo
+"tinunkolo"-noun-eo "aligot"-noun-ca
+"aligot"-noun-ca "tinunkolo"-noun-eo
+"signalfajro"-noun-eo "alimara"-noun-ca
+"alimara"-noun-ca "signalfajro"-noun-eo
+"kontraŭtutmondisma"-adjective-eo "alimundialista"-adjective-ca
+"kontraŭtutmondisma"-adjective-eo "altermundialista"-adjective-ca
+"kontraŭtutmondisma"-adjective-eo "altermundista"-adjective-ca
+"kontraŭtutmondisma"-adjective-eo "antiglobalitzador"-adjective-ca
+"alimundialista"-adjective-ca "kontraŭtutmondisma"-adjective-eo
+"altermundialista"-adjective-ca "kontraŭtutmondisma"-adjective-eo
+"altermundista"-adjective-ca "kontraŭtutmondisma"-adjective-eo
+"antiglobalitzador"-adjective-ca "kontraŭtutmondisma"-adjective-eo
+"alpista"-adjective-eo "alpinista"-adjective-ca
+"alpinista"-adjective-ca "alpista"-adjective-eo
+"alpinista"-adjective-ca "alpisma"-adjective-eo
+"alpisma"-adjective-eo "alpinista"-adjective-ca
+"senambiguigilo"-noun-eo "desambiguador"-noun-ca
+"desambiguador"-noun-ca "senambiguigilo"-noun-eo
+"desambiguador"-noun-ca "senambiguilo"-noun-eo
+"senambiguilo"-noun-eo "desambiguador"-noun-ca
+"laŭta"-adverb-eo "altisonant"-adverb-ca
+"altisonant"-adverb-ca "laŭta"-adverb-eo
+"alia fojo"-noun-eo "altre colp"-noun-ca
+"alia fojo"-noun-eo "altre cop"-noun-ca
+"altre colp"-noun-ca "alia fojo"-noun-eo
+"altre cop"-noun-ca "alia fojo"-noun-eo
+"kverkejo"-noun-eo "rovira"-noun-ca
+"rovira"-noun-ca "kverkejo"-noun-eo
+"rapidema"-adjective-eo "alíger"-adjective-ca
+"alíger"-adjective-ca "rapidema"-adjective-eo
+"spicado"-noun-eo "amaniment"-noun-ca
+"amaniment"-noun-ca "spicado"-noun-eo
+"gurdi"-verb-eo "amaçar"-verb-ca
+"amaçar"-verb-ca "gurdi"-verb-eo
+"kun ekonomiaj problemoj"-adverb-eo "amb problemes econòmics"-adverb-ca
+"amb problemes econòmics"-adverb-ca "kun ekonomiaj problemoj"-adverb-eo
+"amerikofobio"-noun-eo "americanofòbia"-noun-ca
+"americanofòbia"-noun-ca "amerikofobio"-noun-eo
+"americanofòbia"-noun-ca "usonofobio"-noun-eo
+"usonofobio"-noun-eo "americanofòbia"-noun-ca
+"amerikamika"-adjective-eo "americanòfil"-adjective-ca
+"americanòfil"-adjective-ca "amerikamika"-adjective-eo
+"americanòfil"-adjective-ca "usonamika"-adjective-eo
+"usonamika"-adjective-eo "americanòfil"-adjective-ca
+"amerikamiko"-noun-eo "americanòfil"-noun-ca
+"americanòfil"-noun-ca "amerikamiko"-noun-eo
+"americanòfil"-noun-ca "usonamiko"-noun-eo
+"usonamiko"-noun-eo "americanòfil"-noun-ca
+"amerikofoba"-adjective-eo "americanòfob"-adjective-ca
+"americanòfob"-adjective-ca "amerikofoba"-adjective-eo
+"americanòfob"-adjective-ca "amerikmalamika"-adjective-eo
+"americanòfob"-adjective-ca "usonofoba"-adjective-eo
+"amerikmalamika"-adjective-eo "americanòfob"-adjective-ca
+"usonofoba"-adjective-eo "americanòfob"-adjective-ca
+"amerikofobo"-noun-eo "americanòfob"-noun-ca
+"americanòfob"-noun-ca "amerikofobo"-noun-eo
+"americanòfob"-noun-ca "amerikmalamiko"-noun-eo
+"americanòfob"-noun-ca "usonofobo"-noun-eo
+"amerikmalamiko"-noun-eo "americanòfob"-noun-ca
+"usonofobo"-noun-eo "americanòfob"-noun-ca
+"amianto"-noun-eo "amiant"-noun-ca
+"amiant"-noun-ca "amianto"-noun-eo
+"konkubo"-noun-eo "amistançament"-noun-ca
+"amistançament"-noun-ca "konkubo"-noun-eo
+"konkubanto"-noun-eo "amistançat"-noun-ca
+"amistançat"-noun-ca "konkubanto"-noun-eo
+"Amano"-properNoun-eo "Ammân"-properNoun-ca
+"Ammân"-properNoun-ca "Amano"-properNoun-eo
+"glatumi"-verb-eo "amoixar"-verb-ca
+"amoixar"-verb-ca "glatumi"-verb-eo
+"kungregiĝi"-verb-eo "amoltonar-se"-verb-ca
+"kungregiĝi"-verb-eo "arramadar-se"-verb-ca
+"amoltonar-se"-verb-ca "kungregiĝi"-verb-eo
+"arramadar-se"-verb-ca "kungregiĝi"-verb-eo
+"amorfa"-adverb-eo "amorf"-adverb-ca
+"amorf"-adverb-ca "amorfa"-adverb-eo
+"analgezio"-noun-eo "analgèsic"-noun-ca
+"analgèsic"-noun-ca "analgezio"-noun-eo
+"angla-germana"-adjective-eo "angloalemany"-adjective-ca
+"angloalemany"-adjective-ca "angla-germana"-adjective-eo
+"Anglonormandaj insuloj"-properNoun-eo "Anglonormandes"-properNoun-ca
+"Anglonormandaj insuloj"-properNoun-eo "illes Anglonormandes"-properNoun-ca
+"Anglonormandes"-properNoun-ca "Anglonormandaj insuloj"-properNoun-eo
+"illes Anglonormandes"-properNoun-ca "Anglonormandaj insuloj"-properNoun-eo
+"angla-rusa"-adjective-eo "anglorús"-adjective-ca
+"anglorús"-adjective-ca "angla-rusa"-adjective-eo
+"anglamika"-adjective-eo "anglòfil"-adjective-ca
+"anglòfil"-adjective-ca "anglamika"-adjective-eo
+"streta"-adjective-eo "angost"-adjective-ca
+"angost"-adjective-ca "streta"-adjective-eo
+"dezirega"-adjective-eo "anhelós"-adjective-ca
+"anhelós"-adjective-ca "dezirega"-adjective-eo
+"malizotropa"-adverb-eo "anisotròpicament"-adverb-ca
+"anisotròpicament"-adverb-ca "malizotropa"-adverb-eo
+"Anna Maria"-properNoun-eo "Anna Maria"-properNoun-ca
+"Anna Maria"-properNoun-ca "Anna Maria"-properNoun-eo
+"antagone"-adverb-eo "antagònicament"-adverb-ca
+"antagònicament"-adverb-ca "antagone"-adverb-eo
+"kontraŭaristokratia"-adjective-eo "antiaristocràtic"-adjective-ca
+"antiaristocràtic"-adjective-ca "kontraŭaristokratia"-adjective-eo
+"antiaristocràtic"-adjective-ca "kontraŭaristokrata"-adjective-eo
+"kontraŭaristokrata"-adjective-eo "antiaristocràtic"-adjective-ca
+"kontraŭaristokratia"-adverb-eo "antiaristocràticament"-adverb-ca
+"antiaristocràticament"-adverb-ca "kontraŭaristokratia"-adverb-eo
+"antiaristocràticament"-adverb-ca "kontraŭaristokrata"-adverb-eo
+"kontraŭaristokrata"-adverb-eo "antiaristocràticament"-adverb-ca
+"atakpolicano"-noun-eo "antiavalot"-noun-ca
+"antiavalot"-noun-ca "atakpolicano"-noun-eo
+"antikoncipilo"-noun-eo "contraceptiu"-noun-ca
+"contraceptiu"-noun-ca "antikoncipilo"-noun-eo
+"kontraŭdemokrata"-adverb-eo "antidemocràticament"-adverb-ca
+"antidemocràticament"-adverb-ca "kontraŭdemokrata"-adverb-eo
+"kontraŭestetika"-adjective-eo "antiestètic"-adjective-ca
+"antiestètic"-adjective-ca "kontraŭestetika"-adjective-eo
+"kontraŭestetike"-adverb-eo "antiestèticament"-adverb-ca
+"antiestèticament"-adverb-ca "kontraŭestetike"-adverb-eo
+"kontraŭgerontokratia"-adverb-eo "antigerontocràticament"-adverb-ca
+"antigerontocràticament"-adverb-ca "kontraŭgerontokratia"-adverb-eo
+"antigerontocràticament"-adverb-ca "kontraŭgerontokrata"-adverb-eo
+"kontraŭgerontokrata"-adverb-eo "antigerontocràticament"-adverb-ca
+"kontraŭgerontokratia"-adjective-eo "antigerontocràtic"-adjective-ca
+"antigerontocràtic"-adjective-ca "kontraŭgerontokratia"-adjective-eo
+"antigerontocràtic"-adjective-ca "kontraŭgerontokrata"-adjective-eo
+"kontraŭgerontokrata"-adjective-eo "antigerontocràtic"-adjective-ca
+"kontraŭtutmondisto"-noun-eo "antiglobalitzador"-noun-ca
+"antiglobalitzador"-noun-ca "kontraŭtutmondisto"-noun-eo
+"kontraŭtutmondisma"-adverb-eo "antiglobalitzador"-adverb-ca
+"antiglobalitzador"-adverb-ca "kontraŭtutmondisma"-adverb-eo
+"antinomo"-noun-eo "antinomi"-noun-ca
+"antinomi"-noun-ca "antinomo"-noun-eo
+"kontraŭlaboristo"-noun-eo "antiobrer"-noun-ca
+"kontraŭlaboristo"-noun-eo "antiobrerista"-noun-ca
+"antiobrer"-noun-ca "kontraŭlaboristo"-noun-eo
+"antiobrerista"-noun-ca "kontraŭlaboristo"-noun-eo
+"kontraŭlaborista"-adjective-eo "antiobrer"-adjective-ca
+"kontraŭlaborista"-adjective-eo "antiobrerista"-adjective-ca
+"antiobrer"-adjective-ca "kontraŭlaborista"-adjective-eo
+"antiobrerista"-adjective-ca "kontraŭlaborista"-adjective-eo
+"antiobrerista"-adjective-ca "kontraŭlaborisma"-adjective-eo
+"kontraŭlaborisma"-adjective-eo "antiobrerista"-adjective-ca
+"kontraŭlaborismo"-noun-eo "antiobrerisme"-noun-ca
+"antiobrerisme"-noun-ca "kontraŭlaborismo"-noun-eo
+"kontraŭfebra"-adverb-eo "antipirèticament"-adverb-ca
+"antipirèticament"-adverb-ca "kontraŭfebra"-adverb-eo
+"kontraŭreglamenta"-adjective-eo "antireglamentari"-adjective-ca
+"antireglamentari"-adjective-ca "kontraŭreglamenta"-adjective-eo
+"kontraŭsubprema"-adjective-eo "antirepressiu"-adjective-ca
+"antirepressiu"-adjective-ca "kontraŭsubprema"-adjective-eo
+"kontraŭsubpremo"-noun-eo "antirepressió"-noun-ca
+"antirepressió"-noun-ca "kontraŭsubpremo"-noun-eo
+"antisepsa"-adverb-eo "antisèpticament"-adverb-ca
+"antisèpticament"-adverb-ca "antisepsa"-adverb-eo
+"antisèpticament"-adverb-ca "kontraŭsepsa"-adverb-eo
+"kontraŭsepsa"-adverb-eo "antisèpticament"-adverb-ca
+"kontraŭteokratia"-adverb-eo "antiteocràticament"-adverb-ca
+"antiteocràticament"-adverb-ca "kontraŭteokratia"-adverb-eo
+"antiteocràticament"-adverb-ca "kontraŭteokrata"-adverb-eo
+"kontraŭteokrata"-adverb-eo "antiteocràticament"-adverb-ca
+"kontraŭteokratia"-adjective-eo "antiteocràtic"-adjective-ca
+"antiteocràtic"-adjective-ca "kontraŭteokratia"-adjective-eo
+"antiteocràtic"-adjective-ca "kontraŭteokrata"-adjective-eo
+"kontraŭteokrata"-adjective-eo "antiteocràtic"-adjective-ca
+"Antarkta oceano"-properNoun-eo "Antàrtic"-properNoun-ca
+"Antarkta oceano"-properNoun-eo "Oceà Antàrtic"-properNoun-ca
+"Antàrtic"-properNoun-ca "Antarkta oceano"-properNoun-eo
+"Oceà Antàrtic"-properNoun-ca "Antarkta oceano"-properNoun-eo
+"antarkta"-adverb-eo "antàrticament"-adverb-ca
+"antàrticament"-adverb-ca "antarkta"-adverb-eo
+"Anys"-properNoun-eo "Anys"-properNoun-ca
+"Anys"-properNoun-ca "Anys"-properNoun-eo
+"anime"-adverb-eo "anímicament"-adverb-ca
+"anímicament"-adverb-ca "anime"-adverb-eo
+"anonima"-adverb-eo "anònim"-adverb-ca
+"anònim"-adverb-ca "anonima"-adverb-eo
+"spanigi"-verb-eo "apamar"-verb-ca
+"apamar"-verb-ca "spanigi"-verb-eo
+"murlampo"-noun-eo "aplic"-noun-ca
+"aplic"-noun-ca "murlampo"-noun-eo
+"Apokalipso"-properNoun-eo "Apocalipsi"-properNoun-ca
+"Apocalipsi"-properNoun-ca "Apokalipso"-properNoun-eo
+"apologetiko"-noun-eo "apologètica"-noun-ca
+"apologètica"-noun-ca "apologetiko"-noun-eo
+"apoteoze"-adverb-eo "apoteòsicament"-adverb-ca
+"apoteòsicament"-adverb-ca "apoteoze"-adverb-eo
+"sufloro"-noun-eo "apuntador"-noun-ca
+"apuntador"-noun-ca "sufloro"-noun-eo
+"akva"-adverb-eo "aquàticament"-adverb-ca
+"akva"-adverb-eo "nàuticament"-adverb-ca
+"aquàticament"-adverb-ca "akva"-adverb-eo
+"nàuticament"-adverb-ca "akva"-adverb-eo
+"arbarizi"-verb-eo "arbrar"-verb-ca
+"arbrar"-verb-ca "arbarizi"-verb-eo
+"arkaika"-adverb-eo "arcaicament"-adverb-ca
+"arkaika"-adverb-eo "arcàicament"-adverb-ca
+"arcaicament"-adverb-ca "arkaika"-adverb-eo
+"arcàicament"-adverb-ca "arkaika"-adverb-eo
+"arcàicament"-adverb-ca "arĥaika"-adverb-eo
+"arĥaika"-adverb-eo "arcàicament"-adverb-ca
+"varmega"-adverb-eo "ardent"-adverb-ca
+"varmega"-adverb-eo "bullent"-adverb-ca
+"ardent"-adverb-ca "varmega"-adverb-eo
+"bullent"-adverb-ca "varmega"-adverb-eo
+"subtilema"-adjective-eo "arguciós"-adjective-ca
+"arguciós"-adjective-ca "subtilema"-adjective-eo
+"aristotela"-adverb-eo "aristotèlicament"-adverb-ca
+"aristotèlicament"-adverb-ca "aristotela"-adverb-eo
+"arome"-adverb-eo "aromàticament"-adverb-ca
+"aromàticament"-adverb-ca "arome"-adverb-eo
+"modele"-adverb-eo "arquetípicament"-adverb-ca
+"arquetípicament"-adverb-ca "modele"-adverb-eo
+"alproksimigi"-verb-eo "arrambar"-verb-ca
+"arrambar"-verb-ca "alproksimigi"-verb-eo
+"atuti"-verb-eo "arrastrar"-verb-ca
+"arrastrar"-verb-ca "atuti"-verb-eo
+"buliĝi"-verb-eo "arraulir-se"-verb-ca
+"buliĝi"-verb-eo "arronsar-se"-verb-ca
+"buliĝi"-verb-eo "arrupir-se"-verb-ca
+"arraulir-se"-verb-ca "buliĝi"-verb-eo
+"arronsar-se"-verb-ca "buliĝi"-verb-eo
+"arrupir-se"-verb-ca "buliĝi"-verb-eo
+"atingi la sekvan pagon de sia salajro"-verb-eo "arribar a final de mes"-verb-ca
+"arribar a final de mes"-verb-ca "atingi la sekvan pagon de sia salajro"-verb-eo
+"mulisto"-noun-eo "arrier"-noun-ca
+"arrier"-noun-ca "mulisto"-noun-eo
+"rondforma"-adjective-eo "arrodoniment"-adjective-ca
+"arrodoniment"-adjective-ca "rondforma"-adjective-eo
+"aroganta"-adverb-eo "arrogant"-adverb-ca
+"arrogant"-adverb-ca "aroganta"-adverb-eo
+"mostsiropo"-noun-eo "arrop"-noun-ca
+"arrop"-noun-ca "mostsiropo"-noun-eo
+"artefarita"-adverb-eo "artificial"-adverb-ca
+"artificial"-adverb-ca "artefarita"-adverb-eo
+"artificial"-adverb-ca "arta"-adverb-eo
+"arta"-adverb-eo "artificial"-adverb-ca
+"arkipastrejo"-noun-eo "arxiprestat"-noun-ca
+"arxiprestat"-noun-ca "arkipastrejo"-noun-eo
+"aritmio"-noun-eo "arítmia"-noun-ca
+"arítmia"-noun-ca "aritmio"-noun-eo
+"asketa"-adverb-eo "ascèticament"-adverb-ca
+"ascèticament"-adverb-ca "asketa"-adverb-eo
+"asimetria"-adjective-eo "asimètríc"-adjective-ca
+"asimètríc"-adjective-ca "asimetria"-adjective-eo
+"kondimentisto"-noun-eo "assaonador"-noun-ca
+"assaonador"-noun-ca "kondimentisto"-noun-eo
+"sidprotesto"-noun-eo "asseguda"-noun-ca
+"sidprotesto"-noun-eo "sentada"-noun-ca
+"asseguda"-noun-ca "sidprotesto"-noun-eo
+"sentada"-noun-ca "sidprotesto"-noun-eo
+"sieĝo por elhejmigi"-noun-eo "assetjament immobiliari"-noun-ca
+"assetjament immobiliari"-noun-ca "sieĝo por elhejmigi"-noun-eo
+"sieĝo en la laboro"-noun-eo "assetjament laboral"-noun-ca
+"assetjament laboral"-noun-ca "sieĝo en la laboro"-noun-eo
+"seksa sieĝo en la laboro"-noun-eo "assetjament sexual"-noun-ca
+"assetjament sexual"-noun-ca "seksa sieĝo en la laboro"-noun-eo
+"astigmata"-adverb-eo "astigmàticament"-adverb-ca
+"astigmàticament"-adverb-ca "astigmata"-adverb-eo
+"astrofizika"-adjective-eo "astrofísic"-adjective-ca
+"astrofísic"-adjective-ca "astrofizika"-adjective-eo
+"ruza"-adverb-eo "astut"-adverb-ca
+"astut"-adverb-ca "ruza"-adverb-eo
+"senĝerma"-adverb-eo "estèril"-adverb-ca
+"estèril"-adverb-ca "senĝerma"-adverb-eo
+"estèril"-adverb-ca "sterila"-adverb-eo
+"estèril"-adverb-ca "malfekunda"-adverb-eo
+"estèril"-adverb-ca "senfrukta"-adverb-eo
+"sterila"-adverb-eo "estèril"-adverb-ca
+"malfekunda"-adverb-eo "estèril"-adverb-ca
+"malfekunda"-adverb-eo "infèrtil"-adverb-ca
+"senfrukta"-adverb-eo "estèril"-adverb-ca
+"atlantika"-adverb-eo "atlànticament"-adverb-ca
+"atlànticament"-adverb-ca "atlantika"-adverb-eo
+"atmosfera"-adverb-eo "atmosfèricament"-adverb-ca
+"atmosfèricament"-adverb-ca "atmosfera"-adverb-eo
+"haltiganto"-noun-eo "aturador"-noun-ca
+"aturador"-noun-ca "haltiganto"-noun-eo
+"aŭdvide"-adverb-eo "audiovisualment"-adverb-ca
+"audiovisualment"-adverb-ca "aŭdvide"-adverb-eo
+"orelumo"-noun-eo "orellera"-noun-ca
+"orellera"-noun-ca "orelumo"-noun-eo
+"aŭstrohungaro"-noun-eo "austrohongarès"-noun-ca
+"austrohongarès"-noun-ca "aŭstrohungaro"-noun-eo
+"aŭtodidakta"-adverb-eo "autodidàcticament"-adverb-ca
+"autodidàcticament"-adverb-ca "aŭtodidakta"-adverb-eo
+"memmastrumi"-verb-eo "autogestionar"-verb-ca
+"autogestionar"-verb-ca "memmastrumi"-verb-eo
+"memmastrumata"-adjective-eo "autogestionat"-adjective-ca
+"autogestionat"-adjective-ca "memmastrumata"-adjective-eo
+"vera"-adverb-eo "verdader"-adverb-ca
+"vera"-adverb-eo "vertader"-adverb-ca
+"verdader"-adverb-ca "vera"-adverb-eo
+"vertader"-adverb-ca "vera"-adverb-eo
+"aŭtonoma"-adverb-eo "autònom"-adverb-ca
+"autònom"-adverb-ca "aŭtonoma"-adverb-eo
+"autònom"-adverb-ca "memstara"-adverb-eo
+"memstara"-adverb-eo "autònom"-adverb-ca
+"Anĝeluso"-noun-eo "avemaria"-noun-ca
+"avemaria"-noun-ca "Anĝeluso"-noun-eo
+"enui"-verb-eo "avorrir-se"-verb-ca
+"avorrir-se"-verb-ca "enui"-verb-eo
+"birdotimigilo"-noun-eo "espantaocells"-noun-ca
+"espantaocells"-noun-ca "birdotimigilo"-noun-eo
+"fiska bilanco"-noun-eo "balanç fiscal"-noun-ca
+"fiska bilanco"-noun-eo "balança fiscal"-noun-ca
+"balanç fiscal"-noun-ca "fiska bilanco"-noun-eo
+"balança fiscal"-noun-ca "fiska bilanco"-noun-eo
+"Balkanio"-properNoun-eo "els Balcans"-properNoun-ca
+"els Balcans"-properNoun-ca "Balkanio"-properNoun-eo
+"loza"-adverb-eo "balder"-adverb-ca
+"balder"-adverb-ca "loza"-adverb-eo
+"balder"-adverb-ca "malstrikta"-adverb-eo
+"malstrikta"-adverb-eo "balder"-adverb-ca
+"banal"-adverb-ca "bagatela"-adverb-eo
+"banal"-adverb-ca "banala"-adverb-eo
+"insignificant"-adverb-ca "bagatela"-adverb-eo
+"insignificant"-adverb-ca "sensignifa"-adverb-eo
+"banala"-adverb-eo "banal"-adverb-ca
+"sensignifa"-adverb-eo "insignificant"-adverb-ca
+"Banko"-noun-eo "Banc"-noun-ca
+"Banc"-noun-ca "Banko"-noun-eo
+"Monda Banko"-noun-eo "Banc Mundial"-noun-ca
+"Banc Mundial"-noun-ca "Monda Banko"-noun-eo
+"reklamrubando"-noun-eo "banner"-noun-ca
+"banner"-noun-ca "reklamrubando"-noun-eo
+"kornopiki"-verb-eo "banyegar"-verb-ca
+"banyegar"-verb-ca "kornopiki"-verb-eo
+"intermuro"-noun-eo "barandat"-noun-ca
+"intermuro"-noun-eo "tempanell"-noun-ca
+"barandat"-noun-ca "intermuro"-noun-eo
+"tempanell"-noun-ca "intermuro"-noun-eo
+"arktio"-noun-eo "llapassa"-noun-ca
+"arktio"-noun-eo "repalassa"-noun-ca
+"arktio"-noun-eo "àrctia"-noun-ca
+"llapassa"-noun-ca "arktio"-noun-eo
+"repalassa"-noun-ca "arktio"-noun-eo
+"àrctia"-noun-ca "arktio"-noun-eo
+"cerbumi"-verb-eo "borinar"-verb-ca
+"cerbumi"-verb-eo "rumiar"-verb-ca
+"borinar"-verb-ca "cerbumi"-verb-eo
+"rumiar"-verb-ca "cerbumi"-verb-eo
+"umi"-verb-eo "barrufar"-verb-ca
+"barrufar"-verb-ca "umi"-verb-eo
+"Bartholomew"-properNoun-eo "Bartholomew"-properNoun-ca
+"Bartholomew"-properNoun-ca "Bartholomew"-properNoun-eo
+"eŭsklingva"-adjective-eo "bascoparlant"-adjective-ca
+"eŭsklingva"-adjective-eo "bascòfon"-adjective-ca
+"eŭsklingva"-adjective-eo "euskaldun"-adjective-ca
+"bascoparlant"-adjective-ca "eŭsklingva"-adjective-eo
+"bascòfon"-adjective-ca "eŭsklingva"-adjective-eo
+"euskaldun"-adjective-ca "eŭsklingva"-adjective-eo
+"Batholomew"-properNoun-eo "Batholomew"-properNoun-ca
+"Batholomew"-properNoun-ca "Batholomew"-properNoun-eo
+"beata"-adverb-eo "beat"-adverb-ca
+"beat"-adverb-ca "beata"-adverb-eo
+"malsevera"-adverb-eo "benèvol"-adverb-ca
+"malsevera"-adverb-eo "clement"-adverb-ca
+"malsevera"-adverb-eo "indulgent"-adverb-ca
+"malsevera"-adverb-eo "tolerant"-adverb-ca
+"benèvol"-adverb-ca "malsevera"-adverb-eo
+"benèvol"-adverb-ca "humana"-adverb-eo
+"clement"-adverb-ca "malsevera"-adverb-eo
+"indulgent"-adverb-ca "malsevera"-adverb-eo
+"indulgent"-adverb-ca "indulga"-adverb-eo
+"indulgent"-adverb-ca "nepostulema"-adverb-eo
+"tolerant"-adverb-ca "malsevera"-adverb-eo
+"tolerant"-adverb-ca "nepostulema"-adverb-eo
+"tolerant"-adverb-ca "tolerema"-adverb-eo
+"humana"-adverb-eo "benèvol"-adverb-ca
+"indulga"-adverb-eo "indulgent"-adverb-ca
+"nepostulema"-adverb-eo "indulgent"-adverb-ca
+"nepostulema"-adverb-eo "tolerant"-adverb-ca
+"tolerema"-adverb-eo "tolerant"-adverb-ca
+"Bermudoj"-properNoun-eo "les Bermudes"-properNoun-ca
+"les Bermudes"-properNoun-ca "Bermudoj"-properNoun-eo
+"kiseto"-noun-eo "beset"-noun-ca
+"kiseto"-noun-eo "petonet"-noun-ca
+"beset"-noun-ca "kiseto"-noun-eo
+"petonet"-noun-ca "kiseto"-noun-eo
+"besteca"-adverb-eo "bestial"-adverb-ca
+"bestial"-adverb-ca "besteca"-adverb-eo
+"bestial"-adverb-ca "bruteca"-adverb-eo
+"bruteca"-adverb-eo "bestial"-adverb-ca
+"trinkebla"-adverb-eo "bevible"-adverb-ca
+"trinkebla"-adverb-eo "potable"-adverb-ca
+"bevible"-adverb-ca "trinkebla"-adverb-eo
+"potable"-adverb-ca "trinkebla"-adverb-eo
+"suĉbotelo"-noun-eo "biberó"-noun-ca
+"biberó"-noun-ca "suĉbotelo"-noun-eo
+"prabiciklo"-noun-eo "bicicle"-noun-ca
+"bicicle"-noun-ca "prabiciklo"-noun-eo
+"bicikla karavano"-noun-eo "bicicletada"-noun-ca
+"bicicletada"-noun-ca "bicikla karavano"-noun-eo
+"uj-frapado"-noun-eo "bidonada"-noun-ca
+"bidonada"-noun-ca "uj-frapado"-noun-eo
+"liphararo"-noun-eo "mostatxo"-noun-ca
+"mostatxo"-noun-ca "liphararo"-noun-eo
+"duflanka"-adverb-eo "bilateral"-adverb-ca
+"bilateral"-adverb-ca "duflanka"-adverb-eo
+"dulingva"-adverb-eo "bilingüe"-adverb-ca
+"bilingüe"-adverb-ca "dulingva"-adverb-eo
+"biokemie"-adverb-eo "bioquímicament"-adverb-ca
+"bioquímicament"-adverb-ca "biokemie"-adverb-eo
+"dupartio"-noun-eo "bipartit"-noun-ca
+"bipartit"-noun-ca "dupartio"-noun-eo
+"ambaŭseksa"-adverb-eo "bisexual"-adverb-ca
+"bisexual"-adverb-ca "ambaŭseksa"-adverb-eo
+"celpunkto"-noun-eo "punt de mira"-noun-ca
+"punt de mira"-noun-ca "celpunkto"-noun-eo
+"monlavado"-noun-eo "blanqueig de diners"-noun-ca
+"blanqueig de diners"-noun-ca "monlavado"-noun-eo
+"kontuzaĵo"-noun-eo "morat"-noun-ca
+"morat"-noun-ca "kontuzaĵo"-noun-eo
+"ble"-noun-ca "meĉaĵo"-noun-eo
+"zinkoblendo"-noun-eo "blenda"-noun-ca
+"blenda"-noun-ca "zinkoblendo"-noun-eo
+"ŝosi"-verb-eo "brostar"-verb-ca
+"brostar"-verb-ca "ŝosi"-verb-eo
+"surstrata trinkado"-noun-eo "botellón"-noun-ca
+"botellón"-noun-ca "surstrata trinkado"-noun-eo
+"sprita"-adverb-eo "brillant"-adverb-ca
+"brillant"-adverb-ca "sprita"-adverb-eo
+"buŝa"-adverb-eo "bucal"-adverb-ca
+"buŝa"-adverb-eo "oral"-adverb-ca
+"bucal"-adverb-ca "buŝa"-adverb-eo
+"oral"-adverb-ca "buŝa"-adverb-eo
+"oral"-adverb-ca "parola"-adverb-eo
+"oral"-adverb-ca "perbuŝa"-adverb-eo
+"oral"-adverb-ca "voĉa"-adverb-eo
+"parola"-adverb-eo "oral"-adverb-ca
+"parola"-adverb-eo "verbal"-adverb-ca
+"perbuŝa"-adverb-eo "oral"-adverb-ca
+"voĉa"-adverb-eo "oral"-adverb-ca
+"voĉa"-adverb-eo "sonor"-adverb-ca
+"burleska"-adverb-eo "burlesc"-adverb-ca
+"burlesc"-adverb-ca "burleska"-adverb-eo
+"azena"-adjective-eo "burro"-adjective-ca
+"burro"-adjective-ca "azena"-adjective-eo
+"balta"-adverb-eo "bàlticament"-adverb-ca
+"bàlticament"-adverb-ca "balta"-adverb-eo
+"brikejo"-noun-eo "bòbila"-noun-ca
+"brikejo"-noun-eo "bòvila"-noun-ca
+"bòbila"-noun-ca "brikejo"-noun-eo
+"bòvila"-noun-ca "brikejo"-noun-eo
+"rulŝtono"-noun-eo "bòtil"-noun-ca
+"rulŝtono"-noun-eo "palet"-noun-ca
+"bòtil"-noun-ca "rulŝtono"-noun-eo
+"palet"-noun-ca "rulŝtono"-noun-eo
+"nacelo"-noun-eo "carlinga"-noun-ca
+"carlinga"-noun-ca "nacelo"-noun-eo
+"kablizi"-verb-eo "cablejar"-verb-ca
+"cablejar"-verb-ca "kablizi"-verb-eo
+"sorĉistin-ĉasado"-noun-eo "cacera de bruixes"-noun-ca
+"cacera de bruixes"-noun-ca "sorĉistin-ĉasado"-noun-eo
+"ĉiun tagon de la jaro"-adverb-eo "cada dia de l'any"-adverb-ca
+"cada dia de l'any"-adverb-ca "ĉiun tagon de la jaro"-adverb-eo
+"ĉiun tagon de la semajno"-adverb-eo "cada dia de la setmana"-adverb-ca
+"cada dia de la setmana"-adverb-ca "ĉiun tagon de la semajno"-adverb-eo
+"ĉiun tagon de la monato"-adverb-eo "cada dia del mes"-adverb-ca
+"cada dia del mes"-adverb-ca "ĉiun tagon de la monato"-adverb-eo
+"ĉiun duan monaton"-adverb-eo "cada dos mesos"-adverb-ca
+"cada dos mesos"-adverb-ca "ĉiun duan monaton"-adverb-eo
+"ĉiun duan semajnon"-adverb-eo "cada dues setmanes"-adverb-ca
+"cada dues setmanes"-adverb-ca "ĉiun duan semajnon"-adverb-eo
+"ĉiun trian jaron"-adverb-eo "cada tres anys"-adverb-ca
+"cada tres anys"-adverb-ca "ĉiun trian jaron"-adverb-eo
+"ĉiun trian tagon"-adverb-eo "cada tres dies"-adverb-ca
+"cada tres dies"-adverb-ca "ĉiun trian tagon"-adverb-eo
+"ĉiun trian semajnon"-adverb-eo "cada tres setmanes"-adverb-ca
+"cada tres setmanes"-adverb-ca "ĉiun trian semajnon"-adverb-eo
+"kaduka"-adverb-eo "caducament"-adverb-ca
+"caducament"-adverb-ca "kaduka"-adverb-eo
+"Kajmanoj"-properNoun-eo "Caiman"-properNoun-ca
+"Caiman"-properNoun-ca "Kajmanoj"-properNoun-eo
+"Kunordiga Komitato de Asocioj por la Kataluna Lingvo"-noun-eo "CAL"-noun-ca
+"Kunordiga Komitato de Asocioj por la Kataluna Lingvo"-noun-eo "Coordinadora d'Associacions per la Llengua"-noun-ca
+"CAL"-noun-ca "Kunordiga Komitato de Asocioj por la Kataluna Lingvo"-noun-eo
+"Coordinadora d'Associacions per la Llengua"-noun-ca "Kunordiga Komitato de Asocioj por la Kataluna Lingvo"-noun-eo
+"nukofrapo"-noun-eo "calbot"-noun-ca
+"nukofrapo"-noun-eo "clatellada"-noun-ca
+"nukofrapo"-noun-eo "clatellot"-noun-ca
+"calbot"-noun-ca "nukofrapo"-noun-eo
+"clatellada"-noun-ca "nukofrapo"-noun-eo
+"clatellot"-noun-ca "nukofrapo"-noun-eo
+"transbildo"-noun-eo "calcomania"-noun-ca
+"calcomania"-noun-ca "transbildo"-noun-eo
+"necesi"-verb-eo "caler"-verb-ca
+"caler"-verb-ca "necesi"-verb-eo
+"varma"-adverb-eo "calent"-adverb-ca
+"varma"-adverb-eo "càlid"-adverb-ca
+"calent"-adverb-ca "varma"-adverb-eo
+"càlid"-adverb-ca "varma"-adverb-eo
+"kaleco"-noun-eo "callositat"-noun-ca
+"callositat"-noun-ca "kaleco"-noun-eo
+"cigandialekto"-noun-eo "caló"-noun-ca
+"caló"-noun-ca "cigandialekto"-noun-eo
+"mallongkrura"-adjective-eo "camacurt"-adjective-ca
+"camacurt"-adjective-ca "mallongkrura"-adjective-eo
+"tervojeto"-noun-eo "caminal"-noun-ca
+"caminal"-noun-ca "tervojeto"-noun-eo
+"ĉemizbutiko"-noun-eo "camiseria"-noun-ca
+"camiseria"-noun-ca "ĉemizbutiko"-noun-eo
+"sonorilo-bato"-noun-eo "campanada"-noun-ca
+"campanada"-noun-ca "sonorilo-bato"-noun-eo
+"elektokampanjo"-noun-eo "campanya electoral"-noun-ca
+"campanya electoral"-noun-ca "elektokampanjo"-noun-eo
+"bureto"-noun-eo "canadella"-noun-ca
+"canadella"-noun-ca "bureto"-noun-eo
+"Canal de Navarrés"-properNoun-eo "Canal de Navarrés"-properNoun-ca
+"Canal de Navarrés"-properNoun-ca "Canal de Navarrés"-properNoun-eo
+"kandelfesto"-noun-eo "candelera"-noun-ca
+"candelera"-noun-ca "kandelfesto"-noun-eo
+"kandeleto"-noun-eo "candeleta"-noun-ca
+"candeleta"-noun-ca "kandeleto"-noun-eo
+"kanelonio"-noun-eo "caneló"-noun-ca
+"caneló"-noun-ca "kanelonio"-noun-eo
+"ĉashundaro"-noun-eo "canilla"-noun-ca
+"canilla"-noun-ca "ĉashundaro"-noun-eo
+"kanonadi"-verb-eo "canonejar"-verb-ca
+"canonejar"-verb-ca "kanonadi"-verb-eo
+"porkavendejo"-noun-eo "cansaladeria"-noun-ca
+"cansaladeria"-noun-ca "porkavendejo"-noun-eo
+"sekretmeblo"-noun-eo "canterano"-noun-ca
+"canterano"-noun-ca "sekretmeblo"-noun-eo
+"kantinisto"-noun-eo "cantiner"-noun-ca
+"cantiner"-noun-ca "kantinisto"-noun-eo
+"kantabra"-adverb-eo "cantàbricament"-adverb-ca
+"cantàbricament"-adverb-ca "kantabra"-adverb-eo
+"putriĝejo"-noun-eo "canyet"-noun-ca
+"canyet"-noun-ca "putriĝejo"-noun-eo
+"kana plafono"-noun-eo "canyissada"-noun-ca
+"canyissada"-noun-ca "kana plafono"-noun-eo
+"kanejo"-noun-eo "canyissar"-noun-ca
+"canyissar"-noun-ca "kanejo"-noun-eo
+"varmega epoko"-noun-eo "canícula"-noun-ca
+"canícula"-noun-ca "varmega epoko"-noun-eo
+"kapfrapo"-noun-eo "caparrada"-noun-ca
+"caparrada"-noun-ca "kapfrapo"-noun-eo
+"kapelestro"-noun-eo "capellania"-noun-ca
+"capellania"-noun-ca "kapelestro"-noun-eo
+"kapuĉoĉapelo"-noun-eo "capellina"-noun-ca
+"capellina"-noun-ca "kapuĉoĉapelo"-noun-eo
+"ĉarma"-adverb-eo "captivador"-adverb-ca
+"ĉarma"-adverb-eo "encisador"-adverb-ca
+"ĉarma"-adverb-eo "seductor"-adverb-ca
+"captivador"-adverb-ca "ĉarma"-adverb-eo
+"encisador"-adverb-ca "ĉarma"-adverb-eo
+"seductor"-adverb-ca "ĉarma"-adverb-eo
+"pendglaciaĵo"-noun-eo "caramell"-noun-ca
+"caramell"-noun-ca "pendglaciaĵo"-noun-eo
+"karduo"-noun-eo "cardot"-noun-ca
+"cardot"-noun-ca "karduo"-noun-eo
+"kareto"-noun-eo "carei"-noun-ca
+"carei"-noun-ca "kareto"-noun-eo
+"kariiĝi"-verb-eo "cariar-se"-verb-ca
+"cariar-se"-verb-ca "kariiĝi"-verb-eo
+"karisma"-adverb-eo "carismàticament"-adverb-ca
+"carismàticament"-adverb-ca "karisma"-adverb-eo
+"karnlogaĵo"-noun-eo "carnassa"-noun-ca
+"carnassa"-noun-ca "karnlogaĵo"-noun-eo
+"spinpintaĵo"-noun-eo "carpó"-noun-ca
+"carpó"-noun-ca "spinpintaĵo"-noun-eo
+"karabenisto"-noun-eo "carrabiner"-noun-ca
+"carrabiner"-noun-ca "karabenisto"-noun-eo
+"karako"-noun-eo "carraca"-noun-ca
+"carraca"-noun-ca "karako"-noun-eo
+"plenĉaro"-noun-eo "carretada"-noun-ca
+"carretada"-noun-ca "plenĉaro"-noun-eo
+"biciklokoridoro"-noun-eo "carril bici"-noun-ca
+"carril bici"-noun-ca "biciklokoridoro"-noun-eo
+"kartoĉujo"-noun-eo "cartutxera"-noun-ca
+"cartutxera"-noun-ca "kartoĉujo"-noun-eo
+"Blanka Domo"-properNoun-eo "Casa Blanca"-properNoun-ca
+"Casa Blanca"-properNoun-ca "Blanka Domo"-properNoun-eo
+"okupita domo"-noun-eo "casa ocupada"-noun-ca
+"casa ocupada"-noun-ca "okupita domo"-noun-eo
+"antikva domego"-noun-eo "casalot"-noun-ca
+"casalot"-noun-ca "antikva domego"-noun-eo
+"dometaro"-noun-eo "caseria"-noun-ca
+"caseria"-noun-ca "dometaro"-noun-eo
+"kaserolprotesto"-noun-eo "casserolada"-noun-ca
+"casserolada"-noun-ca "kaserolprotesto"-noun-eo
+"bruna"-adverb-eo "castany"-adverb-ca
+"castany"-adverb-ca "bruna"-adverb-eo
+"castany"-adverb-ca "kaŝtanbruna"-adverb-eo
+"kaŝtanbruna"-adverb-eo "castany"-adverb-ca
+"hispanigi"-verb-eo "espanyolitzar"-verb-ca
+"espanyolitzar"-verb-ca "hispanigi"-verb-eo
+"kazulo"-noun-eo "casulla"-noun-ca
+"casulla"-noun-ca "kazulo"-noun-eo
+"catalanòfil"-noun-ca "katalunamiko"-noun-eo
+"katalunamiko"-noun-eo "catalanòfil"-noun-ca
+"katalunigi"-verb-eo "catalanitzar"-verb-ca
+"catalanitzar"-verb-ca "katalunigi"-verb-eo
+"katalun-aragona"-adjective-eo "catalano-aragonès"-adjective-ca
+"catalano-aragonès"-adjective-ca "katalun-aragona"-adjective-eo
+"katalunofobio"-noun-eo "catalanofòbia"-noun-ca
+"catalanofòbia"-noun-ca "katalunofobio"-noun-eo
+"katalunlingvano"-noun-eo "catalanòfon"-noun-ca
+"katalunlingvano"-noun-eo "valencianoparlant"-noun-ca
+"catalanòfon"-noun-ca "katalunlingvano"-noun-eo
+"valencianoparlant"-noun-ca "katalunlingvano"-noun-eo
+"katalunlingva"-adverb-eo "catalanoparlant"-adverb-ca
+"katalunlingva"-adverb-eo "valencianoparlant"-adverb-ca
+"catalanoparlant"-adverb-ca "katalunlingva"-adverb-eo
+"valencianoparlant"-adverb-ca "katalunlingva"-adverb-eo
+"katalunamika"-adjective-eo "catalanòfil"-adjective-ca
+"catalanòfil"-adjective-ca "katalunamika"-adjective-eo
+"katalunofoba"-adjective-eo "catalanòfob"-adjective-ca
+"catalanòfob"-adjective-ca "katalunofoba"-adjective-eo
+"catalanòfob"-adjective-ca "katalunmalamika"-adjective-eo
+"katalunmalamika"-adjective-eo "catalanòfob"-adjective-ca
+"katalunofobo"-noun-eo "catalanòfob"-noun-ca
+"catalanòfob"-noun-ca "katalunofobo"-noun-eo
+"catalanòfob"-noun-ca "katalunmalamiko"-noun-eo
+"katalunmalamiko"-noun-eo "catalanòfob"-noun-ca
+"Nord-Katalunio"-properNoun-eo "la Catalunya Nord"-properNoun-ca
+"la Catalunya Nord"-properNoun-ca "Nord-Katalunio"-properNoun-eo
+"kaplasmo"-noun-eo "cataplasma"-noun-ca
+"cataplasma"-noun-ca "kaplasmo"-noun-eo
+"katara"-adjective-eo "catarral"-adjective-ca
+"catarral"-adjective-ca "katara"-adjective-eo
+"litaĉo"-noun-eo "catre"-noun-ca
+"catre"-noun-ca "litaĉo"-noun-eo
+"pufvango"-noun-eo "catxamona"-noun-ca
+"catxamona"-noun-ca "pufvango"-noun-eo
+"kuniklido"-noun-eo "catxap"-noun-ca
+"kuniklido"-noun-eo "llorigó"-noun-ca
+"catxap"-noun-ca "kuniklido"-noun-eo
+"llorigó"-noun-ca "kuniklido"-noun-eo
+"singarda"-adverb-eo "caut"-adverb-ca
+"singarda"-adverb-eo "prudent"-adverb-ca
+"caut"-adverb-ca "singarda"-adverb-eo
+"prudent"-adverb-ca "singarda"-adverb-eo
+"prudent"-adverb-ca "prudenta"-adverb-eo
+"prudenta"-adverb-eo "prudent"-adverb-ca
+"kaŭtero"-noun-eo "cauteri"-noun-ca
+"cauteri"-noun-ca "kaŭtero"-noun-eo
+"rajdbesto"-noun-eo "cavalcadura"-noun-ca
+"cavalcadura"-noun-ca "rajdbesto"-noun-eo
+"negracia virino"-noun-eo "cavallot"-noun-ca
+"cavallot"-noun-ca "negracia virino"-noun-eo
+"kaosa"-adverb-eo "caòticament"-adverb-ca
+"caòticament"-adverb-ca "kaosa"-adverb-eo
+"caòticament"-adverb-ca "ĥaosa"-adverb-eo
+"ĥaosa"-adverb-eo "caòticament"-adverb-ca
+"CCOO"-noun-eo "CCOO"-noun-ca
+"CCOO"-noun-ca "CCOO"-noun-eo
+"co"-noun-eo "ce"-noun-ca
+"ce"-noun-ca "co"-noun-eo
+"cepeto"-noun-eo "ceballot"-noun-ca
+"ceballot"-noun-ca "cepeto"-noun-eo
+"neŝanĝiĝema"-adjective-eo "ceballut"-adjective-ca
+"ceballut"-adjective-ca "neŝanĝiĝema"-adjective-eo
+"blindigi"-verb-eo "ofuscar"-verb-ca
+"ofuscar"-verb-ca "blindigi"-verb-eo
+"sunlumiga korto"-noun-eo "celobert"-noun-ca
+"celobert"-noun-ca "sunlumiga korto"-noun-eo
+"ĉemento"-noun-eo "cement"-noun-ca
+"cement"-noun-ca "ĉemento"-noun-eo
+"malaprobinda"-adverb-eo "censurable"-adverb-ca
+"malaprobinda"-adverb-eo "condemnable"-adverb-ca
+"malaprobinda"-adverb-eo "reprovable"-adverb-ca
+"censurable"-adverb-ca "malaprobinda"-adverb-eo
+"condemnable"-adverb-ca "malaprobinda"-adverb-eo
+"reprovable"-adverb-ca "malaprobinda"-adverb-eo
+"centezimala"-adverb-eo "centessimal"-adverb-ca
+"centessimal"-adverb-ca "centezimala"-adverb-eo
+"centessimal"-adverb-ca "centuma"-adverb-eo
+"centuma"-adverb-eo "centessimal"-adverb-ca
+"centra"-adverb-eo "central"-adverb-ca
+"central"-adverb-ca "centra"-adverb-eo
+"internigejo"-noun-eo "centre d'internament"-noun-ca
+"centre d'internament"-noun-ca "internigejo"-noun-eo
+"Fremdula Internigejo"-noun-eo "Centre d'Internament d'Estrangers"-noun-ca
+"Fremdula Internigejo"-noun-eo "CIE"-noun-ca
+"Centre d'Internament d'Estrangers"-noun-ca "Fremdula Internigejo"-noun-eo
+"CIE"-noun-ca "Fremdula Internigejo"-noun-eo
+"Okupita Socia Centro"-noun-eo "Centre Social Ocupat"-noun-ca
+"Okupita Socia Centro"-noun-eo "CSO"-noun-ca
+"Centre Social Ocupat"-noun-ca "Okupita Socia Centro"-noun-eo
+"CSO"-noun-ca "Okupita Socia Centro"-noun-eo
+"Memmastrumata Okupita Socia Centro"-noun-eo "Centre Social Ocupat Autogestionat"-noun-ca
+"Memmastrumata Okupita Socia Centro"-noun-eo "CSOA"-noun-ca
+"Centre Social Ocupat Autogestionat"-noun-ca "Memmastrumata Okupita Socia Centro"-noun-eo
+"CSOA"-noun-ca "Memmastrumata Okupita Socia Centro"-noun-eo
+"ringizi"-verb-eo "cerclar"-verb-ca
+"ringizi"-verb-eo "cercolar"-verb-ca
+"ringizi"-verb-eo "encercolar"-verb-ca
+"cerclar"-verb-ca "ringizi"-verb-eo
+"cercolar"-verb-ca "ringizi"-verb-eo
+"encercolar"-verb-ca "ringizi"-verb-eo
+"bierfaristo"-noun-eo "cerveser"-noun-ca
+"cerveser"-noun-ca "bierfaristo"-noun-eo
+"cerveser"-noun-ca "bieristo"-noun-eo
+"bieristo"-noun-eo "cerveser"-noun-ca
+"bierfarista"-adjective-eo "cerveser"-adjective-ca
+"cerveser"-adjective-ca "bierfarista"-adjective-eo
+"cerveser"-adjective-ca "bierista"-adjective-eo
+"bierista"-adjective-eo "cerveser"-adjective-ca
+"vaksa"-adjective-eo "cerós"-adjective-ca
+"cerós"-adjective-ca "vaksa"-adjective-eo
+"Christpher"-properNoun-eo "Christpher"-properNoun-ca
+"Christpher"-properNoun-ca "Christpher"-properNoun-eo
+"ciklonudismo"-noun-eo "ciclonudisme"-noun-ca
+"ciclonudisme"-noun-ca "ciklonudismo"-noun-eo
+"logbirdo"-noun-eo "cimbell"-noun-ca
+"cimbell"-noun-ca "logbirdo"-noun-eo
+"kupoltureto"-noun-eo "cimbori"-noun-ca
+"cimbori"-noun-ca "kupoltureto"-noun-eo
+"kinamatoro"-noun-eo "cinèfil"-noun-ca
+"cinèfil"-noun-ca "kinamatoro"-noun-eo
+"ronda"-adverb-eo "circular"-adverb-ca
+"circular"-adverb-ca "ronda"-adverb-eo
+"Cirilo"-properNoun-eo "Ciril"-properNoun-ca
+"Ciril"-properNoun-ca "Cirilo"-properNoun-eo
+"ciruskumuluso"-noun-eo "cirrocúmul"-noun-ca
+"cirrocúmul"-noun-ca "ciruskumuluso"-noun-eo
+"cirustratuso"-noun-eo "cirrostrat"-noun-ca
+"cirrostrat"-noun-ca "cirustratuso"-noun-eo
+"cirila"-adverb-eo "ciríl·licament"-adverb-ca
+"ciríl·licament"-adverb-ca "cirila"-adverb-eo
+"Ciutat de València"-properNoun-eo "Ciutat de València"-properNoun-ca
+"Ciutat de València"-properNoun-ca "Ciutat de València"-properNoun-eo
+"civila"-adverb-eo "civil"-adverb-ca
+"civil"-adverb-ca "civila"-adverb-eo
+"scienc-fikcio"-noun-eo "ciència ficció"-noun-ca
+"ciència ficció"-noun-ca "scienc-fikcio"-noun-eo
+"pleniga"-adjective-eo "clafit"-adjective-ca
+"clafit"-adjective-ca "pleniga"-adjective-eo
+"ĝema"-adjective-eo "clamorós"-adjective-ca
+"ĝema"-adjective-eo "gemegós"-adjective-ca
+"clamorós"-adjective-ca "ĝema"-adjective-eo
+"gemegós"-adjective-ca "ĝema"-adjective-eo
+"ŝtonplena grundo"-noun-eo "claper"-noun-ca
+"claper"-noun-ca "ŝtonplena grundo"-noun-eo
+"reganta klaso"-noun-eo "classe governant"-noun-ca
+"classe governant"-noun-ca "reganta klaso"-noun-eo
+"diantplanto"-noun-eo "clavellina"-noun-ca
+"clavellina"-noun-ca "diantplanto"-noun-eo
+"hartradivido"-noun-eo "clenxa"-noun-ca
+"clenxa"-noun-ca "hartradivido"-noun-eo
+"kapsupro"-noun-eo "clepsa"-noun-ca
+"clepsa"-noun-ca "kapsupro"-noun-eo
+"klonika"-adverb-eo "clònicament"-adverb-ca
+"clònicament"-adverb-ca "klonika"-adverb-eo
+"ronda ŝtono"-noun-eo "codina"-noun-ca
+"codina"-noun-ca "ronda ŝtono"-noun-eo
+"cidonkonfitaĵo"-noun-eo "codonyat"-noun-ca
+"codonyat"-noun-ca "cidonkonfitaĵo"-noun-eo
+"konebla"-adjective-eo "cognoscible"-adjective-ca
+"cognoscible"-adjective-ca "konebla"-adjective-eo
+"lameco"-noun-eo "coixesa"-noun-ca
+"coixesa"-noun-ca "lameco"-noun-eo
+"kusenkovrilo"-noun-eo "coixinera"-noun-ca
+"coixinera"-noun-ca "kusenkovrilo"-noun-eo
+"negrava ago"-noun-eo "collonada"-noun-ca
+"collonada"-noun-ca "negrava ago"-noun-eo
+"kolombofekaĵo"-noun-eo "colomassa"-noun-ca
+"colomassa"-noun-ca "kolombofekaĵo"-noun-eo
+"sindriera"-noun-ca "citrolo"-noun-eo
+"xíndria"-noun-ca "citrolo"-noun-eo
+"kolorefekto"-noun-eo "coloraina"-noun-ca
+"coloraina"-noun-ca "kolorefekto"-noun-eo
+"coloret"-noun-ca "ruĝigilo"-noun-eo
+"flanka"-adverb-eo "col·lateral"-adverb-ca
+"flanka"-adverb-eo "lateral"-adverb-ca
+"col·lateral"-adverb-ca "flanka"-adverb-eo
+"lateral"-adverb-ca "flanka"-adverb-eo
+"familiara"-adverb-eo "col·loquial"-adverb-ca
+"familiara"-adverb-eo "familiar"-adverb-ca
+"col·loquial"-adverb-ca "familiara"-adverb-eo
+"familiar"-adverb-ca "familiara"-adverb-eo
+"familiar"-adverb-ca "senceremonia"-adverb-eo
+"senceremonia"-adverb-eo "familiar"-adverb-ca
+"regiona"-adverb-eo "comarcal"-adverb-ca
+"regiona"-adverb-eo "regional"-adverb-ca
+"comarcal"-adverb-ca "regiona"-adverb-eo
+"regional"-adverb-ca "regiona"-adverb-eo
+"Eŭropa Komisiono"-noun-eo "Comissió Europea"-noun-ca
+"Comissió Europea"-noun-ca "Eŭropa Komisiono"-noun-eo
+"strik-estraro"-noun-eo "comitè de vaga"-noun-ca
+"comitè de vaga"-noun-ca "strik-estraro"-noun-eo
+"kundivido"-noun-eo "compartició"-noun-ca
+"compartició"-noun-ca "kundivido"-noun-eo
+"laŭmezuri"-verb-eo "compassar"-verb-ca
+"compassar"-verb-ca "laŭmezuri"-verb-eo
+"kunpatricio"-noun-eo "compatrici"-noun-ca
+"compatrici"-noun-ca "kunpatricio"-noun-eo
+"kompetenta"-adverb-eo "competent"-adverb-ca
+"competent"-adverb-ca "kompetenta"-adverb-eo
+"plenumanto"-noun-eo "complidor"-noun-ca
+"complidor"-noun-ca "plenumanto"-noun-eo
+"kunportebla"-adjective-eo "comportable"-adjective-ca
+"comportable"-adjective-ca "kunportebla"-adjective-eo
+"kondiĉita"-adverb-eo "condicional"-adverb-ca
+"condicional"-adverb-ca "kondiĉita"-adverb-eo
+"konfesia"-adverb-eo "confessional"-adverb-ca
+"confessional"-adverb-ca "konfesia"-adverb-eo
+"perarmila konflikto"-noun-eo "conflicte armat"-noun-ca
+"conflicte armat"-noun-ca "perarmila konflikto"-noun-eo
+"alkonformiĝi"-verb-eo "conformar-se"-verb-ca
+"conformar-se"-verb-ca "alkonformiĝi"-verb-eo
+"konforma"-adverb-eo "conforme"-adverb-ca
+"conforme"-adverb-ca "konforma"-adverb-eo
+"conforme"-adverb-ca "laŭa"-adverb-eo
+"laŭa"-adverb-eo "conforme"-adverb-ca
+"komforta"-adverb-eo "confortable"-adverb-ca
+"confortable"-adverb-ca "komforta"-adverb-eo
+"samspeca"-adjective-eo "congènere"-adjective-ca
+"congènere"-adjective-ca "samspeca"-adjective-eo
+"kunnatura"-adjective-eo "connatural"-adjective-ca
+"connatural"-adjective-ca "kunnatura"-adjective-eo
+"konsekvenca"-adverb-eo "consegüent"-adverb-ca
+"konsekvenca"-adverb-eo "conseqüent"-adverb-ca
+"consegüent"-adverb-ca "konsekvenca"-adverb-eo
+"conseqüent"-adverb-ca "konsekvenca"-adverb-eo
+"Konsilio"-noun-eo "Consell"-noun-ca
+"Consell"-noun-ca "Konsilio"-noun-eo
+"ministrokonsilio"-noun-eo "consell de ministres"-noun-ca
+"consell de ministres"-noun-ca "ministrokonsilio"-noun-eo
+"konservativa"-adverb-eo "conservador"-adverb-ca
+"conservador"-adverb-ca "konservativa"-adverb-eo
+"konsiderinda"-adverb-eo "considerable"-adverb-ca
+"considerable"-adverb-ca "konsiderinda"-adverb-eo
+"konsonanta"-adverb-eo "consonànticament"-adverb-ca
+"consonànticament"-adverb-ca "konsonanta"-adverb-eo
+"konstipo"-noun-eo "constipació"-noun-ca
+"constipació"-noun-ca "konstipo"-noun-eo
+"ĉirkaŭstreĉi"-verb-eo "constrenyir"-verb-ca
+"constrenyir"-verb-ca "ĉirkaŭstreĉi"-verb-eo
+"poluo"-noun-eo "polució"-noun-ca
+"polució"-noun-ca "poluo"-noun-eo
+"kontinenta"-adverb-eo "continental"-adverb-ca
+"continental"-adverb-ca "kontinenta"-adverb-eo
+"tralumo"-noun-eo "contraclaror"-noun-ca
+"contraclaror"-noun-ca "tralumo"-noun-eo
+"kontraŭlumo"-noun-eo "contrallum"-noun-ca
+"contrallum"-noun-ca "kontraŭlumo"-noun-eo
+"kontraŭmini"-verb-eo "contraminar"-verb-ca
+"contraminar"-verb-ca "kontraŭmini"-verb-eo
+"kontraŭfasado"-noun-eo "contraportada"-noun-ca
+"contraportada"-noun-ca "kontraŭfasado"-noun-eo
+"maldilati"-verb-eo "contraure"-verb-ca
+"contraure"-verb-ca "maldilati"-verb-eo
+"kuntiriĝa"-adjective-eo "contràctil"-adjective-ca
+"contràctil"-adjective-ca "kuntiriĝa"-adjective-eo
+"konverĝa"-adverb-eo "convergent"-adverb-ca
+"convergent"-adverb-ca "konverĝa"-adverb-eo
+"kunordiga komitato"-noun-eo "coordinadora"-noun-ca
+"coordinadora"-noun-ca "kunordiga komitato"-noun-eo
+"kunprezidi"-verb-eo "copresidir"-verb-ca
+"copresidir"-verb-ca "kunprezidi"-verb-eo
+"kunprincejo"-noun-eo "coprincipat"-noun-ca
+"coprincipat"-noun-ca "kunprincejo"-noun-eo
+"coprincipat"-noun-ca "kunprinclando"-noun-eo
+"kunprinclando"-noun-eo "coprincipat"-noun-ca
+"kopilibera"-adjective-eo "copyleft"-adjective-ca
+"copyleft"-adjective-ca "kopilibera"-adjective-eo
+"petoli"-verb-eo "joguinejar"-verb-ca
+"petoli"-verb-eo "saltironejar"-verb-ca
+"joguinejar"-verb-ca "petoli"-verb-eo
+"saltironejar"-verb-ca "petoli"-verb-eo
+"kurba"-adverb-eo "corb"-adverb-ca
+"corb"-adverb-ca "kurba"-adverb-eo
+"corb"-adverb-ca "malrekta"-adverb-eo
+"malrekta"-adverb-eo "corb"-adverb-ca
+"korundo"-noun-eo "corindó"-noun-ca
+"corindó"-noun-ca "korundo"-noun-eo
+"kornemuzo"-noun-eo "cornamusa"-noun-ca
+"kornemuzo"-noun-eo "cornamussa"-noun-ca
+"cornamusa"-noun-ca "kornemuzo"-noun-eo
+"cornamussa"-noun-ca "kornemuzo"-noun-eo
+"korni"-verb-eo "cornar"-verb-ca
+"cornar"-verb-ca "korni"-verb-eo
+"abundokorno"-noun-eo "cornucòpia"-noun-ca
+"cornucòpia"-noun-ca "abundokorno"-noun-eo
+"Katalun-aragona kronlando"-noun-eo "corona catalano-aragonesa"-noun-ca
+"Katalun-aragona kronlando"-noun-eo "corona catalanoaragonesa"-noun-ca
+"corona catalano-aragonesa"-noun-ca "Katalun-aragona kronlando"-noun-eo
+"corona catalanoaragonesa"-noun-ca "Katalun-aragona kronlando"-noun-eo
+"Aragona kronlando"-noun-eo "corona d'Aragó"-noun-ca
+"corona d'Aragó"-noun-ca "Aragona kronlando"-noun-eo
+"Kastilia kronlando"-noun-eo "corona de Castella"-noun-ca
+"corona de Castella"-noun-ca "Kastilia kronlando"-noun-eo
+"korpa"-adverb-eo "corporal"-adverb-ca
+"corporal"-adverb-ca "korpa"-adverb-eo
+"korpulenta"-adverb-eo "corpulent"-adverb-ca
+"corpulent"-adverb-ca "korpulenta"-adverb-eo
+"vastkorpeco"-noun-eo "corpulència"-noun-ca
+"corpulència"-noun-ca "vastkorpeco"-noun-eo
+"responda"-adverb-eo "corresponent"-adverb-ca
+"corresponent"-adverb-ca "responda"-adverb-eo
+"rubpoŝto"-noun-eo "correu brossa"-noun-ca
+"rubpoŝto"-noun-eo "spam"-noun-ca
+"correu brossa"-noun-ca "rubpoŝto"-noun-eo
+"spam"-noun-ca "rubpoŝto"-noun-eo
+"sekurecservo"-noun-eo "cos de seguretat"-noun-ca
+"cos de seguretat"-noun-ca "sekurecservo"-noun-eo
+"kudromebleto"-noun-eo "cosidor"-noun-ca
+"cosidor"-noun-ca "kudromebleto"-noun-eo
+"kliniĝinta"-adjective-eo "cot"-adjective-ca
+"cot"-adjective-ca "kliniĝinta"-adjective-eo
+"infanĉareto"-noun-eo "cotxet"-noun-ca
+"cotxet"-noun-ca "infanĉareto"-noun-eo
+"malkuraĝa"-adverb-eo "covard"-adverb-ca
+"covard"-adverb-ca "malkuraĝa"-adverb-eo
+"covard"-adverb-ca "kovarda"-adverb-eo
+"kovarda"-adverb-eo "covard"-adverb-ca
+"koagulaĵo"-noun-eo "gleva"-noun-ca
+"gleva"-noun-ca "koagulaĵo"-noun-eo
+"kreska"-adverb-eo "creixent"-adverb-ca
+"creixent"-adverb-ca "kreska"-adverb-eo
+"kretano"-noun-eo "cretenc"-noun-ca
+"cretenc"-noun-ca "kretano"-noun-eo
+"infanaĵo"-noun-eo "criaturada"-noun-ca
+"criaturada"-noun-ca "infanaĵo"-noun-eo
+"kriminala"-adverb-eo "criminal"-adverb-ca
+"kriminala"-adverb-eo "penal"-adverb-ca
+"criminal"-adverb-ca "kriminala"-adverb-eo
+"criminal"-adverb-ca "krima"-adverb-eo
+"penal"-adverb-ca "kriminala"-adverb-eo
+"penal"-adverb-ca "puna"-adverb-eo
+"krima"-adverb-eo "criminal"-adverb-ca
+"puna"-adverb-eo "penal"-adverb-ca
+"kromata"-adverb-eo "cromàticament"-adverb-ca
+"cromàticament"-adverb-ca "kromata"-adverb-eo
+"krupo"-noun-eo "crup"-noun-ca
+"crup"-noun-ca "krupo"-noun-eo
+"kripta"-adjective-eo "xifrat"-adjective-ca
+"xifrat"-adjective-ca "kripta"-adjective-eo
+"kubigi"-verb-eo "cubicar"-verb-ca
+"cubicar"-verb-ca "kubigi"-verb-eo
+"vostumi"-verb-eo "cuejar"-verb-ca
+"cuejar"-verb-ca "vostumi"-verb-eo
+"kulmina"-adverb-eo "culminant"-adverb-ca
+"culminant"-adverb-ca "kulmina"-adverb-eo
+"kulpa"-adverb-eo "culpable"-adverb-ca
+"culpable"-adverb-ca "kulpa"-adverb-eo
+"kultura"-adverb-eo "cultural"-adverb-ca
+"cultural"-adverb-ca "kultura"-adverb-eo
+"kojnskribo"-noun-eo "cuneïforme"-noun-ca
+"cuneïforme"-noun-ca "kojnskribo"-noun-eo
+"pseŭdokuracisto"-noun-eo "curandero"-noun-ca
+"curandero"-noun-ca "pseŭdokuracisto"-noun-eo
+"abundega"-adjective-eo "curull"-adjective-ca
+"curull"-adjective-ca "abundega"-adjective-eo
+"fosilego"-noun-eo "càvec"-noun-ca
+"càvec"-noun-ca "fosilego"-noun-eo
+"kelta"-adverb-eo "cèlticament"-adverb-ca
+"cèlticament"-adverb-ca "kelta"-adverb-eo
+"cezaro"-noun-eo "cèsar"-noun-ca
+"cèsar"-noun-ca "cezaro"-noun-eo
+"lavkuveto"-noun-eo "cóm"-noun-ca
+"cóm"-noun-ca "lavkuveto"-noun-eo
+"nekonata aĝo"-adverb-eo "d'edat indeterminada"-adverb-ca
+"d'edat indeterminada"-adverb-ca "nekonata aĝo"-adverb-eo
+"grava"-adverb-eo "d'importància"-adverb-ca
+"grava"-adverb-eo "important"-adverb-ca
+"d'importància"-adverb-ca "grava"-adverb-eo
+"important"-adverb-ca "grava"-adverb-eo
+"ordinara"-adverb-eo "ordinari"-adverb-ca
+"ordinari"-adverb-ca "ordinara"-adverb-eo
+"antaŭa"-adverb-eo "davanter"-adverb-ca
+"antaŭa"-adverb-eo "precedent"-adverb-ca
+"davanter"-adverb-ca "antaŭa"-adverb-eo
+"precedent"-adverb-ca "antaŭa"-adverb-eo
+"precedent"-adverb-ca "eksa"-adverb-eo
+"eksa"-adverb-eo "precedent"-adverb-ca
+"eke"-adverb-eo "de"-adverb-ca
+"de"-adverb-ca "eke"-adverb-eo
+"sufiĉe grava"-adverb-eo "de certa importància"-adverb-ca
+"de certa importància"-adverb-ca "sufiĉe grava"-adverb-eo
+"tre grava"-adverb-eo "de molta importància"-adverb-ca
+"de molta importància"-adverb-ca "tre grava"-adverb-eo
+"decimala"-adverb-eo "decimal"-adverb-ca
+"decimal"-adverb-ca "decimala"-adverb-eo
+"enspez-imposta deklaro"-noun-eo "declaració de la renda"-noun-ca
+"enspez-imposta deklaro"-noun-eo "declaració de renda"-noun-ca
+"declaració de la renda"-noun-ca "enspez-imposta deklaro"-noun-eo
+"declaració de renda"-noun-ca "enspez-imposta deklaro"-noun-eo
+"maltegi"-verb-eo "decorticar"-verb-ca
+"maltegi"-verb-eo "descarnar"-verb-ca
+"decorticar"-verb-ca "maltegi"-verb-eo
+"descarnar"-verb-ca "maltegi"-verb-eo
+"malkreska"-adverb-eo "decreixent"-adverb-ca
+"decreixent"-adverb-ca "malkreska"-adverb-eo
+"malkreskigi"-verb-eo "decrementar"-verb-ca
+"decrementar"-verb-ca "malkreskigi"-verb-eo
+"dekpiedulo"-noun-eo "decàpode"-noun-ca
+"decàpode"-noun-ca "dekpiedulo"-noun-eo
+"necesa sindefendo"-noun-eo "defensa legítima"-noun-ca
+"necesa sindefendo"-noun-eo "legítima defensa"-noun-ca
+"defensa legítima"-noun-ca "necesa sindefendo"-noun-eo
+"legítima defensa"-noun-ca "necesa sindefendo"-noun-eo
+"degutadi"-verb-eo "estil·lar"-verb-ca
+"estil·lar"-verb-ca "degutadi"-verb-eo
+"enlasi"-verb-eo "deixar entrar"-verb-ca
+"deixar entrar"-verb-ca "enlasi"-verb-eo
+"demografe"-adverb-eo "demogràficment"-adverb-ca
+"demogràficment"-adverb-ca "demografe"-adverb-eo
+"denta"-adverb-eo "dental"-adverb-ca
+"dental"-adverb-ca "denta"-adverb-eo
+"departementa"-adverb-eo "departamental"-adverb-ca
+"departamental"-adverb-ca "departementa"-adverb-eo
+"malagrabla"-adverb-eo "desagradable"-adverb-ca
+"desagradable"-adverb-ca "malagrabla"-adverb-eo
+"desagradable"-adverb-ca "aĉa"-adverb-eo
+"desagradable"-adverb-ca "malplaĉa"-adverb-eo
+"desagradable"-adverb-ca "neagrabla"-adverb-eo
+"aĉa"-adverb-eo "desagradable"-adverb-ca
+"malplaĉa"-adverb-eo "desagradable"-adverb-ca
+"neagrabla"-adverb-eo "desagradable"-adverb-ca
+"malpara"-adjective-eo "desaparellat"-adjective-ca
+"desaparellat"-adjective-ca "malpara"-adjective-eo
+"senmastigi"-verb-eo "desarborar"-verb-ca
+"desarborar"-verb-ca "senmastigi"-verb-eo
+"disbutoni"-verb-eo "desbotonar"-verb-ca
+"desbotonar"-verb-ca "disbutoni"-verb-eo
+"malbridi"-verb-eo "desbridar"-verb-ca
+"malbridi"-verb-eo "desembridar"-verb-ca
+"desbridar"-verb-ca "malbridi"-verb-eo
+"desembridar"-verb-ca "malbridi"-verb-eo
+"deskvamiĝi"-verb-eo "descamar-se"-verb-ca
+"descamar-se"-verb-ca "deskvamiĝi"-verb-eo
+"senkapuĉigebla"-adverb-eo "descapotable"-adverb-ca
+"descapotable"-adverb-ca "senkapuĉigebla"-adverb-eo
+"malŝarĝita"-adjective-eo "descarregat"-adjective-ca
+"descarregat"-adjective-ca "malŝarĝita"-adjective-eo
+"deĉevaliĝi"-verb-eo "descavalcar"-verb-ca
+"descavalcar"-verb-ca "deĉevaliĝi"-verb-eo
+"descentrar"-verb-ca "elcentrigi"-verb-eo
+"elcentrigi"-verb-eo "descentrar"-verb-ca
+"malrespektemulo"-noun-eo "desconsiderat"-noun-ca
+"desconsiderat"-noun-ca "malrespektemulo"-noun-eo
+"malkontenta"-adverb-eo "descontent"-adverb-ca
+"malkontenta"-adverb-eo "insatisfet"-adverb-ca
+"descontent"-adverb-ca "malkontenta"-adverb-eo
+"insatisfet"-adverb-ca "malkontenta"-adverb-eo
+"malkunordigi"-verb-eo "descoordinar"-verb-ca
+"descoordinar"-verb-ca "malkunordigi"-verb-eo
+"misfokusigi"-verb-eo "desenfocar"-verb-ca
+"desenfocar"-verb-ca "misfokusigi"-verb-eo
+"malfavora"-adverb-eo "desfavorable"-adverb-ca
+"malfavora"-adverb-eo "hostil"-adverb-ca
+"desfavorable"-adverb-ca "malfavora"-adverb-eo
+"hostil"-adverb-ca "malfavora"-adverb-eo
+"disfibri"-verb-eo "desfibrar"-verb-ca
+"desfibrar"-verb-ca "disfibri"-verb-eo
+"senfoliigi"-verb-eo "desfullar"-verb-ca
+"senfoliigi"-verb-eo "esfullar"-verb-ca
+"desfullar"-verb-ca "senfoliigi"-verb-eo
+"esfullar"-verb-ca "senfoliigi"-verb-eo
+"malplezuro"-noun-eo "desplaer"-noun-ca
+"malplezuro"-noun-eo "displicència"-noun-ca
+"desplaer"-noun-ca "malplezuro"-noun-eo
+"displicència"-noun-ca "malplezuro"-noun-eo
+"mallojala"-adverb-eo "deslleial"-adverb-ca
+"deslleial"-adverb-ca "mallojala"-adverb-eo
+"malmilitarizo"-noun-eo "desmilitarització"-noun-ca
+"desmilitarització"-noun-ca "malmilitarizo"-noun-eo
+"desmilitarització"-noun-ca "malmilitarizado"-noun-eo
+"malmilitarizado"-noun-eo "desmilitarització"-noun-ca
+"malkombi"-verb-eo "despentinar"-verb-ca
+"despentinar"-verb-ca "malkombi"-verb-eo
+"vigla"-adverb-eo "despert"-adverb-ca
+"vigla"-adverb-eo "vigilant"-adverb-ca
+"despert"-adverb-ca "vigla"-adverb-eo
+"vigilant"-adverb-ca "vigla"-adverb-eo
+"malplanti"-verb-eo "desplantar"-verb-ca
+"desplantar"-verb-ca "malplanti"-verb-eo
+"senantaŭzorgo"-noun-eo "desprevenció"-noun-ca
+"desprevenció"-noun-ca "senantaŭzorgo"-noun-eo
+"sekado"-noun-eo "dessecament"-noun-ca
+"dessecament"-noun-ca "sekado"-noun-eo
+"malsobreco"-noun-eo "destemprança"-noun-ca
+"destemprança"-noun-ca "malsobreco"-noun-eo
+"malhardi"-verb-eo "destrempar"-verb-ca
+"destrempar"-verb-ca "malhardi"-verb-eo
+"senuza"-adjective-eo "desuet"-adjective-ca
+"desuet"-adjective-ca "senuza"-adjective-eo
+"senuzo"-noun-eo "desuetud"-noun-ca
+"desuetud"-noun-ca "senuzo"-noun-eo
+"frenezumi"-verb-eo "desvariar"-verb-ca
+"desvariar"-verb-ca "frenezumi"-verb-eo
+"senvirgigi"-verb-eo "desvirgar"-verb-ca
+"desvirgar"-verb-ca "senvirgigi"-verb-eo
+"dezerta"-adverb-eo "desèrticament"-adverb-ca
+"desèrticament"-adverb-ca "dezerta"-adverb-eo
+"detalema"-adjective-eo "detallista"-adjective-ca
+"detallista"-adjective-ca "detalema"-adjective-eo
+"detektiva"-adjective-eo "detectivesc"-adjective-ca
+"detectivesc"-adjective-ca "detektiva"-adjective-eo
+"detergi"-verb-eo "detergir"-verb-ca
+"detergir"-verb-ca "detergi"-verb-eo
+"eksplodilo"-noun-eo "detonant"-noun-ca
+"eksplodilo"-noun-eo "eksplosiu"-noun-ca
+"detonant"-noun-ca "eksplodilo"-noun-eo
+"eksplosiu"-noun-ca "eksplodilo"-noun-eo
+"forrestaĵo"-noun-eo "detrit"-noun-ca
+"detrit"-noun-ca "forrestaĵo"-noun-eo
+"alifigurigi"-verb-eo "deturpar"-verb-ca
+"deturpar"-verb-ca "alifigurigi"-verb-eo
+"fluakvamaso"-noun-eo "devessall"-noun-ca
+"devessall"-noun-ca "fluakvamaso"-noun-eo
+"pia"-adverb-eo "devot"-adverb-ca
+"devot"-adverb-ca "pia"-adverb-eo
+"devot"-adverb-ca "devota"-adverb-eo
+"devota"-adverb-eo "devot"-adverb-ca
+"tutmonda agotago"-noun-eo "dia d'acció global"-noun-ca
+"dia d'acció global"-noun-ca "tutmonda agotago"-noun-eo
+"Internacia Tago de Virinoj"-noun-eo "Dia de la Dona Treballadora"-noun-ca
+"Dia de la Dona Treballadora"-noun-ca "Internacia Tago de Virinoj"-noun-eo
+"Tago de Hispaneco"-noun-eo "dia de la Hispanitat"-noun-ca
+"dia de la Hispanitat"-noun-ca "Tago de Hispaneco"-noun-eo
+"diakoneco"-noun-eo "diaconat"-noun-ca
+"diaconat"-noun-ca "diakoneco"-noun-eo
+"diakrita"-adverb-eo "diacríticament"-adverb-ca
+"diacríticament"-adverb-ca "diakrita"-adverb-eo
+"diafragmi"-verb-eo "diafragmar"-verb-ca
+"diafragmar"-verb-ca "diafragmi"-verb-eo
+"diktatora"-adverb-eo "dictatorial"-adverb-ca
+"dictatorial"-adverb-ca "diktatora"-adverb-eo
+"dictatorial"-adverb-ca "diktatorema"-adverb-eo
+"diktatorema"-adverb-eo "dictatorial"-adverb-ca
+"pikparolo"-noun-eo "dicteri"-noun-ca
+"dicteri"-noun-ca "pikparolo"-noun-eo
+"dielektrika"-adverb-eo "dielèctricament"-adverb-ca
+"dielèctricament"-adverb-ca "dielektrika"-adverb-eo
+"fingri"-verb-eo "digitar"-verb-ca
+"digitar"-verb-ca "fingri"-verb-eo
+"dioniza"-adjective-eo "dionisíac"-adjective-ca
+"dionisíac"-adjective-ca "dioniza"-adjective-eo
+"deputi"-verb-eo "diputar"-verb-ca
+"diputar"-verb-ca "deputi"-verb-eo
+"diboĉi"-verb-eo "disbauxar-se"-verb-ca
+"disbauxar-se"-verb-ca "diboĉi"-verb-eo
+"senkulpiginda"-adjective-eo "disculpable"-adjective-ca
+"disculpable"-adjective-ca "senkulpiginda"-adjective-eo
+"diskobolo"-noun-eo "discòbol"-noun-ca
+"discòbol"-noun-ca "diskobolo"-noun-eo
+"granda elspezo"-noun-eo "dispendi"-noun-ca
+"dispendi"-noun-ca "granda elspezo"-noun-eo
+"juĝista dispono"-noun-eo "disposició judicial"-noun-ca
+"disposició judicial"-noun-ca "juĝista dispono"-noun-eo
+"detala ekzameno"-noun-eo "disquisició"-noun-ca
+"disquisició"-noun-ca "detala ekzameno"-noun-eo
+"nesimiligi"-verb-eo "dissimilar"-verb-ca
+"dissimilar"-verb-ca "nesimiligi"-verb-eo
+"nesimileco"-noun-eo "dissimilitud"-noun-ca
+"dissimilitud"-noun-ca "nesimileco"-noun-eo
+"disonanci"-verb-eo "dissonar"-verb-ca
+"dissonar"-verb-ca "disonanci"-verb-eo
+"kontraŭkonvinko"-noun-eo "dissuació"-noun-ca
+"dissuació"-noun-ca "kontraŭkonvinko"-noun-eo
+"malproksima"-adverb-eo "distant"-adverb-ca
+"distant"-adverb-ca "malproksima"-adverb-eo
+"fingra makulo"-noun-eo "ditada"-noun-ca
+"ditada"-noun-ca "fingra makulo"-noun-eo
+"vago"-noun-eo "vague"-noun-ca
+"vague"-noun-ca "vago"-noun-eo
+"malkonverĝa"-adverb-eo "divergent"-adverb-ca
+"divergent"-adverb-ca "malkonverĝa"-adverb-eo
+"diafana"-adverb-eo "diàfan"-adverb-ca
+"diafana"-adverb-eo "translúcid"-adverb-ca
+"diàfan"-adverb-ca "diafana"-adverb-eo
+"diàfan"-adverb-ca "maldensa"-adverb-eo
+"translúcid"-adverb-ca "diafana"-adverb-eo
+"translúcid"-adverb-ca "maldensa"-adverb-eo
+"maldensa"-adverb-eo "diàfan"-adverb-ca
+"maldensa"-adverb-eo "translúcid"-adverb-ca
+"kolŝnuro"-noun-eo "dogal"-noun-ca
+"dogal"-noun-ca "kolŝnuro"-noun-eo
+"baza parto de konektilo aŭ ŝaltilo"-noun-eo "dolla"-noun-ca
+"dolla"-noun-ca "baza parto de konektilo aŭ ŝaltilo"-noun-eo
+"similŝalmo"-noun-eo "dolçaina"-noun-ca
+"dolçaina"-noun-ca "similŝalmo"-noun-eo
+"duondormi"-verb-eo "dormisquejar"-verb-ca
+"dormisquejar"-verb-ca "duondormi"-verb-eo
+"dragilo"-noun-eo "dragador"-noun-ca
+"dragador"-noun-ca "dragilo"-noun-eo
+"draĝeo"-noun-eo "dragea"-noun-ca
+"dragea"-noun-ca "draĝeo"-noun-eo
+"rajto de la homo"-noun-eo "dret de l'home"-noun-ca
+"dret de l'home"-noun-ca "rajto de la homo"-noun-eo
+"rekteco"-noun-eo "dretura"-noun-ca
+"dretura"-noun-ca "rekteco"-noun-eo
+"toksikomanio"-noun-eo "drogoaddicció"-noun-ca
+"drogoaddicció"-noun-ca "toksikomanio"-noun-eo
+"drogodependo"-noun-eo "drogodependència"-noun-ca
+"drogodependència"-noun-ca "drogodependo"-noun-eo
+"nenifaranto"-noun-eo "dropo"-noun-ca
+"dropo"-noun-ca "nenifaranto"-noun-eo
+"buĝeta deficito"-noun-eo "dèficit fiscal"-noun-ca
+"dèficit fiscal"-noun-ca "buĝeta deficito"-noun-eo
+"diedro"-noun-eo "díedre"-noun-ca
+"díedre"-noun-ca "diedro"-noun-eo
+"kvieta"-adverb-eo "dòcil"-adverb-ca
+"kvieta"-adverb-eo "plàcid"-adverb-ca
+"dòcil"-adverb-ca "kvieta"-adverb-eo
+"plàcid"-adverb-ca "kvieta"-adverb-eo
+"ekumena"-adverb-eo "ecumènicament"-adverb-ca
+"ecumènicament"-adverb-ca "ekumena"-adverb-eo
+"edifa"-adverb-eo "edificant"-adverb-ca
+"edificant"-adverb-ca "edifa"-adverb-eo
+"fo"-noun-eo "efa"-noun-ca
+"efa"-noun-ca "fo"-noun-eo
+"efemera"-adverb-eo "efímer"-adverb-ca
+"efímer"-adverb-ca "efemera"-adverb-eo
+"harsekigilo"-noun-eo "eixugacabells"-noun-ca
+"eixugacabells"-noun-ca "harsekigilo"-noun-eo
+"la plej bona"-adjective-eo "el millor"-adjective-ca
+"el millor"-adjective-ca "la plej bona"-adjective-eo
+"Valencilando"-properNoun-eo "el País Valencià"-properNoun-ca
+"el País Valencià"-properNoun-ca "Valencilando"-properNoun-eo
+"lo"-noun-eo "ela"-noun-ca
+"ela"-noun-ca "lo"-noun-eo
+"Ele"-properNoun-eo "Ele"-properNoun-ca
+"Ele"-properNoun-ca "Ele"-properNoun-eo
+"elektroekzekuti"-verb-eo "electrocutar"-verb-ca
+"electrocutar"-verb-ca "elektroekzekuti"-verb-eo
+"elektromagneta"-adverb-eo "electromagnèticament"-adverb-ca
+"electromagnèticament"-adverb-ca "elektromagneta"-adverb-eo
+"elementa"-adverb-eo "elemental"-adverb-ca
+"elemental"-adverb-ca "elementa"-adverb-eo
+"elokventa"-adverb-eo "eloqüent"-adverb-ca
+"eloqüent"-adverb-ca "elokventa"-adverb-eo
+"Els Ports"-properNoun-eo "Els Ports"-properNoun-ca
+"Els Ports"-properNoun-ca "Els Ports"-properNoun-eo
+"Els Serrans"-properNoun-eo "Els Serrans"-properNoun-ca
+"Els Serrans"-properNoun-ca "Els Serrans"-properNoun-eo
+"la plej bonaj"-adjective-eo "els millors"-adjective-ca
+"els millors"-adjective-ca "la plej bonaj"-adjective-eo
+"mo"-noun-eo "ema"-noun-ca
+"ema"-noun-ca "mo"-noun-eo
+"stultigi"-verb-eo "embajanir"-verb-ca
+"stultigi"-verb-eo "embeneitir"-verb-ca
+"embajanir"-verb-ca "stultigi"-verb-eo
+"embeneitir"-verb-ca "stultigi"-verb-eo
+"fervori"-verb-eo "embalar-se"-verb-ca
+"fervori"-verb-eo "enfervorir-se"-verb-ca
+"embalar-se"-verb-ca "fervori"-verb-eo
+"enfervorir-se"-verb-ca "fervori"-verb-eo
+"flagi"-verb-eo "embanderar"-verb-ca
+"embanderar"-verb-ca "flagi"-verb-eo
+"gargari"-verb-eo "embarbollar"-verb-ca
+"gargari"-verb-eo "glopejar"-verb-ca
+"embarbollar"-verb-ca "gargari"-verb-eo
+"glopejar"-verb-ca "gargari"-verb-eo
+"ĉapelita"-adjective-eo "embarretat"-adjective-ca
+"embarretat"-adjective-ca "ĉapelita"-adjective-eo
+"bastardiĝi"-verb-eo "embastardir-se"-verb-ca
+"bastardiĝi"-verb-eo "entrecreuar-se"-verb-ca
+"embastardir-se"-verb-ca "bastardiĝi"-verb-eo
+"entrecreuar-se"-verb-ca "bastardiĝi"-verb-eo
+"ciri"-verb-eo "embetumar"-verb-ca
+"ciri"-verb-eo "enllustrar"-verb-ca
+"embetumar"-verb-ca "ciri"-verb-eo
+"enllustrar"-verb-ca "ciri"-verb-eo
+"bluigi"-verb-eo "emblavir"-verb-ca
+"emblavir"-verb-ca "bluigi"-verb-eo
+"elstara"-adverb-eo "eminent"-adverb-ca
+"elstara"-adverb-eo "insigne"-adverb-ca
+"elstara"-adverb-eo "prominent"-adverb-ca
+"elstara"-adverb-eo "rellevant"-adverb-ca
+"eminent"-adverb-ca "elstara"-adverb-eo
+"eminent"-adverb-ca "eminenta"-adverb-eo
+"insigne"-adverb-ca "elstara"-adverb-eo
+"prominent"-adverb-ca "elstara"-adverb-eo
+"rellevant"-adverb-ca "elstara"-adverb-eo
+"eminenta"-adverb-eo "eminent"-adverb-ca
+"kreneli"-verb-eo "emmerletar"-verb-ca
+"emmerletar"-verb-ca "kreneli"-verb-eo
+"mutiĝi"-verb-eo "emmudir"-verb-ca
+"emmudir"-verb-ca "mutiĝi"-verb-eo
+"pargeti"-verb-eo "emparquetar"-verb-ca
+"emparquetar"-verb-ca "pargeti"-verb-eo
+"spaliri"-verb-eo "emparrar"-verb-ca
+"emparrar"-verb-ca "spaliri"-verb-eo
+"honti"-verb-eo "empegueir-se"-verb-ca
+"empegueir-se"-verb-ca "honti"-verb-eo
+"ŝudorso"-noun-eo "empenya"-noun-ca
+"empenya"-noun-ca "ŝudorso"-noun-eo
+"perli"-verb-eo "emperlar-se"-verb-ca
+"emperlar-se"-verb-ca "perli"-verb-eo
+"paneli"-verb-eo "emplafonar"-verb-ca
+"emplafonar"-verb-ca "paneli"-verb-eo
+"plumi"-verb-eo "emplomallar"-verb-ca
+"emplomallar"-verb-ca "plumi"-verb-eo
+"purpurigi"-verb-eo "emporprar"-verb-ca
+"emporprar"-verb-ca "purpurigi"-verb-eo
+"kunlabore kun"-preposition-eo "en col·laboració amb"-preposition-ca
+"en col·laboració amb"-preposition-ca "kunlabore kun"-preposition-eo
+"trope"-adverb-eo "en grup de tres"-adverb-ca
+"en grup de tres"-adverb-ca "trope"-adverb-eo
+"en ordo"-adverb-eo "en ordre"-adverb-ca
+"en ordre"-adverb-ca "en ordo"-adverb-eo
+"kontumace"-adverb-eo "en rebel·lia"-adverb-ca
+"en rebel·lia"-adverb-ca "kontumace"-adverb-eo
+"en la somala lingvo"-adverb-eo "en somali"-adverb-ca
+"en somali"-adverb-ca "en la somala lingvo"-adverb-eo
+"en somali"-adverb-ca "en la somala"-adverb-eo
+"en somali"-adverb-ca "somale"-adverb-eo
+"en somali"-adverb-ca "en la somalia lingvo"-adverb-eo
+"en somali"-adverb-ca "en la somalia"-adverb-eo
+"en somali"-adverb-ca "somalie"-adverb-eo
+"en la somala"-adverb-eo "en somali"-adverb-ca
+"somale"-adverb-eo "en somali"-adverb-ca
+"en la somalia lingvo"-adverb-eo "en somali"-adverb-ca
+"en la somalia"-adverb-eo "en somali"-adverb-ca
+"somalie"-adverb-eo "en somali"-adverb-ca
+"en la ĉuvaŝa lingvo"-adverb-eo "en txuvaix"-adverb-ca
+"en txuvaix"-adverb-ca "en la ĉuvaŝa lingvo"-adverb-eo
+"en txuvaix"-adverb-ca "en la ĉuvaŝa"-adverb-eo
+"en txuvaix"-adverb-ca "ĉuvaŝe"-adverb-eo
+"en la ĉuvaŝa"-adverb-eo "en txuvaix"-adverb-ca
+"ĉuvaŝe"-adverb-eo "en txuvaix"-adverb-ca
+"en la tatara lingvo"-adverb-eo "en tàtar"-adverb-ca
+"en tàtar"-adverb-ca "en la tatara lingvo"-adverb-eo
+"en tàtar"-adverb-ca "en la tatara"-adverb-eo
+"en tàtar"-adverb-ca "tatare"-adverb-eo
+"en la tatara"-adverb-eo "en tàtar"-adverb-ca
+"tatare"-adverb-eo "en tàtar"-adverb-ca
+"no"-noun-eo "ena"-noun-ca
+"ena"-noun-ca "no"-noun-eo
+"enamiĝi"-verb-eo "enamorar-se"-verb-ca
+"enamorar-se"-verb-ca "enamiĝi"-verb-eo
+"grizĝi"-verb-eo "encanudir"-verb-ca
+"encanudir"-verb-ca "grizĝi"-verb-eo
+"enskatoligi"-verb-eo "encapsar"-verb-ca
+"encapsar"-verb-ca "enskatoligi"-verb-eo
+"kolombumi"-verb-eo "encaramel·lar-se"-verb-ca
+"encaramel·lar-se"-verb-ca "kolombumi"-verb-eo
+"kartoni"-verb-eo "encartonar"-verb-ca
+"encartonar"-verb-ca "kartoni"-verb-eo
+"enfakigi"-verb-eo "encasellar"-verb-ca
+"encasellar"-verb-ca "enfakigi"-verb-eo
+"senkrestigi"-verb-eo "encrestar"-verb-ca
+"encrestar"-verb-ca "senkrestigi"-verb-eo
+"sekva tago"-noun-eo "endemà"-noun-ca
+"endemà"-noun-ca "sekva tago"-noun-eo
+"Enderbury"-properNoun-eo "Enderbury"-properNoun-ca
+"Enderbury"-properNoun-ca "Enderbury"-properNoun-eo
+"enkotiĝi"-verb-eo "enfangar-se"-verb-ca
+"enfangar-se"-verb-ca "enkotiĝi"-verb-eo
+"lardi"-verb-eo "enfarfegar"-verb-ca
+"lardi"-verb-eo "enllardar"-verb-ca
+"enfarfegar"-verb-ca "lardi"-verb-eo
+"enllardar"-verb-ca "lardi"-verb-eo
+"feŭdi"-verb-eo "enfeudar"-verb-ca
+"enfeudar"-verb-ca "feŭdi"-verb-eo
+"girlandi"-verb-eo "engarlandir"-verb-ca
+"engarlandir"-verb-ca "girlandi"-verb-eo
+"ĵaluzi"-verb-eo "engelosir-se"-verb-ca
+"engelosir-se"-verb-ca "ĵaluzi"-verb-eo
+"blindiga"-adverb-eo "enlluernador"-adverb-ca
+"enlluernador"-adverb-ca "blindiga"-adverb-eo
+"blindumo"-noun-eo "enlluernament"-noun-ca
+"enlluernament"-noun-ca "blindumo"-noun-eo
+"kradi"-verb-eo "enreixar"-verb-ca
+"enreixar"-verb-ca "kradi"-verb-eo
+"ringiĝi"-verb-eo "enrinxolar-se"-verb-ca
+"enrinxolar-se"-verb-ca "ringiĝi"-verb-eo
+"radumi"-verb-eo "enrodar"-verb-ca
+"enrodar"-verb-ca "radumi"-verb-eo
+"sapi"-verb-eo "ensabonar"-verb-ca
+"ensabonar"-verb-ca "sapi"-verb-eo
+"safrani"-verb-eo "ensafranar"-verb-ca
+"ensafranar"-verb-ca "safrani"-verb-eo
+"elementa instruado"-noun-eo "ensenyament primari"-noun-ca
+"ensenyament primari"-noun-ca "elementa instruado"-noun-eo
+"ensenyament primari"-noun-ca "elementlerneja instruado"-noun-eo
+"ensenyament primari"-noun-ca "bazlerneja instruado"-noun-eo
+"elementlerneja instruado"-noun-eo "ensenyament primari"-noun-ca
+"bazlerneja instruado"-noun-eo "ensenyament primari"-noun-ca
+"mezlerneja instruado"-noun-eo "ensenyament secundari"-noun-ca
+"ensenyament secundari"-noun-ca "mezlerneja instruado"-noun-eo
+"universitata instruado"-noun-eo "ensenyament universitari"-noun-ca
+"ensenyament universitari"-noun-ca "universitata instruado"-noun-eo
+"sebi"-verb-eo "enseuar"-verb-ca
+"enseuar"-verb-ca "sebi"-verb-eo
+"ensiligi"-verb-eo "ensitjar"-verb-ca
+"ensitjar"-verb-ca "ensiligi"-verb-eo
+"sulfuri"-verb-eo "ensofrar"-verb-ca
+"ensofrar"-verb-ca "sulfuri"-verb-eo
+"tegmenti"-verb-eo "ensostrar"-verb-ca
+"tegmenti"-verb-eo "sostrar"-verb-ca
+"ensostrar"-verb-ca "tegmenti"-verb-eo
+"sostrar"-verb-ca "tegmenti"-verb-eo
+"krepuskiĝi"-verb-eo "enterbolir-se"-verb-ca
+"krepuskiĝi"-verb-eo "llostrejar"-verb-ca
+"krepuskiĝi"-verb-eo "vesprejar"-verb-ca
+"enterbolir-se"-verb-ca "krepuskiĝi"-verb-eo
+"llostrejar"-verb-ca "krepuskiĝi"-verb-eo
+"vesprejar"-verb-ca "krepuskiĝi"-verb-eo
+"inki"-verb-eo "entintar"-verb-ca
+"entintar"-verb-ca "inki"-verb-eo
+"ĉirkaŭtordi"-verb-eo "entortolligar"-verb-ca
+"entortolligar"-verb-ca "ĉirkaŭtordi"-verb-eo
+"biforkiĝo"-noun-eo "entreforc"-noun-ca
+"entreforc"-noun-ca "biforkiĝo"-noun-eo
+"entuziasmema"-adjective-eo "entusiàstic"-adjective-ca
+"entusiàstic"-adjective-ca "entuziasmema"-adjective-eo
+"entuziasmema"-adverb-eo "entusiàsticament"-adverb-ca
+"entusiàsticament"-adverb-ca "entuziasmema"-adverb-eo
+"vantiĝi"-verb-eo "envanir-se"-verb-ca
+"envanir-se"-verb-ca "vantiĝi"-verb-eo
+"veluriĝi"-verb-eo "envellutar"-verb-ca
+"envellutar"-verb-ca "veluriĝi"-verb-eo
+"verdiĝi"-verb-eo "enverdir-se"-verb-ca
+"verdiĝi"-verb-eo "verdejar"-verb-ca
+"enverdir-se"-verb-ca "verdiĝi"-verb-eo
+"verdejar"-verb-ca "verdiĝi"-verb-eo
+"vidviĝi"-verb-eo "enviduar"-verb-ca
+"vidviĝi"-verb-eo "enviudar"-verb-ca
+"enviduar"-verb-ca "vidviĝi"-verb-eo
+"enviudar"-verb-ca "vidviĝi"-verb-eo
+"Epifania"-properNoun-eo "Epifania"-properNoun-ca
+"Epifania"-properNoun-ca "Epifania"-properNoun-eo
+"ekvatora"-adverb-eo "equatorial"-adverb-ca
+"equatorial"-adverb-ca "ekvatora"-adverb-eo
+"justa"-adverb-eo "equitable"-adverb-ca
+"justa"-adverb-eo "equànime"-adverb-ca
+"equitable"-adverb-ca "justa"-adverb-eo
+"equànime"-adverb-ca "justa"-adverb-eo
+"ŝtata trezorejo"-noun-eo "erari públic"-noun-ca
+"erari públic"-noun-ca "ŝtata trezorejo"-noun-eo
+"eremito"-noun-eo "eremita"-noun-ca
+"eremita"-noun-ca "eremito"-noun-eo
+"senkulturita grundo"-noun-eo "ermot"-noun-ca
+"ermot"-noun-ca "senkulturita grundo"-noun-eo
+"proceduro de postenreguligo"-noun-eo "ERO"-noun-ca
+"proceduro de postenreguligo"-noun-eo "expedient de regulació d'ocupació"-noun-ca
+"ERO"-noun-ca "proceduro de postenreguligo"-noun-eo
+"expedient de regulació d'ocupació"-noun-ca "proceduro de postenreguligo"-noun-eo
+"migra"-adverb-eo "errant"-adverb-ca
+"migra"-adverb-eo "itinerant"-adverb-ca
+"errant"-adverb-ca "migra"-adverb-eo
+"itinerant"-adverb-ca "migra"-adverb-eo
+"senveprigi"-verb-eo "esbardissar"-verb-ca
+"senveprigi"-verb-eo "esbrollar"-verb-ca
+"esbardissar"-verb-ca "senveprigi"-verb-eo
+"esbrollar"-verb-ca "senveprigi"-verb-eo
+"inkmakulo"-noun-eo "esborrall"-noun-ca
+"esborrall"-noun-ca "inkmakulo"-noun-eo
+"sentripigi"-verb-eo "esbudellar"-verb-ca
+"esbudellar"-verb-ca "sentripigi"-verb-eo
+"spirego"-noun-eo "esbufec"-noun-ca
+"esbufec"-noun-ca "spirego"-noun-eo
+"marini"-verb-eo "escabetxar"-verb-ca
+"escabetxar"-verb-ca "marini"-verb-eo
+"troa"-adverb-eo "escadusser"-adverb-ca
+"escadusser"-adverb-ca "troa"-adverb-eo
+"skafandrismo"-noun-eo "escafandrisme"-noun-ca
+"escafandrisme"-noun-ca "skafandrismo"-noun-eo
+"konveno"-noun-eo "escaiença"-noun-ca
+"escaiença"-noun-ca "konveno"-noun-eo
+"senkrudigo"-noun-eo "escalaborn"-noun-ca
+"escalaborn"-noun-ca "senkrudigo"-noun-eo
+"varmumi"-verb-eo "escaldar-se"-verb-ca
+"escaldar-se"-verb-ca "varmumi"-verb-eo
+"suspektigi"-verb-eo "escamnar"-verb-ca
+"escamnar"-verb-ca "suspektigi"-verb-eo
+"forjongli"-verb-eo "escamotejar"-verb-ca
+"escamotejar"-verb-ca "forjongli"-verb-eo
+"rampaĵo"-noun-eo "escantell"-noun-ca
+"escantell"-noun-ca "rampaĵo"-noun-eo
+"elŝteliĝi"-verb-eo "escapolir-se"-verb-ca
+"elŝteliĝi"-verb-eo "esquitllar-se"-verb-ca
+"escapolir-se"-verb-ca "elŝteliĝi"-verb-eo
+"esquitllar-se"-verb-ca "elŝteliĝi"-verb-eo
+"ŝakludanto"-noun-eo "escaquista"-noun-ca
+"escaquista"-noun-ca "ŝakludanto"-noun-eo
+"sekigita"-adjective-eo "escardalenc"-adjective-ca
+"escardalenc"-adjective-ca "sekigita"-adjective-eo
+"klukado"-noun-eo "escataineig"-noun-ca
+"escataineig"-noun-ca "klukado"-noun-eo
+"akolitaro"-noun-eo "escolania"-noun-ca
+"escolania"-noun-ca "akolitaro"-noun-eo
+"skolopendro"-noun-eo "escolopendra"-noun-ca
+"escolopendra"-noun-ca "skolopendro"-noun-eo
+"sputujo"-noun-eo "escopidora"-noun-ca
+"escopidora"-noun-ca "sputujo"-noun-eo
+"ferdekaperturo"-noun-eo "escotilla"-noun-ca
+"escotilla"-noun-ca "ferdekaperturo"-noun-eo
+"balaileto por ĉasfusilo"-noun-eo "escovilló"-noun-ca
+"escovilló"-noun-ca "balaileto por ĉasfusilo"-noun-eo
+"skriboficistejo"-noun-eo "escrivania"-noun-ca
+"escrivania"-noun-ca "skriboficistejo"-noun-eo
+"senkrostigi"-verb-eo "escrostonar"-verb-ca
+"escrostonar"-verb-ca "senkrostigi"-verb-eo
+"ondorompilo"-noun-eo "escullera"-noun-ca
+"escullera"-noun-ca "ondorompilo"-noun-eo
+"skulptinda"-adjective-eo "escultural"-adjective-ca
+"escultural"-adjective-ca "skulptinda"-adjective-eo
+"senŝaŭmigilo"-noun-eo "escumadora"-noun-ca
+"escumadora"-noun-ca "senŝaŭmigilo"-noun-eo
+"eskapita"-adjective-eo "escàpol"-adjective-ca
+"escàpol"-adjective-ca "eskapita"-adjective-eo
+"skeptika"-adverb-eo "escèpticament"-adverb-ca
+"escèpticament"-adverb-ca "skeptika"-adverb-eo
+"skorpeno"-noun-eo "escórpora"-noun-ca
+"escórpora"-noun-ca "skorpeno"-noun-eo
+"Eŭropa Socia Forumo"-noun-eo "ESF"-noun-ca
+"Eŭropa Socia Forumo"-noun-eo "Fòrum Social Europeu"-noun-ca
+"ESF"-noun-ca "Eŭropa Socia Forumo"-noun-eo
+"Fòrum Social Europeu"-noun-ca "Eŭropa Socia Forumo"-noun-eo
+"Fòrum Social Europeu"-noun-ca "Eŭropa Sociala Forumo"-noun-eo
+"Eŭropa Sociala Forumo"-noun-eo "Fòrum Social Europeu"-noun-ca
+"akra krio"-noun-eo "esgarip"-noun-ca
+"esgarip"-noun-ca "akra krio"-noun-eo
+"tremigi"-verb-eo "esgarrifar"-verb-ca
+"esgarrifar"-verb-ca "tremigi"-verb-eo
+"disgrajnigi"-verb-eo "esgranar"-verb-ca
+"esgranar"-verb-ca "disgrajnigi"-verb-eo
+"flaviĝi"-verb-eo "esgrogueir-se"-verb-ca
+"esgrogueir-se"-verb-ca "flaviĝi"-verb-eo
+"defaligo"-noun-eo "esllavissada"-noun-ca
+"esllavissada"-noun-ca "defaligo"-noun-eo
+"akrigisto"-noun-eo "esmolet"-noun-ca
+"esmolet"-noun-ca "akrigisto"-noun-eo
+"tifaĵo"-noun-eo "espadanya"-noun-ca
+"espadanya"-noun-ca "tifaĵo"-noun-eo
+"junulejo"-noun-eo "espai jove"-noun-ca
+"espai jove"-noun-ca "junulejo"-noun-eo
+"hispaniganto"-noun-eo "espanyolista"-noun-ca
+"espanyolista"-noun-ca "hispaniganto"-noun-eo
+"hispaneco"-noun-eo "espanyolitat"-noun-ca
+"espanyolitat"-noun-ca "hispaneco"-noun-eo
+"timigulo"-noun-eo "esparverador"-noun-ca
+"esparverador"-noun-ca "timigulo"-noun-eo
+"spasma"-adverb-eo "espàsticament"-adverb-ca
+"espàsticament"-adverb-ca "spasma"-adverb-eo
+"spato"-noun-eo "espat"-noun-ca
+"espat"-noun-ca "spato"-noun-eo
+"specimenaĵo"-noun-eo "específic"-noun-ca
+"específic"-noun-ca "specimenaĵo"-noun-eo
+"pecigi"-verb-eo "espedaçar"-verb-ca
+"espedaçar"-verb-ca "pecigi"-verb-eo
+"senfeligi"-verb-eo "espellar"-verb-ca
+"espellar"-verb-ca "senfeligi"-verb-eo
+"rulfaligi"-verb-eo "espenyar"-verb-ca
+"rulfaligi"-verb-eo "estimbar"-verb-ca
+"espenyar"-verb-ca "rulfaligi"-verb-eo
+"estimbar"-verb-ca "rulfaligi"-verb-eo
+"Esperaunce"-properNoun-eo "Esperaunce"-properNoun-ca
+"Esperaunce"-properNoun-ca "Esperaunce"-properNoun-eo
+"vazistaso"-noun-eo "espiell"-noun-ca
+"espiell"-noun-ca "vazistaso"-noun-eo
+"misbato"-noun-eo "espifiada"-noun-ca
+"espifiada"-noun-ca "misbato"-noun-eo
+"spikiĝi"-verb-eo "espigar"-verb-ca
+"espigar"-verb-ca "spikiĝi"-verb-eo
+"ia dornohava arbusto"-noun-eo "espinavessa"-noun-ca
+"espinavessa"-noun-ca "ia dornohava arbusto"-noun-eo
+"aertruo"-noun-eo "espirall"-noun-ca
+"espirall"-noun-ca "aertruo"-noun-eo
+"splenda"-adverb-eo "esplèndid"-adverb-ca
+"splenda"-adverb-eo "estupend"-adverb-ca
+"splenda"-adverb-eo "resplendent"-adverb-ca
+"esplèndid"-adverb-ca "splenda"-adverb-eo
+"estupend"-adverb-ca "splenda"-adverb-eo
+"resplendent"-adverb-ca "splenda"-adverb-eo
+"senpedikigi"-verb-eo "espollar"-verb-ca
+"espollar"-verb-ca "senpedikigi"-verb-eo
+"ĉiu flanko de la lito"-noun-eo "espona"-noun-ca
+"espona"-noun-ca "ĉiu flanko de la lito"-noun-eo
+"elpremilo"-noun-eo "espremedora"-noun-ca
+"espremedora"-noun-ca "elpremilo"-noun-eo
+"sputaĵo"-noun-eo "esput"-noun-ca
+"esput"-noun-ca "sputaĵo"-noun-eo
+"mortoeskadro"-noun-eo "esquadró de la mort"-noun-ca
+"esquadró de la mort"-noun-ca "mortoeskadro"-noun-eo
+"malafabla"-adverb-eo "esquerp"-adverb-ca
+"malafabla"-adverb-eo "incivil"-adverb-ca
+"esquerp"-adverb-ca "malafabla"-adverb-eo
+"incivil"-adverb-ca "malafabla"-adverb-eo
+"inuita"-adverb-eo "esquimal"-adverb-ca
+"esquimal"-adverb-ca "inuita"-adverb-eo
+"streĉvundo"-noun-eo "esquinç"-noun-ca
+"esquinç"-noun-ca "streĉvundo"-noun-eo
+"so"-noun-eo "essa"-noun-ca
+"essa"-noun-ca "so"-noun-eo
+"stabila"-adverb-eo "estable"-adverb-ca
+"estable"-adverb-ca "stabila"-adverb-eo
+"estable"-adverb-ca "starema"-adverb-eo
+"starema"-adverb-eo "estable"-adverb-ca
+"kapturni"-verb-eo "estamordir"-verb-ca
+"estamordir"-verb-ca "kapturni"-verb-eo
+"ekstaziĝito"-noun-eo "estaquirot"-noun-ca
+"estaquirot"-noun-ca "ekstaziĝito"-noun-eo
+"juroŝtato"-noun-eo "estat de dret"-noun-ca
+"estat de dret"-noun-ca "juroŝtato"-noun-eo
+"ŝtata"-adverb-eo "estatal"-adverb-ca
+"estatal"-adverb-ca "ŝtata"-adverb-eo
+"sendependisma flago"-noun-eo "estelada"-noun-ca
+"estelada"-noun-ca "sendependisma flago"-noun-eo
+"stenotipio"-noun-eo "estenotípia"-noun-ca
+"estenotípia"-noun-ca "stenotipio"-noun-eo
+"stentora"-adjective-eo "estentori"-adjective-ca
+"estentori"-adjective-ca "stentora"-adjective-eo
+"stepa"-adjective-eo "estepari"-adjective-ca
+"estepari"-adjective-ca "stepa"-adjective-eo
+"batmortigi"-verb-eo "esterrecar"-verb-ca
+"batmortigi"-verb-eo "estossinar"-verb-ca
+"esterrecar"-verb-ca "batmortigi"-verb-eo
+"estossinar"-verb-ca "batmortigi"-verb-eo
+"estetikismo"-noun-eo "esteticisme"-noun-ca
+"esteticisme"-noun-ca "estetikismo"-noun-eo
+"stakisto"-noun-eo "estibador"-noun-ca
+"estibador"-noun-ca "stakisto"-noun-eo
+"somerumi"-verb-eo "estiuar"-verb-ca
+"estiuar"-verb-ca "somerumi"-verb-eo
+"stokasta"-adverb-eo "estocàsticament"-adverb-ca
+"estocàsticament"-adverb-ca "stokasta"-adverb-eo
+"stoika"-adverb-eo "estoicament"-adverb-ca
+"estoicament"-adverb-ca "stoika"-adverb-eo
+"stolono"-noun-eo "estoló"-noun-ca
+"estoló"-noun-ca "stolono"-noun-eo
+"stupo"-noun-eo "estopa"-noun-ca
+"estopa"-noun-ca "stupo"-noun-eo
+"fremda"-adverb-eo "estranger"-adverb-ca
+"fremda"-adverb-eo "foraster"-adverb-ca
+"estranger"-adverb-ca "fremda"-adverb-eo
+"foraster"-adverb-ca "fremda"-adverb-eo
+"eksterlandaneco"-noun-eo "estrangeria"-noun-ca
+"estrangeria"-noun-ca "eksterlandaneco"-noun-eo
+"fremdiĝi"-verb-eo "estrangeritzar-se"-verb-ca
+"estrangeritzar-se"-verb-ca "fremdiĝi"-verb-eo
+"krudŝtofo"-noun-eo "estrassa"-noun-ca
+"estrassa"-noun-ca "krudŝtofo"-noun-eo
+"stratuso"-noun-eo "estratocúmul"-noun-ca
+"estratocúmul"-noun-ca "stratuso"-noun-eo
+"subittiro"-noun-eo "estrebada"-noun-ca
+"estrebada"-noun-ca "subittiro"-noun-eo
+"subittiri"-verb-eo "estrebar"-verb-ca
+"estrebar"-verb-ca "subittiri"-verb-eo
+"strida"-adverb-eo "estrident"-adverb-ca
+"estrident"-adverb-ca "strida"-adverb-eo
+"akrasono"-noun-eo "estridor"-noun-ca
+"estridor"-noun-ca "akrasono"-noun-eo
+"akra sono"-noun-eo "estridència"-noun-ca
+"estridència"-noun-ca "akra sono"-noun-eo
+"straba"-adverb-eo "estràbicament"-adverb-ca
+"estràbicament"-adverb-ca "straba"-adverb-eo
+"stuki"-verb-eo "estucar"-verb-ca
+"estucar"-verb-ca "stuki"-verb-eo
+"mirkonsternita"-adjective-eo "estupefacte"-adjective-ca
+"estupefacte"-adjective-ca "mirkonsternita"-adjective-eo
+"startigilo"-noun-eo "estàrter"-noun-ca
+"estàrter"-noun-ca "startigilo"-noun-eo
+"infèrtil"-adverb-ca "malfekunda"-adverb-eo
+"svelteco"-noun-eo "esveltesa"-noun-ca
+"esveltesa"-noun-ca "svelteco"-noun-eo
+"flugilmovi"-verb-eo "esvoletegar"-verb-ca
+"esvoletegar"-verb-ca "flugilmovi"-verb-eo
+"eŭkaristia"-adjective-eo "eurarístic"-adjective-ca
+"eurarístic"-adjective-ca "eŭkaristia"-adjective-eo
+"eŭritmo"-noun-eo "eurítmia"-noun-ca
+"eurítmia"-noun-ca "eŭritmo"-noun-eo
+"evangelio"-properNoun-eo "Evangeli"-properNoun-ca
+"Evangeli"-properNoun-ca "evangelio"-properNoun-eo
+"Ekscelenco"-properNoun-eo "Excel·lència"-properNoun-ca
+"Ekscelenco"-properNoun-eo "Honorable"-properNoun-ca
+"Ekscelenco"-properNoun-eo "Il·lustríssim"-properNoun-ca
+"Excel·lència"-properNoun-ca "Ekscelenco"-properNoun-eo
+"Honorable"-properNoun-ca "Ekscelenco"-properNoun-eo
+"Il·lustríssim"-properNoun-ca "Ekscelenco"-properNoun-eo
+"nervoza"-adverb-eo "excitable"-adverb-ca
+"excitable"-adverb-ca "nervoza"-adverb-eo
+"ekkria"-adjective-eo "exclamatíu"-adjective-ca
+"exclamatíu"-adjective-ca "ekkria"-adjective-eo
+"sociala ekskludado"-noun-eo "exclusió social"-noun-ca
+"exclusió social"-noun-ca "sociala ekskludado"-noun-eo
+"eskursema"-adjective-eo "excursionista"-adjective-ca
+"excursionista"-adjective-ca "eskursema"-adjective-eo
+"praktiki kiel"-verb-eo "exercir com a"-verb-ca
+"praktiki kiel"-verb-eo "exercir de"-verb-ca
+"exercir com a"-verb-ca "praktiki kiel"-verb-eo
+"exercir de"-verb-ca "praktiki kiel"-verb-eo
+"ekskuza"-adjective-eo "eximent"-adjective-ca
+"eximent"-adjective-ca "ekskuza"-adjective-eo
+"ekzistanta"-adverb-eo "existent"-adverb-ca
+"existent"-adverb-ca "ekzistanta"-adverb-eo
+"eksperimenta"-adverb-eo "experimental"-adverb-ca
+"experimental"-adverb-ca "eksperimenta"-adverb-eo
+"sperta"-adverb-eo "expert"-adverb-ca
+"expert"-adverb-ca "sperta"-adverb-eo
+"sperteco"-noun-eo "expertesa"-noun-ca
+"expertesa"-noun-ca "sperteco"-noun-eo
+"forlasito"-noun-eo "expòsit"-noun-ca
+"expòsit"-noun-ca "forlasito"-noun-eo
+"delikataĵo"-noun-eo "exquisidesa"-noun-ca
+"exquisidesa"-noun-ca "delikataĵo"-noun-eo
+"eskvizita"-adverb-eo "exquisit"-adverb-ca
+"exquisit"-adverb-ca "eskvizita"-adverb-eo
+"exquisit"-adverb-ca "delikata"-adverb-eo
+"delikata"-adverb-eo "exquisit"-adverb-ca
+"delikata"-adverb-eo "fràgil"-adverb-ca
+"fràgil"-adverb-ca "delikata"-adverb-eo
+"fràgil"-adverb-ca "fragila"-adverb-eo
+"fragila"-adverb-eo "fràgil"-adverb-ca
+"ekstaziĝi"-verb-eo "extasiar-se"-verb-ca
+"extasiar-se"-verb-ca "ekstaziĝi"-verb-eo
+"ekstera"-adverb-eo "exterior"-adverb-ca
+"exterior"-adverb-ca "ekstera"-adverb-eo
+"eksterma"-adjective-eo "exterminador"-adjective-ca
+"exterminador"-adjective-ca "eksterma"-adjective-eo
+"ekstermanto"-noun-eo "exterminador"-noun-ca
+"exterminador"-noun-ca "ekstermanto"-noun-eo
+"fajroestingilo"-noun-eo "extintor"-noun-ca
+"extintor"-noun-ca "fajroestingilo"-noun-eo
+"bizara"-adverb-eo "extravagant"-adverb-ca
+"bizara"-adverb-eo "insòlit"-adverb-ca
+"extravagant"-adverb-ca "bizara"-adverb-eo
+"insòlit"-adverb-ca "bizara"-adverb-eo
+"insòlit"-adverb-ca "nekutima"-adverb-eo
+"insòlit"-adverb-ca "rara"-adverb-eo
+"insòlit"-adverb-ca "stranga"-adverb-eo
+"nekutima"-adverb-eo "insòlit"-adverb-ca
+"nekutima"-adverb-eo "inhabitual"-adverb-ca
+"rara"-adverb-eo "insòlit"-adverb-ca
+"stranga"-adverb-eo "insòlit"-adverb-ca
+"ekstrema"-adverb-eo "extrem"-adverb-ca
+"extrem"-adverb-ca "ekstrema"-adverb-eo
+"elŝviti"-verb-eo "exudar"-verb-ca
+"exudar"-verb-ca "elŝviti"-verb-eo
+"FAI"-noun-eo "FAI"-noun-ca
+"FAI"-noun-ca "FAI"-noun-eo
+"lampiono"-noun-eo "fanalet"-noun-ca
+"fanalet"-noun-ca "lampiono"-noun-eo
+"pavi"-verb-eo "fanfaronejar"-verb-ca
+"fanfaronejar"-verb-ca "pavi"-verb-eo
+"ŝpati"-verb-eo "fangar"-verb-ca
+"fangar"-verb-ca "ŝpati"-verb-eo
+"Nutraĵa kaj Agrokultura Organizaĵo de UN"-noun-eo "FAO"-noun-ca
+"FAO"-noun-ca "Nutraĵa kaj Agrokultura Organizaĵo de UN"-noun-eo
+"forĝejo"-noun-eo "farga"-noun-ca
+"forĝejo"-noun-eo "forja"-noun-ca
+"farga"-noun-ca "forĝejo"-noun-eo
+"forja"-noun-ca "forĝejo"-noun-eo
+"furaĝi"-verb-eo "farratjar"-verb-ca
+"farratjar"-verb-ca "furaĝi"-verb-eo
+"fatala"-adverb-eo "fatal"-adverb-ca
+"fatal"-adverb-ca "fatala"-adverb-eo
+"Faŭno"-properNoun-eo "Faune"-properNoun-ca
+"Faune"-properNoun-ca "Faŭno"-properNoun-eo
+"favora"-adverb-eo "favorable"-adverb-ca
+"favorable"-adverb-ca "favora"-adverb-eo
+"malforta"-adverb-eo "feble"-adverb-ca
+"feble"-adverb-ca "malforta"-adverb-eo
+"feble"-adverb-ca "febla"-adverb-eo
+"feble"-adverb-ca "malfirma"-adverb-eo
+"feble"-adverb-ca "senforta"-adverb-eo
+"febla"-adverb-eo "feble"-adverb-ca
+"malfirma"-adverb-eo "feble"-adverb-ca
+"malfirma"-adverb-eo "inestable"-adverb-ca
+"malfirma"-adverb-eo "variable"-adverb-ca
+"senforta"-adverb-eo "feble"-adverb-ca
+"inestable"-adverb-ca "malfirma"-adverb-eo
+"inestable"-adverb-ca "malstabila"-adverb-eo
+"variable"-adverb-ca "malfirma"-adverb-eo
+"variable"-adverb-ca "nekonstanta"-adverb-eo
+"variable"-adverb-ca "varia"-adverb-eo
+"malstabila"-adverb-eo "inestable"-adverb-ca
+"nekonstanta"-adverb-eo "variable"-adverb-ca
+"nekonstanta"-adverb-eo "inconstant"-adverb-ca
+"nekonstanta"-adverb-eo "voluble"-adverb-ca
+"varia"-adverb-eo "variable"-adverb-ca
+"fekunda"-adverb-eo "fecund"-adverb-ca
+"fekunda"-adverb-eo "fèrtil"-adverb-ca
+"fecund"-adverb-ca "fekunda"-adverb-eo
+"fecund"-adverb-ca "grasa"-adverb-eo
+"fèrtil"-adverb-ca "fekunda"-adverb-eo
+"fèrtil"-adverb-ca "grasa"-adverb-eo
+"grasa"-adverb-eo "fecund"-adverb-ca
+"grasa"-adverb-eo "fèrtil"-adverb-ca
+"federala"-adverb-eo "federal"-adverb-ca
+"federal"-adverb-ca "federala"-adverb-eo
+"inseksa"-adverb-eo "femellenc"-adverb-ca
+"femellenc"-adverb-ca "inseksa"-adverb-eo
+"fenomena"-adverb-eo "fenomenal"-adverb-ca
+"fenomenal"-adverb-ca "fenomena"-adverb-eo
+"petveturi"-verb-eo "fer autostop"-verb-ca
+"fer autostop"-verb-ca "petveturi"-verb-eo
+"esti bela vetero"-verb-eo "fer bo"-verb-ca
+"fer bo"-verb-ca "esti bela vetero"-verb-eo
+"bone konduti"-verb-eo "fer bondat"-verb-ca
+"fer bondat"-verb-ca "bone konduti"-verb-eo
+"estas varme"-verb-eo "fer calor"-verb-ca
+"fer calor"-verb-ca "estas varme"-verb-eo
+"fer calor"-verb-ca "varmi"-verb-eo
+"varmi"-verb-eo "fer calor"-verb-ca
+"feliĉigi"-verb-eo "fer feliç"-verb-ca
+"fer feliç"-verb-ca "feliĉigi"-verb-eo
+"estas malvarme"-verb-eo "fer fred"-verb-ca
+"fer fred"-verb-ca "estas malvarme"-verb-eo
+"fer fred"-verb-ca "malvarmi"-verb-eo
+"malvarmi"-verb-eo "fer fred"-verb-ca
+"vapori"-verb-eo "fer fum"-verb-ca
+"fer fum"-verb-ca "vapori"-verb-eo
+"siesti"-verb-eo "fer la migdiada"-verb-ca
+"fer la migdiada"-verb-ca "siesti"-verb-eo
+"pompi"-verb-eo "fer ostentació"-verb-ca
+"pompi"-verb-eo "pompejar"-verb-ca
+"fer ostentació"-verb-ca "pompi"-verb-eo
+"pompejar"-verb-ca "pompi"-verb-eo
+"semafori"-verb-eo "fer senyals"-verb-ca
+"fer senyals"-verb-ca "semafori"-verb-eo
+"estas suno"-verb-eo "fer sol"-verb-ca
+"fer sol"-verb-ca "estas suno"-verb-eo
+"fer sol"-verb-ca "suni"-verb-eo
+"suni"-verb-eo "fer sol"-verb-ca
+"estas vento"-verb-eo "fer vent"-verb-ca
+"fer vent"-verb-ca "estas vento"-verb-eo
+"fer vent"-verb-ca "venti"-verb-eo
+"venti"-verb-eo "fer vent"-verb-ca
+"fidinda"-adverb-eo "fiable"-adverb-ca
+"fiable"-adverb-ca "fidinda"-adverb-eo
+"ŝirdoloro"-noun-eo "fiblada"-noun-ca
+"ŝirdoloro"-noun-eo "punxada"-noun-ca
+"fiblada"-noun-ca "ŝirdoloro"-noun-eo
+"punxada"-noun-ca "ŝirdoloro"-noun-eo
+"fidela"-adverb-eo "fidel"-adverb-ca
+"fidel"-adverb-ca "fidela"-adverb-eo
+"ŝvitiĝi"-verb-eo "filtrar-se"-verb-ca
+"filtrar-se"-verb-ca "ŝvitiĝi"-verb-eo
+"fine, sed ne malpli grave"-adverb-eo "finalment, però no per això menys important"-adverb-ca
+"finalment, però no per això menys important"-adverb-ca "fine, sed ne malpli grave"-adverb-eo
+"ĝis hodiaŭ"-adverb-eo "fins hui"-adverb-ca
+"fins hui"-adverb-ca "ĝis hodiaŭ"-adverb-eo
+"festoni"-verb-eo "fistonar"-verb-ca
+"fistonar"-verb-ca "festoni"-verb-eo
+"malrigida"-adverb-eo "flexible"-adverb-ca
+"flexible"-adverb-ca "malrigida"-adverb-eo
+"flexible"-adverb-ca "supla"-adverb-eo
+"supla"-adverb-eo "flexible"-adverb-ca
+"florumi"-verb-eo "florejar"-verb-ca
+"florejar"-verb-ca "florumi"-verb-eo
+"ŝimi"-verb-eo "florir-se"-verb-ca
+"ŝimi"-verb-eo "picar-se"-verb-ca
+"florir-se"-verb-ca "ŝimi"-verb-eo
+"picar-se"-verb-ca "ŝimi"-verb-eo
+"fluida"-adverb-eo "fluid"-adverb-ca
+"fluid"-adverb-ca "fluida"-adverb-eo
+"rivera"-adverb-eo "fluvial"-adverb-ca
+"fluvial"-adverb-ca "rivera"-adverb-eo
+"Folke"-properNoun-eo "Folke"-properNoun-ca
+"Folke"-properNoun-ca "Folke"-properNoun-eo
+"fundamenta"-adverb-eo "fonamental"-adverb-ca
+"fonamental"-adverb-ca "fundamenta"-adverb-eo
+"Internacia Mona Fonduso"-noun-eo "Fons Monetari Internacional"-noun-ca
+"Fons Monetari Internacional"-noun-ca "Internacia Mona Fonduso"-noun-eo
+"formenterano"-noun-eo "formenterenc"-noun-ca
+"formenterano"-noun-eo "formenterer"-noun-ca
+"formenterenc"-noun-ca "formenterano"-noun-eo
+"formenterer"-noun-ca "formenterano"-noun-eo
+"fosforeska"-adverb-eo "fosforescent"-adverb-ca
+"fosforescent"-adverb-ca "fosforeska"-adverb-eo
+"Francesc Xavier"-properNoun-eo "Francesc Xavier"-properNoun-ca
+"Francesc Xavier"-properNoun-ca "Francesc Xavier"-properNoun-eo
+"franc-rusa"-adjective-eo "francorús"-adjective-ca
+"francorús"-adjective-ca "franc-rusa"-adjective-eo
+"francamiko"-noun-eo "francòfil"-noun-ca
+"francòfil"-noun-ca "francamiko"-noun-eo
+"francofoba"-adjective-eo "francòfob"-adjective-ca
+"francòfob"-adjective-ca "francofoba"-adjective-eo
+"francòfob"-adjective-ca "francmalamika"-adjective-eo
+"francmalamika"-adjective-eo "francòfob"-adjective-ca
+"francofobo"-noun-eo "francòfob"-noun-ca
+"francòfob"-noun-ca "francofobo"-noun-eo
+"francòfob"-noun-ca "francmalamiko"-noun-eo
+"francmalamiko"-noun-eo "francòfob"-noun-ca
+"frata"-adverb-eo "fraternal"-adverb-ca
+"fraternal"-adverb-ca "frata"-adverb-eo
+"manipulado de elektoj"-noun-eo "frau electoral"-noun-ca
+"frau electoral"-noun-ca "manipulado de elektoj"-noun-eo
+"ofta"-adverb-eo "freqüent"-adverb-ca
+"freqüent"-adverb-ca "ofta"-adverb-eo
+"frukti"-verb-eo "fruitar"-verb-ca
+"fruitar"-verb-ca "frukti"-verb-eo
+"ESF"-noun-eo "FSE"-noun-ca
+"FSE"-noun-ca "ESF"-noun-eo
+"MSF"-noun-eo "FSM"-noun-ca
+"FSM"-noun-ca "MSF"-noun-eo
+"Fuĵajro"-properNoun-eo "Fujairah"-properNoun-ca
+"Fujairah"-properNoun-ca "Fuĵajro"-properNoun-eo
+"vaporizi"-verb-eo "vaporar"-verb-ca
+"vaporar"-verb-ca "vaporizi"-verb-eo
+"futbala"-adverb-eo "futbolísticament"-adverb-ca
+"futbolísticament"-adverb-ca "futbala"-adverb-eo
+"stinka"-adverb-eo "fètid"-adverb-ca
+"stinka"-adverb-eo "pudent"-adverb-ca
+"fètid"-adverb-ca "stinka"-adverb-eo
+"pudent"-adverb-ca "stinka"-adverb-eo
+"Monda Socia Forumo"-noun-eo "Fòrum Social Mundial"-noun-ca
+"Monda Socia Forumo"-noun-eo "WSF"-noun-ca
+"Fòrum Social Mundial"-noun-ca "Monda Socia Forumo"-noun-eo
+"Fòrum Social Mundial"-noun-ca "Monda Sociala Forumo"-noun-eo
+"WSF"-noun-ca "Monda Socia Forumo"-noun-eo
+"Monda Sociala Forumo"-noun-eo "Fòrum Social Mundial"-noun-ca
+"fútil"-adverb-ca "malgrava"-adverb-eo
+"preskaŭ neniam"-adverb-eo "gairebé mai"-adverb-ca
+"gairebé mai"-adverb-ca "preskaŭ neniam"-adverb-eo
+"gesamseksemuloj"-noun-eo "gais i lesbianes"-noun-ca
+"gais i lesbianes"-noun-ca "gesamseksemuloj"-noun-eo
+"galanta"-adverb-eo "galant"-adverb-ca
+"galant"-adverb-ca "galanta"-adverb-eo
+"galanti"-verb-eo "galantejar"-verb-ca
+"galantejar"-verb-ca "galanti"-verb-eo
+"galeglingva"-adjective-eo "gallegoparlant"-adjective-ca
+"gallegoparlant"-adjective-ca "galeglingva"-adjective-eo
+"galeglingvano"-noun-eo "gallegoparlant"-noun-ca
+"gallegoparlant"-noun-ca "galeglingvano"-noun-eo
+"vireskulino"-noun-eo "gallimarsot"-noun-ca
+"gallimarsot"-noun-ca "vireskulino"-noun-eo
+"galoni"-verb-eo "galonejar"-verb-ca
+"galonejar"-verb-ca "galoni"-verb-eo
+"rusko"-noun-eo "galzeran"-noun-ca
+"galzeran"-noun-ca "rusko"-noun-eo
+"Galapagoj"-properNoun-eo "Galàpagos"-properNoun-ca
+"Galapagoj"-properNoun-eo "illes Galàpagos"-properNoun-ca
+"Galàpagos"-properNoun-ca "Galapagoj"-properNoun-eo
+"illes Galàpagos"-properNoun-ca "Galapagoj"-properNoun-eo
+"gargarado"-noun-eo "glopeig"-noun-ca
+"glopeig"-noun-ca "gargarado"-noun-eo
+"rabotilego"-noun-eo "garlopa"-noun-ca
+"garlopa"-noun-ca "rabotilego"-noun-eo
+"bestpiedo"-noun-eo "garra"-noun-ca
+"garra"-noun-ca "bestpiedo"-noun-eo
+"kurbkrura"-adjective-eo "garrell"-adjective-ca
+"garrell"-adjective-ca "kurbkrura"-adjective-eo
+"gasojlo"-noun-eo "gas-oil"-noun-ca
+"gas-oil"-noun-ca "gasojlo"-noun-eo
+"saŭcaĉo"-noun-eo "gasòfia"-noun-ca
+"gasòfia"-noun-ca "saŭcaĉo"-noun-eo
+"kattruo"-noun-eo "gatonera"-noun-ca
+"gatonera"-noun-ca "kattruo"-noun-eo
+"subitkriego"-noun-eo "gatzara"-noun-ca
+"gatzara"-noun-ca "subitkriego"-noun-eo
+"Gauwyn"-properNoun-eo "Gauwyn"-properNoun-ca
+"Gauwyn"-properNoun-ca "Gauwyn"-properNoun-eo
+"go"-noun-eo "ge"-noun-ca
+"ge"-noun-ca "go"-noun-eo
+"ĝistalia korsaĵo"-noun-eo "gec"-noun-ca
+"gec"-noun-ca "ĝistalia korsaĵo"-noun-eo
+"Geerardt"-properNoun-eo "Geerardt"-properNoun-ca
+"Geerardt"-properNoun-ca "Geerardt"-properNoun-eo
+"generacia"-adverb-eo "generacional"-adverb-ca
+"generacional"-adverb-ca "generacia"-adverb-eo
+"genia"-adverb-eo "genial"-adverb-ca
+"genial"-adverb-ca "genia"-adverb-eo
+"genu-vesto"-noun-eo "genollera"-noun-ca
+"genollera"-noun-ca "genu-vesto"-noun-eo
+"ĝentila"-adverb-eo "gentil"-adverb-ca
+"gentil"-adverb-ca "ĝentila"-adverb-eo
+"genuflekso"-noun-eo "genuflecsió"-noun-ca
+"genuflecsió"-noun-ca "genuflekso"-noun-eo
+"german-brita"-adjective-eo "germanobritànic"-adjective-ca
+"germanobritànic"-adjective-ca "german-brita"-adjective-eo
+"german-franca"-adjective-eo "germanofrancès"-adjective-ca
+"germanofrancès"-adjective-ca "german-franca"-adjective-eo
+"german-rusa"-adjective-eo "germanorús"-adjective-ca
+"germanorús"-adjective-ca "german-rusa"-adjective-eo
+"germanamiko"-noun-eo "germanòfil"-noun-ca
+"germanòfil"-noun-ca "germanamiko"-noun-eo
+"germanofoba"-adjective-eo "germanòfob"-adjective-ca
+"germanòfob"-adjective-ca "germanofoba"-adjective-eo
+"germanòfob"-adjective-ca "germanmalamika"-adjective-eo
+"germanmalamika"-adjective-eo "germanòfob"-adjective-ca
+"germanofobo"-noun-eo "germanòfob"-noun-ca
+"germanòfob"-noun-ca "germanofobo"-noun-eo
+"germanòfob"-noun-ca "germanmalamiko"-noun-eo
+"germanmalamiko"-noun-eo "germanòfob"-noun-ca
+"ĝermana"-adverb-eo "germànicament"-adverb-ca
+"germànicament"-adverb-ca "ĝermana"-adverb-eo
+"gerontokratio"-noun-eo "gerontocràcia"-noun-ca
+"gerontocràcia"-noun-ca "gerontokratio"-noun-eo
+"gerontokratia"-adjective-eo "gerontòcrata"-adjective-ca
+"gerontòcrata"-adjective-ca "gerontokratia"-adjective-eo
+"gerontokratia"-adverb-eo "gerontocràticament"-adverb-ca
+"gerontocràticament"-adverb-ca "gerontokratia"-adverb-eo
+"gerontocràticament"-adverb-ca "gerontokratie"-adverb-eo
+"gerontokratie"-adverb-eo "gerontocràticament"-adverb-ca
+"gerontokrato"-noun-eo "gerontòcrata"-noun-ca
+"gerontòcrata"-noun-ca "gerontokrato"-noun-eo
+"gestadi"-verb-eo "gesticular"-verb-ca
+"gesticular"-verb-ca "gestadi"-verb-eo
+"terpelvo"-noun-eo "gibrell"-noun-ca
+"gibrell"-noun-ca "terpelvo"-noun-eo
+"ĝironano"-noun-eo "gironí"-noun-ca
+"gironí"-noun-ca "ĝironano"-noun-eo
+"malvarmega"-adjective-eo "gèlid"-adjective-ca
+"gèlid"-adjective-ca "malvarmega"-adjective-eo
+"malvarmega"-adverb-eo "glacial"-adverb-ca
+"glacial"-adverb-ca "malvarmega"-adverb-eo
+"tutloka"-adjective-eo "glocal"-adjective-ca
+"glocal"-adjective-ca "tutloka"-adjective-eo
+"Meksika golfo"-properNoun-eo "Golf de Mèxic"-properNoun-ca
+"Golf de Mèxic"-properNoun-ca "Meksika golfo"-properNoun-eo
+"krispo"-noun-eo "gorgera"-noun-ca
+"krispo"-noun-eo "mesenteri"-noun-ca
+"gorgera"-noun-ca "krispo"-noun-eo
+"mesenteri"-noun-ca "krispo"-noun-eo
+"mesenteri"-noun-ca "mesoo"-noun-eo
+"mesenteri"-noun-ca "mesentero"-noun-eo
+"mesoo"-noun-eo "mesenteri"-noun-ca
+"mesentero"-noun-eo "mesenteri"-noun-ca
+"Graal"-properNoun-eo "Graal"-properNoun-ca
+"Graal"-properNoun-ca "Graal"-properNoun-eo
+"grako"-noun-eo "grall"-noun-ca
+"grall"-noun-ca "grako"-noun-eo
+"granda"-adverb-eo "gran"-adverb-ca
+"gran"-adverb-ca "granda"-adverb-eo
+"grajnigi"-verb-eo "granejar"-verb-ca
+"granejar"-verb-ca "grajnigi"-verb-eo
+"patosa"-adverb-eo "grandiloqüent"-adverb-ca
+"grandiloqüent"-adverb-ca "patosa"-adverb-eo
+"aknoza"-adjective-eo "granellut"-adjective-ca
+"granellut"-adjective-ca "aknoza"-adjective-eo
+"puriga argilsablo"-noun-eo "greda"-noun-ca
+"greda"-noun-ca "puriga argilsablo"-noun-eo
+"maldelikata"-adverb-eo "groller"-adverb-ca
+"groller"-adverb-ca "maldelikata"-adverb-eo
+"groller"-adverb-ca "malĝentila"-adverb-eo
+"groller"-adverb-ca "plumpa"-adverb-eo
+"groller"-adverb-ca "triviala"-adverb-eo
+"malĝentila"-adverb-eo "groller"-adverb-ca
+"plumpa"-adverb-eo "groller"-adverb-ca
+"triviala"-adverb-eo "groller"-adverb-ca
+"triviala"-adverb-eo "trivial"-adverb-ca
+"triviala"-adverb-eo "vulgar"-adverb-ca
+"trivial"-adverb-ca "triviala"-adverb-eo
+"vulgar"-adverb-ca "triviala"-adverb-eo
+"vulgar"-adverb-ca "vulgara"-adverb-eo
+"vulgar"-adverb-ca "maleleganta"-adverb-eo
+"vulgara"-adverb-eo "vulgar"-adverb-ca
+"maleleganta"-adverb-eo "vulgar"-adverb-ca
+"densnubego"-noun-eo "grop"-noun-ca
+"grop"-noun-ca "densnubego"-noun-eo
+"groteska"-adverb-eo "grotesc"-adverb-ca
+"grotesc"-adverb-ca "groteska"-adverb-eo
+"graveda"-adverb-eo "gràvid"-adverb-ca
+"gràvid"-adverb-ca "graveda"-adverb-eo
+"gantujo"-noun-eo "guantera"-noun-ca
+"guantera"-noun-ca "gantujo"-noun-eo
+"jungilaro"-noun-eo "guarniment"-noun-ca
+"guarniment"-noun-ca "jungilaro"-noun-eo
+"enlanda milito"-noun-eo "guerra civil"-noun-ca
+"guerra civil"-noun-ca "enlanda milito"-noun-eo
+"milito de Postveno"-noun-eo "guerra de Successió"-noun-ca
+"guerra de Successió"-noun-ca "milito de Postveno"-noun-eo
+"uniformjako"-noun-eo "guerrera"-noun-ca
+"guerrera"-noun-ca "uniformjako"-noun-eo
+"trembrilegi"-verb-eo "guspirar"-verb-ca
+"guspirar"-verb-ca "trembrilegi"-verb-eo
+"privata policano"-noun-eo "guàrdia de seguretat"-noun-ca
+"guàrdia de seguretat"-noun-ca "privata policano"-noun-eo
+"dragoŝipo"-noun-eo "gànguil"-noun-ca
+"gànguil"-noun-ca "dragoŝipo"-noun-eo
+"gargaro"-noun-eo "gàrgara"-noun-ca
+"gàrgara"-noun-ca "gargaro"-noun-eo
+"gotika"-adverb-eo "gòticament"-adverb-ca
+"gòticament"-adverb-ca "gotika"-adverb-eo
+"gòticament"-adverb-ca "gota"-adverb-eo
+"gota"-adverb-eo "gòticament"-adverb-ca
+"rajto je juĝo"-noun-eo "habeas corpus"-noun-ca
+"habeas corpus"-noun-ca "rajto je juĝo"-noun-eo
+"ĉiamulo"-noun-eo "habitual"-noun-ca
+"habitual"-noun-ca "ĉiamulo"-noun-eo
+"kutima"-adverb-eo "habitual"-adverb-ca
+"habitual"-adverb-ca "kutima"-adverb-eo
+"enrompanto"-noun-eo "hacker"-noun-ca
+"hacker"-noun-ca "enrompanto"-noun-eo
+"enrompado"-noun-eo "hacking"-noun-ca
+"hacking"-noun-ca "enrompado"-noun-eo
+"enromp-aktivisma"-adjective-eo "hacktivista"-adjective-ca
+"hacktivista"-adjective-ca "enromp-aktivisma"-adjective-eo
+"hacktivista"-adjective-ca "enromp-aktivista"-adjective-eo
+"enromp-aktivista"-adjective-eo "hacktivista"-adjective-ca
+"enromp-aktivulo"-noun-eo "hacktivista"-noun-ca
+"hacktivista"-noun-ca "enromp-aktivulo"-noun-eo
+"helena"-adverb-eo "hel·lènicament"-adverb-ca
+"hel·lènicament"-adverb-ca "helena"-adverb-eo
+"hemoragia"-adverb-eo "hemorràgicament"-adverb-ca
+"hemorràgicament"-adverb-ca "hemoragia"-adverb-eo
+"hepata"-adverb-eo "hepàticament"-adverb-ca
+"hepàticament"-adverb-ca "hepata"-adverb-eo
+"Hercules"-properNoun-eo "Hercules"-properNoun-ca
+"Hercules"-properNoun-ca "Hercules"-properNoun-eo
+"Hewrey"-properNoun-eo "Hewrey"-properNoun-ca
+"Hewrey"-properNoun-ca "Hewrey"-properNoun-eo
+"deksesuma"-adverb-eo "hexadecimal"-adverb-ca
+"hexadecimal"-adverb-ca "deksesuma"-adverb-eo
+"hidrocefala"-adverb-eo "hidrocefàlicament"-adverb-ca
+"hidrocefàlicament"-adverb-ca "hidrocefala"-adverb-eo
+"hidroelektra"-adverb-eo "hidroelèctricament"-adverb-ca
+"hidroelèctricament"-adverb-ca "hidroelektra"-adverb-eo
+"hilumo"-noun-eo "hil"-noun-ca
+"hil"-noun-ca "hilumo"-noun-eo
+"hipertrofii"-verb-eo "hipertrofiar"-verb-ca
+"hipertrofiar"-verb-ca "hipertrofii"-verb-eo
+"hipokrata"-adverb-eo "hipocràticament"-adverb-ca
+"hipocràticament"-adverb-ca "hipokrata"-adverb-eo
+"Hispan-Ameriko"-properNoun-eo "Hispanoamèrica"-properNoun-ca
+"Hispanoamèrica"-properNoun-ca "Hispan-Ameriko"-properNoun-eo
+"hispanofobio"-noun-eo "hispanofòbia"-noun-ca
+"hispanofòbia"-noun-ca "hispanofobio"-noun-eo
+"hispan-rusa"-adjective-eo "hispanorús"-adjective-ca
+"hispanorús"-adjective-ca "hispan-rusa"-adjective-eo
+"hispanamika"-adjective-eo "hispanòfil"-adjective-ca
+"hispanòfil"-adjective-ca "hispanamika"-adjective-eo
+"hispanamiko"-noun-eo "hispanòfil"-noun-ca
+"hispanòfil"-noun-ca "hispanamiko"-noun-eo
+"hispanofoba"-adjective-eo "hispanòfob"-adjective-ca
+"hispanòfob"-adjective-ca "hispanofoba"-adjective-eo
+"hispanòfob"-adjective-ca "hispanmalamika"-adjective-eo
+"hispanmalamika"-adjective-eo "hispanòfob"-adjective-ca
+"hispanofobo"-noun-eo "hispanòfob"-noun-ca
+"hispanòfob"-noun-ca "hispanofobo"-noun-eo
+"hispanòfob"-noun-ca "hispanmalamiko"-noun-eo
+"hispanmalamiko"-noun-eo "hispanòfob"-noun-ca
+"hispana"-adverb-eo "hispànicament"-adverb-ca
+"hispànicament"-adverb-ca "hispana"-adverb-eo
+"hispànicament"-adverb-ca "hispania"-adverb-eo
+"hispania"-adverb-eo "hispànicament"-adverb-ca
+"gejofobia"-adjective-eo "homofòbic"-adjective-ca
+"gejofobia"-adjective-eo "homòfob"-adjective-ca
+"homofòbic"-adjective-ca "gejofobia"-adjective-eo
+"homòfob"-adjective-ca "gejofobia"-adjective-eo
+"samseksema"-adverb-eo "homosexual"-adverb-ca
+"homosexual"-adverb-ca "samseksema"-adverb-eo
+"Honor"-properNoun-eo "Honor"-properNoun-ca
+"Honor"-properNoun-ca "Honor"-properNoun-eo
+"horizontala"-adverb-eo "honrizontal"-adverb-ca
+"honrizontal"-adverb-ca "horizontala"-adverb-eo
+"hida"-adverb-eo "horrible"-adverb-ca
+"horrible"-adverb-ca "hida"-adverb-eo
+"Horta Nord"-properNoun-eo "Horta Nord"-properNoun-ca
+"Horta Nord"-properNoun-ca "Horta Nord"-properNoun-eo
+"Horta Oest"-properNoun-eo "Horta Oest"-properNoun-ca
+"Horta Oest"-properNoun-ca "Horta Oest"-properNoun-eo
+"Horta Sud"-properNoun-eo "Horta Sud"-properNoun-ca
+"Horta Sud"-properNoun-ca "Horta Sud"-properNoun-eo
+"lerta"-adverb-eo "hàbil"-adverb-ca
+"hàbil"-adverb-ca "lerta"-adverb-eo
+"avineto"-noun-eo "iaia"-noun-ca
+"iaia"-noun-ca "avineto"-noun-eo
+"Iberi-Ameriko"-properNoun-eo "Iberoamèrica"-properNoun-ca
+"Iberoamèrica"-properNoun-ca "Iberi-Ameriko"-properNoun-eo
+"ibera"-adverb-eo "ibèricament"-adverb-ca
+"ibèricament"-adverb-ca "ibera"-adverb-eo
+"malklera"-adverb-eo "ignorant"-adverb-ca
+"ignorant"-adverb-ca "malklera"-adverb-eo
+"Balearaj insuloj"-properNoun-eo "illes Balears"-properNoun-ca
+"illes Balears"-properNoun-ca "Balearaj insuloj"-properNoun-eo
+"Kajmanaj insuloj"-properNoun-eo "illes Caiman"-properNoun-ca
+"illes Caiman"-properNoun-ca "Kajmanaj insuloj"-properNoun-eo
+"Manikaj insuloj"-properNoun-eo "illes del Canal"-properNoun-ca
+"illes del Canal"-properNoun-ca "Manikaj insuloj"-properNoun-eo
+"Malvinaj insuloj"-properNoun-eo "illes Malvines"-properNoun-ca
+"illes Malvines"-properNoun-ca "Malvinaj insuloj"-properNoun-eo
+"Marŝalaj insuloj"-properNoun-eo "illes Marshall"-properNoun-ca
+"illes Marshall"-properNoun-ca "Marŝalaj insuloj"-properNoun-eo
+"eksterleĝa"-adverb-eo "il·legítim"-adverb-ca
+"il·legítim"-adverb-ca "eksterleĝa"-adverb-eo
+"imbecilo"-noun-eo "imbecil"-noun-ca
+"imbecil"-noun-ca "imbecilo"-noun-eo
+"imbecila"-adjective-eo "imbecil"-adjective-ca
+"imbecil"-adjective-ca "imbecila"-adjective-eo
+"nematura"-adverb-eo "immadur"-adverb-ca
+"nematura"-adverb-eo "verd"-adverb-ca
+"immadur"-adverb-ca "nematura"-adverb-eo
+"verd"-adverb-ca "nematura"-adverb-eo
+"verd"-adverb-ca "verda"-adverb-eo
+"verda"-adverb-eo "verd"-adverb-ca
+"subakviĝi"-verb-eo "immergir-se"-verb-ca
+"immergir-se"-verb-ca "subakviĝi"-verb-eo
+"neleĝa enmigrinto"-noun-eo "immigrant il·legal"-noun-ca
+"immigrant il·legal"-noun-ca "neleĝa enmigrinto"-noun-eo
+"senmorta"-adverb-eo "immortal"-adverb-ca
+"immortal"-adverb-ca "senmorta"-adverb-eo
+"imuna"-adverb-eo "immune"-adverb-ca
+"imuna"-adverb-eo "resistent"-adverb-ca
+"immune"-adverb-ca "imuna"-adverb-eo
+"resistent"-adverb-ca "imuna"-adverb-eo
+"konstanta"-adverb-eo "immutable"-adverb-ca
+"immutable"-adverb-ca "konstanta"-adverb-eo
+"nepara"-adverb-eo "imparell"-adverb-ca
+"nepara"-adverb-eo "senar"-adverb-ca
+"imparell"-adverb-ca "nepara"-adverb-eo
+"senar"-adverb-ca "nepara"-adverb-eo
+"imperia"-adverb-eo "imperial"-adverb-ca
+"imperial"-adverb-ca "imperia"-adverb-eo
+"impona"-adverb-eo "imponent"-adverb-ca
+"impona"-adverb-eo "imposant"-adverb-ca
+"imponent"-adverb-ca "impona"-adverb-eo
+"imposant"-adverb-ca "impona"-adverb-eo
+"imposant"-adverb-ca "majesta"-adverb-eo
+"majesta"-adverb-eo "imposant"-adverb-ca
+"impotenta"-adverb-eo "impotent"-adverb-ca
+"impotent"-adverb-ca "impotenta"-adverb-eo
+"malkonvena"-adverb-eo "improcedent"-adverb-ca
+"malkonvena"-adverb-eo "inconvenient"-adverb-ca
+"malkonvena"-adverb-eo "inescaient"-adverb-ca
+"improcedent"-adverb-ca "malkonvena"-adverb-eo
+"inconvenient"-adverb-ca "malkonvena"-adverb-eo
+"inescaient"-adverb-ca "malkonvena"-adverb-eo
+"neakurata"-adjective-eo "impuntual"-adjective-ca
+"impuntual"-adjective-ca "neakurata"-adjective-eo
+"neakurateco"-noun-eo "impuntualitat"-noun-ca
+"impuntualitat"-noun-ca "neakurateco"-noun-eo
+"neakurate"-adverb-eo "impuntualment"-adverb-ca
+"impuntualment"-adverb-ca "neakurate"-adverb-eo
+"malpura"-adverb-eo "impur"-adverb-ca
+"impur"-adverb-ca "malpura"-adverb-eo
+"malĉasta"-adverb-eo "sensual"-adverb-ca
+"sensual"-adverb-ca "malĉasta"-adverb-eo
+"senkabla"-adverb-eo "inalàmbricament"-adverb-ca
+"inalàmbricament"-adverb-ca "senkabla"-adverb-eo
+"apenaŭa"-adverb-eo "inapreciable"-adverb-ca
+"inapreciable"-adverb-ca "apenaŭa"-adverb-eo
+"inkandeska"-adverb-eo "incandescent"-adverb-ca
+"incandescent"-adverb-ca "inkandeska"-adverb-eo
+"senkapabligo"-noun-eo "incapacitació"-noun-ca
+"incapacitació"-noun-ca "senkapabligo"-noun-eo
+"cindrigejo"-noun-eo "incineradora"-noun-ca
+"incineradora"-noun-ca "cindrigejo"-noun-eo
+"inkluzive de"-preposition-eo "incloent-hi"-preposition-ca
+"incloent-hi"-preposition-ca "inkluzive de"-preposition-eo
+"nekohera"-adverb-eo "incoherent"-adverb-ca
+"incoherent"-adverb-ca "nekohera"-adverb-eo
+"nekonsekvenco"-noun-eo "incoherència"-noun-ca
+"nekonsekvenco"-noun-eo "inconseqüència"-noun-ca
+"incoherència"-noun-ca "nekonsekvenco"-noun-eo
+"inconseqüència"-noun-ca "nekonsekvenco"-noun-eo
+"nebrula"-adverb-eo "incombustible"-adverb-ca
+"incombustible"-adverb-ca "nebrula"-adverb-eo
+"firma"-adverb-eo "incommovible"-adverb-ca
+"firma"-adverb-eo "sòlid"-adverb-ca
+"incommovible"-adverb-ca "firma"-adverb-eo
+"sòlid"-adverb-ca "firma"-adverb-eo
+"sòlid"-adverb-ca "solida"-adverb-eo
+"solida"-adverb-eo "sòlid"-adverb-ca
+"solida"-adverb-eo "solvent"-adverb-ca
+"nekomparebla"-adverb-eo "incomparable"-adverb-ca
+"incomparable"-adverb-ca "nekomparebla"-adverb-eo
+"incomparable"-adverb-ca "senegala"-adverb-eo
+"senegala"-adverb-eo "incomparable"-adverb-ca
+"senrezerva"-adverb-eo "incondicional"-adverb-ca
+"incondicional"-adverb-ca "senrezerva"-adverb-eo
+"inconstant"-adverb-ca "nekonstanta"-adverb-eo
+"voluble"-adverb-ca "nekonstanta"-adverb-eo
+"negletemo"-noun-eo "incúria"-noun-ca
+"incúria"-noun-ca "negletemo"-noun-eo
+"maldeco"-noun-eo "indecència"-noun-ca
+"indecència"-noun-ca "maldeco"-noun-eo
+"nedifinebla"-adjective-eo "indefinible"-adjective-ca
+"indefinible"-adjective-ca "nedifinebla"-adjective-eo
+"sendelikateco"-noun-eo "indelicadesa"-noun-ca
+"indelicadesa"-noun-ca "sendelikateco"-noun-eo
+"nedisiga"-adjective-eo "indestriable"-adjective-ca
+"indestriable"-adjective-ca "nedisiga"-adjective-eo
+"indiferenta"-adverb-eo "indiferent"-adverb-ca
+"indiferent"-adverb-ca "indiferenta"-adverb-eo
+"indiferent"-adverb-ca "malfervora"-adverb-eo
+"malfervora"-adverb-eo "indiferent"-adverb-ca
+"senhava"-adverb-eo "indigent"-adverb-ca
+"senhava"-adverb-eo "miserable"-adverb-ca
+"indigent"-adverb-ca "senhava"-adverb-eo
+"miserable"-adverb-ca "senhava"-adverb-eo
+"nedigestebla"-adjective-eo "indigest"-adjective-ca
+"indigest"-adjective-ca "nedigestebla"-adjective-eo
+"indigneco"-noun-eo "indignitat"-noun-ca
+"indignitat"-noun-ca "indigneco"-noun-eo
+"nemalhavebla"-adverb-eo "indispensable"-adverb-ca
+"indispensable"-adverb-ca "nemalhavebla"-adverb-eo
+"neinstruita"-adjective-eo "indocte"-adjective-ca
+"indocte"-adjective-ca "neinstruita"-adjective-eo
+"prahindeŭropa lingvo"-noun-eo "indoeuropeu"-noun-ca
+"indoeuropeu"-noun-ca "prahindeŭropa lingvo"-noun-eo
+"nedresebla"-adjective-eo "indomable"-adjective-ca
+"indomable"-adjective-ca "nedresebla"-adjective-eo
+"induktanto"-noun-eo "inductor"-noun-ca
+"inductor"-noun-ca "induktanto"-noun-eo
+"industria"-adverb-eo "industrial"-adverb-ca
+"industrial"-adverb-ca "industria"-adverb-eo
+"nedresita"-adjective-eo "indòmit"-adjective-ca
+"indòmit"-adjective-ca "nedresita"-adjective-eo
+"netaŭgeco"-noun-eo "ineptitud"-noun-ca
+"ineptitud"-noun-ca "netaŭgeco"-noun-eo
+"inercia"-adverb-eo "inercial"-adverb-ca
+"inercial"-adverb-ca "inercia"-adverb-eo
+"inercial"-adverb-ca "inerciuma"-adverb-eo
+"inerciuma"-adverb-eo "inercial"-adverb-ca
+"senarma"-adverb-eo "inerme"-adverb-ca
+"inerme"-adverb-ca "senarma"-adverb-eo
+"inerta"-adverb-eo "inert"-adverb-ca
+"inert"-adverb-ca "inerta"-adverb-eo
+"neprenetrebla"-adjective-eo "inescrutable"-adjective-ca
+"inescrutable"-adjective-ca "neprenetrebla"-adjective-eo
+"nesperta"-adverb-eo "inexpert"-adverb-ca
+"inexpert"-adverb-ca "nesperta"-adverb-eo
+"inexpert"-adverb-ca "novebakita"-adverb-eo
+"inexpert"-adverb-ca "novbakita"-adverb-eo
+"novebakita"-adverb-eo "inexpert"-adverb-ca
+"novbakita"-adverb-eo "inexpert"-adverb-ca
+"neerarema"-adjective-eo "infal·lible"-adjective-ca
+"infal·lible"-adjective-ca "neerarema"-adjective-eo
+"neerarema"-adverb-eo "infal·lible"-adverb-ca
+"infal·lible"-adverb-ca "neerarema"-adverb-eo
+"akuŝado"-noun-eo "infantament"-noun-ca
+"infantament"-noun-ca "akuŝado"-noun-eo
+"nefruktodona"-adjective-eo "infecund"-adjective-ca
+"infecund"-adjective-ca "nefruktodona"-adjective-eo
+"suba"-adverb-eo "inferior"-adverb-ca
+"inferior"-adverb-ca "suba"-adverb-eo
+"inferior"-adverb-ca "malsupera"-adverb-eo
+"malsupera"-adverb-eo "inferior"-adverb-ca
+"infera"-adverb-eo "infernal"-adverb-ca
+"infernal"-adverb-ca "infera"-adverb-eo
+"malfidela"-adverb-eo "infidel"-adverb-ca
+"infidel"-adverb-ca "malfidela"-adverb-eo
+"enfiltrito"-noun-eo "infiltrat"-noun-ca
+"infiltrat"-noun-ca "enfiltrito"-noun-eo
+"brulema"-adverb-eo "inflamable"-adverb-ca
+"inflamable"-adverb-ca "brulema"-adverb-eo
+"nefleksebla"-adverb-eo "inflexible"-adverb-ca
+"nefleksebla"-adverb-eo "rígid"-adverb-ca
+"inflexible"-adverb-ca "nefleksebla"-adverb-eo
+"inflexible"-adverb-ca "severa"-adverb-eo
+"rígid"-adverb-ca "nefleksebla"-adverb-eo
+"rígid"-adverb-ca "rigida"-adverb-eo
+"severa"-adverb-eo "inflexible"-adverb-ca
+"rigida"-adverb-eo "rígid"-adverb-ca
+"senkonsidera"-adverb-eo "informal"-adverb-ca
+"informal"-adverb-ca "senkonsidera"-adverb-eo
+"neformaleco"-noun-eo "informalitat"-noun-ca
+"informalitat"-noun-ca "neformaleco"-noun-eo
+"nehumana"-adjective-eo "infrahumà"-adjective-ca
+"infrahumà"-adjective-ca "nehumana"-adjective-eo
+"terinstalaĵo"-noun-eo "infrastrutura"-noun-ca
+"infrastrutura"-noun-ca "terinstalaĵo"-noun-eo
+"fruktrunko"-noun-eo "infructescència"-noun-ca
+"infructescència"-noun-ca "fruktrunko"-noun-eo
+"sendanka"-adverb-eo "ingrat"-adverb-ca
+"ingrat"-adverb-ca "sendanka"-adverb-eo
+"sendankemeco"-noun-eo "ingratitud"-noun-ca
+"ingratitud"-noun-ca "sendankemeco"-noun-eo
+"inhabitual"-adverb-ca "nekutima"-adverb-eo
+"mallerta"-adverb-eo "inhàbil"-adverb-ca
+"inhàbil"-adverb-ca "mallerta"-adverb-eo
+"inicialo"-noun-eo "inicial"-noun-ca
+"inicial"-noun-ca "inicialo"-noun-eo
+"komenca"-adverb-eo "inicial"-adverb-ca
+"inicial"-adverb-ca "komenca"-adverb-eo
+"neŝipirebla"-adjective-eo "innavegable"-adjective-ca
+"innavegable"-adjective-ca "neŝipirebla"-adjective-eo
+"malnobla"-adverb-eo "innoble"-adverb-ca
+"malnobla"-adverb-eo "vil"-adverb-ca
+"innoble"-adverb-ca "malnobla"-adverb-eo
+"vil"-adverb-ca "malnobla"-adverb-eo
+"nekontraŭdirebla"-adjective-eo "inobjectable"-adjective-ca
+"inobjectable"-adjective-ca "nekontraŭdirebla"-adjective-eo
+"neoksidebla"-adverb-eo "inoxidable"-adverb-ca
+"inoxidable"-adverb-ca "neoksidebla"-adverb-eo
+"nekvalifikebla"-adjective-eo "inqualificable"-adjective-ca
+"inqualificable"-adjective-ca "nekvalifikebla"-adjective-eo
+"maltrankvila"-adverb-eo "inquiet"-adverb-ca
+"inquiet"-adverb-ca "maltrankvila"-adverb-eo
+"inquiet"-adverb-ca "malkvieta"-adverb-eo
+"malkvieta"-adverb-eo "inquiet"-adverb-ca
+"necerta"-adverb-eo "insegur"-adverb-ca
+"insegur"-adverb-ca "necerta"-adverb-eo
+"sensignifo"-noun-eo "insignificança"-noun-ca
+"insignificança"-noun-ca "sensignifo"-noun-eo
+"insolenta"-adverb-eo "insolent"-adverb-ca
+"insolent"-adverb-ca "insolenta"-adverb-eo
+"insolent"-adverb-ca "impertinenta"-adverb-eo
+"impertinenta"-adverb-eo "insolent"-adverb-ca
+"nesuspektebla"-adjective-eo "insospitable"-adjective-ca
+"insospitable"-adjective-ca "nesuspektebla"-adjective-eo
+"malobeigi"-verb-eo "insubordinar"-verb-ca
+"insubordinar"-verb-ca "malobeigi"-verb-eo
+"sensubstanca"-adjective-eo "insubstancial"-adjective-ca
+"insubstancial"-adjective-ca "sensubstanca"-adjective-eo
+"sengusta"-adverb-eo "insípid"-adverb-ca
+"insípid"-adverb-ca "sengusta"-adverb-eo
+"insípid"-adverb-ca "malsprita"-adverb-eo
+"malsprita"-adverb-eo "insípid"-adverb-ca
+"malsobra"-adverb-eo "intemperant"-adverb-ca
+"intemperant"-adverb-ca "malsobra"-adverb-eo
+"interkompreni"-verb-eo "intercomprendre"-verb-ca
+"intercomprendre"-verb-ca "interkompreni"-verb-eo
+"interesa"-adverb-eo "interessant"-adverb-ca
+"interessant"-adverb-ca "interesa"-adverb-eo
+"intergeneracia"-adverb-eo "intergeneracional"-adverb-ca
+"intergeneracional"-adverb-ca "intergeneracia"-adverb-eo
+"interna"-adverb-eo "interior"-adverb-ca
+"interior"-adverb-ca "interna"-adverb-eo
+"interurba"-adverb-eo "interlocal"-adverb-ca
+"interlocal"-adverb-ca "interurba"-adverb-eo
+"intermita"-adverb-eo "intermitent"-adverb-ca
+"intermitent"-adverb-ca "intermita"-adverb-eo
+"internacia"-adverb-eo "internacional"-adverb-ca
+"internacional"-adverb-ca "internacia"-adverb-eo
+"interstico"-noun-eo "interstici"-noun-ca
+"interstici"-noun-ca "interstico"-noun-eo
+"intervenisto"-noun-eo "intervencionista"-noun-ca
+"intervencionista"-noun-ca "intervenisto"-noun-eo
+"netolerema"-adverb-eo "intolerant"-adverb-ca
+"intolerant"-adverb-ca "netolerema"-adverb-eo
+"netranscenda"-adjective-eo "intranscendent"-adjective-ca
+"intranscendent"-adjective-ca "netranscenda"-adjective-eo
+"necedo"-noun-eo "intransigència"-noun-ca
+"intransigència"-noun-ca "necedo"-noun-eo
+"netrairebla"-adjective-eo "intransitable"-adjective-ca
+"intransitable"-adjective-ca "netrairebla"-adjective-eo
+"kuraĝego"-noun-eo "intrepidesa"-noun-ca
+"intrepidesa"-noun-ca "kuraĝego"-noun-eo
+"entrudismo"-noun-eo "intrusisme"-noun-ca
+"intrusisme"-noun-ca "entrudismo"-noun-eo
+"brava"-adverb-eo "intrèpid"-adverb-ca
+"brava"-adverb-eo "valent"-adverb-ca
+"intrèpid"-adverb-ca "brava"-adverb-eo
+"intrèpid"-adverb-ca "sentima"-adverb-eo
+"valent"-adverb-ca "brava"-adverb-eo
+"valent"-adverb-ca "kuraĝa"-adverb-eo
+"sentima"-adverb-eo "intrèpid"-adverb-ca
+"kuraĝa"-adverb-eo "valent"-adverb-ca
+"nekutimeco"-noun-eo "inusitat"-noun-ca
+"inusitat"-noun-ca "nekutimeco"-noun-eo
+"neverŝajneco"-noun-eo "inversemblança"-noun-ca
+"inversemblança"-noun-ca "neverŝajneco"-noun-eo
+"esplorado kaj disvolvo"-noun-eo "investigació i desenvolupament"-noun-ca
+"investigació i desenvolupament"-noun-ca "esplorado kaj disvolvo"-noun-eo
+"jodi"-verb-eo "iodar"-verb-ca
+"iodar"-verb-ca "jodi"-verb-eo
+"irizeco"-noun-eo "iridiscència"-noun-ca
+"iridiscència"-noun-ca "irizeco"-noun-eo
+"neracia"-adverb-eo "irracional"-adverb-ca
+"irracional"-adverb-ca "neracia"-adverb-eo
+"nereala"-adverb-eo "irreal"-adverb-ca
+"irreal"-adverb-ca "nereala"-adverb-eo
+"neefektigebla"-adjective-eo "irrealitzable"-adjective-ca
+"irrealitzable"-adjective-ca "neefektigebla"-adjective-eo
+"malregula"-adverb-eo "irregular"-adverb-ca
+"irregular"-adverb-ca "malregula"-adverb-eo
+"nebridebla"-adjective-eo "irreprimible"-adjective-ca
+"irreprimible"-adjective-ca "nebridebla"-adjective-eo
+"nerezoluta"-adjective-eo "irresolt"-adjective-ca
+"irresolt"-adjective-ca "nerezoluta"-adjective-eo
+"nedecidebla"-adjective-eo "irresoluble"-adjective-ca
+"irresoluble"-adjective-ca "nedecidebla"-adjective-eo
+"nerespekta"-adjective-eo "irrespetuós"-adjective-ca
+"irrespetuós"-adjective-ca "nerespekta"-adjective-eo
+"senriverenco"-noun-eo "irreverència"-noun-ca
+"irreverència"-noun-ca "senriverenco"-noun-eo
+"izotropa"-adverb-eo "isotròpicament"-adverb-ca
+"isotròpicament"-adverb-ca "izotropa"-adverb-eo
+"Jenlyns"-properNoun-eo "Jenlyns"-properNoun-ca
+"Jenlyns"-properNoun-ca "Jenlyns"-properNoun-eo
+"jido"-noun-eo "jiddisch"-noun-ca
+"jiddisch"-noun-ca "jido"-noun-eo
+"Joan Antoni"-properNoun-eo "Joan Antoni"-properNoun-ca
+"Joan Antoni"-properNoun-ca "Joan Antoni"-properNoun-eo
+"Joan Josep"-properNoun-eo "Joan Josep"-properNoun-ca
+"Joan Josep"-properNoun-ca "Joan Josep"-properNoun-eo
+"Joan Manel"-properNoun-eo "Joan Manel"-properNoun-ca
+"Joan Manel"-properNoun-ca "Joan Manel"-properNoun-eo
+"agotago"-noun-eo "jornada de lluita"-noun-ca
+"jornada de lluita"-noun-ca "agotago"-noun-eo
+"joviala"-adverb-eo "jovial"-adverb-ca
+"jovial"-adverb-ca "joviala"-adverb-eo
+"urĝa juĝo"-noun-eo "judici sumari"-noun-ca
+"urĝa juĝo"-noun-eo "judici sumaríssim"-noun-ca
+"judici sumari"-noun-ca "urĝa juĝo"-noun-eo
+"judici sumaríssim"-noun-ca "urĝa juĝo"-noun-eo
+"jurisdikcia"-adverb-eo "jurisdiccional"-adverb-ca
+"jurisdiccional"-adverb-ca "jurisdikcia"-adverb-eo
+"ĝuste hodiaŭ"-adverb-eo "justament hui"-adverb-ca
+"justament hui"-adverb-ca "ĝuste hodiaŭ"-adverb-eo
+"Karlsruhe"-properNoun-eo "Karlsruhe"-properNoun-ca
+"Karlsruhe"-properNoun-ca "Karlsruhe"-properNoun-eo
+"Kaselo"-properNoun-eo "Kassel"-properNoun-ca
+"Kassel"-properNoun-ca "Kaselo"-properNoun-eo
+"Katmanduo"-properNoun-eo "Katmandú"-properNoun-ca
+"Katmandú"-properNoun-ca "Katmanduo"-properNoun-eo
+"Kovno"-properNoun-eo "Kaunas"-properNoun-ca
+"Kaunas"-properNoun-ca "Kovno"-properNoun-eo
+"kenja"-adjective-eo "kenyà"-adjective-ca
+"kenyà"-adjective-ca "kenja"-adjective-eo
+"kenjano"-noun-eo "kenyà"-noun-ca
+"kenyà"-noun-ca "kenjano"-noun-eo
+"La Costera"-properNoun-eo "La Costera"-properNoun-ca
+"La Costera"-properNoun-ca "La Costera"-properNoun-eo
+"La Safor"-properNoun-eo "La Safor"-properNoun-ca
+"La Safor"-properNoun-ca "La Safor"-properNoun-eo
+"labora"-adverb-eo "laboral"-adverb-ca
+"laboral"-adverb-ca "labora"-adverb-eo
+"larmigilo"-noun-eo "lacrimogen"-noun-ca
+"lacrimogen"-noun-ca "larmigilo"-noun-eo
+"laika"-adverb-eo "laicament"-adverb-ca
+"laicament"-adverb-ca "laika"-adverb-eo
+"lapono"-noun-eo "lapó"-noun-ca
+"lapó"-noun-ca "lapono"-noun-eo
+"lapó"-noun-ca "sameo"-noun-eo
+"sameo"-noun-eo "lapó"-noun-ca
+"sameo"-noun-eo "sami"-noun-ca
+"lapona"-adjective-eo "lapó"-adjective-ca
+"lapó"-adjective-ca "lapona"-adjective-eo
+"lapó"-adjective-ca "samea"-adjective-eo
+"samea"-adjective-eo "lapó"-adjective-ca
+"samea"-adjective-eo "sami"-adjective-ca
+"sami"-noun-ca "sameo"-noun-eo
+"sami"-adjective-ca "samea"-adjective-eo
+"latenta"-adverb-eo "latent"-adverb-ca
+"latent"-adverb-ca "latenta"-adverb-eo
+"laksetigi"-verb-eo "laxar"-verb-ca
+"laxar"-verb-ca "laksetigi"-verb-eo
+"laŭleĝa"-adverb-eo "legítim"-adverb-ca
+"legítim"-adverb-ca "laŭleĝa"-adverb-eo
+"liberala"-adverb-eo "liberal"-adverb-ca
+"liberala"-adverb-eo "lliberal"-adverb-ca
+"liberal"-adverb-ca "liberala"-adverb-eo
+"lliberal"-adverb-ca "liberala"-adverb-eo
+"marborda"-adverb-eo "litoral"-adverb-ca
+"litoral"-adverb-ca "marborda"-adverb-eo
+"franda"-adverb-eo "llaminer"-adverb-ca
+"franda"-adverb-eo "llépol"-adverb-ca
+"llaminer"-adverb-ca "franda"-adverb-eo
+"llaminer"-adverb-ca "frandema"-adverb-eo
+"llépol"-adverb-ca "franda"-adverb-eo
+"llépol"-adverb-ca "frandema"-adverb-eo
+"frandema"-adverb-eo "llaminer"-adverb-ca
+"frandema"-adverb-eo "llépol"-adverb-ca
+"pluga"-adjective-eo "llaurador"-adjective-ca
+"llaurador"-adjective-ca "pluga"-adjective-eo
+"fluglegi"-verb-eo "llegir per sobre"-verb-ca
+"llegir per sobre"-verb-ca "fluglegi"-verb-eo
+"lojala"-adverb-eo "lleial"-adverb-ca
+"lleial"-adverb-ca "lojala"-adverb-eo
+"superficial"-adverb-ca "leĝera"-adverb-eo
+"superficial"-adverb-ca "malprofunda"-adverb-eo
+"malprofunda"-adverb-eo "superficial"-adverb-ca
+"liberigo kontraŭ kaŭcio"-noun-eo "llibertat sota fiança"-noun-ca
+"llibertat sota fiança"-noun-ca "liberigo kontraŭ kaŭcio"-noun-eo
+"limonarbo"-noun-eo "llimoner"-noun-ca
+"limonarbo"-noun-eo "llimonera"-noun-ca
+"llimoner"-noun-ca "limonarbo"-noun-eo
+"llimonera"-noun-ca "limonarbo"-noun-eo
+"llimonera"-noun-ca "limonujo"-noun-eo
+"limonujo"-noun-eo "llimonera"-noun-ca
+"liberpensa"-adjective-eo "lliurepensador"-adjective-ca
+"lliurepensador"-adjective-ca "liberpensa"-adjective-eo
+"liberpensa"-adverb-eo "lliurepensador"-adverb-ca
+"lliurepensador"-adverb-ca "liberpensa"-adverb-eo
+"luparo"-noun-eo "llopada"-noun-ca
+"llopada"-noun-ca "luparo"-noun-eo
+"kuniklidejo"-noun-eo "lloriguera"-noun-ca
+"lloriguera"-noun-ca "kuniklidejo"-noun-eo
+"vido-manko"-noun-eo "llosc"-noun-ca
+"llosc"-noun-ca "vido-manko"-noun-eo
+"batali kontraŭ"-verb-eo "lluitar contra"-verb-ca
+"lluitar contra"-verb-ca "batali kontraŭ"-verb-eo
+"lunatika"-adjective-eo "llunàtic"-adjective-ca
+"llunàtic"-adjective-ca "lunatika"-adjective-eo
+"lunatika"-adverb-eo "llunàticament"-adverb-ca
+"llunàticament"-adverb-ca "lunatika"-adverb-eo
+"vizitejo"-noun-eo "locutori"-noun-ca
+"locutori"-noun-ca "vizitejo"-noun-eo
+"logopedio"-noun-eo "logopèdia"-noun-ca
+"logopèdia"-noun-ca "logopedio"-noun-eo
+"laŭlonga"-adverb-eo "longitudinal"-adverb-ca
+"longitudinal"-adverb-ca "laŭlonga"-adverb-eo
+"lumotekniko"-noun-eo "luminotècnia"-noun-ca
+"luminotècnia"-noun-ca "lumotekniko"-noun-eo
+"Portugallingvio"-properNoun-eo "Lusofonia"-properNoun-ca
+"Lusofonia"-properNoun-ca "Portugallingvio"-properNoun-eo
+"lesba"-adverb-eo "lèsbicament"-adverb-ca
+"lèsbicament"-adverb-ca "lesba"-adverb-eo
+"likva"-adverb-eo "líquid"-adverb-ca
+"líquid"-adverb-ca "likva"-adverb-eo
+"lucida"-adverb-eo "lúcid"-adverb-ca
+"lúcid"-adverb-ca "lucida"-adverb-eo
+"morna"-adverb-eo "lúgubre"-adverb-ca
+"morna"-adverb-eo "tètricament"-adverb-ca
+"lúgubre"-adverb-ca "morna"-adverb-eo
+"tètricament"-adverb-ca "morna"-adverb-eo
+"magnetizi"-verb-eo "magnetitzar"-verb-ca
+"magnetitzar"-verb-ca "magnetizi"-verb-eo
+"magnezo"-noun-eo "magnèsia"-noun-ca
+"magnèsia"-noun-ca "magnezo"-noun-eo
+"malajziano"-noun-eo "malaisià"-noun-ca
+"malaisià"-noun-ca "malajziano"-noun-eo
+"mandarinarbo"-noun-eo "mandariner"-noun-ca
+"mandariner"-noun-ca "mandarinarbo"-noun-eo
+"mandariner"-noun-ca "mandarinujo"-noun-eo
+"mandarinujo"-noun-eo "mandariner"-noun-ca
+"kranko"-noun-eo "manovella"-noun-ca
+"manovella"-noun-ca "kranko"-noun-eo
+"akvohoso"-noun-eo "manguera d'aigua"-noun-ca
+"manguera d'aigua"-noun-ca "akvohoso"-noun-eo
+"marmorumi"-verb-eo "marbrar"-verb-ca
+"marbrar"-verb-ca "marmorumi"-verb-eo
+"maristaro"-noun-eo "marineria"-noun-ca
+"marineria"-noun-ca "maristaro"-noun-eo
+"mara"-adverb-eo "marítim"-adverb-ca
+"marítim"-adverb-ca "mara"-adverb-eo
+"patrina"-adverb-eo "matern"-adverb-ca
+"patrina"-adverb-eo "maternal"-adverb-ca
+"matern"-adverb-ca "patrina"-adverb-eo
+"maternal"-adverb-ca "patrina"-adverb-eo
+"Mathye"-properNoun-eo "Mathye"-properNoun-ca
+"Mathye"-properNoun-ca "Mathye"-properNoun-eo
+"malei"-verb-eo "maçolar"-verb-ca
+"maçolar"-verb-ca "malei"-verb-eo
+"gigavatto"-noun-eo "gigawatt"-noun-ca
+"gigawatt"-noun-ca "gigavatto"-noun-eo
+"memorkulturo"-noun-eo "memòria històrica"-noun-ca
+"memòria històrica"-noun-ca "memorkulturo"-noun-eo
+"memòria històrica"-noun-ca "malforgeso de historio"-noun-eo
+"malforgeso de historio"-noun-eo "memòria històrica"-noun-ca
+"mensoga"-adverb-eo "mentider"-adverb-ca
+"mentider"-adverb-ca "mensoga"-adverb-eo
+"inda"-adverb-eo "mereixedor"-adverb-ca
+"mereixedor"-adverb-ca "inda"-adverb-eo
+"metereologio"-noun-eo "meterologia"-noun-ca
+"meterologia"-noun-ca "metereologio"-noun-eo
+"mezosoprano"-noun-eo "mezzo-soprano"-noun-ca
+"mezzo-soprano"-noun-ca "mezosoprano"-noun-eo
+"mezzo-soprano"-noun-ca "mezosopranulino"-noun-eo
+"mezosopranulino"-noun-eo "mezzo-soprano"-noun-ca
+"siesto"-noun-eo "sesta"-noun-ca
+"sesta"-noun-ca "siesto"-noun-eo
+"miniaturi"-verb-eo "miniar"-verb-ca
+"miniaturi"-verb-eo "miniaturar"-verb-ca
+"miniar"-verb-ca "miniaturi"-verb-eo
+"miniaturar"-verb-ca "miniaturi"-verb-eo
+"neplenaĝeco"-noun-eo "minoria d'edat"-noun-ca
+"neplenaĝeco"-noun-eo "minoritat"-noun-ca
+"minoria d'edat"-noun-ca "neplenaĝeco"-noun-eo
+"minoritat"-noun-ca "neplenaĝeco"-noun-eo
+"Miquel Àngel"-properNoun-eo "Miquel Àngel"-properNoun-ca
+"Miquel Àngel"-properNoun-ca "Miquel Àngel"-properNoun-eo
+"miksturo"-noun-eo "mixtura"-noun-ca
+"mixtura"-noun-ca "miksturo"-noun-eo
+"idiomismo"-noun-eo "modisme"-noun-ca
+"modisme"-noun-ca "idiomismo"-noun-eo
+"rikani"-verb-eo "mofar-se"-verb-ca
+"mofar-se"-verb-ca "rikani"-verb-eo
+"tre antaŭe"-adverb-eo "molt endavant"-adverb-ca
+"molt endavant"-adverb-ca "tre antaŭe"-adverb-eo
+"paskokuko"-noun-eo "mona de pasqua"-noun-ca
+"mona de pasqua"-noun-ca "paskokuko"-noun-eo
+"monolita"-adverb-eo "monolíticament"-adverb-ca
+"monolíticament"-adverb-ca "monolita"-adverb-eo
+"monumenta"-adverb-eo "monumental"-adverb-ca
+"monumental"-adverb-ca "monumenta"-adverb-eo
+"monumentismo"-noun-eo "monumentalisme"-noun-ca
+"monumentalisme"-noun-ca "monumentismo"-noun-eo
+"buŝoŝtopilo"-noun-eo "mordassa"-noun-ca
+"mordassa"-noun-ca "buŝoŝtopilo"-noun-eo
+"bruneco"-noun-eo "morenor"-noun-ca
+"morenor"-noun-ca "bruneco"-noun-eo
+"moruso"-noun-eo "morer"-noun-ca
+"morer"-noun-ca "moruso"-noun-eo
+"moderigo"-noun-eo "morigeració"-noun-ca
+"morigeració"-noun-ca "moderigo"-noun-eo
+"muzelfrapo"-noun-eo "morrada"-noun-ca
+"morrada"-noun-ca "muzelfrapo"-noun-eo
+"pansako"-noun-eo "morral"-noun-ca
+"morral"-noun-ca "pansako"-noun-eo
+"lipega"-adjective-eo "morrut"-adjective-ca
+"morrut"-adjective-ca "lipega"-adjective-eo
+"morta"-adverb-eo "mort"-adverb-ca
+"mort"-adverb-ca "morta"-adverb-eo
+"moskitvualo"-noun-eo "mosquitera"-noun-ca
+"mosquitera"-noun-ca "moskitvualo"-noun-eo
+"elmontro de subteno"-noun-eo "mostra de suport"-noun-ca
+"mostra de suport"-noun-ca "elmontro de subteno"-noun-eo
+"nodeto"-noun-eo "mota"-noun-ca
+"mota"-noun-ca "nodeto"-noun-eo
+"alnomi"-verb-eo "motejar"-verb-ca
+"motejar"-verb-ca "alnomi"-verb-eo
+"movigeco"-noun-eo "motricitat"-noun-ca
+"motricitat"-noun-ca "movigeco"-noun-eo
+"okupmovado"-noun-eo "moviment civil"-noun-ca
+"okupmovado"-noun-eo "moviment okupa"-noun-ca
+"moviment civil"-noun-ca "okupmovado"-noun-eo
+"moviment okupa"-noun-ca "okupmovado"-noun-eo
+"multkopiilo"-noun-eo "multicopista"-noun-ca
+"multicopista"-noun-ca "multkopiilo"-noun-eo
+"multnacia"-adverb-eo "multinacional"-adverb-ca
+"multinacional"-adverb-ca "multnacia"-adverb-eo
+"mondaneco"-noun-eo "mundanitat"-noun-ca
+"mundanitat"-noun-ca "mondaneco"-noun-eo
+"monda"-adverb-eo "mundial"-adverb-ca
+"mundial"-adverb-ca "monda"-adverb-eo
+"donema"-adjective-eo "munífic"-adjective-ca
+"munífic"-adjective-ca "donema"-adjective-eo
+"muzikbandeto"-noun-eo "murga"-noun-ca
+"murga"-noun-ca "muzikbandeto"-noun-eo
+"mirto"-noun-eo "murta"-noun-ca
+"mirto"-noun-eo "murtra"-noun-ca
+"murta"-noun-ca "mirto"-noun-eo
+"murtra"-noun-ca "mirto"-noun-eo
+"muzika"-adverb-eo "musical"-adverb-ca
+"musical"-adverb-ca "muzika"-adverb-eo
+"muzikema"-adjective-eo "musicòman"-adjective-ca
+"musicòman"-adjective-ca "muzikema"-adjective-eo
+"laborforto"-noun-eo "mà d'obra"-noun-ca
+"mà d'obra"-noun-ca "laborforto"-noun-eo
+"metre"-adverb-eo "mètricament"-adverb-ca
+"mètricament"-adverb-ca "metre"-adverb-eo
+"monado"-noun-eo "mònade"-noun-ca
+"mònade"-noun-ca "monado"-noun-eo
+"morbida"-adjective-eo "mòrbid"-adjective-ca
+"mòrbid"-adjective-ca "morbida"-adjective-eo
+"entranĉo"-noun-eo "mòssa"-noun-ca
+"mòssa"-noun-ca "entranĉo"-noun-eo
+"narkotejo"-noun-eo "narcosala"-noun-ca
+"narcosala"-noun-ca "narkotejo"-noun-eo
+"nardo"-noun-eo "nard"-noun-ca
+"nard"-noun-ca "nardo"-noun-eo
+"naskiĝa"-adverb-eo "natal"-adverb-ca
+"natal"-adverb-ca "naskiĝa"-adverb-eo
+"ŝipa"-adverb-eo "naval"-adverb-ca
+"naval"-adverb-ca "ŝipa"-adverb-eo
+"novkonservativa"-adverb-eo "neoconservador"-adverb-ca
+"neoconservador"-adverb-ca "novkonservativa"-adverb-eo
+"novliberala"-adverb-eo "neoliberal"-adverb-ca
+"neoliberal"-adverb-ca "novliberala"-adverb-eo
+"novplatona"-adjective-eo "neoplatònic"-adjective-ca
+"neoplatònic"-adjective-ca "novplatona"-adjective-eo
+"novplatona"-adverb-eo "neoplatònicament"-adverb-ca
+"neoplatònicament"-adverb-ca "novplatona"-adverb-eo
+"katherbo"-noun-eo "nepta"-noun-ca
+"nepta"-noun-ca "katherbo"-noun-eo
+"neŭtrala"-adverb-eo "neutral"-adverb-ca
+"neutral"-adverb-ca "neŭtrala"-adverb-eo
+"Nibelung"-properNoun-eo "Nibelung"-properNoun-ca
+"Nibelung"-properNoun-ca "Nibelung"-properNoun-eo
+"nimfeo"-noun-eo "nimfea"-noun-ca
+"nimfea"-noun-ca "nimfeo"-noun-eo
+"neperforto"-noun-eo "no-violència"-noun-ca
+"neperforto"-noun-eo "no violència"-noun-ca
+"no-violència"-noun-ca "neperforto"-noun-eo
+"no violència"-noun-ca "neperforto"-noun-eo
+"ne tute"-adverb-eo "no del tot"-adverb-ca
+"no del tot"-adverb-ca "ne tute"-adverb-eo
+"nobla"-adverb-eo "noble"-adverb-ca
+"noble"-adverb-ca "nobla"-adverb-eo
+"nominala"-adverb-eo "nominal"-adverb-ca
+"nominal"-adverb-ca "nominala"-adverb-eo
+"nord-pirenea"-adjective-eo "nord-pirenaic"-adjective-ca
+"nord-pirenea"-adjective-eo "nord-pirinenc"-adjective-ca
+"nord-pirenaic"-adjective-ca "nord-pirenea"-adjective-eo
+"nord-pirinenc"-adjective-ca "nord-pirenea"-adjective-eo
+"gazetara cirkulero"-noun-eo "nota de premsa"-noun-ca
+"nota de premsa"-noun-ca "gazetara cirkulero"-noun-eo
+"rimarkinda"-adverb-eo "notable"-adverb-ca
+"notable"-adverb-ca "rimarkinda"-adverb-eo
+"nuda"-adverb-eo "nu"-adverb-ca
+"nu"-adverb-ca "nuda"-adverb-eo
+"nupta"-adverb-eo "nupcial"-adverb-ca
+"nupcial"-adverb-ca "nupta"-adverb-eo
+"Nubio"-properNoun-eo "Núbia"-properNoun-ca
+"Núbia"-properNoun-ca "Nubio"-properNoun-eo
+"fiska obĵetado"-noun-eo "objecció fiscal"-noun-ca
+"objecció fiscal"-noun-ca "fiska obĵetado"-noun-eo
+"militrifuzado"-noun-eo "objecció de consciència"-noun-ca
+"objecció de consciència"-noun-ca "militrifuzado"-noun-eo
+"militrifuzanto"-noun-eo "objector de consciència"-noun-ca
+"objector de consciència"-noun-ca "militrifuzanto"-noun-eo
+"objector de consciència"-noun-ca "konscienc-obĵetanto"-noun-eo
+"konscienc-obĵetanto"-noun-eo "objector de consciència"-noun-ca
+"obskura"-adverb-eo "obscur"-adverb-ca
+"obscur"-adverb-ca "obskura"-adverb-eo
+"obscur"-adverb-ca "malklara"-adverb-eo
+"obscur"-adverb-ca "malluma"-adverb-eo
+"malklara"-adverb-eo "obscur"-adverb-ca
+"malklara"-adverb-eo "tèrbol"-adverb-ca
+"malluma"-adverb-eo "obscur"-adverb-ca
+"tèrbol"-adverb-ca "malklara"-adverb-eo
+"tèrbol"-adverb-ca "maldiafana"-adverb-eo
+"maldiafana"-adverb-eo "tèrbol"-adverb-ca
+"maldiafana"-adverb-eo "opac"-adverb-ca
+"okcidenta"-adverb-eo "occidental"-adverb-ca
+"occidental"-adverb-ca "okcidenta"-adverb-eo
+"okcitanlingva"-adjective-eo "occitanòfon"-adjective-ca
+"occitanòfon"-adjective-ca "okcitanlingva"-adjective-eo
+"okcitanlingvano"-noun-eo "occitanòfon"-noun-ca
+"occitanòfon"-noun-ca "okcitanlingvano"-noun-eo
+"Atlantika oceano"-properNoun-eo "Oceà Atlàntic"-properNoun-ca
+"Oceà Atlàntic"-properNoun-ca "Atlantika oceano"-properNoun-eo
+"Paca oceano"-properNoun-eo "Oceà Pacífic"-properNoun-ca
+"Oceà Pacífic"-properNoun-ca "Paca oceano"-properNoun-eo
+"Arkta oceano"-properNoun-eo "Oceà Àrtic"-properNoun-ca
+"Oceà Àrtic"-properNoun-ca "Arkta oceano"-properNoun-eo
+"Hinda oceano"-properNoun-eo "Oceà Índic"-properNoun-ca
+"Hinda oceano"-properNoun-eo "Índic"-properNoun-ca
+"Oceà Índic"-properNoun-ca "Hinda oceano"-properNoun-eo
+"Índic"-properNoun-ca "Hinda oceano"-properNoun-eo
+"oceana"-adverb-eo "oceànicament"-adverb-ca
+"oceànicament"-adverb-ca "oceana"-adverb-eo
+"domokupa"-adjective-eo "okupa"-adjective-ca
+"okupa"-adjective-ca "domokupa"-adjective-eo
+"Olyver"-properNoun-eo "Olyver"-properNoun-ca
+"Olyver"-properNoun-ca "Olyver"-properNoun-eo
+"olimpie"-adverb-eo "olímpicament"-adverb-ca
+"olímpicament"-adverb-ca "olimpie"-adverb-eo
+"Monda Organizaĵo pri Komerco"-noun-eo "Organització Mundial del Comerç"-noun-ca
+"Organització Mundial del Comerç"-noun-ca "Monda Organizaĵo pri Komerco"-noun-eo
+"genetike modifita organismo"-noun-eo "OMG"-noun-ca
+"genetike modifita organismo"-noun-eo "organisme modificat genèticament"-noun-ca
+"OMG"-noun-ca "genetike modifita organismo"-noun-eo
+"organisme modificat genèticament"-noun-ca "genetike modifita organismo"-noun-eo
+"ondumi"-verb-eo "ondular"-verb-ca
+"ondular"-verb-ca "ondumi"-verb-eo
+"akvofeino"-noun-eo "ondina"-noun-ca
+"ondina"-noun-ca "akvofeino"-noun-eo
+"NRO"-noun-eo "ONG"-noun-ca
+"ONG"-noun-ca "NRO"-noun-eo
+"opaka"-adverb-eo "opac"-adverb-ca
+"opac"-adverb-ca "maldiafana"-adverb-eo
+"opac"-adverb-ca "opaka"-adverb-eo
+"opac"-adverb-ca "densa"-adverb-eo
+"densa"-adverb-eo "opac"-adverb-ca
+"verbal"-adverb-ca "parola"-adverb-eo
+"sonor"-adverb-ca "voĉa"-adverb-eo
+"juĝista ordono"-noun-eo "ordre judicial"-noun-ca
+"ordre judicial"-noun-ca "juĝista ordono"-noun-eo
+"neregistara organizo"-noun-eo "organització no governamental"-noun-ca
+"organització no governamental"-noun-ca "neregistara organizo"-noun-eo
+"orienta"-adverb-eo "oriental"-adverb-ca
+"oriental"-adverb-ca "orienta"-adverb-eo
+"originala"-adverb-eo "original"-adverb-ca
+"original"-adverb-ca "originala"-adverb-eo
+"orta"-adverb-eo "ortogonal"-adverb-ca
+"orta"-adverb-eo "perpendicular"-adverb-ca
+"ortogonal"-adverb-ca "orta"-adverb-eo
+"perpendicular"-adverb-ca "orta"-adverb-eo
+"perpendicular"-adverb-ca "normala"-adverb-eo
+"perpendicular"-adverb-ca "perpendikulara"-adverb-eo
+"normala"-adverb-eo "perpendicular"-adverb-ca
+"perpendikulara"-adverb-eo "perpendicular"-adverb-ca
+"ostrogota"-adverb-eo "ostrogòticament"-adverb-ca
+"ostrogòticament"-adverb-ca "ostrogota"-adverb-eo
+"ovala"-adverb-eo "oval"-adverb-ca
+"oval"-adverb-ca "ovala"-adverb-eo
+"ovaligi"-verb-eo "ovalar"-verb-ca
+"ovalar"-verb-ca "ovaligi"-verb-eo
+"ozonigi"-verb-eo "ozonitzar"-verb-ca
+"ozonitzar"-verb-ca "ozonigi"-verb-eo
+"mola"-adverb-eo "palatal"-adverb-ca
+"palatal"-adverb-ca "mola"-adverb-eo
+"Panĝabio"-properNoun-eo "Panjab"-properNoun-ca
+"Panjab"-properNoun-ca "Panĝabio"-properNoun-eo
+"papuo"-noun-eo "papú"-noun-ca
+"papú"-noun-ca "papuo"-noun-eo
+"paraleligi"-verb-eo "parangonar"-verb-ca
+"parangonar"-verb-ca "paraleligi"-verb-eo
+"temparko"-noun-eo "parc temàtic"-noun-ca
+"parc temàtic"-noun-ca "temparko"-noun-eo
+"kveri"-verb-eo "parrupejar"-verb-ca
+"parrupejar"-verb-ca "kveri"-verb-eo
+"politika partio"-noun-eo "partit polític"-noun-ca
+"partit polític"-noun-ca "politika partio"-noun-eo
+"boataĉo"-noun-eo "patera"-noun-ca
+"patera"-noun-ca "boataĉo"-noun-eo
+"patra"-adverb-eo "patern"-adverb-ca
+"patra"-adverb-eo "paternal"-adverb-ca
+"patern"-adverb-ca "patra"-adverb-eo
+"paternal"-adverb-ca "patra"-adverb-eo
+"patriarka"-adverb-eo "patriarcal"-adverb-ca
+"patriarcal"-adverb-ca "patriarka"-adverb-eo
+"historia heredaĵo"-noun-eo "patrimoni històric"-noun-ca
+"patrimoni històric"-noun-ca "historia heredaĵo"-noun-eo
+"mastra"-adverb-eo "patronal"-adverb-ca
+"patronal"-adverb-ca "mastra"-adverb-eo
+"po"-noun-eo "pe"-noun-ca
+"pe"-noun-ca "po"-noun-eo
+"fumujo"-noun-eo "pebeter"-noun-ca
+"fumujo"-noun-eo "peveter"-noun-ca
+"pebeter"-noun-ca "fumujo"-noun-eo
+"peveter"-noun-ca "fumujo"-noun-eo
+"fiŝujo"-noun-eo "peixera"-noun-ca
+"peixera"-noun-ca "fiŝujo"-noun-eo
+"siaflanke"-adverb-eo "pel seu costat"-adverb-ca
+"pel seu costat"-adverb-ca "siaflanke"-adverb-eo
+"ruĝulo"-noun-eo "pell-roja"-noun-ca
+"pell-roja"-noun-ca "ruĝulo"-noun-eo
+"ruĝ-haŭtulo"-noun-eo "pellroja"-noun-ca
+"pellroja"-noun-ca "ruĝ-haŭtulo"-noun-eo
+"ruĝ-haŭta"-adjective-eo "pellroja"-adjective-ca
+"pellroja"-adjective-ca "ruĝ-haŭta"-adjective-eo
+"haŭteto"-noun-eo "tel"-noun-ca
+"tel"-noun-ca "haŭteto"-noun-eo
+"nedecidita"-adverb-eo "pendent"-adverb-ca
+"pendent"-adverb-ca "nedecidita"-adverb-eo
+"pneŭmonio"-noun-eo "peneumònia"-noun-ca
+"peneumònia"-noun-ca "pneŭmonio"-noun-eo
+"peniga"-adverb-eo "penible"-adverb-ca
+"penible"-adverb-ca "peniga"-adverb-eo
+"ekspastriĝi"-verb-eo "penjar els hàbits"-verb-ca
+"penjar els hàbits"-verb-ca "ekspastriĝi"-verb-eo
+"kvinpartio"-noun-eo "pentapartit"-noun-ca
+"pentapartit"-noun-ca "kvinpartio"-noun-eo
+"kvinpartia"-adjective-eo "pentapartit"-adjective-ca
+"pentapartit"-adjective-ca "kvinpartia"-adjective-eo
+"antaŭlasta"-adverb-eo "penúltim"-adverb-ca
+"penúltim"-adverb-ca "antaŭlasta"-adverb-eo
+"lastafoje"-adverb-eo "per últim colp"-adverb-ca
+"lastafoje"-adverb-eo "per últim pic"-adverb-ca
+"per últim colp"-adverb-ca "lastafoje"-adverb-eo
+"per últim pic"-adverb-ca "lastafoje"-adverb-eo
+"ĵurnalisma"-adverb-eo "periodísticament"-adverb-ca
+"periodísticament"-adverb-ca "ĵurnalisma"-adverb-eo
+"malutila"-adverb-eo "perjudicial"-adverb-ca
+"perjudicial"-adverb-ca "malutila"-adverb-eo
+"permeabla"-adverb-eo "permeable"-adverb-ca
+"permeable"-adverb-ca "permeabla"-adverb-eo
+"sed"-preposition-eo "però"-preposition-ca
+"però"-preposition-ca "sed"-preposition-eo
+"peza"-adverb-eo "pesant"-adverb-ca
+"pesant"-adverb-ca "peza"-adverb-eo
+"pika"-adverb-eo "picant"-adverb-ca
+"picant"-adverb-ca "pika"-adverb-eo
+"prurito"-noun-eo "picor"-noun-ca
+"prurito"-noun-eo "pruïja"-noun-ca
+"picor"-noun-ca "prurito"-noun-eo
+"pruïja"-noun-ca "prurito"-noun-eo
+"Piers"-properNoun-eo "Piers"-properNoun-ca
+"Piers"-properNoun-ca "Piers"-properNoun-eo
+"pigra"-adverb-eo "pigre"-adverb-ca
+"pigre"-adverb-ca "pigra"-adverb-eo
+"ŝikulo"-noun-eo "pijo"-noun-ca
+"pijo"-noun-ca "ŝikulo"-noun-eo
+"friponaro"-noun-eo "pilleria"-noun-ca
+"friponaro"-noun-eo "xurma"-noun-ca
+"pilleria"-noun-ca "friponaro"-noun-eo
+"xurma"-noun-ca "friponaro"-noun-eo
+"xurma"-noun-ca "punlaborularo"-noun-eo
+"punlaborularo"-noun-eo "xurma"-noun-ca
+"gumkuglo"-noun-eo "pilota de goma"-noun-ca
+"pilota de goma"-noun-ca "gumkuglo"-noun-eo
+"pilono"-noun-eo "piló"-noun-ca
+"piló"-noun-ca "pilono"-noun-eo
+"pimpinelo"-noun-eo "pimpinella"-noun-ca
+"pimpinella"-noun-ca "pimpinelo"-noun-eo
+"pinastro"-noun-eo "pinastre"-noun-ca
+"pinastre"-noun-ca "pinastro"-noun-eo
+"murskribaĵo"-noun-eo "pintada"-noun-ca
+"pintada"-noun-ca "murskribaĵo"-noun-eo
+"ruĵi"-verb-eo "pintar-se els llavis"-verb-ca
+"ruĵi"-verb-eo "pintar els llavis"-verb-ca
+"pintar-se els llavis"-verb-ca "ruĵi"-verb-eo
+"pintar els llavis"-verb-ca "ruĵi"-verb-eo
+"pitoreska"-adverb-eo "pintoresc"-adverb-ca
+"pintoresc"-adverb-ca "pitoreska"-adverb-eo
+"pina"-adjective-eo "pinyoner"-adjective-ca
+"pinyoner"-adjective-ca "pina"-adjective-eo
+"pipsuĉo"-noun-eo "pipada"-noun-ca
+"pipada"-noun-ca "pipsuĉo"-noun-eo
+"pirogo"-noun-eo "piragua"-noun-ca
+"piragua"-noun-ca "pirogo"-noun-eo
+"piranjo"-noun-eo "piranya"-noun-ca
+"piranya"-noun-ca "piranjo"-noun-eo
+"fajrodiveno"-noun-eo "piromància"-noun-ca
+"piromància"-noun-ca "fajrodiveno"-noun-eo
+"ardezkrajono"-noun-eo "pissarrí"-noun-ca
+"pissarrí"-noun-ca "ardezkrajono"-noun-eo
+"ornampoto"-noun-eo "pitxer"-noun-ca
+"pitxer"-noun-ca "ornampoto"-noun-eo
+"urinanto"-noun-eo "pixaner"-noun-ca
+"pixaner"-noun-ca "urinanto"-noun-eo
+"urininklino"-noun-eo "pixera"-noun-ca
+"pixera"-noun-ca "urininklino"-noun-eo
+"glata"-adverb-eo "planer"-adverb-ca
+"planer"-adverb-ca "glata"-adverb-eo
+"planer"-adverb-ca "senartifika"-adverb-eo
+"senartifika"-adverb-eo "planer"-adverb-ca
+"ladisto"-noun-eo "planxista"-noun-ca
+"planxista"-noun-ca "ladisto"-noun-eo
+"ladejo"-noun-eo "planxisteria"-noun-ca
+"planxisteria"-noun-ca "ladejo"-noun-eo
+"moldebla plasto"-noun-eo "plastilina"-noun-ca
+"plastilina"-noun-ca "moldebla plasto"-noun-eo
+"plateni"-verb-eo "platinar"-verb-ca
+"platinar"-verb-ca "plateni"-verb-eo
+"ploranto"-noun-eo "ploraner"-noun-ca
+"ploraner"-noun-ca "ploranto"-noun-eo
+"ploreti"-verb-eo "ploriquejar"-verb-ca
+"ploreti"-verb-eo "somicar"-verb-ca
+"ploreti"-verb-eo "somiquejar"-verb-ca
+"ploriquejar"-verb-ca "ploreti"-verb-eo
+"somicar"-verb-ca "ploreti"-verb-eo
+"somiquejar"-verb-ca "ploreti"-verb-eo
+"plora"-adjective-eo "plorós"-adjective-ca
+"plorós"-adjective-ca "plora"-adjective-eo
+"plumejo"-noun-eo "plumier"-noun-ca
+"plumier"-noun-ca "plumejo"-noun-eo
+"plumhava"-adjective-eo "plumífer"-adjective-ca
+"plumífer"-adjective-ca "plumhava"-adjective-eo
+"unulingvismo"-noun-eo "monolingüisme"-noun-ca
+"monolingüisme"-noun-ca "unulingvismo"-noun-eo
+"pluvometro"-noun-eo "pluviòmetre"-noun-ca
+"pluviòmetre"-noun-ca "pluvometro"-noun-eo
+"malriĉularo"-noun-eo "pobrissalla"-noun-ca
+"pobrissalla"-noun-ca "malriĉularo"-noun-eo
+"branĉtondado"-noun-eo "poda"-noun-ca
+"poda"-noun-ca "branĉtondado"-noun-eo
+"ekzekutiva potenco"-noun-eo "poder executiu"-noun-ca
+"poder executiu"-noun-ca "ekzekutiva potenco"-noun-eo
+"leĝdona potenco"-noun-eo "poder legislatiu"-noun-ca
+"poder legislatiu"-noun-ca "leĝdona potenco"-noun-eo
+"putrigado"-noun-eo "podrimener"-noun-ca
+"podrimener"-noun-ca "putrigado"-noun-eo
+"norda poluso"-properNoun-eo "Pol Nord"-properNoun-ca
+"Pol Nord"-properNoun-ca "norda poluso"-properNoun-eo
+"suda poluso"-properNoun-eo "Pol Sud"-properNoun-ca
+"Pol Sud"-properNoun-ca "suda poluso"-properNoun-eo
+"polento"-noun-eo "polenta"-noun-ca
+"polenta"-noun-ca "polento"-noun-eo
+"polica"-adverb-eo "policial"-adverb-ca
+"policial"-adverb-ca "polica"-adverb-eo
+"plurkolora"-adjective-eo "policrom"-adjective-ca
+"policrom"-adjective-ca "plurkolora"-adjective-eo
+"plurkoloreco"-noun-eo "policromia"-noun-ca
+"policromia"-noun-ca "plurkoloreco"-noun-eo
+"multaspekta"-adjective-eo "polifacètic"-adjective-ca
+"polifacètic"-adjective-ca "multaspekta"-adjective-eo
+"polinoma"-adverb-eo "polinomial"-adverb-ca
+"polinomial"-adverb-ca "polinoma"-adverb-eo
+"puligio"-noun-eo "poniol"-noun-ca
+"poniol"-noun-ca "puligio"-noun-eo
+"politikeco"-noun-eo "politiqueig"-noun-ca
+"politiqueig"-noun-ca "politikeco"-noun-eo
+"juna kokino"-noun-eo "polla"-noun-ca
+"polla"-noun-ca "juna kokino"-noun-eo
+"pordofosto"-noun-eo "polleguera"-noun-ca
+"polleguera"-noun-ca "pordofosto"-noun-eo
+"arbobranĉo"-noun-eo "pollegó"-noun-ca
+"pollegó"-noun-ca "arbobranĉo"-noun-eo
+"kokovendejo"-noun-eo "polleria"-noun-ca
+"polleria"-noun-ca "kokovendejo"-noun-eo
+"pedikhava"-adjective-eo "pollós"-adjective-ca
+"pollós"-adjective-ca "pedikhava"-adjective-eo
+"pulva"-adjective-eo "polsós"-adjective-ca
+"polsós"-adjective-ca "pulva"-adjective-eo
+"ŝprucflakono"-noun-eo "polvoritzador"-noun-ca
+"polvoritzador"-noun-ca "ŝprucflakono"-noun-eo
+"ovodemetejo"-noun-eo "ponedor"-noun-ca
+"ponedor"-noun-ca "ovodemetejo"-noun-eo
+"popolaĉo"-noun-eo "populatxo"-noun-ca
+"populatxo"-noun-ca "popolaĉo"-noun-eo
+"muzika miksaĵo"-noun-eo "popurri"-noun-ca
+"popurri"-noun-ca "muzika miksaĵo"-noun-eo
+"trinkilo"-noun-eo "porró"-noun-ca
+"porró"-noun-ca "trinkilo"-noun-eo
+"malgranda pordeto"-noun-eo "portella"-noun-ca
+"portella"-noun-ca "malgranda pordeto"-noun-eo
+"postelekta"-adjective-eo "postelectoral"-adjective-ca
+"postelectoral"-adjective-ca "postelekta"-adjective-eo
+"legommanĝaĵo"-noun-eo "potatge"-noun-ca
+"potatge"-noun-ca "legommanĝaĵo"-noun-eo
+"trinkaĉo"-noun-eo "potinga"-noun-ca
+"potinga"-noun-ca "trinkaĉo"-noun-eo
+"POUM"-noun-eo "POUM"-noun-ca
+"POUM"-noun-ca "POUM"-noun-eo
+"herbejaro"-noun-eo "praderia"-noun-ca
+"praderia"-noun-ca "herbejaro"-noun-eo
+"preciozema"-adjective-eo "preciosista"-adjective-ca
+"preciosista"-adjective-ca "preciozema"-adjective-eo
+"preciosista"-adjective-ca "preciozisma"-adjective-eo
+"preciosista"-adjective-ca "preciozista"-adjective-eo
+"preciozisma"-adjective-eo "preciosista"-adjective-ca
+"preciozista"-adjective-eo "preciosista"-adjective-ca
+"preciozisto"-noun-eo "preciosista"-noun-ca
+"preciosista"-noun-ca "preciozisto"-noun-eo
+"preciozeco"-noun-eo "preciosisme"-noun-ca
+"preciosisme"-noun-ca "preciozeco"-noun-eo
+"preciosisme"-noun-ca "preciozemo"-noun-eo
+"preciosisme"-noun-ca "preciozo"-noun-eo
+"preciosisme"-noun-ca "preciozismo"-noun-eo
+"preciozemo"-noun-eo "preciosisme"-noun-ca
+"preciozo"-noun-eo "preciosisme"-noun-ca
+"preciozismo"-noun-eo "preciosisme"-noun-ca
+"profunda"-adverb-eo "pregon"-adverb-ca
+"pregon"-adverb-ca "profunda"-adverb-eo
+"funda esplorado"-noun-eo "pregonesa"-noun-ca
+"pregonesa"-noun-ca "funda esplorado"-noun-eo
+"pra"-adverb-eo "prehistòricament"-adverb-ca
+"prehistòricament"-adverb-ca "pra"-adverb-eo
+"prelateco"-noun-eo "prelatura"-noun-ca
+"prelatura"-noun-ca "prelateco"-noun-eo
+"antaŭmarborda"-adverb-eo "prelitoral"-adverb-ca
+"prelitoral"-adverb-ca "antaŭmarborda"-adverb-eo
+"preludi"-verb-eo "preludiar"-verb-ca
+"preludiar"-verb-ca "preludi"-verb-eo
+"antaŭtempa"-adverb-eo "prematur"-adverb-ca
+"prematur"-adverb-ca "antaŭtempa"-adverb-eo
+"prematur"-adverb-ca "frumatura"-adverb-eo
+"frumatura"-adverb-eo "prematur"-adverb-ca
+"frumatura"-adverb-eo "primerencament"-adverb-ca
+"primerencament"-adverb-ca "frumatura"-adverb-eo
+"politika malliberulo"-noun-eo "pres polític"-noun-ca
+"pres polític"-noun-ca "politika malliberulo"-noun-eo
+"proopinia malliberulo"-noun-eo "pres d'opinió"-noun-ca
+"proopinia malliberulo"-noun-eo "pres de consciència"-noun-ca
+"pres d'opinió"-noun-ca "proopinia malliberulo"-noun-eo
+"pres de consciència"-noun-ca "proopinia malliberulo"-noun-eo
+"punlaboristo"-noun-eo "presidiari"-noun-ca
+"presidiari"-noun-ca "punlaboristo"-noun-eo
+"antaŭsokrata"-adverb-eo "presocràticament"-adverb-ca
+"presocràticament"-adverb-ca "antaŭsokrata"-adverb-eo
+"preteco"-noun-eo "prestesa"-noun-ca
+"prestesa"-noun-ca "preteco"-noun-eo
+"prestiĝigi"-verb-eo "prestigiar"-verb-ca
+"prestigiar"-verb-ca "prestiĝigi"-verb-eo
+"avertita"-adjective-eo "previngut"-adjective-ca
+"previngut"-adjective-ca "avertita"-adjective-eo
+"antaŭvidema"-adjective-eo "previsor"-adjective-ca
+"previsor"-adjective-ca "antaŭvidema"-adjective-eo
+"unuega"-adjective-eo "primicer"-adjective-ca
+"primicer"-adjective-ca "unuega"-adjective-eo
+"kopirajta programaro"-noun-eo "programari propietari"-noun-ca
+"programari propietari"-noun-ca "kopirajta programaro"-noun-eo
+"leĝopropono"-noun-eo "projecte de llei"-noun-ca
+"projecte de llei"-noun-ca "leĝopropono"-noun-eo
+"prolegomeno"-noun-eo "prolegomen"-noun-ca
+"prolegomen"-noun-ca "prolegomeno"-noun-eo
+"proletigi"-verb-eo "proletaritzar"-verb-ca
+"proletaritzar"-verb-ca "proletigi"-verb-eo
+"promesplena"-adverb-eo "prometedor"-adverb-ca
+"prometedor"-adverb-ca "promesplena"-adverb-eo
+"proksima"-adverb-eo "proper"-adverb-ca
+"proksima"-adverb-eo "pròxim"-adverb-ca
+"proper"-adverb-ca "proksima"-adverb-eo
+"proper"-adverb-ca "apuda"-adverb-eo
+"pròxim"-adverb-ca "proksima"-adverb-eo
+"apuda"-adverb-eo "proper"-adverb-ca
+"leĝpropono"-noun-eo "proposició de llei"-noun-ca
+"proposició de llei"-noun-ca "leĝpropono"-noun-eo
+"proporciigi"-verb-eo "prorratejar"-verb-ca
+"prorratejar"-verb-ca "proporciigi"-verb-eo
+"prozopopeo"-noun-eo "prosopopeia"-noun-ca
+"prosopopeia"-noun-ca "prozopopeo"-noun-eo
+"prozopopea"-adjective-eo "prosopopeic"-adjective-ca
+"prosopopeic"-adjective-ca "prozopopea"-adjective-eo
+"prozelito"-noun-eo "prosèlit"-noun-ca
+"prosèlit"-noun-ca "prozelito"-noun-eo
+"multaĝa"-adjective-eo "provecte"-adjective-ca
+"provecte"-adjective-ca "multaĝa"-adjective-eo
+"provinceco"-noun-eo "provincianisme"-noun-ca
+"provincianisme"-noun-ca "provinceco"-noun-eo
+"provizoreco"-noun-eo "provisionalitat"-noun-ca
+"provisionalitat"-noun-ca "provizoreco"-noun-eo
+"pseŭdopiedo"-noun-eo "pseudopodi"-noun-ca
+"pseudopodi"-noun-ca "pseŭdopiedo"-noun-eo
+"psikoterapiisto"-noun-eo "psicoterapeuta"-noun-ca
+"psicoterapeuta"-noun-ca "psikoterapiisto"-noun-eo
+"PSUC"-noun-eo "PSUC"-noun-ca
+"PSUC"-noun-ca "PSUC"-noun-eo
+"majoratino"-noun-eo "pubilla"-noun-ca
+"pubilla"-noun-ca "majoratino"-noun-eo
+"infankulturo"-noun-eo "puericultura"-noun-ca
+"puericultura"-noun-ca "infankulturo"-noun-eo
+"pufseĝo"-noun-eo "puf"-noun-ca
+"puf"-noun-ca "pufseĝo"-noun-eo
+"Pulĉinelo"-properNoun-eo "Pulcinella"-properNoun-ca
+"Pulcinella"-properNoun-ca "Pulĉinelo"-properNoun-eo
+"punkti"-verb-eo "puntejar"-verb-ca
+"puntejar"-verb-ca "punkti"-verb-eo
+"ponardvundo"-noun-eo "punyalada"-noun-ca
+"punyalada"-noun-ca "ponardvundo"-noun-eo
+"pala"-adverb-eo "pàl·lid"-adverb-ca
+"pàl·lid"-adverb-ca "pala"-adverb-eo
+"malica"-adverb-eo "pèrfid"-adverb-ca
+"pèrfid"-adverb-ca "malica"-adverb-eo
+"pèrfid"-adverb-ca "perfida"-adverb-eo
+"perfida"-adverb-eo "pèrfid"-adverb-ca
+"perfida"-adverb-eo "traïdor"-adverb-ca
+"traïdor"-adverb-ca "perfida"-adverb-eo
+"kvarĝemelo"-noun-eo "quadrigemin"-noun-ca
+"quadrigemin"-noun-ca "kvarĝemelo"-noun-eo
+"kvarĝemela"-adjective-eo "quadrigemin"-adjective-ca
+"quadrigemin"-adjective-ca "kvarĝemela"-adjective-eo
+"kvarpartio"-noun-eo "quadripartit"-noun-ca
+"kvarpartio"-noun-eo "tetrapartit"-noun-ca
+"quadripartit"-noun-ca "kvarpartio"-noun-eo
+"tetrapartit"-noun-ca "kvarpartio"-noun-eo
+"kvarpartia"-adjective-eo "quadripartit"-adjective-ca
+"kvarpartia"-adjective-eo "tetrapartit"-adjective-ca
+"quadripartit"-adjective-ca "kvarpartia"-adjective-eo
+"tetrapartit"-adjective-ca "kvarpartia"-adjective-eo
+"ekprocesi"-verb-eo "querellar"-verb-ca
+"querellar"-verb-ca "ekprocesi"-verb-eo
+"kemiterapiisto"-noun-eo "quimioterapeuta"-noun-ca
+"quimioterapeuta"-noun-ca "kemiterapiisto"-noun-eo
+"ĥimera"-adjective-eo "quimèric"-adjective-ca
+"quimèric"-adjective-ca "ĥimera"-adjective-eo
+"ladaĵisto"-noun-eo "quincallaire"-noun-ca
+"quincallaire"-noun-ca "ladaĵisto"-noun-eo
+"kvinjara"-adjective-eo "quinquennal"-adjective-ca
+"quinquennal"-adjective-ca "kvinjara"-adjective-eo
+"quinquennal"-adjective-ca "jarkvina"-adjective-eo
+"jarkvina"-adjective-eo "quinquennal"-adjective-ca
+"kvinjara"-adverb-eo "quinquennal"-adverb-ca
+"quinquennal"-adverb-ca "kvinjara"-adverb-eo
+"quinquennal"-adverb-ca "jarkvina"-adverb-eo
+"jarkvina"-adverb-eo "quinquennal"-adverb-ca
+"ĥiroptero"-noun-eo "quiròpter"-noun-ca
+"quiròpter"-noun-ca "ĥiroptero"-noun-eo
+"kvarobla"-adverb-eo "quàdruple"-adverb-ca
+"quàdruple"-adverb-ca "kvarobla"-adverb-eo
+"racia"-adverb-eo "racional"-adverb-ca
+"racia"-adverb-eo "raonable"-adverb-ca
+"racional"-adverb-ca "racia"-adverb-eo
+"racional"-adverb-ca "racionala"-adverb-eo
+"raonable"-adverb-ca "racia"-adverb-eo
+"racionala"-adverb-eo "racional"-adverb-ca
+"radioteleskopa"-adjective-eo "radiotelescòpic"-adjective-ca
+"radiotelescòpic"-adjective-ca "radioteleskopa"-adjective-eo
+"brikisto"-noun-eo "rajoler"-noun-ca
+"rajoler"-noun-ca "brikisto"-noun-eo
+"malfreŝa"-adverb-eo "ranci"-adverb-ca
+"ranci"-adverb-ca "malfreŝa"-adverb-eo
+"ranci"-adverb-ca "ranca"-adverb-eo
+"ranca"-adverb-eo "ranci"-adverb-ca
+"ventoblovo"-noun-eo "ventada"-noun-ca
+"ventada"-noun-ca "ventoblovo"-noun-eo
+"Rauffe"-properNoun-eo "Rauffe"-properNoun-ca
+"Rauffe"-properNoun-ca "Rauffe"-properNoun-eo
+"Raulin"-properNoun-eo "Raulin"-properNoun-ca
+"Raulin"-properNoun-ca "Raulin"-properNoun-eo
+"ravenissa"-noun-ca "rafanistro"-noun-eo
+"rafanistro"-noun-eo "ravenissa"-noun-ca
+"ribela"-adjective-eo "sublevat"-adjective-ca
+"sublevat"-adjective-ca "ribela"-adjective-eo
+"troŝarĝita"-adjective-eo "recarregat"-adjective-ca
+"recarregat"-adjective-ca "troŝarĝita"-adjective-eo
+"rekaŭĉuki"-verb-eo "recautxutar"-verb-ca
+"recautxutar"-verb-ca "rekaŭĉuki"-verb-eo
+"rekomendinda"-adverb-eo "recomanable"-adverb-ca
+"recomanable"-adverb-ca "rekomendinda"-adverb-eo
+"recomanable"-adverb-ca "rekomendebla"-adverb-eo
+"rekomendebla"-adverb-eo "recomanable"-adverb-ca
+"rekombini"-verb-eo "recombinar"-verb-ca
+"recombinar"-verb-ca "rekombini"-verb-eo
+"parolrekono"-noun-eo "reconeixement de la parola"-noun-ca
+"reconeixement de la parola"-noun-ca "parolrekono"-noun-eo
+"restarigi spacon"-verb-eo "recuperar un espai"-verb-ca
+"recuperar un espai"-verb-ca "restarigi spacon"-verb-eo
+"reciproka"-adverb-eo "recíproc"-adverb-ca
+"recíproc"-adverb-ca "reciproka"-adverb-eo
+"amas-aresto"-noun-eo "redada"-noun-ca
+"redada"-noun-ca "amas-aresto"-noun-eo
+"agra reformo"-noun-eo "reforma agrària"-noun-ca
+"reforma agrària"-noun-ca "agra reformo"-noun-eo
+"splendi"-verb-eo "refulgir"-verb-ca
+"refulgir"-verb-ca "splendi"-verb-eo
+"Aragona reĝlando"-noun-eo "regne d'Aragó"-noun-ca
+"regne d'Aragó"-noun-ca "Aragona reĝlando"-noun-eo
+"Kastilia reĝlando"-noun-eo "regne de Castella"-noun-ca
+"regne de Castella"-noun-ca "Kastilia reĝlando"-noun-eo
+"Franca reĝlando"-noun-eo "regne de França"-noun-ca
+"regne de França"-noun-ca "Franca reĝlando"-noun-eo
+"Galega reĝlando"-noun-eo "regne de Galícia"-noun-ca
+"regne de Galícia"-noun-ca "Galega reĝlando"-noun-eo
+"Leona reĝlando"-noun-eo "regne de Lleó"-noun-ca
+"regne de Lleó"-noun-ca "Leona reĝlando"-noun-eo
+"Majorka reĝlando"-noun-eo "regne de Mallorca"-noun-ca
+"regne de Mallorca"-noun-ca "Majorka reĝlando"-noun-eo
+"Nafara reĝlando"-noun-eo "regne de Navarra"-noun-ca
+"regne de Navarra"-noun-ca "Nafara reĝlando"-noun-eo
+"Portugala reĝlando"-noun-eo "regne de Portugal"-noun-ca
+"regne de Portugal"-noun-ca "Portugala reĝlando"-noun-eo
+"Valencia reĝlando"-noun-eo "regne de València"-noun-ca
+"regne de València"-noun-ca "Valencia reĝlando"-noun-eo
+"postula"-adjective-eo "reinvindicatiu"-adjective-ca
+"reinvindicatiu"-adjective-ca "postula"-adjective-eo
+"rilativo"-noun-eo "relatiu"-noun-ca
+"relatiu"-noun-ca "rilativo"-noun-eo
+"transŝvitiĝi"-verb-eo "rellentar"-verb-ca
+"rellentar"-verb-ca "transŝvitiĝi"-verb-eo
+"rumora"-adjective-eo "remorós"-adjective-ca
+"remorós"-adjective-ca "rumora"-adjective-eo
+"reviviga"-adjective-eo "renaixent"-adjective-ca
+"renaixent"-adjective-ca "reviviga"-adjective-eo
+"renovige"-adverb-eo "renovadorament"-adverb-ca
+"renovadorament"-adverb-ca "renovige"-adverb-eo
+"refortikigi"-verb-eo "renovellar"-verb-ca
+"renovellar"-verb-ca "refortikigi"-verb-eo
+"reorganizanto"-noun-eo "reorganitzador"-noun-ca
+"reorganitzador"-noun-ca "reorganizanto"-noun-eo
+"reorganiza"-adjective-eo "reorganitzador"-adjective-ca
+"reorganitzador"-adjective-ca "reorganiza"-adjective-eo
+"malsaĝago"-noun-eo "repapieig"-noun-ca
+"repapieig"-noun-ca "malsaĝago"-noun-eo
+"repasado"-noun-eo "repassada"-noun-ca
+"repassada"-noun-ca "repasado"-noun-eo
+"refaldo"-noun-eo "replec"-noun-ca
+"replec"-noun-ca "refaldo"-noun-eo
+"admonebla"-adjective-eo "reprensible"-adjective-ca
+"reprensible"-adjective-ca "admonebla"-adjective-eo
+"admonado"-noun-eo "reprensió"-noun-ca
+"reprensió"-noun-ca "admonado"-noun-eo
+"reprezaliito"-noun-eo "represaliat"-noun-ca
+"represaliat"-noun-ca "reprezaliito"-noun-eo
+"represaliat"-noun-ca "persekutito"-noun-eo
+"persekutito"-noun-eo "represaliat"-noun-ca
+"mallogo"-noun-eo "repulsa"-noun-ca
+"repulsa"-noun-ca "mallogo"-noun-eo
+"stebo"-noun-eo "repunt"-noun-ca
+"repunt"-noun-ca "stebo"-noun-eo
+"rekvizio"-noun-eo "requisa"-noun-ca
+"requisa"-noun-ca "rekvizio"-noun-eo
+"civila rezisto"-noun-eo "resistència civil"-noun-ca
+"resistència civil"-noun-ca "civila rezisto"-noun-eo
+"digna"-adverb-eo "respectable"-adverb-ca
+"respectable"-adverb-ca "digna"-adverb-eo
+"ventolejo"-noun-eo "respirall"-noun-ca
+"respirall"-noun-ca "ventolejo"-noun-eo
+"postlaso"-noun-eo "ressaga"-noun-ca
+"ressaga"-noun-ca "postlaso"-noun-eo
+"sunresendo"-noun-eo "ressol"-noun-ca
+"ressol"-noun-ca "sunresendo"-noun-eo
+"replandumi"-verb-eo "ressolar"-verb-ca
+"ressolar"-verb-ca "replandumi"-verb-eo
+"cetera"-adverb-eo "restant"-adverb-ca
+"restant"-adverb-ca "cetera"-adverb-eo
+"mallaksa"-adjective-eo "restret"-adjective-ca
+"restret"-adjective-ca "mallaksa"-adjective-eo
+"tranĉebla"-adjective-eo "retallable"-adjective-ca
+"retallable"-adjective-ca "tranĉebla"-adjective-eo
+"afiŝskribilo"-noun-eo "retolador"-noun-ca
+"retolador"-noun-ca "afiŝskribilo"-noun-eo
+"romanĉo"-noun-eo "retoromanx"-noun-ca
+"retoromanx"-noun-ca "romanĉo"-noun-eo
+"retroefiki"-verb-eo "retrotreure"-verb-ca
+"retrotreure"-verb-ca "retroefiki"-verb-eo
+"refrapi"-verb-eo "retrucar"-verb-ca
+"retrucar"-verb-ca "refrapi"-verb-eo
+"reŭmato"-noun-eo "reuma"-noun-ca
+"reuma"-noun-ca "reŭmato"-noun-eo
+"reŭmatologio"-noun-eo "reumatologia"-noun-ca
+"reumatologia"-noun-ca "reŭmatologio"-noun-eo
+"reŭmatologo"-noun-eo "reumatòleg"-noun-ca
+"reumatòleg"-noun-ca "reŭmatologo"-noun-eo
+"reverdigi"-verb-eo "reverdir"-verb-ca
+"reverdir"-verb-ca "reverdigi"-verb-eo
+"revalidigo"-noun-eo "revàlida"-noun-ca
+"revàlida"-noun-ca "revalidigo"-noun-eo
+"Rodezio"-properNoun-eo "Rhodèsia"-properNoun-ca
+"Rhodèsia"-properNoun-ca "Rodezio"-properNoun-eo
+"raboti"-verb-eo "ribotar"-verb-ca
+"raboti"-verb-eo "ribotejar"-verb-ca
+"ribotar"-verb-ca "raboti"-verb-eo
+"ribotejar"-verb-ca "raboti"-verb-eo
+"lotumi"-verb-eo "rifar"-verb-ca
+"rifar"-verb-ca "lotumi"-verb-eo
+"refi"-verb-eo "rissar"-verb-ca
+"rissar"-verb-ca "refi"-verb-eo
+"fortika"-adverb-eo "robust"-adverb-ca
+"robust"-adverb-ca "fortika"-adverb-eo
+"raŭkiĝita"-adjective-eo "rogallós"-adjective-ca
+"rogallós"-adjective-ca "raŭkiĝita"-adjective-eo
+"senpinta"-adverb-eo "rom"-adverb-ca
+"rom"-adverb-ca "senpinta"-adverb-eo
+"romanika"-adverb-eo "romànicament"-adverb-ca
+"romànicament"-adverb-ca "romanika"-adverb-eo
+"romànicament"-adverb-ca "latinida"-adverb-eo
+"latinida"-adverb-eo "romànicament"-adverb-ca
+"raŭka"-adverb-eo "roncament"-adverb-ca
+"roncament"-adverb-ca "raŭka"-adverb-eo
+"rengraso"-noun-eo "ronyonada"-noun-ca
+"ronyonada"-noun-ca "rengraso"-noun-eo
+"multrokejo"-noun-eo "roquisar"-noun-ca
+"roquisar"-noun-ca "multrokejo"-noun-eo
+"panpeco"-noun-eo "rosegó"-noun-ca
+"rosegó"-noun-ca "panpeco"-noun-eo
+"rosteti"-verb-eo "rossejar"-verb-ca
+"rossejar"-verb-ca "rosteti"-verb-eo
+"rusti"-verb-eo "rovellar-se"-verb-ca
+"rovellar-se"-verb-ca "rusti"-verb-eo
+"kruda"-adverb-eo "rude"-adverb-ca
+"kruda"-adverb-eo "verge"-adverb-ca
+"rude"-adverb-ca "kruda"-adverb-eo
+"rude"-adverb-ca "sovaĝa"-adverb-eo
+"verge"-adverb-ca "kruda"-adverb-eo
+"verge"-adverb-ca "virga"-adverb-eo
+"sovaĝa"-adverb-eo "rude"-adverb-ca
+"sovaĝa"-adverb-eo "salvatge"-adverb-ca
+"virga"-adverb-eo "verge"-adverb-ca
+"virga"-adverb-eo "virginal"-adverb-ca
+"salvatge"-adverb-ca "sovaĝa"-adverb-eo
+"ruŝo"-noun-eo "ruixa"-noun-ca
+"ruixa"-noun-ca "ruŝo"-noun-eo
+"bukli"-verb-eo "rullar"-verb-ca
+"rullar"-verb-ca "bukli"-verb-eo
+"raeto"-noun-eo "rètic"-noun-ca
+"rètic"-noun-ca "raeto"-noun-eo
+"Rusioj"-properNoun-eo "Rússies"-properNoun-ca
+"Rússies"-properNoun-ca "Rusioj"-properNoun-eo
+"sabri"-verb-eo "sabrejar"-verb-ca
+"sabrejar"-verb-ca "sabri"-verb-eo
+"sagitario"-noun-eo "sagitària"-noun-ca
+"sagitària"-noun-ca "sagitario"-noun-eo
+"saharano"-noun-eo "saharià"-noun-ca
+"saharià"-noun-ca "saharano"-noun-eo
+"salpetro"-noun-eo "salnitre"-noun-ca
+"salnitre"-noun-ca "salpetro"-noun-eo
+"salikejo"-noun-eo "salzereda"-noun-ca
+"salzereda"-noun-ca "salikejo"-noun-eo
+"publika sanservo"-noun-eo "sanitat pública"-noun-ca
+"sanitat pública"-noun-ca "publika sanservo"-noun-eo
+"kontenta"-adverb-eo "satisfet"-adverb-ca
+"satisfet"-adverb-ca "kontenta"-adverb-eo
+"satisfet"-adverb-ca "sata"-adverb-eo
+"sata"-adverb-eo "satisfet"-adverb-ca
+"saŭro"-noun-eo "saure"-noun-ca
+"saure"-noun-ca "saŭro"-noun-eo
+"juĝeja sekretario"-noun-eo "secretari judicial"-noun-ca
+"secretari judicial"-noun-ca "juĝeja sekretario"-noun-eo
+"sekreti"-verb-eo "secretejar"-verb-ca
+"secretejar"-verb-ca "sekreti"-verb-eo
+"sekulara"-adverb-eo "secular"-adverb-ca
+"secular"-adverb-ca "sekulara"-adverb-eo
+"sekva"-adverb-eo "següent"-adverb-ca
+"següent"-adverb-ca "sekva"-adverb-eo
+"duoncirkla"-adverb-eo "semicircular"-adverb-ca
+"semicircular"-adverb-ca "duoncirkla"-adverb-eo
+"tuta"-adverb-eo "sencer"-adverb-ca
+"sencer"-adverb-ca "tuta"-adverb-eo
+"sensacia"-adverb-eo "sensacional"-adverb-ca
+"sensacional"-adverb-ca "sensacia"-adverb-eo
+"sendokumentulo"-noun-eo "sense papers"-noun-ca
+"sense papers"-noun-ca "sendokumentulo"-noun-eo
+"sendokumenta"-adjective-eo "sense papers"-adjective-ca
+"sense papers"-adjective-ca "sendokumenta"-adjective-eo
+"sendokumente"-adverb-eo "sense papers"-adverb-ca
+"sense papers"-adverb-ca "sendokumente"-adverb-eo
+"senterulo"-adverb-eo "sense terra"-adverb-ca
+"sense terra"-adverb-ca "senterulo"-adverb-eo
+"sense terra"-adverb-ca "sentere"-adverb-eo
+"sentere"-adverb-eo "sense terra"-adverb-ca
+"sentera"-adjective-eo "sense terra"-adjective-ca
+"sense terra"-adjective-ca "sentera"-adjective-eo
+"sensora"-adjective-eo "sensori"-adjective-ca
+"sensori"-adjective-ca "sensora"-adjective-eo
+"sentimentala"-adverb-eo "sentimental"-adverb-ca
+"sentimental"-adverb-ca "sentimentala"-adverb-eo
+"serpenttubo"-noun-eo "serpentí"-noun-ca
+"serpentí"-noun-ca "serpenttubo"-noun-eo
+"sorparbo"-noun-eo "server"-noun-ca
+"server"-noun-ca "sorparbo"-noun-eo
+"server"-noun-ca "sorpujo"-noun-eo
+"sorpujo"-noun-eo "server"-noun-ca
+"sorpujo"-noun-eo "servera"-noun-ca
+"servera"-noun-ca "sorpujo"-noun-eo
+"helpema"-adverb-eo "servicial"-adverb-ca
+"servicial"-adverb-ca "helpema"-adverb-eo
+"servila"-adverb-eo "servil"-adverb-ca
+"servil"-adverb-ca "servila"-adverb-eo
+"semajna"-adverb-eo "setmanal"-adverb-ca
+"setmanal"-adverb-ca "semajna"-adverb-eo
+"oleujo"-noun-eo "sitrell"-noun-ca
+"sitrell"-noun-ca "oleujo"-noun-eo
+"episkopa sidejo"-noun-eo "seu episcopal"-noun-ca
+"seu episcopal"-noun-ca "episkopa sidejo"-noun-eo
+"se tio okazus"-adverb-eo "si aquest fós el cas"-adverb-ca
+"si aquest fós el cas"-adverb-ca "se tio okazus"-adverb-eo
+"bonvolu"-adverb-eo "si us plau"-adverb-ca
+"si us plau"-adverb-ca "bonvolu"-adverb-eo
+"simila"-adverb-eo "similar"-adverb-ca
+"similar"-adverb-ca "simila"-adverb-eo
+"sindikata"-adverb-eo "sindical"-adverb-ca
+"sindical"-adverb-ca "sindikata"-adverb-eo
+"loki en"-verb-eo "situar a"-verb-ca
+"situar a"-verb-ca "loki en"-verb-eo
+"razkapulo"-noun-eo "skin head"-noun-ca
+"skin head"-noun-ca "razkapulo"-noun-eo
+"supernutri"-verb-eo "sobrealimentar"-verb-ca
+"sobrealimentar"-verb-ca "supernutri"-verb-eo
+"supernatura"-adverb-eo "sobrenatural"-adverb-ca
+"sobrenatural"-adverb-ca "supernatura"-adverb-eo
+"soveta socialisma"-adjective-eo "socialista soviètic"-adjective-ca
+"socialista soviètic"-adjective-ca "soveta socialisma"-adjective-eo
+"akcia kompanio"-noun-eo "societat anònima"-noun-ca
+"societat anònima"-noun-ca "akcia kompanio"-noun-eo
+"socikultura"-adverb-eo "sociocultural"-adverb-ca
+"sociocultural"-adverb-ca "socikultura"-adverb-eo
+"sokrata"-adverb-eo "socràticament"-adverb-ca
+"socràticament"-adverb-ca "sokrata"-adverb-eo
+"sultanejo"-noun-eo "soldanat"-noun-ca
+"sultanejo"-noun-eo "sultanat"-noun-ca
+"soldanat"-noun-ca "sultanejo"-noun-eo
+"sultanat"-noun-ca "sultanejo"-noun-eo
+"sultanat"-noun-ca "sultanlando"-noun-eo
+"sultanlando"-noun-eo "sultanat"-noun-ca
+"solventa"-adverb-eo "solvent"-adverb-ca
+"solvent"-adverb-ca "solida"-adverb-eo
+"solvent"-adverb-ca "solventa"-adverb-eo
+"surdamutulo"-noun-eo "sord-mut"-noun-ca
+"surdamutulo"-noun-eo "sordmut"-noun-ca
+"sord-mut"-noun-ca "surdamutulo"-noun-eo
+"sordmut"-noun-ca "surdamutulo"-noun-eo
+"sordmut"-noun-ca "surdmutulo"-noun-eo
+"surdmutulo"-noun-eo "sordmut"-noun-ca
+"subterigi"-verb-eo "soterrar"-verb-ca
+"soterrar"-verb-ca "subterigi"-verb-eo
+"vicluigi"-verb-eo "sots-arrendar"-verb-ca
+"sots-arrendar"-verb-ca "vicluigi"-verb-eo
+"oftiĝi"-verb-eo "sovintejar"-verb-ca
+"sovintejar"-verb-ca "oftiĝi"-verb-eo
+"sovetia"-adverb-eo "sovièticament"-adverb-ca
+"sovièticament"-adverb-ca "sovetia"-adverb-eo
+"sovièticament"-adverb-ca "soveta"-adverb-eo
+"soveta"-adverb-eo "sovièticament"-adverb-ca
+"Stehen"-properNoun-eo "Stehen"-properNoun-ca
+"Stehen"-properNoun-ca "Stehen"-properNoun-eo
+"datumfluo"-noun-eo "streaming"-noun-ca
+"streaming"-noun-ca "datumfluo"-noun-eo
+"subartikolo"-noun-eo "subarticle"-noun-ca
+"subarticle"-noun-ca "subartikolo"-noun-eo
+"subkomisio"-noun-eo "subcontractació"-noun-ca
+"subcontractació"-noun-ca "subkomisio"-noun-eo
+"sublima"-adverb-eo "sublim"-adverb-ca
+"sublim"-adverb-ca "sublima"-adverb-eo
+"subprocezo"-noun-eo "subprocés"-noun-ca
+"subprocés"-noun-ca "subprocezo"-noun-eo
+"subsekcio"-noun-eo "subsecció"-noun-ca
+"subsecció"-noun-ca "subsekcio"-noun-eo
+"substantivigi"-verb-eo "substantivar"-verb-ca
+"substantivar"-verb-ca "substantivigi"-verb-eo
+"subtropika"-adverb-eo "subtropical"-adverb-ca
+"subtropical"-adverb-ca "subtropika"-adverb-eo
+"sud-kataluno"-noun-eo "sud-català"-noun-ca
+"sud-català"-noun-ca "sud-kataluno"-noun-eo
+"sud-kataluna"-adjective-eo "sud-català"-adjective-ca
+"sud-català"-adjective-ca "sud-kataluna"-adjective-eo
+"sud-pirenea"-adjective-eo "sud-pirenaic"-adjective-ca
+"sud-pirenea"-adjective-eo "sud-pirinenc"-adjective-ca
+"sud-pirenaic"-adjective-ca "sud-pirenea"-adjective-eo
+"sud-pirinenc"-adjective-ca "sud-pirenea"-adjective-eo
+"sud-pirenea"-adverb-eo "sud-pirinenc"-adverb-ca
+"sud-pirinenc"-adverb-ca "sud-pirenea"-adverb-eo
+"ŝvitiga"-adverb-eo "sudoríficament"-adverb-ca
+"sudoríficament"-adverb-ca "ŝvitiga"-adverb-eo
+"sunao"-noun-eo "sunna"-noun-ca
+"sunna"-noun-ca "sunao"-noun-eo
+"fiera"-adverb-eo "superb"-adverb-ca
+"superb"-adverb-ca "fiera"-adverb-eo
+"superb"-adverb-ca "superba"-adverb-eo
+"superba"-adverb-eo "superb"-adverb-ca
+"supera"-adverb-eo "superior"-adverb-ca
+"superior"-adverb-ca "supera"-adverb-eo
+"superior"-adverb-ca "supra"-adverb-eo
+"supra"-adverb-eo "superior"-adverb-ca
+"supersona"-adverb-eo "supersònicament"-adverb-ca
+"supersònicament"-adverb-ca "supersona"-adverb-eo
+"artifikaĵo"-noun-eo "superxeria"-noun-ca
+"superxeria"-noun-ca "artifikaĵo"-noun-eo
+"ofendiĝemo"-noun-eo "susceptibiltat"-noun-ca
+"susceptibiltat"-noun-ca "ofendiĝemo"-noun-eo
+"Symond"-properNoun-eo "Symond"-properNoun-ca
+"Symond"-properNoun-ca "Symond"-properNoun-eo
+"sanskrito"-noun-eo "sànscrit"-noun-ca
+"sànscrit"-noun-ca "sanskrito"-noun-eo
+"parolsintezo"-noun-eo "síntesi de veu"-noun-ca
+"síntesi de veu"-noun-ca "parolsintezo"-noun-eo
+"tamburini"-verb-eo "tamborinar"-verb-ca
+"tamborinar"-verb-ca "tamburini"-verb-eo
+"masonfermi"-verb-eo "tapiar"-verb-ca
+"tapiar"-verb-ca "masonfermi"-verb-eo
+"aŭtuna"-adverb-eo "tardorencament"-adverb-ca
+"tardorencament"-adverb-ca "aŭtuna"-adverb-eo
+"taragona"-adjective-eo "tarragoní"-adjective-ca
+"tarragoní"-adjective-ca "taragona"-adjective-eo
+"taragonano"-noun-eo "tarragoní"-noun-ca
+"tarragoní"-noun-ca "taragonano"-noun-eo
+"teatra"-adverb-eo "teatral"-adverb-ca
+"teatral"-adverb-ca "teatra"-adverb-eo
+"bioteknologia"-adverb-eo "biotecnològicament"-adverb-ca
+"biotecnològicament"-adverb-ca "bioteknologia"-adverb-eo
+"nanoteknologia"-adverb-eo "nanotecnològicament"-adverb-ca
+"nanotecnològicament"-adverb-ca "nanoteknologia"-adverb-eo
+"ŝtormi"-verb-eo "tempestejar"-verb-ca
+"tempestejar"-verb-ca "ŝtormi"-verb-eo
+"pacienci"-verb-eo "tenir paciència"-verb-ca
+"tenir paciència"-verb-ca "pacienci"-verb-eo
+"ne forgesi"-verb-eo "tenir present"-verb-ca
+"tenir present"-verb-ca "ne forgesi"-verb-eo
+"vizii"-verb-eo "tenir visions"-verb-ca
+"tenir visions"-verb-ca "vizii"-verb-eo
+"tera"-adverb-eo "terrenal"-adverb-ca
+"terrenal"-adverb-ca "tera"-adverb-eo
+"terrenal"-adverb-ca "tergloba"-adverb-eo
+"tergloba"-adverb-eo "terrenal"-adverb-ca
+"terura"-adverb-eo "terrible"-adverb-ca
+"terrible"-adverb-ca "terura"-adverb-eo
+"tetanio"-noun-eo "tetània"-noun-ca
+"tetània"-noun-ca "tetanio"-noun-eo
+"laŭteksta"-adverb-eo "textual"-adverb-ca
+"textual"-adverb-ca "laŭteksta"-adverb-eo
+"rudri"-verb-eo "timonejar"-verb-ca
+"timonejar"-verb-ca "rudri"-verb-eo
+"divizia generalo"-noun-eo "tinent general"-noun-ca
+"tinent general"-noun-ca "divizia generalo"-noun-eo
+"tinio"-noun-eo "tinya"-noun-ca
+"tinya"-noun-ca "tinio"-noun-eo
+"kurfo"-noun-eo "toc de queda"-noun-ca
+"toc de queda"-noun-ca "kurfo"-noun-eo
+"stratvendisto"-noun-eo "top manta"-noun-ca
+"top manta"-noun-ca "stratvendisto"-noun-eo
+"torei"-verb-eo "torejar"-verb-ca
+"torejar"-verb-ca "torei"-verb-eo
+"reveni al"-verb-eo "tornar a"-verb-ca
+"tornar a"-verb-ca "reveni al"-verb-eo
+"unuokula"-adverb-eo "tort"-adverb-ca
+"tort"-adverb-ca "unuokula"-adverb-eo
+"transgenaĵo"-noun-eo "transgènic"-noun-ca
+"transgènic"-noun-ca "transgenaĵo"-noun-eo
+"transitivigi"-verb-eo "transitivitzar"-verb-ca
+"transitivitzar"-verb-ca "transitivigi"-verb-eo
+"transsubstancigado"-noun-eo "transsubstanciació"-noun-ca
+"transsubstanciació"-noun-ca "transsubstancigado"-noun-eo
+"travestiulo"-noun-eo "travestí"-noun-ca
+"travestí"-noun-ca "travestiulo"-noun-eo
+"radiri"-verb-eo "traslladar-se"-verb-ca
+"traslladar-se"-verb-ca "radiri"-verb-eo
+"ŝoveli"-verb-eo "traspalar"-verb-ca
+"traspalar"-verb-ca "ŝoveli"-verb-eo
+"agema"-adverb-eo "treballador"-adverb-ca
+"treballador"-adverb-ca "agema"-adverb-eo
+"treballador"-adverb-ca "laborema"-adverb-eo
+"laborema"-adverb-eo "treballador"-adverb-ca
+"terebinto"-noun-eo "trementina"-noun-ca
+"trementina"-noun-ca "terebinto"-noun-eo
+"longdistanca trajno"-noun-eo "tren de llarg recorregut"-noun-ca
+"tren de llarg recorregut"-noun-ca "longdistanca trajno"-noun-eo
+"harplektaĵo"-noun-eo "trunyella"-noun-ca
+"trunyella"-noun-ca "harplektaĵo"-noun-eo
+"batvundo"-noun-eo "trenc"-noun-ca
+"trenc"-noun-ca "batvundo"-noun-eo
+"tri"-noun-eo "tres"-noun-ca
+"tres"-noun-ca "tri"-noun-eo
+"konstitucia kortumo"-noun-eo "tribunal constitucional"-noun-ca
+"tribunal constitucional"-noun-ca "konstitucia kortumo"-noun-eo
+"Internacia Kortumo de Justico"-noun-eo "Tribunal Internacional de Justíca"-noun-ca
+"Tribunal Internacional de Justíca"-noun-ca "Internacia Kortumo de Justico"-noun-eo
+"Katalunia Kasacia Kortumo"-noun-eo "Tribunal Superior de Justícia de Catalunya"-noun-ca
+"Katalunia Kasacia Kortumo"-noun-eo "TSJC"-noun-ca
+"Tribunal Superior de Justícia de Catalunya"-noun-ca "Katalunia Kasacia Kortumo"-noun-eo
+"TSJC"-noun-ca "Katalunia Kasacia Kortumo"-noun-eo
+"trijara"-adverb-eo "triennal"-adverb-ca
+"triennal"-adverb-ca "trijara"-adverb-eo
+"triennal"-adverb-ca "jartria"-adverb-eo
+"jartria"-adverb-eo "triennal"-adverb-ca
+"triĝemelo"-noun-eo "trigemin"-noun-ca
+"trigemin"-noun-ca "triĝemelo"-noun-eo
+"triĝemela"-adjective-eo "trigemin"-adjective-ca
+"trigemin"-adjective-ca "triĝemela"-adjective-eo
+"triflanka"-adverb-eo "trilateral"-adverb-ca
+"trilateral"-adverb-ca "triflanka"-adverb-eo
+"trilingva"-adverb-eo "trilingüe"-adverb-ca
+"trilingüe"-adverb-ca "trilingva"-adverb-eo
+"trimonata"-adverb-eo "trimestral"-adverb-ca
+"trimestral"-adverb-ca "trimonata"-adverb-eo
+"tripo"-noun-eo "tripa"-noun-ca
+"tripa"-noun-ca "tripo"-noun-eo
+"trobla"-adverb-eo "triple"-adverb-ca
+"triple"-adverb-ca "trobla"-adverb-eo
+"tropika"-adverb-eo "tropical"-adverb-ca
+"tropical"-adverb-ca "tropika"-adverb-eo
+"trufi"-verb-eo "trufar"-verb-ca
+"trufar"-verb-ca "trufi"-verb-eo
+"tuberkulo"-noun-eo "tubèrcul"-noun-ca
+"tubèrcul"-noun-ca "tuberkulo"-noun-eo
+"cidiro"-noun-eo "tuteig"-noun-ca
+"tuteig"-noun-ca "cidiro"-noun-eo
+"tetanoso"-noun-eo "tètan"-noun-ca
+"tetanoso"-noun-eo "tètanus"-noun-ca
+"tètan"-noun-ca "tetanoso"-noun-eo
+"tètanus"-noun-ca "tetanoso"-noun-eo
+"tekstila"-adverb-eo "tèxtil"-adverb-ca
+"tèxtil"-adverb-ca "tekstila"-adverb-eo
+"ekstreme konservativa"-adverb-eo "ultraconservador"-adverb-ca
+"ultraconservador"-adverb-ca "ekstreme konservativa"-adverb-eo
+"ekstreme liberala"-adverb-eo "ultraliberal"-adverb-ca
+"ultraliberal"-adverb-ca "ekstreme liberala"-adverb-eo
+"ungovundo"-noun-eo "unglada"-noun-ca
+"unglada"-noun-ca "ungovundo"-noun-eo
+"unuforma"-adverb-eo "uniforme"-adverb-ca
+"uniforme"-adverb-ca "unuforma"-adverb-eo
+"universaliĝo"-noun-eo "universalització"-noun-ca
+"universalització"-noun-ca "universaliĝo"-noun-eo
+"universalització"-noun-ca "universaligo"-noun-eo
+"universaligo"-noun-eo "universalització"-noun-ca
+"kontraŭtumulta urba policano"-noun-eo "UPAS"-noun-ca
+"UPAS"-noun-ca "kontraŭtumulta urba policano"-noun-eo
+"malcerta"-adverb-eo "vacil·lant"-adverb-ca
+"vacil·lant"-adverb-ca "malcerta"-adverb-eo
+"striko por nedifinita daŭro"-noun-eo "vaga indefinida"-noun-ca
+"vaga indefinida"-noun-ca "striko por nedifinita daŭro"-noun-eo
+"nesindikata striko"-noun-eo "vaga salvatge"-noun-ca
+"vaga salvatge"-noun-ca "nesindikata striko"-noun-eo
+"surpriza striko"-noun-eo "vaga sorpresa"-noun-ca
+"vaga sorpresa"-noun-ca "surpriza striko"-noun-eo
+"loktena striko"-noun-eo "vaga de braços caiguts"-noun-ca
+"vaga de braços caiguts"-noun-ca "loktena striko"-noun-eo
+"lanteca striko"-noun-eo "vaga de zel"-noun-ca
+"vaga de zel"-noun-ca "lanteca striko"-noun-eo
+"pasumi"-verb-eo "vagarejar"-verb-ca
+"vagarejar"-verb-ca "pasumi"-verb-eo
+"valencieco"-noun-eo "valencianitat"-noun-ca
+"valencianitat"-noun-ca "valencieco"-noun-eo
+"valenciigo"-noun-eo "valencianització"-noun-ca
+"valencianització"-noun-ca "valenciigo"-noun-eo
+"valenciigi"-verb-eo "valencianitzar"-verb-ca
+"valencianitzar"-verb-ca "valenciigi"-verb-eo
+"valsi"-verb-eo "valsar"-verb-ca
+"valsar"-verb-ca "valsi"-verb-eo
+"fieri"-verb-eo "vanar-se"-verb-ca
+"vanar-se"-verb-ca "fieri"-verb-eo
+"kartavi"-verb-eo "velaritzar"-verb-ca
+"velaritzar"-verb-ca "kartavi"-verb-eo
+"ventroparolisto"-noun-eo "ventríloc"-noun-ca
+"ventríloc"-noun-ca "ventroparolisto"-noun-eo
+"virginal"-adverb-ca "virga"-adverb-eo
+"alnejo"-noun-eo "verneda"-noun-ca
+"verneda"-noun-ca "alnejo"-noun-eo
+"versalo"-noun-eo "versaleta"-noun-ca
+"versaleta"-noun-ca "versalo"-noun-eo
+"versaleta"-noun-ca "majuskleto"-noun-eo
+"majuskleto"-noun-eo "versaleta"-noun-ca
+"versi"-verb-eo "versejar"-verb-ca
+"versejar"-verb-ca "versi"-verb-eo
+"voja"-adverb-eo "vial"-adverb-ca
+"vial"-adverb-ca "voja"-adverb-eo
+"viktimisto"-noun-eo "victimista"-noun-ca
+"victimista"-noun-ca "viktimisto"-noun-eo
+"viktimista"-adjective-eo "victimista"-adjective-ca
+"victimista"-adjective-ca "viktimista"-adjective-eo
+"victimista"-adjective-ca "viktimisma"-adjective-eo
+"viktimisma"-adjective-eo "victimista"-adjective-ca
+"perforto kontraŭ virinoj"-noun-eo "violència de gènere"-noun-ca
+"violència de gènere"-noun-ca "perforto kontraŭ virinoj"-noun-eo
+"visigota"-adverb-eo "visigòticament"-adverb-ca
+"visigòticament"-adverb-ca "visigota"-adverb-eo
+"Vyncent"-properNoun-eo "Vyncent"-properNoun-ca
+"Vyncent"-properNoun-ca "Vyncent"-properNoun-eo
+"valida"-adverb-eo "vàlid"-adverb-ca
+"vàlid"-adverb-ca "valida"-adverb-eo
+"Warin"-properNoun-eo "Warin"-properNoun-ca
+"Warin"-properNoun-ca "Warin"-properNoun-eo
+"Wilham"-properNoun-eo "Wilham"-properNoun-ca
+"Wilham"-properNoun-ca "Wilham"-properNoun-eo
+"Winchester"-properNoun-eo "Winchester"-properNoun-ca
+"Winchester"-properNoun-ca "Winchester"-properNoun-eo
+"batalpretigo"-noun-eo "xafarranxo"-noun-ca
+"xafarranxo"-noun-ca "batalpretigo"-noun-eo
+"bonŝanco"-noun-eo "xamba"-noun-ca
+"xamba"-noun-ca "bonŝanco"-noun-eo
+"fiŝeto"-noun-eo "xanguet"-noun-ca
+"xanguet"-noun-ca "fiŝeto"-noun-eo
+"ŝercaĵo"-noun-eo "xanxa"-noun-ca
+"xanxa"-noun-ca "ŝercaĵo"-noun-eo
+"superbordo"-noun-eo "xarbot"-noun-ca
+"xarbot"-noun-ca "superbordo"-noun-eo
+"verniso"-noun-eo "xarol"-noun-ca
+"xarol"-noun-ca "verniso"-noun-eo
+"siropa"-adjective-eo "xaropós"-adjective-ca
+"xaropós"-adjective-ca "siropa"-adjective-eo
+"brusta leda zono por spadingo"-noun-eo "xarpa"-noun-ca
+"xarpa"-noun-ca "brusta leda zono por spadingo"-noun-eo
+"reto por tutmonda mobilizado"-noun-eo "xarxa de mobilització global"-noun-ca
+"xarxa de mobilització global"-noun-ca "reto por tutmonda mobilizado"-noun-eo
+"ŝterno"-noun-eo "xatrac"-noun-ca
+"xatrac"-noun-ca "ŝterno"-noun-eo
+"kupronikela mono"-noun-eo "xavalla"-noun-ca
+"xavalla"-noun-ca "kupronikela mono"-noun-eo
+"mansegileto"-noun-eo "xerrac"-noun-ca
+"xerrac"-noun-ca "mansegileto"-noun-eo
+"maldiskreta"-adverb-eo "xerraire"-adverb-ca
+"xerraire"-adverb-ca "maldiskreta"-adverb-eo
+"xerraire"-adverb-ca "parolema"-adverb-eo
+"parolema"-adverb-eo "xerraire"-adverb-ca
+"grinco"-noun-eo "xerric"-noun-ca
+"xerric"-noun-ca "grinco"-noun-eo
+"taseto"-noun-eo "xicra"-noun-ca
+"xicra"-noun-ca "taseto"-noun-eo
+"nebulpluveto"-noun-eo "xim-xim"-noun-ca
+"xim-xim"-noun-ca "nebulpluveto"-noun-eo
+"malserioza"-adverb-eo "ximple"-adverb-ca
+"ximple"-adverb-ca "malserioza"-adverb-eo
+"kirlado"-noun-eo "xipolleig"-noun-ca
+"xipolleig"-noun-ca "kirlado"-noun-eo
+"viando-hakaĵo"-noun-eo "xixina"-noun-ca
+"xixina"-noun-ca "viando-hakaĵo"-noun-eo
+"peceto da ĉokolado"-noun-eo "xocolatina"-noun-ca
+"xocolatina"-noun-ca "peceto da ĉokolado"-noun-eo
+"vespobuteo"-noun-eo "xoriguer"-noun-ca
+"xoriguer"-noun-ca "vespobuteo"-noun-eo
+"otuso"-noun-eo "xot"-noun-ca
+"xot"-noun-ca "otuso"-noun-eo
+"termigdalo"-noun-eo "xufla"-noun-ca
+"xufla"-noun-ca "termigdalo"-noun-eo
+"Zacheus"-properNoun-eo "Zacheus"-properNoun-ca
+"Zacheus"-properNoun-ca "Zacheus"-properNoun-eo
+"zairano"-noun-eo "zairès"-noun-ca
+"zairès"-noun-ca "zairano"-noun-eo
+"oscilio"-noun-eo "zumzeig"-noun-ca
+"zumzeig"-noun-ca "oscilio"-noun-eo
+"acida"-adverb-eo "àcid"-adverb-ca
+"àcid"-adverb-ca "acida"-adverb-eo
+"arida"-adverb-eo "àrid"-adverb-ca
+"àrid"-adverb-ca "arida"-adverb-eo
+"àrid"-adverb-ca "seka"-adverb-eo
+"seka"-adverb-eo "àrid"-adverb-ca
+"arkta"-adverb-eo "àrticament"-adverb-ca
+"àrticament"-adverb-ca "arkta"-adverb-eo
+"avida"-adverb-eo "àvid"-adverb-ca
+"àvid"-adverb-ca "avida"-adverb-eo
+"integra"-adverb-eo "íntegre"-adverb-ca
+"íntegre"-adverb-ca "integra"-adverb-eo
+"utila"-adverb-eo "útil"-adverb-ca
+"útil"-adverb-ca "utila"-adverb-eo
+"Mclean"-properNoun-eo "Mclean"-properNoun-ca
+"Mclean"-properNoun-ca "Mclean"-properNoun-eo
+"Mclean"-properNoun-ca "Mclean"-noun-eo
+"Mclean"-noun-eo "Mclean"-properNoun-ca
+"﻿Garcia"-properNoun-eo "﻿Garcia"-properNoun-ca
+"﻿Garcia"-properNoun-ca "﻿Garcia"-properNoun-eo
+"﻿Garcia"-properNoun-ca "﻿Garcia"-noun-eo
+"﻿Garcia"-noun-eo "﻿Garcia"-properNoun-ca
+"Castellón de la Plana"-properNoun-eo "Castellón de la Plana"-properNoun-ca
+"Castellón de la Plana"-properNoun-ca "Castellón de la Plana"-properNoun-eo

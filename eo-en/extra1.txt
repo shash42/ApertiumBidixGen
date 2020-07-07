@@ -1,0 +1,372 @@
+"intence"-adverb-eo "advisedly"-adverb-en
+"advisedly"-adverb-en "intence"-adverb-eo
+"vaste"-adverb-eo "at length"-adverb-en
+"at length"-adverb-en "vaste"-adverb-eo
+"slow"-adverb-en "malrapide"-adverb-eo
+"malrapide"-adverb-eo "slow"-adverb-en
+"malrapide"-adverb-eo "little by little"-adverb-en
+"little by little"-adverb-en "malrapide"-adverb-eo
+"little by little"-adverb-en "iom post iom"-adverb-eo
+"iom post iom"-adverb-eo "little by little"-adverb-en
+"detale"-adverb-eo "in detail"-adverb-en
+"in detail"-adverb-en "detale"-adverb-eo
+"ĉiuokaze"-adverb-eo "at any rate"-adverb-en
+"at any rate"-adverb-en "ĉiuokaze"-adverb-eo
+"not at all"-adverb-en "tute ne"-adverb-eo
+"tute ne"-adverb-eo "not at all"-adverb-en
+"tute ne"-adverb-eo "at all"-adverb-en
+"at all"-adverb-en "tute ne"-adverb-eo
+"jes"-adverb-eo "aye"-adverb-en
+"aye"-adverb-en "jes"-adverb-eo
+"sufiĉe"-adverb-eo "pretty much"-adverb-en
+"pretty much"-adverb-en "sufiĉe"-adverb-eo
+"pli"-adverb-eo "else"-adverb-en
+"else"-adverb-en "pli"-adverb-eo
+"antaŭe"-adverb-eo "to the front"-adverb-en
+"antaŭe"-adverb-eo "to the fore"-adverb-en
+"antaŭe"-adverb-eo "at the front"-adverb-en
+"antaŭe"-adverb-eo "in the lead"-adverb-en
+"to the front"-adverb-en "antaŭe"-adverb-eo
+"to the fore"-adverb-en "antaŭe"-adverb-eo
+"at the front"-adverb-en "antaŭe"-adverb-eo
+"in the lead"-adverb-en "antaŭe"-adverb-eo
+"poste"-adverb-eo "anon"-adverb-en
+"anon"-adverb-en "poste"-adverb-eo
+"tuj"-adverb-eo "at a moment's notice"-adverb-en
+"at a moment's notice"-adverb-en "tuj"-adverb-eo
+"without question"-adverb-en "sendube"-adverb-eo
+"sendube"-adverb-eo "without question"-adverb-en
+"sendube"-adverb-eo "without doubt"-adverb-en
+"sendube"-adverb-eo "no doubt"-adverb-en
+"sendube"-adverb-eo "beyond question"-adverb-en
+"without doubt"-adverb-en "sendube"-adverb-eo
+"no doubt"-adverb-en "sendube"-adverb-eo
+"beyond question"-adverb-en "sendube"-adverb-eo
+"kiu"-pronoun-eo "which"-noun-en
+"which"-noun-en "kiu"-pronoun-eo
+"which"-noun-en "kiu"-relativePronoun-eo
+"kiu"-relativePronoun-eo "which"-noun-en
+"kio"-pronoun-eo "what"-noun-en
+"what"-noun-en "kio"-pronoun-eo
+"what"-noun-en "kio"-relativePronoun-eo
+"kio"-relativePronoun-eo "what"-noun-en
+"neniu"-pronoun-eo "either"-pronoun-en
+"either"-pronoun-en "neniu"-pronoun-eo
+"kie"-adverb-eo "whither"-adverb-en
+"kie"-adverb-eo "wherein"-relativePronoun-en
+"whither"-adverb-en "kie"-adverb-eo
+"wherein"-relativePronoun-en "kie"-adverb-eo
+"wherein"-relativePronoun-en "kie"-relativePronoun-eo
+"kie"-relativePronoun-eo "wherein"-relativePronoun-en
+"al"-preposition-eo "toward"-preposition-en
+"toward"-preposition-en "al"-preposition-eo
+"krom"-preposition-eo "except for"-preposition-en
+"except for"-preposition-en "krom"-preposition-eo
+"ekster"-preposition-eo "out of"-preposition-en
+"ekster"-preposition-eo "out"-preposition-en
+"out of"-preposition-en "ekster"-preposition-eo
+"out"-preposition-en "ekster"-preposition-eo
+"koncerne al"-preposition-eo "with regard to"-preposition-en
+"with regard to"-preposition-en "koncerne al"-preposition-eo
+"sen"-preposition-eo "with no"-preposition-en
+"with no"-preposition-en "sen"-preposition-eo
+"hela"-adjective-eo "lightful"-adjective-en
+"lightful"-adjective-en "hela"-adjective-eo
+"bruna"-adjective-eo "dark-haired"-adjective-en
+"dark-haired"-adjective-en "bruna"-adjective-eo
+"iriti"-verb-eo "nettle"-verb-en
+"iriti"-verb-eo "irritate"-verb-en
+"nettle"-verb-en "iriti"-verb-eo
+"irritate"-verb-en "iriti"-verb-eo
+"kotizi"-verb-eo "pay contributions"-verb-en
+"pay contributions"-verb-en "kotizi"-verb-eo
+"stock exchange"-noun-en "borso"-noun-eo
+"borso"-noun-eo "stock exchange"-noun-en
+"koncesio"-noun-eo "granting"-noun-en
+"granting"-noun-en "koncesio"-noun-eo
+"gento"-noun-eo "peoples"-noun-en
+"peoples"-noun-en "gento"-noun-eo
+"peoples"-noun-en "popolo"-noun-eo
+"peoples"-noun-en "vilaĝo"-noun-eo
+"popolo"-noun-eo "peoples"-noun-en
+"vilaĝo"-noun-eo "peoples"-noun-en
+"spade"-noun-en "glavo"-noun-eo
+"glavo"-noun-eo "spade"-noun-en
+"kruda"-adjective-eo "uncooked"-adjective-en
+"uncooked"-adjective-en "kruda"-adjective-eo
+"malpura"-adjective-eo "soiled"-adjective-en
+"soiled"-adjective-en "malpura"-adjective-eo
+"dinamika"-adjective-eo "dynamical"-adjective-en
+"dynamical"-adjective-en "dinamika"-adjective-eo
+"working"-adjective-en "laborista"-adjective-eo
+"laborista"-adjective-eo "working"-adjective-en
+"oportuna"-adjective-eo "apposite"-adjective-en
+"apposite"-adjective-en "oportuna"-adjective-eo
+"sperta"-adjective-eo "adept"-adjective-en
+"adept"-adjective-en "sperta"-adjective-eo
+"generi"-verb-eo "engender"-verb-en
+"engender"-verb-en "generi"-verb-eo
+"nutra"-adjective-eo "food"-adjective-en
+"food"-adjective-en "nutra"-adjective-eo
+"amortizi"-verb-eo "deaden"-verb-en
+"deaden"-verb-en "amortizi"-verb-eo
+"oscili"-verb-eo "oscillate"-verb-en
+"oscillate"-verb-en "oscili"-verb-eo
+"aspiri"-verb-eo "aspirate"-verb-en
+"aspirate"-verb-en "aspiri"-verb-eo
+"konflikta"-adjective-eo "conflictive"-adjective-en
+"conflictive"-adjective-en "konflikta"-adjective-eo
+"naiva"-adjective-eo "dewy-eyed"-adjective-en
+"naiva"-adjective-eo "ingenuous"-adjective-en
+"dewy-eyed"-adjective-en "naiva"-adjective-eo
+"ingenuous"-adjective-en "naiva"-adjective-eo
+"malsana"-adjective-eo "ailing"-adjective-en
+"ailing"-adjective-en "malsana"-adjective-eo
+"lumigi"-verb-eo "light up"-verb-en
+"light up"-verb-en "lumigi"-verb-eo
+"diskreta"-adjective-eo "discrete"-adjective-en
+"discrete"-adjective-en "diskreta"-adjective-eo
+"vigla"-adjective-eo "in good spirits"-adjective-en
+"vigla"-adjective-eo "animate"-adjective-en
+"vigla"-adjective-eo "vigorous"-adjective-en
+"in good spirits"-adjective-en "vigla"-adjective-eo
+"animate"-adjective-en "vigla"-adjective-eo
+"vigorous"-adjective-en "vigla"-adjective-eo
+"vigorous"-adjective-en "energia"-adjective-eo
+"energia"-adjective-eo "vigorous"-adjective-en
+"kuraĝa"-adjective-eo "stout-hearted"-adjective-en
+"stout-hearted"-adjective-en "kuraĝa"-adjective-eo
+"stout-hearted"-adjective-en "brava"-adjective-eo
+"brava"-adjective-eo "stout-hearted"-adjective-en
+"tenera"-adjective-eo "warm-hearted"-adjective-en
+"warm-hearted"-adjective-en "tenera"-adjective-eo
+"unsuited"-adjective-en "netaŭga"-adjective-eo
+"netaŭga"-adjective-eo "unsuited"-adjective-en
+"netaŭga"-adjective-eo "unsuitable"-adjective-en
+"unsuitable"-adjective-en "netaŭga"-adjective-eo
+"taŭga"-adjective-eo "felicitous"-adjective-en
+"felicitous"-adjective-en "taŭga"-adjective-eo
+"felicitous"-adjective-en "adekvata"-adjective-eo
+"adekvata"-adjective-eo "felicitous"-adjective-en
+"emfazi"-verb-eo "stand out"-verb-en
+"stand out"-verb-en "emfazi"-verb-eo
+"eliri"-verb-eo "come off"-verb-en
+"eliri"-verb-eo "get out"-verb-en
+"come off"-verb-en "eliri"-verb-eo
+"get out"-verb-en "eliri"-verb-eo
+"descendi"-verb-eo "go down"-verb-en
+"descendi"-verb-eo "get down"-verb-en
+"go down"-verb-en "descendi"-verb-eo
+"get down"-verb-en "descendi"-verb-eo
+"atribui"-verb-eo "allot"-verb-en
+"allot"-verb-en "atribui"-verb-eo
+"absurda"-adjective-eo "cock-eyed"-adjective-en
+"cock-eyed"-adjective-en "absurda"-adjective-eo
+"maldelikata"-adjective-eo "impolite"-adjective-en
+"impolite"-adjective-en "maldelikata"-adjective-eo
+"impolite"-adjective-en "malĝentila"-adjective-eo
+"malĝentila"-adjective-eo "impolite"-adjective-en
+"acida"-adjective-eo "cold-short"-adjective-en
+"cold-short"-adjective-en "acida"-adjective-eo
+"caustic"-adjective-en "kaŭstika"-adjective-eo
+"kaŭstika"-adjective-eo "caustic"-adjective-en
+"fiksi"-verb-eo "affix"-verb-en
+"affix"-verb-en "fiksi"-verb-eo
+"gvati"-verb-eo "look after"-verb-en
+"gvati"-verb-eo "watch over"-verb-en
+"look after"-verb-en "gvati"-verb-eo
+"watch over"-verb-en "gvati"-verb-eo
+"kultivi"-verb-eo "till"-verb-en
+"till"-verb-en "kultivi"-verb-eo
+"paroli"-verb-eo "converse"-adjective-en
+"converse"-adjective-en "paroli"-verb-eo
+"ascendi"-verb-eo "go up"-verb-en
+"ascendi"-verb-eo "get on"-verb-en
+"go up"-verb-en "ascendi"-verb-eo
+"get on"-verb-en "ascendi"-verb-eo
+"integra"-adjective-eo "upright"-adjective-en
+"upright"-adjective-en "integra"-adjective-eo
+"splenda"-adjective-eo "stupendous"-adjective-en
+"stupendous"-adjective-en "splenda"-adjective-eo
+"fantazia"-adjective-eo "phantasmic"-adjective-en
+"phantasmic"-adjective-en "fantazia"-adjective-eo
+"peza"-adjective-eo "ponderous"-adjective-en
+"ponderous"-adjective-en "peza"-adjective-eo
+"understanding"-adjective-en "komprenema"-adjective-eo
+"komprenema"-adjective-eo "understanding"-adjective-en
+"dekstra"-adjective-eo "dexter"-adjective-en
+"dexter"-adjective-en "dekstra"-adjective-eo
+"unashamed"-adjective-en "senhonta"-adjective-eo
+"senhonta"-adjective-eo "unashamed"-adjective-en
+"subita"-adjective-eo "abrupt"-adjective-en
+"abrupt"-adjective-en "subita"-adjective-eo
+"alta"-adjective-eo "overhead"-adjective-en
+"overhead"-adjective-en "alta"-adjective-eo
+"invadi"-verb-eo "overrun"-verb-en
+"overrun"-verb-en "invadi"-verb-eo
+"pestering"-adjective-en "ĝena"-adjective-eo
+"ĝena"-adjective-eo "pestering"-adjective-en
+"fekunda"-adjective-eo "child-bearing"-adjective-en
+"child-bearing"-adjective-en "fekunda"-adjective-eo
+"malavara"-adjective-eo "big-hearted"-adjective-en
+"big-hearted"-adjective-en "malavara"-adjective-eo
+"mil"-numeral-eo "ten hundred"-numeral-en
+"ten hundred"-numeral-en "mil"-numeral-eo
+"samtempe"-adverb-eo "at any one time"-adverb-en
+"at any one time"-adverb-en "samtempe"-adverb-eo
+"tie"-adverb-eo "up to here"-adverb-en
+"tie"-adverb-eo "thither"-adverb-en
+"up to here"-adverb-en "tie"-adverb-eo
+"thither"-adverb-en "tie"-adverb-eo
+"nokte"-adverb-eo "at night"-adverb-en
+"at night"-adverb-en "nokte"-adverb-eo
+"rapide"-adverb-eo "on the doble"-adverb-en
+"rapide"-adverb-eo "apace"-adverb-en
+"on the doble"-adverb-en "rapide"-adverb-eo
+"apace"-adverb-en "rapide"-adverb-eo
+"kial"-adverb-eo "how come"-adverb-en
+"how come"-adverb-en "kial"-adverb-eo
+"aŭtonoma"-adjective-eo "autonomic"-adjective-en
+"autonomic"-adjective-en "aŭtonoma"-adjective-eo
+"arkeologia"-adjective-eo "archaeologic"-adjective-en
+"archaeologic"-adjective-en "arkeologia"-adjective-eo
+"modera"-adjective-eo "middle-of-the-road"-adjective-en
+"middle-of-the-road"-adjective-en "modera"-adjective-eo
+"detrua"-adjective-eo "destroyer"-adjective-en
+"destroyer"-adjective-en "detrua"-adjective-eo
+"caducous"-adjective-en "kaduka"-adjective-eo
+"kaduka"-adjective-eo "caducous"-adjective-en
+"verda"-adjective-eo "unripe"-adjective-en
+"unripe"-adjective-en "verda"-adjective-eo
+"magia"-adjective-eo "magical"-adjective-en
+"magical"-adjective-en "magia"-adjective-eo
+"blonda"-adjective-eo "light-haired"-adjective-en
+"blonda"-adjective-eo "fair-haired"-adjective-en
+"light-haired"-adjective-en "blonda"-adjective-eo
+"fair-haired"-adjective-en "blonda"-adjective-eo
+"sankta"-adjective-eo "sacral"-adjective-en
+"sacral"-adjective-en "sankta"-adjective-eo
+"elektra"-adjective-eo "electric"-adjective-en
+"electric"-adjective-en "elektra"-adjective-eo
+"feki"-verb-eo "crap"-verb-en
+"crap"-verb-en "feki"-verb-eo
+"telefona"-adjective-eo "telephone"-adjective-en
+"telephone"-adjective-en "telefona"-adjective-eo
+"tread"-verb-en "paŭsi"-verb-eo
+"paŭsi"-verb-eo "tread"-verb-en
+"Jaime"-properNoun-en "Jakobo"-properNoun-eo
+"Jakobo"-properNoun-eo "Jaime"-properNoun-en
+"Granado"-properNoun-eo "Granada"-properNoun-en
+"Granada"-properNoun-en "Granado"-properNoun-eo
+"deserto"-noun-eo "afters"-noun-en
+"afters"-noun-en "deserto"-noun-eo
+"bedaŭrinde"-adverb-eo "alas"-adverb-en
+"bedaŭrinde"-adverb-eo "regrettably"-adverb-en
+"bedaŭrinde"-adverb-eo "lamentably"-adverb-en
+"alas"-adverb-en "bedaŭrinde"-adverb-eo
+"alas"-adverb-en "malfeliĉe"-adverb-eo
+"regrettably"-adverb-en "bedaŭrinde"-adverb-eo
+"lamentably"-adverb-en "bedaŭrinde"-adverb-eo
+"malfeliĉe"-adverb-eo "alas"-adverb-en
+"subite"-adverb-eo "on impulse"-adverb-en
+"subite"-adverb-eo "all of a sudden"-adverb-en
+"subite"-adverb-eo "out of the blue"-adverb-en
+"subite"-adverb-eo "in a sudden way"-adverb-en
+"on impulse"-adverb-en "subite"-adverb-eo
+"all of a sudden"-adverb-en "subite"-adverb-eo
+"out of the blue"-adverb-en "subite"-adverb-eo
+"in a sudden way"-adverb-en "subite"-adverb-eo
+"inverse"-adverb-eo "the other way around"-adverb-en
+"the other way around"-adverb-en "inverse"-adverb-eo
+"sincere"-adverb-eo "heartily"-adverb-en
+"sincere"-adverb-eo "candidly"-adverb-en
+"heartily"-adverb-en "sincere"-adverb-eo
+"candidly"-adverb-en "sincere"-adverb-eo
+"sinsekve"-adverb-eo "consecutively"-adverb-en
+"consecutively"-adverb-en "sinsekve"-adverb-eo
+"kurioze"-adverb-eo "curiously"-adverb-en
+"curiously"-adverb-en "kurioze"-adverb-eo
+"senespere"-adverb-eo "for dear life"-adverb-en
+"for dear life"-adverb-en "senespere"-adverb-eo
+"fojfoje"-adverb-eo "from time to time"-adverb-en
+"fojfoje"-adverb-eo "every now and then"-adverb-en
+"from time to time"-adverb-en "fojfoje"-adverb-eo
+"every now and then"-adverb-en "fojfoje"-adverb-eo
+"for the first time"-adverb-en "unuafoje"-adverb-eo
+"unuafoje"-adverb-eo "for the first time"-adverb-en
+"malavare"-adverb-eo "handsomely"-adverb-en
+"handsomely"-adverb-en "malavare"-adverb-eo
+"severe"-adverb-eo "harshly"-adverb-en
+"harshly"-adverb-en "severe"-adverb-eo
+"pogrande"-adverb-eo "in bulk"-adverb-en
+"in bulk"-adverb-en "pogrande"-adverb-eo
+"reciprocally"-adverb-en "reciproke"-adverb-eo
+"reciproke"-adverb-eo "reciprocally"-adverb-en
+"akurate"-adverb-eo "punctually"-adverb-en
+"punctually"-adverb-en "akurate"-adverb-eo
+"periode"-adverb-eo "periodically"-adverb-en
+"periodically"-adverb-en "periode"-adverb-eo
+"pointlessly"-adverb-en "senutile"-adverb-eo
+"senutile"-adverb-eo "pointlessly"-adverb-en
+"senutile"-adverb-eo "to no effect"-adverb-en
+"to no effect"-adverb-en "senutile"-adverb-eo
+"rigorously"-adverb-en "rigore"-adverb-eo
+"rigore"-adverb-eo "rigorously"-adverb-en
+"unuanime"-adverb-eo "with one mind"-adverb-en
+"with one mind"-adverb-en "unuanime"-adverb-eo
+"saluton"-interjection-eo "hi"-interjection-en
+"hi"-interjection-en "saluton"-interjection-eo
+"Miguel"-properNoun-en "Mikaelo"-properNoun-eo
+"Mikaelo"-properNoun-eo "Miguel"-properNoun-en
+"all-powerful"-adjective-en "ĉiopova"-adjective-eo
+"ĉiopova"-adjective-eo "all-powerful"-adjective-en
+"Hispanic"-adjective-en "hispana"-adjective-eo
+"hispana"-adjective-eo "Hispanic"-adjective-en
+"alfabeta"-adjective-eo "alphabetical"-adjective-en
+"alphabetical"-adjective-en "alfabeta"-adjective-eo
+"analoga"-adjective-eo "analogical"-adjective-en
+"analogical"-adjective-en "analoga"-adjective-eo
+"endemia"-adjective-eo "endemic"-adjective-en
+"endemic"-adjective-en "endemia"-adjective-eo
+"evangelic"-adjective-en "evangelia"-adjective-eo
+"evangelia"-adjective-eo "evangelic"-adjective-en
+"hermetika"-adjective-eo "watertight"-adjective-en
+"watertight"-adjective-en "hermetika"-adjective-eo
+"minoritary"-adjective-en "malplimulta"-adjective-eo
+"malplimulta"-adjective-eo "minoritary"-adjective-en
+"enigma"-adjective-eo "enigmatic"-adjective-en
+"enigmatic"-adjective-en "enigma"-adjective-eo
+"nokta"-adjective-eo "nocturnal"-adjective-en
+"nocturnal"-adjective-en "nokta"-adjective-eo
+"rotatory"-adjective-en "rotacia"-adjective-eo
+"rotacia"-adjective-eo "rotatory"-adjective-en
+"rotacia"-adjective-eo "revolving"-adjective-en
+"revolving"-adjective-en "rotacia"-adjective-eo
+"rigora"-adjective-eo "rigorous"-adjective-en
+"rigorous"-adjective-en "rigora"-adjective-eo
+"sporta"-adjective-eo "sportive"-adjective-en
+"sportive"-adjective-en "sporta"-adjective-eo
+"xenophobe"-adjective-en "ksenofobia"-adjective-eo
+"ksenofobia"-adjective-eo "xenophobe"-adjective-en
+"dutch"-adjective-en "nederlanda"-adjective-eo
+"nederlanda"-adjective-eo "dutch"-adjective-en
+"declaim"-verb-en "deklami"-verb-eo
+"deklami"-verb-eo "declaim"-verb-en
+"rhythmical"-adjective-en "ritma"-adjective-eo
+"ritma"-adjective-eo "rhythmical"-adjective-en
+"subtera"-adjective-eo "subterranean"-adjective-en
+"subterranean"-adjective-en "subtera"-adjective-eo
+"skandali"-verb-eo "scandalise"-verb-en
+"scandalise"-verb-en "skandali"-verb-eo
+"hygienic"-adjective-en "higiena"-adjective-eo
+"higiena"-adjective-eo "hygienic"-adjective-en
+"sanga"-adjective-eo "blood"-adjective-en
+"blood"-adjective-en "sanga"-adjective-eo
+"dilate"-verb-en "dilati"-verb-eo
+"dilati"-verb-eo "dilate"-verb-en
+"Potter"-noun-en "Potter"-properNoun-eo
+"Potter"-properNoun-eo "Potter"-noun-en
+"skandala"-adjective-eo "scandalous"-adjective-en
+"scandalous"-adjective-en "skandala"-adjective-eo
+"apokalipsa"-adjective-eo "apocalyptical"-adjective-en
+"apocalyptical"-adjective-en "apokalipsa"-adjective-eo

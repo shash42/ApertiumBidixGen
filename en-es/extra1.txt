@@ -1,0 +1,144 @@
+"in conjunction"-adverb-en "juntas"-adverb-es
+"in conjunction"-adverb-en "juntos"-adverb-es
+"juntas"-adverb-es "in conjunction"-adverb-en
+"juntos"-adverb-es "in conjunction"-adverb-en
+"violentamente"-adverb-es "violently"-adverb-en
+"violently"-adverb-en "violentamente"-adverb-es
+"possibly"-adverb-en "acaso"-adverb-es
+"acaso"-adverb-es "possibly"-adverb-en
+"acaso"-adverb-es "maybe"-adverb-en
+"acaso"-adverb-es "perhaps"-adverb-en
+"maybe"-adverb-en "acaso"-adverb-es
+"perhaps"-adverb-en "acaso"-adverb-es
+"nowadays"-adverb-en "hoy día"-adverb-es
+"hoy día"-adverb-es "nowadays"-adverb-en
+"when"-adverb-en "cuando"-relativePronoun-es
+"cuando"-relativePronoun-es "when"-adverb-en
+"gratamente"-adverb-es "pleasantly"-adverb-en
+"pleasantly"-adverb-en "gratamente"-adverb-es
+"solely"-adverb-en "tan sólo"-adverb-es
+"tan sólo"-adverb-es "solely"-adverb-en
+"tan sólo"-adverb-es "just"-adverb-en
+"tan sólo"-adverb-es "only"-adverb-en
+"just"-adverb-en "tan sólo"-adverb-es
+"only"-adverb-en "tan sólo"-adverb-es
+"dulcemente"-adverb-es "gently"-adverb-en
+"gently"-adverb-en "dulcemente"-adverb-es
+"especially"-adverb-en "máxime"-adverb-es
+"máxime"-adverb-es "especially"-adverb-en
+"quien"-pronoun-es "who"-pronoun-en
+"quien"-pronoun-es "which"-pronoun-en
+"quien"-pronoun-es "who"-relativePronoun-en
+"quien"-pronoun-es "which"-relativePronoun-en
+"who"-pronoun-en "quien"-pronoun-es
+"who"-pronoun-en "que"-pronoun-es
+"who"-pronoun-en "el que"-pronoun-es
+"who"-pronoun-en "el cual"-pronoun-es
+"who"-pronoun-en "cual"-pronoun-es
+"who"-pronoun-en "a quién"-pronoun-es
+"which"-pronoun-en "quien"-pronoun-es
+"which"-pronoun-en "que"-pronoun-es
+"which"-pronoun-en "el que"-pronoun-es
+"which"-pronoun-en "el cual"-pronoun-es
+"which"-pronoun-en "cual"-pronoun-es
+"which"-pronoun-en "a quién"-pronoun-es
+"who"-relativePronoun-en "quien"-pronoun-es
+"who"-relativePronoun-en "que"-pronoun-es
+"who"-relativePronoun-en "el que"-pronoun-es
+"who"-relativePronoun-en "el cual"-pronoun-es
+"who"-relativePronoun-en "cual"-pronoun-es
+"who"-relativePronoun-en "a quién"-pronoun-es
+"which"-relativePronoun-en "quien"-pronoun-es
+"which"-relativePronoun-en "que"-pronoun-es
+"which"-relativePronoun-en "el que"-pronoun-es
+"which"-relativePronoun-en "el cual"-pronoun-es
+"which"-relativePronoun-en "cual"-pronoun-es
+"which"-relativePronoun-en "a quién"-pronoun-es
+"que"-pronoun-es "who"-pronoun-en
+"que"-pronoun-es "which"-pronoun-en
+"que"-pronoun-es "who"-relativePronoun-en
+"que"-pronoun-es "which"-relativePronoun-en
+"el que"-pronoun-es "who"-pronoun-en
+"el que"-pronoun-es "which"-pronoun-en
+"el que"-pronoun-es "who"-relativePronoun-en
+"el que"-pronoun-es "which"-relativePronoun-en
+"el cual"-pronoun-es "who"-pronoun-en
+"el cual"-pronoun-es "which"-pronoun-en
+"el cual"-pronoun-es "who"-relativePronoun-en
+"el cual"-pronoun-es "which"-relativePronoun-en
+"cual"-pronoun-es "who"-pronoun-en
+"cual"-pronoun-es "which"-pronoun-en
+"cual"-pronoun-es "who"-relativePronoun-en
+"cual"-pronoun-es "which"-relativePronoun-en
+"a quién"-pronoun-es "who"-pronoun-en
+"a quién"-pronoun-es "which"-pronoun-en
+"a quién"-pronoun-es "who"-relativePronoun-en
+"a quién"-pronoun-es "which"-relativePronoun-en
+"lo que"-pronoun-es "what"-pronoun-en
+"what"-pronoun-en "lo que"-pronoun-es
+"what"-pronoun-en "lo cual"-pronoun-es
+"lo cual"-pronoun-es "what"-pronoun-en
+"cada uno"-pronoun-es "each"-pronoun-en
+"each"-pronoun-en "cada uno"-pronoun-es
+"where"-adverb-en "en donde"-relativePronoun-es
+"where"-adverb-en "en donde"-adverb-es
+"en donde"-relativePronoun-es "where"-adverb-en
+"en donde"-adverb-es "where"-adverb-en
+"instead of"-preposition-en "en lugar de"-preposition-es
+"en lugar de"-preposition-es "instead of"-preposition-en
+"soltero"-adjective-es "single"-adjective-en
+"single"-adjective-en "soltero"-adjective-es
+"worrisome"-adjective-en "inquietante"-adjective-es
+"inquietante"-adjective-es "worrisome"-adjective-en
+"excusar"-verb-es "excuse"-verb-en
+"excuse"-verb-en "excusar"-verb-es
+"industrious"-adjective-en "hacendoso"-adjective-es
+"hacendoso"-adjective-es "industrious"-adjective-en
+"hacendoso"-adjective-es "hard-working"-adjective-en
+"hard-working"-adjective-en "hacendoso"-adjective-es
+"separate"-adjective-en "apartado"-adjective-es
+"apartado"-adjective-es "separate"-adjective-en
+"gestar"-verb-es "conceive"-verb-en
+"conceive"-verb-en "gestar"-verb-es
+"crash"-verb-en "colisionar"-verb-es
+"colisionar"-verb-es "crash"-verb-en
+"cowardly"-adjective-en "medroso"-adjective-es
+"medroso"-adjective-es "cowardly"-adjective-en
+"humedo"-adjective-es "humid"-adjective-en
+"humid"-adjective-en "humedo"-adjective-es
+"supplementary"-adjective-en "supletorio"-adjective-es
+"supletorio"-adjective-es "supplementary"-adjective-en
+"careful"-adjective-en "circunspecto"-adjective-es
+"circunspecto"-adjective-es "careful"-adjective-en
+"first"-adjective-en "primer"-adjective-es
+"primer"-adjective-es "first"-adjective-en
+"desfavorable"-adjective-es "adverse"-adjective-en
+"adverse"-adjective-en "desfavorable"-adjective-es
+"lesionar"-verb-es "injure"-verb-en
+"injure"-verb-en "lesionar"-verb-es
+"tercer"-adjective-es "third"-adjective-en
+"third"-adjective-en "tercer"-adjective-es
+"experience"-noun-en "vivencia"-noun-es
+"vivencia"-noun-es "experience"-noun-en
+"camera"-noun-en "cámara fotográfica"-noun-es
+"cámara fotográfica"-noun-es "camera"-noun-en
+"sting"-noun-en "pincho"-noun-es
+"pincho"-noun-es "sting"-noun-en
+"alta"-noun-es "rise"-noun-en
+"rise"-noun-en "alta"-noun-es
+"construction"-noun-en "edificación"-noun-es
+"edificación"-noun-es "construction"-noun-en
+"shed"-noun-en "choza"-noun-es
+"choza"-noun-es "shed"-noun-en
+"relato"-noun-es "story"-noun-en
+"story"-noun-en "relato"-noun-es
+"dye"-verb-en "tintar"-verb-es
+"tintar"-verb-es "dye"-verb-en
+"ahumar"-verb-es "smoke"-verb-en
+"smoke"-verb-en "ahumar"-verb-es
+"foreign"-adjective-en "forastero"-adjective-es
+"forastero"-adjective-es "foreign"-adjective-en
+"unfortunately"-adverb-en "desdichadamente"-adverb-es
+"desdichadamente"-adverb-es "unfortunately"-adverb-en
+"freezer"-noun-en "hielera"-noun-es
+"hielera"-noun-es "freezer"-noun-en
