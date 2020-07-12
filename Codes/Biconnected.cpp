@@ -6,8 +6,17 @@ using namespace std;
 //assumes no multi-edges and self loops
 //Reference - https://www.geeksforgeeks.org/biconnected-components/
 //Intuition - https://codeforces.com/blog/entry/68138
+
+//Resets the Biconnected object
+void Biconnected::reset()
+{
+    currtime = 0;
+    visited.clear(); disc.clear(); low.clear(); parent.clear();
+    while(!temp_comp.empty()) temp_comp.pop();
+}
 void Biconnected::findBicomps(Graph &G)
 {
+    reset();
     int V = G.vertices.size(); //number of vertices in the graph
     visited.resize(V); disc.resize(V); low.resize(V); parent.resize(V); //initialize the required arrays
     for(int i = 0; i < V; i++) //loop over all vertices and dfs if not yet visited (useful if disconnected graph)

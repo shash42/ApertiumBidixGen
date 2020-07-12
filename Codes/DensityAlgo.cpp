@@ -177,7 +177,7 @@ int DensityAlgo::run(string &passedfile, map<string, Graph> &pred)
 
     for(int i = 0; i < G.vertices.size(); i++)
     {
-        if(i%1000==0 && i) cout << i << endl; //output every 1000th node just to check progress
+        if(i%10000==0 && i) cout << i << endl; //output every 1000th node just to check progress
         source_idx_inG = i;
         dfsG.reset();
         findContext(i); //get the context graph

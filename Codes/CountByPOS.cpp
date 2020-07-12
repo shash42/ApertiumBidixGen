@@ -1,14 +1,22 @@
-#include "Graph.cpp"
-#include "Biconnected.cpp"
+#include "Graph.h"
+#include "Biconnected.h"
 #include<set>
 #include<iostream>
 
-Graph GO, GC, GE[4], GM[4];
-ofstream fout;
-map<string, int> OV, OE, CV, CE, EV[4], EE[4], MV[4], ME[4];
 
+
+class CountbyPOS{
+    Graph GO, GC, GE[4], GM[4];
+    ofstream fout;
+    map<string, int> OV, OE, CV, CE, EV[4], EE[4], MV[4], ME[4];
+    void countpos(Graph &G, map<string, int> &POSV, map<string, int> &POSE, ofstream &fout, string title);
+    void OutReadable(string lang, string fnamepref);
+    void OutRaw(string lang, string fnamepref);
+public:
+    CountbyPOS(string &exptno, string &lang);
+};
 //Count by part of speech
-void countpos(Graph &G, map<string, int> &POSV, map<string, int> &POSE, ofstream &fout, string title)
+void CountbyPOS::countpos(Graph &G, map<string, int> &POSV, map<string, int> &POSE, ofstream &fout, string title)
 {
     for(auto &u: G.vertices){ //Iterate over vertices (words) in the graph
         POSV[u.rep.pos]++; //Increase number of vertices
@@ -16,9 +24,9 @@ void countpos(Graph &G, map<string, int> &POSV, map<string, int> &POSE, ofstream
     };
 }
 //Output the analysis in readable format
-void OutReadable(string lang)
+void CountbyPOS::OutReadable(string lang, string fnamepref)
 {
-    string out_name = "../Main/Results/RemLang/Analysis/" + lang + "/POS.txt";
+    string out_name = fnamepref + "POS.txt";
     fout.open(out_name);
     for(auto pos: OE){ //iterate over POS, value pairs in graph of Original edges
 
@@ -60,8 +68,8 @@ void OutReadable(string lang)
     fout.close();
 }
 //Output the analysis in raw format for visualizations
-void OutRaw(string lang) {
-    string out_name = "../Main/Results/RemLang/Analysis/" + lang + "/" + "POS_RAW.txt";
+void CountbyPOS::OutRaw(string lang, string fnamepref) {
+    string out_name = fnamepref + "POS_RAW.txt";
     fout.open(out_name);
     fout << "overall" << endl;
     fout << GO.num_edges << endl << GC.num_edges << endl;
@@ -88,29 +96,29 @@ void OutRaw(string lang) {
     fout.close();
 }
 
-//count correct/extra for the output by POS category
-int main()
+//count correct/extra for the output by POS category. lang stores the langpair name
+CountbyPOS::CountbyPOS(string &exptno, string &lang)
 {
-    string lang = "oc-fr"; //language pair to analyze
     string file_name = "../Main/LangData/Data-" + lang + ".txt"; //get file name for original language data
     fout.open("../Main/Analysis/Tempfile.txt"); //required output file for load-data function
     GO.loadData(file_name, fout); //load data into original graph
     countpos(GO, OV, OE, fout, "Original");
-    file_name = "../Main/Results/RemLang/Analysis/" + lang + "/correct.txt"; //file name for correct predictions
+    string fnamepref = "../Main/Results/Expts/" + exptno + "/Analysis/" + lang + "/";
+    file_name =  fnamepref + "correct.txt"; //file name for correct predictions
     GC.loadData(file_name, fout); //load data into correct graph
     countpos(GC, CV, CE, fout, "Correct Predictions");
     for(int i = 0; i < 4; i++){
-        file_name = "../Main/Results/RemLang/Analysis/" + lang + "/extra" + to_string(i) + ".txt"; //file name for extra predictions
+        file_name = fnamepref + "extra" + to_string(i) + ".txt"; //file name for extra predictions
         GE[i].loadData(file_name, fout); //load data into extra graph
         countpos(GE[i], EV[i], EE[i], fout, "Extra predictions");
     }
     for(int i = 0; i < 4; i++){
-        file_name = "../Main/Results/RemLang/Analysis/" + lang + "/missed" + to_string(i) + ".txt"; //file name for missed predictions
+        file_name = fnamepref + "missed" + to_string(i) + ".txt"; //file name for missed predictions
         GM[i].loadData(file_name, fout); //load data into extra graph
         countpos(GM[i], MV[i], ME[i], fout, "Missed predictions");
     }
     fout.close();
 
-    OutReadable(lang);
-    OutRaw(lang);
+    OutReadable(lang, fnamepref);
+    OutRaw(lang, fnamepref);
 }

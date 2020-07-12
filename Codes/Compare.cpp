@@ -1,14 +1,18 @@
-#include "Graph.cpp"
-#include "Biconnected.cpp"
+#include "Graph.h"
+#include "Biconnected.h"
 #include<set>
 #include<iostream>
 
 //Compare predictions to actual data. Takes 2-3 mins to run.
-
-string l1, l2;
-int idxign;
-
-void getUsedData(Graph &GD)
+class Compare{
+    void putInExtra(Graph &divG, Graph GE[], wordData u, wordData v, string &l1, string &l2);
+    void getUsedData(Graph &GD, int idxign);
+    void getStats(Graph &inG, Graph &notInG, Graph &divG, Graph GE[], Graph &GC,
+                  set<string> &VC, set<string> &VE, string &l1, string &l2);
+public:
+    Compare(string l1, string l2, int idxign, string &exptno);
+};
+void Compare::getUsedData(Graph &GD, int idxign)
 {
     int num_pairs = 11; //number of pairs of languages.
     string input_file;
@@ -19,14 +23,15 @@ void getUsedData(Graph &GD)
     for(int i = 0; i < num_pairs; i++){
         file_list >> input_file;
         if(i==idxign) continue; //ignore this language pair (incase of removal and generation tests)
-        cout << input_file << endl; //output current input file for tracking progress
+        //cout << input_file << endl; //output current input file for tracking progress
         fout << input_file << endl;
         GD.loadData(input_file, fout);
     }
+    fout.close();
 }
 
 //which extra graph to put in based on common vertices: 0-none, 1-lang1 vertex, 2-lang2 vertex, 3-both vertices
-void putInExtra(Graph &divG, Graph GE[], wordData u, wordData v){
+void Compare::putInExtra(Graph &divG, Graph GE[], wordData u, wordData v, string &l1, string &l2){
     int missedClass = 0;
     if(divG.idx_of_word.find(u)!=divG.idx_of_word.end()){
         missedClass |= (u.lang==l1)*1 + (u.lang==l2)*2;
@@ -37,7 +42,9 @@ void putInExtra(Graph &divG, Graph GE[], wordData u, wordData v){
     GE[missedClass].addEdge(u, v);
 }
 //If translation in inG is not in notInG, classify extra class based on common vertices with divG and put in GE.
-void getStats(Graph &inG, Graph &notInG, Graph &divG, Graph GE[], Graph &GC, set<string> &VC, set<string> &VE){
+void Compare::getStats(Graph &inG, Graph &notInG, Graph &divG, Graph GE[], Graph &GC,
+        set<string> &VC, set<string> &VE, string &l1, string &l2)
+{
     for(auto u: inG.vertices){ //iterate over inG words
         for(auto vidx: u.adj){ //iterate over translations
             //if translation is there, add to GC, else add to appropriate GE.
@@ -45,11 +52,12 @@ void getStats(Graph &inG, Graph &notInG, Graph &divG, Graph GE[], Graph &GC, set
             auto notThere = notInG.idx_of_word.end();
             if(notInG.idx_of_word.find(u.rep)==notThere){ //if u is not there in notInG
                 VE.insert(u.rep.surface);
-                putInExtra(divG, GE, u.rep, v); //obviously it is a translation not in notInG
+                putInExtra(divG, GE, u.rep, v, l1, l2); //obviously it is a translation not in notInG
             }
             else if(notInG.idx_of_word.find(v)==notThere){ //if v is not there in notInG
                 VE.insert(v.surface);
-                putInExtra(divG, GE, u.rep, v); //obviously it is a translation not in notInG
+
+                putInExtra(divG, GE, u.rep, v, l1, l2); //obviously it is a translation not in notInG
             }
 
             else{ //both u, v are there in notInG
@@ -59,7 +67,7 @@ void getStats(Graph &inG, Graph &notInG, Graph &divG, Graph GE[], Graph &GC, set
                 int vidx2 = notInG.idx_of_word[v];
 
                 if(u2.adj.find(vidx2) == u2.adj.end()){ //if translation is not there
-                    putInExtra(divG, GE, u.rep, v);
+                    putInExtra(divG, GE, u.rep, v, l1, l2);
                 }
                 else{
                     GC.addEdge(u.rep, v); //otherwise add to 'correct' graph
@@ -68,28 +76,26 @@ void getStats(Graph &inG, Graph &notInG, Graph &divG, Graph GE[], Graph &GC, set
         }
     }
 }
-int main()
-{
-    l1 = "oc", l2 = "fr";
-    idxign = 10;
+
+Compare::Compare(string l1, string l2, int idxign, string &exptno){
     string lang = l1+"-"+l2; //language-pair to compare on
-    string pred = "../Main/Results/RemLang/pred_" + lang + ".txt"; //file with predictions
+    string pred = "../Main/Results/Expts/" + exptno + "/Analysis/" + lang + "/predictions.txt";
     string orig = "../Main/LangData/Data-" + lang + ".txt"; //file with data for comparison
     Graph GP, GD, GO, GC, GE[4], GM[4]; //G-prediction, G-original, G-correct, G-extra, G-missed
     ofstream fout;
     fout.open("../Main/Analysis/Tempfile.txt"); //temporary output file for load data analytics
     GP.loadData(pred, fout);
     GO.loadData(orig, fout);
-    getUsedData(GD);
+    getUsedData(GD, idxign);
     set<string> VC, VE, VM; //words which it got correct, words which were extra and missed
 
-    getStats(GP, GO, GO, GE, GC, VC, VE); //Get Precision Stats
-    getStats(GO, GP, GD, GM, GC, VC, VM); //Get Recall Stats
+    getStats(GP, GO, GO, GE, GC, VC, VE, l1, l2); //Get Precision Stats
+    getStats(GO, GP, GD, GM, GC, VC, VM, l1, l2); //Get Recall Stats
 
     fout.close();
     ofstream summary, gout;
-    string prefix = "../Main/Results/RemLang/Analysis/"+lang+"/";
-    summary.open(prefix + "summary.txt");
+    string prefix = "../Main/Results/Expts/" + exptno + "/Analysis/" + lang + "/";
+    summary.open(prefix + "compare-summary.txt");
     summary << "Number of correct vertices (in P and O):" << VC.size() << endl;
     summary << "Number of extra vertices (in P, not in O): " << VE.size() << endl;
     summary << "Number of missed vertices (in O, not in P):" << VM.size() << endl;

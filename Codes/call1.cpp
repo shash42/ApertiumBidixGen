@@ -1,11 +1,14 @@
 #include "Graph.cpp"
 #include "Biconnected.cpp"
 #include "DensityAlgo.cpp"
-#include<set>
-#include<iostream>
+#include "Compare.cpp"
+#include "CountByPOS.cpp"
+
 #include<chrono>
+#include<experimental/filesystem>
 
 using namespace std::chrono;
+namespace fs = std::experimental::filesystem;
 
 //Used to time code
 struct Stopwatch{
@@ -78,27 +81,26 @@ void runPairs(Graph &G, int idxign)
     {
         file_list >> input_file;
         if(i==idxign) continue; //ignore this language pair (incase of removal and generation tests)
-        cout << input_file << endl; //output current input file for tracking progress
+        //cout << input_file << endl; //output current input file for tracking progress
         fout << input_file << endl;
         G.loadData(input_file, fout);
         fout << "Number of vertices: " << G.vertices.size() - prev_nodes << endl; //vertices in this file
         fout << "Number of edges: " << G.num_edges - prev_edges << endl; //edges in this file
         prev_nodes = G.vertices.size(); prev_edges = G.num_edges; //total number of nodes
-        cout << "done" << endl;
+        //cout << "done" << endl;
     }
 }
 
 //get predictions for a single language-pair
-string l1, l2; //l2 is just reversed form of l1 (en-eo instead of eo-en) as order can differ
-void predByLang(string &file_pref, map<string, Graph> &pred){
-    ofstream summary; summary.open(file_pref + "-summary.txt");
+void predByLang(string &file_pref, map<string, Graph> &pred, string &lp1, string &lp2){
+    ofstream summary; summary.open(file_pref + "pred-summary.txt");
     for(auto &langpair: pred){
-        if(langpair.first!=l1 && langpair.first!=l2) continue; //if not required pair continue
+        if(langpair.first!=lp1 && langpair.first!=lp2) continue; //if not required pair continue
         Graph &langG = langpair.second; //graph of the language pair
         summary << langpair.first << endl;
         summary << "Number of vertices: " << langG.vertices.size() << endl;
         summary << "Number of edges: " << langG.num_edges << endl;
-        string file_name = file_pref + "_" + langpair.first + ".txt";
+        string file_name = file_pref + "predictions.txt";
         ofstream outfile; outfile.open(file_name);
         langG.printGraph(outfile);
         summary << endl; //blank line
@@ -116,7 +118,8 @@ void runWords(Graph &G, string &word)
 }
 
 //Run after precomputing biconnected components
-int runBicomp(Graph &G, Config &config, string &prefix, map<string, Graph> &pred)
+int runBicomp(Graph &G, Config &config, string &prefix, map<string, Graph> &pred,
+        string &exptno, string &lp1, string &lp2)
 {
     string fileout_name = "../Main/Results/" + prefix + "bicomp_out.txt";
     ofstream fout;
@@ -131,42 +134,71 @@ int runBicomp(Graph &G, Config &config, string &prefix, map<string, Graph> &pred
         new_trans += D.run(fileout_name, pred); //append output to fileout_name
     }
 
-    string pred_file_name = "../Main/Results/RemLang/" + prefix;
-    predByLang(pred_file_name, pred);
+    string pred_file_name = "../Main/Results/Expts/" + exptno + "/Analysis/" + lp1 + "/";
+    predByLang(pred_file_name, pred, lp1, lp2);
     return new_trans;
 }
 
 //Run directly without precomputing biconnected components
-int runDirect(Graph &G, Config &config, string &prefix, map<string, Graph> &pred)
+int runDirect(Graph &G, Config &config, string &prefix, map<string, Graph> &pred,
+              string &exptno, string &lp1, string &lp2)
 {
     string fileout_name = "../Main/Results/" + prefix + "_out.txt";
     ofstream fout;
     fout.open(fileout_name); fout.close();
     DensityAlgo D(G, config);
     int new_trans = D.run(fileout_name, pred);
-    string pred_file_name = "../Main/Results/" + prefix;
-    predByLang(pred_file_name, pred);
+    string pred_file_name = "../Main/Results/Expts/" + exptno + "/Analysis/" + lp1 + "/";
+    predByLang(pred_file_name, pred, lp1, lp2);
     return new_trans;
 }
 
+//Generates predictions for all language pairs by leaving out that pair and using others as input.
+void genAll(string exptno){
+    int numpairs = 11;
+    string l1[] = {"en", "en", "fr", "fr", "eo", "eo", "eo", "eo", "oc", "oc", "oc"};
+    string l2[] = {"es", "ca", "es", "ca", "fr", "ca", "en", "es", "ca", "es", "fr"};
+
+    for(int i = 0; i < numpairs; i++){
+        cout << "Language No.: " << i+1 << endl;
+        Stopwatch timer;
+        string lp1 = l1[i] + "-" + l2[i], lp2= l2[i] + "-" + l1[i]; //language pair to get predictions for
+        string dirpath = "../Main/Results/Expts/" + exptno + "/Analysis/" + lp1;
+        fs::create_directory(dirpath);
+        string prefix= "rem_" + lp1; //output file
+
+        //cin >> word;
+        Graph G;
+        runPairs(G, i); //load pairs into graph(object, langpairindex to ignore)
+        Config config;
+        //config.large_cutoff = 0;
+        config.context_depth = 4;
+        config.large_min_cyc_len = 3; config.small_min_cyc_len = 3;
+        config.max_cycle_length = 9;
+        config.conf_threshold = 0.6;
+        timer.start(); // start timer
+        map<string, Graph> predicted; //string stores language pair and maps it to a graph
+
+        //precompute biconnected components and then run
+        int new_trans = runBicomp(G, config, prefix, predicted, exptno, lp1, lp2);
+        cout << new_trans << endl;
+        timer.end();
+        timer.log();
+
+        //Do analysis of predictions
+        Compare C(l1[i], l2[i], i, exptno);
+        CountbyPOS cntPOS(exptno, lp1);
+    }
+}
 int main()
 {
-    Stopwatch timer;
-    l1 = "oc-ca"; l2="ca-oc"; //language pair to get predictions for
-    string word = "rem_" + l1; //output file
+    genAll("1");
     //cin >> word;
-    Graph G;
-    runPairs(G, 8); //load pairs into graph(object, langpairindex to ignore)
+    //Graph G;
+    //runPairs(G, idxign); //load pairs into graph(object, langpairindex to ignore)
     //getStatsComps(G);
     //runWords(G, word);
-    /*ofstream debugfile;
+    //ofstream debugfile;
     //debugfile.open("../Main/Results/debugG.txt");
-    G.printGraph(debugfile);*/
-    Config config;
-    timer.start(); // start timer
-    map<string, Graph> predicted; //string stores language pair and maps it to a graph
-    int new_trans = runBicomp(G, config, word, predicted); //precompute biconnected components and then run
-    cout << new_trans << endl;
-    timer.end();
-    timer.log();
+    //G.printGraph(debugfile);
 }
