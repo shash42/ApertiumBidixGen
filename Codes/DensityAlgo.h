@@ -20,7 +20,7 @@ public:
     int large_min_cyc_len = 5; //min cycle length in large context
     int small_min_cyc_len = 4; //min cycle length in small context
     float deg_gt2_multiplier = 1.4; //multiplier if target word has sufficient degree
-    float conf_threshold = 0.6; //confidence threshold to predict it as a new translation
+    float conf_threshold = 0.7; //confidence threshold to predict it as a new translation
 };
 
 //Metrics stored for each cycle corresponding to a translation pair
@@ -36,6 +36,7 @@ public:
 class DensityAlgo
 {   //TAKE CARE: indices in main graph (G) and context graph (dfsG) differ
     vector<vector<vector<Metrics>>> M; //2D matrix. M[i][j] has vector of metrics corresponding to each cycle.
+    vector<vector<Metrics>> Best;
     int source_idx_inG; //the index of the source word in the current run in the main graph G
     Graph G, dfsG; //G is the main graph and dfsG is the context graph of the current word
     Config config; //configuration file containing hyperparameters
@@ -52,9 +53,11 @@ public:
     DensityAlgo(Graph &passed, Config &reqconfig){
         G = passed;
         config = reqconfig;
+        Best.resize(G.vertices.size());
+        for(auto u: Best) u.resize(G.vertices.size());
     }
     int run(string &passedfile, map<string, Graph> &pred); //main function of the class to call other functions and run the algo
-    int findTrans(int source, map<string, Graph> &pred); //finalize translations and output them using metrics for each potential target
+    int findBest(int source, map<string, Graph> &pred); //finalize translations and output them using metrics for each potential target
 };
 
 #endif //GSOCAPERTIUM2020_DENSITYALGO_H

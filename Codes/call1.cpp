@@ -173,9 +173,11 @@ void genAll(string exptno){
         Config config;
         //config.large_cutoff = 0;
         config.context_depth = 4;
-        config.large_min_cyc_len = 3; config.small_min_cyc_len = 3;
-        config.max_cycle_length = 9;
-        config.conf_threshold = 0.6;
+        config.large_min_cyc_len = 5; config.small_min_cyc_len = 4;
+        config.large_cutoff = 4;
+        config.deg_gt2_multiplier = 1.5;
+        config.max_cycle_length = 7;
+        config.conf_threshold = 0.65;
         timer.start(); // start timer
         map<string, Graph> predicted; //string stores language pair and maps it to a graph
 
@@ -192,7 +194,7 @@ void genAll(string exptno){
 }
 int main()
 {
-    genAll("1");
+    genAll("2");
     //cin >> word;
     //Graph G;
     //runPairs(G, idxign); //load pairs into graph(object, langpairindex to ignore)
