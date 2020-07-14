@@ -70,7 +70,7 @@ void DensityAlgo::getMetrics(int source) {
         M[source_idx_inG][vidx].push_back(temp);
     }
 }
-int DensityAlgo::findBest(int source, map<string, Graph> &pred)
+int DensityAlgo::findTrans(int source, map<string, Graph> &pred)
 { //the source integer passed is it's index in context graph (dfsG)
     int num_trans = 0; //stores number of predicted translations
     fout << "Confidence score matchings for lemma: " << dfsG.vertices[source].rep.surface << endl;
@@ -98,9 +98,7 @@ int DensityAlgo::findBest(int source, map<string, Graph> &pred)
             continue;
         }
 
-        wordNode v = dfsG.vertices[i];
-        int vidx = dfsG.idx_of_word[v.rep];
-
+        wordNode v = dfsG.vertices[i]; //
         if(confidence >= config.conf_threshold)
         { //if it is higher than the threshold required predict this as a new translation
             string langpairUv = u.rep.lang + "-" + v.rep.lang;
@@ -190,7 +188,7 @@ int DensityAlgo::run(string &passedfile, map<string, Graph> &pred)
         }
         M[i].resize(dfsG.vertices.size()); //dim2 of M = no. of vertices in context of word (dfsG)
         findCycles(dfsG, source_idx_inC); //this word is 0 in context-graph as it will be the first word added
-        num_trans += findBest(source_idx_inC, pred);
+        num_trans += findTrans(source_idx_inC, pred);
     }
     fout.close();
     return num_trans;
