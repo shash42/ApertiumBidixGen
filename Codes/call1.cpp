@@ -53,7 +53,7 @@ void getStatsComps(Graph &G)
         set<string> engwords;
         for(auto u: SG.vertices) //print only english words of the component
         {
-            if(u.rep.lang=="en") engwords.insert(u.rep.surface);
+            if(u.rep.info["lang"]=="en") engwords.insert(u.rep.info["surface"]);
         }
         for(auto u: engwords)
         {
@@ -81,7 +81,7 @@ void runPairs(Graph &G, int idxign)
     {
         file_list >> input_file;
         if(i==idxign) continue; //ignore this language pair (incase of removal and generation tests)
-        //cout << input_file << endl; //output current input file for tracking progress
+        cout << input_file << endl; //output current input file for tracking progress
         fout << input_file << endl;
         G.loadData(input_file, fout);
         fout << "Number of vertices: " << G.vertices.size() - prev_nodes << endl; //vertices in this file
@@ -107,19 +107,19 @@ void predByLang(string &file_pref, map<string, Graph> &pred, string &lp1, string
     }
 }
 
-//Load a small word based context graph
-void runWords(Graph &G, string &word)
+//Load a small word based context graph - FIX FUNCTION OR REMOVE
+/*void runWords(Graph &G, string &word)
 {
     string fin_name = "../Main/SampleWord/" + word + ".txt";
     ofstream fout;
     fout.open("../Main/Results/" + word + "_analysis.txt");
     G.loadData(fin_name, fout); //unidirectional data load
     cout << "loaded" << endl;
-}
+}*/
 
 //Run after precomputing biconnected components
 int runBicomp(Graph &G, Config &config, string &prefix, map<string, Graph> &pred,
-        string &exptno, string &lp1, string &lp2)
+              string &exptno, string &lp1, string &lp2, InfoSets reqd)
 {
     string fileout_name = "../Main/Results/" + prefix + "bicomp_out.txt";
     ofstream fout;
@@ -131,30 +131,35 @@ int runBicomp(Graph &G, Config &config, string &prefix, map<string, Graph> &pred
     for(auto SG: G.subGraphs) //iterate over components and run density algo for each
     {
         DensityAlgo D = DensityAlgo(SG, config);
-        new_trans += D.run(fileout_name, pred); //append output to fileout_name
+        new_trans += D.run(fileout_name, pred, reqd); //append output to fileout_name
     }
 
     string pred_file_name = "../Main/Results/Expts/" + exptno + "/Analysis/" + lp1 + "/";
     predByLang(pred_file_name, pred, lp1, lp2);
     return new_trans;
 }
+/*
+int runTransitive(Graph &G, bool prebicomp, int depth){
+
+}
+*/
 
 //Run directly without precomputing biconnected components
 int runDirect(Graph &G, Config &config, string &prefix, map<string, Graph> &pred,
-              string &exptno, string &lp1, string &lp2)
+              string &exptno, string &lp1, string &lp2, InfoSets reqd)
 {
     string fileout_name = "../Main/Results/" + prefix + "_out.txt";
     ofstream fout;
     fout.open(fileout_name); fout.close();
     DensityAlgo D(G, config);
-    int new_trans = D.run(fileout_name, pred);
+    int new_trans = D.run(fileout_name, pred, reqd);
     string pred_file_name = "../Main/Results/Expts/" + exptno + "/Analysis/" + lp1 + "/";
     predByLang(pred_file_name, pred, lp1, lp2);
     return new_trans;
 }
 
 //Generates predictions for all language pairs by leaving out that pair and using others as input.
-void genAll(string exptno){
+void genAll(string exptno, Config &config, InfoSets reqd){
     int numpairs = 11;
     string l1[] = {"en", "en", "fr", "fr", "eo", "eo", "eo", "eo", "oc", "oc", "oc"};
     string l2[] = {"es", "ca", "es", "ca", "fr", "ca", "en", "es", "ca", "es", "fr"};
@@ -170,17 +175,12 @@ void genAll(string exptno){
         //cin >> word;
         Graph G;
         runPairs(G, i); //load pairs into graph(object, langpairindex to ignore)
-        Config config;
-        //config.large_cutoff = 0;
-        config.context_depth = 4;
-        config.large_min_cyc_len = 3; config.small_min_cyc_len = 3;
-        config.max_cycle_length = 9;
-        config.conf_threshold = 0.6;
         timer.start(); // start timer
         map<string, Graph> predicted; //string stores language pair and maps it to a graph
 
         //precompute biconnected components and then run
-        int new_trans = runBicomp(G, config, prefix, predicted, exptno, lp1, lp2);
+        reqd.condOR.clear(); reqd.condOR["lang"].insert(lp1); reqd.condOR["lang"].insert(lp2);
+        int new_trans = runBicomp(G, config, prefix, predicted, exptno, lp1, lp2, reqd);
         cout << new_trans << endl;
         timer.end();
         timer.log();
@@ -192,7 +192,17 @@ void genAll(string exptno){
 }
 int main()
 {
-    genAll("1");
+    Config config;
+    //config.large_cutoff = 0;
+    config.context_depth = 4;
+    config.conf_threshold = 0.65;
+    config.max_cycle_length = 9;
+    config.large_min_cyc_len = 5; config.small_min_cyc_len = 4;
+    //config.source_lang_repeat = false;
+    config.deg_gt2_multiplier = 1;
+    InfoSets reqd;
+    reqd.infolist.push_back("lang"); reqd.infolist.push_back("pos"); reqd.infolist.push_back("word_rep");
+    genAll("4", config, reqd);
     //cin >> word;
     //Graph G;
     //runPairs(G, idxign); //load pairs into graph(object, langpairindex to ignore)

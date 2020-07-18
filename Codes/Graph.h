@@ -10,26 +10,29 @@
 using namespace std;
 
 //Used to store information about a given word
+//Assumption: all members of info that are accessed are defined at initialization
 struct wordData
 {
+    vector<string> infolist; //use this to make the types of info stored dynamic
     //word_rep stores written representation
-    string word_rep, lang, pos, surface;
+    map<string, string> info;
     string extract_rep(int &i, string edge); //extract written representation
     string extract_info(int &i, string edge); //extract information about word
     wordData() = default; //default constructor
     void makesurface(){ //surface stores the word in input/output format
-        surface = "\"" + word_rep + "\"-" + pos + "-" + lang;
+        info["surface"] = "\"" + info["word_rep"] + "\"-" + info["pos"] + "-" + info["lang"];
     }
     wordData(int &i, string &edge) //given edge in input format, extract word data
     {
-        word_rep = extract_rep(i, edge); //get written representation
-        pos = extract_info(i, edge); //get part of speech
-        lang = extract_info(i, edge); //get language
+        info["word_rep"] = extract_rep(i, edge); //get written representation
+        info["pos"] = extract_info(i, edge); //get part of speech
+        info["lang"] = extract_info(i, edge); //get language
         makesurface(); //make the surface form for ordering/map etc.
     }
     bool operator<(const wordData &t1) const
     { //operator for the map
-        return surface < t1.surface;
+        string s1 = info.at("surface"), s2 = t1.info.at("surface");
+        return s1 < s2;
     }
 };
 

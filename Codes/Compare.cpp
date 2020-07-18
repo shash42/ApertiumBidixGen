@@ -34,10 +34,10 @@ void Compare::getUsedData(Graph &GD, int idxign)
 void Compare::putInExtra(Graph &divG, Graph GE[], wordData u, wordData v, string &l1, string &l2){
     int missedClass = 0;
     if(divG.idx_of_word.find(u)!=divG.idx_of_word.end()){
-        missedClass |= (u.lang==l1)*1 + (u.lang==l2)*2;
+        missedClass |= (u.info["lang"]==l1)*1 + (u.info["lang"]==l2)*2;
     }
     if(divG.idx_of_word.find(v)!=divG.idx_of_word.end()){
-        missedClass |= (v.lang==l1)*1 + (v.lang==l2)*2;
+        missedClass |= (v.info["lang"]==l1)*1 + (v.info["lang"]==l2)*2;
     }
     GE[missedClass].addEdge(u, v);
 }
@@ -51,17 +51,17 @@ void Compare::getStats(Graph &inG, Graph &notInG, Graph &divG, Graph GE[], Graph
             wordData &v = inG.vertices[vidx].rep; //get the word representation
             auto notThere = notInG.idx_of_word.end();
             if(notInG.idx_of_word.find(u.rep)==notThere){ //if u is not there in notInG
-                VE.insert(u.rep.surface);
+                VE.insert(u.rep.info["surface"]);
                 putInExtra(divG, GE, u.rep, v, l1, l2); //obviously it is a translation not in notInG
             }
             else if(notInG.idx_of_word.find(v)==notThere){ //if v is not there in notInG
-                VE.insert(v.surface);
+                VE.insert(v.info["surface"]);
 
                 putInExtra(divG, GE, u.rep, v, l1, l2); //obviously it is a translation not in notInG
             }
 
             else{ //both u, v are there in notInG
-                VC.insert(u.rep.surface); //add to 'correct' words set
+                VC.insert(u.rep.info["surface"]); //add to 'correct' words set
                 int uidx2 = notInG.idx_of_word[u.rep]; //get its index in notInG graph
                 wordNode &u2 = notInG.vertices[uidx2]; //get its vertex in notInG graph
                 int vidx2 = notInG.idx_of_word[v];

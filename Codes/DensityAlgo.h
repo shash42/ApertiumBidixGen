@@ -9,6 +9,13 @@
 #include "Biconnected.h"
 #include<iostream>
 
+class InfoSets
+{
+public:
+    vector<string> infolist;
+    map<string, set<string>> condOR;
+};
+
 //stores hyperparameters for ease of optimization
 class Config
 {
@@ -43,17 +50,21 @@ class DensityAlgo
     vector<bool> visited; //listed of vertices that have been visited
     set<int> source_connected; //indices of words connected to source as in context graph
     ofstream fout; //output file for results
+
     void findContext(int source); //finds context given index of source word in context graph
     void findCycles(Graph &C, int source); //find cycles for source in the context graph - caller function for dfs
     void getMetrics(int source); //get metrics for each target word from current cycle in the cycle_stack
     void dfs(int uidx, int source, int depth); //depth first search for cycles (uidx is current node)
+    bool wordIsReq(wordNode &u, InfoSets reqd); //are translations to be found for u
+
 public:
     //constructor
     DensityAlgo(Graph &passed, Config &reqconfig){
         G = passed;
         config = reqconfig;
     }
-    int run(string &passedfile, map<string, Graph> &pred); //main function of the class to call other functions and run the algo
+    int run(string &passedfile, map<string, Graph> &pred, InfoSets reqdPred);
+    //main function of the class to call other functions and run the algo
     int findTrans(int source, map<string, Graph> &pred); //finalize translations and output them using metrics for each potential target
 };
 

@@ -73,7 +73,7 @@ void DensityAlgo::getMetrics(int source) {
 int DensityAlgo::findTrans(int source, map<string, Graph> &pred)
 { //the source integer passed is it's index in context graph (dfsG)
     int num_trans = 0; //stores number of predicted translations
-    fout << "Confidence score matchings for lemma: " << dfsG.vertices[source].rep.surface << endl;
+    //fout << "Confidence score matchings for lemma: " << dfsG.vertices[source].rep.surface << endl;
     wordNode u = G.vertices[source_idx_inG];
 
     for(int i = 0; i < dfsG.vertices.size(); i++) //iterate over all vertices
@@ -94,15 +94,15 @@ int DensityAlgo::findTrans(int source, map<string, Graph> &pred)
 
         if(dfsG.vertices[source].adj.find(i)!=dfsG.vertices[source].adj.end())
         { //if existing translation in input graph
-            fout << "Existing: " << dfsG.vertices[i].rep.surface << endl;
+     //       fout << "Existing: " << dfsG.vertices[i].rep.surface << endl;
             continue;
         }
 
         wordNode v = dfsG.vertices[i]; //
         if(confidence >= config.conf_threshold)
         { //if it is higher than the threshold required predict this as a new translation
-            string langpairUv = u.rep.lang + "-" + v.rep.lang;
-            string langpairVu = v.rep.lang + "-" + u.rep.lang;
+            string langpairUv = u.rep.info["lang"] + "-" + v.rep.info["lang"];
+            string langpairVu = v.rep.info["lang"] + "-" + u.rep.info["lang"];
             bool isnew;
             if(pred.find(langpairVu)!=pred.end()){ //if V->U is a language pair
                 isnew = pred[langpairVu].addEdge(u.rep, v.rep);
@@ -111,16 +111,16 @@ int DensityAlgo::findTrans(int source, map<string, Graph> &pred)
                 isnew = pred[langpairUv].addEdge(u.rep, v.rep);
             }
             if(isnew) num_trans++; //increase count of predicted translations
-            fout << "New Translation!: " << v.rep.surface << " = " << confidence << " - " << M[source_idx_inG][i].size();
+       //     fout << "New Translation!: " << v.rep.surface << " = " << confidence << " - " << M[source_idx_inG][i].size();
         }
 
         else{
             //otherwise just output as an in-context word along with confidence, not a predicted translation
-            fout << "In context: " << v.rep.surface << " = " << confidence << " - " << M[source_idx_inG][i].size();
+         //   fout << "In context: " << v.rep.surface << " = " << confidence << " - " << M[source_idx_inG][i].size();
         }
-        fout << endl;
+    //    fout << endl;
     }
-    fout << endl;
+    //fout << endl;
     return num_trans;
 }
 void DensityAlgo::dfs(int uidx, int source, int depth)
@@ -133,7 +133,7 @@ void DensityAlgo::dfs(int uidx, int source, int depth)
     {
         wordNode &v = dfsG.vertices[vidx];
         //if source lang repeat is not allowed and v is of same lang is u, don't go to v.
-        if(source!=vidx && !config.source_lang_repeat && v.rep.lang == dfsG.vertices[source].rep.lang) continue;
+        if(source!=vidx && !config.source_lang_repeat && v.rep.info["lang"] == dfsG.vertices[source].rep.info["lang"]) continue;
         //Only if the adjacent vertex is not visited
         if(visited[vidx] == false)
         { //and the current cycle length is not equal to maximum
@@ -142,9 +142,9 @@ void DensityAlgo::dfs(int uidx, int source, int depth)
                 dfs(vidx, source, depth+1);
             }
         }
-        /*Otherwise it is a visited node so a cycle is formed
-        If it is source itself and the cycle is not a single edge going back,
-        it is a cycle that needs to be considered*/
+            /*Otherwise it is a visited node so a cycle is formed
+            If it is source itself and the cycle is not a single edge going back,
+            it is a cycle that needs to be considered*/
         else if(vidx == source)
         {
             //check if the min length requirements are met
@@ -168,16 +168,33 @@ void DensityAlgo::findCycles(Graph &C, int source){
     dfsG = C; //currently, dfsG will be a reference to the context graph
     dfs(source, source, 0);
 }
-int DensityAlgo::run(string &passedfile, map<string, Graph> &pred)
+
+bool DensityAlgo::wordIsReq(wordNode &u, InfoSets reqd){
+    bool ret = true;
+    for(auto &info: reqd.infolist){
+        if(!reqd.condOR[info].empty() && reqd.condOR[info].find(u.rep.info[info])==reqd.condOR[info].end()){
+            ret = false;
+        }
+    }
+    return ret;
+}
+//Run the algorthm
+/*Usage of reqdPred:
+ * Fill the ObjectSets with the language/POS/words you want. Translations for a lang/POS/word
+ * will be searched if it is in it's respective set (unless that set is empty)
+ */
+int DensityAlgo::run(string &passedfile, map<string, Graph> &pred, InfoSets reqdPred)
 {
-    fout.open(passedfile, ios::app);
-    fout << G.vertices.size() << " " << G.num_edges << endl;
+    //fout.open(passedfile, ios::app);
+    //fout << G.vertices.size() << " " << G.num_edges << endl;
     M.resize(G.vertices.size()); //dim1 of M = no. of vertices in this graph - flag
     int num_trans = 0;
 
     for(int i = 0; i < G.vertices.size(); i++)
     {
-        if(i%10000==0 && i) cout << i << endl; //output every 1000th node just to check progress
+        if(i%1000==0 && i)
+            cout << i << endl; //output every 1000th node just to check progress
+        if(!wordIsReq(G.vertices[i], reqdPred)) continue;
         source_idx_inG = i;
         dfsG.reset();
         findContext(i); //get the context graph
@@ -190,6 +207,6 @@ int DensityAlgo::run(string &passedfile, map<string, Graph> &pred)
         findCycles(dfsG, source_idx_inC); //this word is 0 in context-graph as it will be the first word added
         num_trans += findTrans(source_idx_inC, pred);
     }
-    fout.close();
+    //fout.close();
     return num_trans;
 }
