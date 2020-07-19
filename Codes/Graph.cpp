@@ -76,7 +76,8 @@ void Graph::printGraph(ofstream &fout)
         for(auto vidx: u.adj)
         { //print edges using surface forms of the nodes they connect
             wordNode v = vertices[vidx];
-            fout << u.rep.info["surface"] << " " << v.rep.info["surface"] << endl;
+            //fout << u.rep.info["surface"] << " " << v.rep.info["surface"] << endl;
+            fout << u.rep.surface << " " << v.rep.surface << endl;
         }
     }
 }

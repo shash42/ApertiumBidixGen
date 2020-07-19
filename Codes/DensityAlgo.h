@@ -55,7 +55,7 @@ class DensityAlgo
     void findCycles(Graph &C, int source); //find cycles for source in the context graph - caller function for dfs
     void getMetrics(int source); //get metrics for each target word from current cycle in the cycle_stack
     void dfs(int uidx, int source, int depth); //depth first search for cycles (uidx is current node)
-    bool wordIsReq(wordNode &u, InfoSets reqd); //are translations to be found for u
+    bool wordIsReq(wordNode &u, InfoSets &reqd); //are translations to be found for u
 
 public:
     //constructor
@@ -63,7 +63,7 @@ public:
         G = passed;
         config = reqconfig;
     }
-    int run(string &passedfile, map<string, Graph> &pred, InfoSets reqdPred);
+    int run(string &passedfile, map<string, Graph> &pred, InfoSets &reqdPred);
     //main function of the class to call other functions and run the algo
     int findTrans(int source, map<string, Graph> &pred); //finalize translations and output them using metrics for each potential target
 };

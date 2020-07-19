@@ -15,23 +15,30 @@ struct wordData
 {
     vector<string> infolist; //use this to make the types of info stored dynamic
     //word_rep stores written representation
-    map<string, string> info;
+    string word_rep, pos, lang, surface;
+    //map<string, string> info;
+    //use this later if dynamic info is required. Change .typeofinfo to .info["typeofinfo"] everywhere
     string extract_rep(int &i, string edge); //extract written representation
     string extract_info(int &i, string edge); //extract information about word
     wordData() = default; //default constructor
     void makesurface(){ //surface stores the word in input/output format
-        info["surface"] = "\"" + info["word_rep"] + "\"-" + info["pos"] + "-" + info["lang"];
+        //info["surface"] = "\"" + info["word_rep"] + "\"-" + info["pos"] + "-" + info["lang"];
+        surface = "\"" + word_rep + "\"-" + pos + "-" + lang;
     }
     wordData(int &i, string &edge) //given edge in input format, extract word data
     {
-        info["word_rep"] = extract_rep(i, edge); //get written representation
+        /*info["word_rep"] = extract_rep(i, edge); //get written representation
         info["pos"] = extract_info(i, edge); //get part of speech
-        info["lang"] = extract_info(i, edge); //get language
+        info["lang"] = extract_info(i, edge);*/ //get language
+        word_rep = extract_rep(i, edge); //get written representation
+        pos = extract_info(i, edge); //get part of speech
+        lang = extract_info(i, edge); //get language
         makesurface(); //make the surface form for ordering/map etc.
     }
     bool operator<(const wordData &t1) const
     { //operator for the map
-        string s1 = info.at("surface"), s2 = t1.info.at("surface");
+        //string s1 = info.at("surface"), s2 = t1.info.at("surface");
+        string s1 = surface, s2 = t1.surface;
         return s1 < s2;
     }
 };

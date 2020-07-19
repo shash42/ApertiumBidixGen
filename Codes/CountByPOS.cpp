@@ -19,8 +19,11 @@ public:
 void CountbyPOS::countpos(Graph &G, map<string, int> &POSV, map<string, int> &POSE, ofstream &fout, string title)
 {
     for(auto &u: G.vertices){ //Iterate over vertices (words) in the graph
-        POSV[u.rep.info["pos"]]++; //Increase number of vertices
-        POSE[u.rep.info["pos"]]+=u.adj.size(); //Increase number of edges
+        //Use first one if wordData is dynamic
+        /*POSV[u.rep.info["pos"]]++; //Increase number of vertices
+        POSE[u.rep.info["pos"]]+=u.adj.size();*/ //Increase number of edges
+        POSV[u.rep.pos]++; //Increase number of vertices
+        POSE[u.rep.pos]+=u.adj.size(); //Increase number of edges
     };
 }
 //Output the analysis in readable format
