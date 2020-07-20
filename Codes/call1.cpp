@@ -200,7 +200,7 @@ int main()
     config.max_cycle_length = 7;
     config.large_min_cyc_len = 5; config.small_min_cyc_len = 4;
     //config.source_lang_repeat = false;
-    config.deg_gt2_multiplier = 1;
+    config.deg_gt2_multiplier = 1.4;
     InfoSets reqd;
     reqd.infolist.push_back("lang"); reqd.infolist.push_back("pos"); reqd.infolist.push_back("word_rep");
     genAll("4", config, reqd);

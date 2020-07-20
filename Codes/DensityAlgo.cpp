@@ -34,9 +34,9 @@ void DensityAlgo::findContext(int source)
 }
 void DensityAlgo::getMetrics(int source) {
     set<int> vertex_list; //list of vertices in this cycle
-    for(auto u: cycle_stack) //can take all vertices because cycle started and ends at first vertex.
+    for(auto uidx: cycle_stack) //can take all vertices because cycle started and ends at first vertex.
     {
-        vertex_list.insert(u);
+        vertex_list.insert(uidx);
     }
     vector<int> deg(cycle_stack.size()); //stores degree within the cycle for each vertex
     int num_edges = 0; //number of edges within the cycle, double-counted. O(edges in dfsG)
@@ -130,6 +130,7 @@ void DensityAlgo::dfs(int uidx, int source, int depth)
     visited[uidx]=true; //Mark the vertex as visited
     cycle_stack.push_back(uidx); //Put it in the stack
     wordNode &u = dfsG.vertices[uidx];
+    lang_in_cyc.insert(u.rep.lang); //Put language in the set of languages taken
 
     for(auto vidx: u.adj) //Iterate over adjacent vertices of current vertex
     {
@@ -144,8 +145,12 @@ void DensityAlgo::dfs(int uidx, int source, int depth)
         if(visited[vidx] == false)
         { //and the current cycle length is not equal to maximum
             if(cycle_stack.size() < config.max_cycle_length - 1)
-            {   //Visit this node in the dfs
-                dfs(vidx, source, depth+1);
+            {
+                //If language repetition is allowed or v's language has not been visited.
+                if(config.any_lang_repeat || lang_in_cyc.find(dfsG.vertices[vidx].rep.lang) == lang_in_cyc.end()){
+                    dfs(vidx, source, depth+1);
+                    //Visit this node in the dfs
+                }
             }
         }
             /*Otherwise it is a visited node so a cycle is formed
@@ -165,10 +170,12 @@ void DensityAlgo::dfs(int uidx, int source, int depth)
         }
     }
     visited[uidx]=false;
-    cycle_stack.pop_back();
+    cycle_stack.pop_back(); //remove vertex from the stack
+    lang_in_cyc.erase(u.rep.lang); //remove it's language from the current language set.
 }
 void DensityAlgo::findCycles(Graph &C, int source){
     cycle_stack.clear(); //clear stack
+    lang_in_cyc.clear();
     visited.resize(C.vertices.size()); //clear visited and set size = no. of nodes in dfsG
     visited.assign(C.vertices.size(), false);
     dfsG = C; //currently, dfsG will be a reference to the context graph

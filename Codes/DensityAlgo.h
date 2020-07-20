@@ -22,7 +22,8 @@ class Config
 public:
     int context_depth = 3; //distance to which a word's context is extracted
     int max_cycle_length = 7; //maximum cycle length to limit compute
-    bool source_lang_repeat = false; //repeating source lang is allowed (true) or not
+    bool source_lang_repeat = false; //REMOVE, NOT OF USE //repeating source lang is allowed (true) or not (false)
+    bool any_lang_repeat = false; //repeating of language is allowed (true) or not (false)
     int large_cutoff = 5; //cutoff on degree of source word to decide small or large context
     int large_min_cyc_len = 5; //min cycle length in large context
     int small_min_cyc_len = 4; //min cycle length in small context
@@ -47,6 +48,7 @@ class DensityAlgo
     Graph G, dfsG; //G is the main graph and dfsG is the context graph of the current word
     Config config; //configuration file containing hyperparameters
     vector<int> cycle_stack; //dfs stack to extract cycles
+    set<string> lang_in_cyc; //stores the languages in the current cycle
     vector<bool> visited; //listed of vertices that have been visited
     set<int> source_connected; //indices of words connected to source as in context graph
     ofstream fout; //output file for results
