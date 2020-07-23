@@ -187,6 +187,8 @@ int DensityAlgo::findTrans(int source, map<string, Graph> &pred)
     //fout << endl;
     return num_trans;
 }
+
+//Finds translations using transitive closure (all nodes in context within depth are translations)
 int DensityAlgo::findTransitive(int source, map<string, Graph> &pred) {
     int num_trans=0;
     for(int j = 0; j < dfsG.vertices.size(); j++){
