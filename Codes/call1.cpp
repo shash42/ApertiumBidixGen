@@ -119,8 +119,8 @@ void predByLang(string &file_pref, map<string, Graph> &pred, string &lp1, string
 }*/
 
 //Run after precomputing biconnected components
-int runBicomp(Graph &G, Config &config, string &prefix, map<string, Graph> &pred,
-              string &exptno, string &lp1, string &lp2, InfoSets reqd)
+int runBicomp(Graph &G, vector<Config> &configlist, map<string, int> &POS_to_config, string &prefix,
+        map<string, Graph> &pred, string &exptno, string &lp1, string &lp2, InfoSets reqd)
 {
     string fileout_name = "../Main/Results/" + prefix + "bicomp_out.txt";
     ofstream fout;
@@ -131,7 +131,7 @@ int runBicomp(Graph &G, Config &config, string &prefix, map<string, Graph> &pred
     B.findBicomps(G);
     for(auto SG: G.subGraphs) //iterate over components and run density algo for each
     {
-        DensityAlgo D = DensityAlgo(SG, config);
+        DensityAlgo D = DensityAlgo(SG, configlist, POS_to_config);
         new_trans += D.run(fileout_name, pred, reqd); //append output to fileout_name
     }
 
@@ -139,20 +139,15 @@ int runBicomp(Graph &G, Config &config, string &prefix, map<string, Graph> &pred
     predByLang(pred_file_name, pred, lp1, lp2);
     return new_trans;
 }
-/*
-int runTransitive(Graph &G, bool prebicomp, int depth){
-
-}
-*/
 
 //Run directly without precomputing biconnected components
-int runDirect(Graph &G, Config &config, string &prefix, map<string, Graph> &pred,
-              string &exptno, string &lp1, string &lp2, InfoSets reqd)
+int runDirect(Graph &G, vector<Config> &configlist, map<string, int> &POS_to_config, string &prefix,
+              map<string, Graph> &pred, string &exptno, string &lp1, string &lp2, InfoSets reqd)
 {
     string fileout_name = "../Main/Results/" + prefix + "_out.txt";
     ofstream fout;
     fout.open(fileout_name); fout.close();
-    DensityAlgo D(G, config);
+    DensityAlgo D(G, configlist, POS_to_config);
     int new_trans = D.run(fileout_name, pred, reqd);
     string pred_file_name = "../Main/Results/Expts/" + exptno + "/Analysis/" + lp1 + "/";
     predByLang(pred_file_name, pred, lp1, lp2);
@@ -160,12 +155,12 @@ int runDirect(Graph &G, Config &config, string &prefix, map<string, Graph> &pred
 }
 
 //Generates predictions for all language pairs by leaving out that pair and using others as input.
-void genAll(string exptno, Config &config, InfoSets reqd){
+void genAll(string exptno, vector<Config> &configlist, map<string, int> &POS_to_config, InfoSets reqd){
     int numpairs = 11;
     string l1[] = {"en", "en", "fr", "fr", "eo", "eo", "eo", "eo", "oc", "oc", "oc"};
     string l2[] = {"es", "ca", "es", "ca", "fr", "ca", "en", "es", "ca", "es", "fr"};
 
-    for(int i = 0; i < numpairs; i++){
+    for(int i = 2; i < 11; i++){
         cout << "Language No.: " << i+1 << endl;
         Stopwatch timer;
         string lp1 = l1[i] + "-" + l2[i], lp2= l2[i] + "-" + l1[i]; //language pair to get predictions for
@@ -181,7 +176,7 @@ void genAll(string exptno, Config &config, InfoSets reqd){
 
         //precompute biconnected components and then run
         reqd.condOR.clear(); reqd.condOR["lang"].insert(l1[i]); reqd.condOR["lang"].insert(l2[i]);
-        int new_trans = runBicomp(G, config, prefix, predicted, exptno, lp1, lp2, reqd);
+        int new_trans = runBicomp(G, configlist, POS_to_config, prefix, predicted, exptno, lp1, lp2, reqd);
         cout << new_trans << endl;
         timer.end();
         timer.log();
@@ -193,17 +188,22 @@ void genAll(string exptno, Config &config, InfoSets reqd){
 }
 int main()
 {
-    Config config;
+    int num_configs = 2;
+    vector<Config> config(num_configs); //initialize with number of different configs required
+    map<string, int> POS_to_config;
     //config.large_cutoff = 0;
-    config.context_depth = 4;
-    config.conf_threshold = 0.65;
-    config.max_cycle_length = 7;
-    config.large_min_cyc_len = 5; config.small_min_cyc_len = 4;
-    //config.source_lang_repeat = false;
-    config.deg_gt2_multiplier = 1.4;
+    config[0].context_depth = 4;
+    config[0].conf_threshold = 0.65;
+    //config[0].max_cycle_length = 7;
+    //config[0].large_min_cyc_len = 5; config[0].small_min_cyc_len = 4;
+    //config[0].deg_gt2_multiplier = 1;
+    config[1].context_depth = 4;
+    config[1].conf_threshold = 0.1; //every pruned cycle gets selected
+    config[1].large_min_cyc_len = 4;
+    POS_to_config["properNoun"] = 1; POS_to_config["numeral"] = 1;
     InfoSets reqd;
     reqd.infolist.push_back("lang"); reqd.infolist.push_back("pos"); reqd.infolist.push_back("word_rep");
-    genAll("4", config, reqd);
+    genAll("6", config, POS_to_config, reqd);
     //cin >> word;
     //Graph G;
     //runPairs(G, idxign); //load pairs into graph(object, langpairindex to ignore)

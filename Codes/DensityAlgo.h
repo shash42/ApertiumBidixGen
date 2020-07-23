@@ -20,15 +20,16 @@ public:
 class Config
 {
 public:
-    int context_depth = 3; //distance to which a word's context is extracted
+    bool transitive = false;
+    int context_depth = 4; //distance to which a word's context is extracted
     int max_cycle_length = 7; //maximum cycle length to limit compute
-    bool source_lang_repeat = false; //REMOVE, NOT OF USE //repeating source lang is allowed (true) or not (false)
-    bool any_lang_repeat = false; //repeating of language is allowed (true) or not (false)
+    bool st_lang_repeat = false; //REMOVE, NOT OF USE (keep false) //repeating source and targ lang is allowed (true) or not (false)
+    bool any_lang_repeat = true; //REMOVE, NOT OF USE (keep true) //repeating of language is allowed (true) or not (false)
     int large_cutoff = 5; //cutoff on degree of source word to decide small or large context
     int large_min_cyc_len = 5; //min cycle length in large context
     int small_min_cyc_len = 4; //min cycle length in small context
-    float deg_gt2_multiplier = 1.4; //multiplier if target word has sufficient degree
-    float conf_threshold = 0.6; //confidence threshold to predict it as a new translation
+    float deg_gt2_multiplier = 1.3; //multiplier if target word has sufficient degree
+    float conf_threshold = 0.65; //confidence threshold to predict it as a new translation
 };
 
 //Metrics stored for each cycle corresponding to a translation pair
@@ -46,9 +47,11 @@ class DensityAlgo
     vector<vector<vector<Metrics>>> M; //2D matrix. M[i][j] has vector of metrics corresponding to each cycle.
     int source_idx_inG; //the index of the source word in the current run in the main graph G
     Graph G, dfsG; //G is the main graph and dfsG is the context graph of the current word
-    Config config; //configuration file containing hyperparameters
+    vector<Config> configlist; //vector of configs to be used for this run. 0 is default
+    map<string, int> POS_to_config; //map containing POS whose config isn't configlist[0]
+    Config config; //configuration file containing hyperparameters for current word
     vector<int> cycle_stack; //dfs stack to extract cycles
-    set<string> lang_in_cyc; //stores the languages in the current cycle
+    multiset<string> lang_in_cyc; //stores the languages in the current cycle
     vector<bool> visited; //listed of vertices that have been visited
     set<int> source_connected; //indices of words connected to source as in context graph
     ofstream fout; //output file for results
@@ -61,13 +64,15 @@ class DensityAlgo
 
 public:
     //constructor
-    DensityAlgo(Graph &passed, Config &reqconfig){
+    DensityAlgo(Graph &passed, vector<Config> &_configlist, map<string, int> _POS_to_config){
         G = passed;
-        config = reqconfig;
+        configlist = _configlist;
+        POS_to_config = _POS_to_config;
     }
     int run(string &passedfile, map<string, Graph> &pred, InfoSets &reqdPred);
     //main function of the class to call other functions and run the algo
     int findTrans(int source, map<string, Graph> &pred); //finalize translations and output them using metrics for each potential target
+    int findTransitive(int source, map<string, Graph>&pred);
 };
 
 #endif //GSOCAPERTIUM2020_DENSITYALGO_H
