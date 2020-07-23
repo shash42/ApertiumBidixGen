@@ -1,6 +1,6 @@
 
 
-
+Last updated in June-end 2020
 
 
 # ApertiumBidixGen
