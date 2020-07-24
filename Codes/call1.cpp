@@ -218,14 +218,14 @@ int main()
     //config[0].max_cycle_length = 7;
     //config[0].large_min_cyc_len = 5; config[0].small_min_cyc_len = 4;
     //config[0].deg_gt2_multiplier = 1;
-    config[1].transitive = true;
-    config[1].context_depth = 4;
+    config[1].transitive = 2;
+    config[1].context_depth = 3;
     config[1].conf_threshold = 0.1; //every pruned cycle gets selected
     config[1].large_min_cyc_len = 4;
     POS_to_config["properNoun"] = 1; POS_to_config["numeral"] = 1;
     InfoSets reqd;
     reqd.infolist.push_back("lang"); reqd.infolist.push_back("pos"); reqd.infolist.push_back("word_rep");
-    genAll("7", config, POS_to_config, reqd);
+    genAll("8", config, POS_to_config, reqd);
     //cin >> word;
     //Graph G;
     //runPairs(G, idxign); //load pairs into graph(object, langpairindex to ignore)
