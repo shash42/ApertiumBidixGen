@@ -20,7 +20,7 @@ public:
 class Config
 {
 public:
-    bool transitive = false;
+    int transitive = 0; //0 -> not transitive 1 -> bicomp then transitive 2 -> completely transitive
     int context_depth = 4; //distance to which a word's context is extracted
     int max_cycle_length = 7; //maximum cycle length to limit compute
     bool st_lang_repeat = false; //REMOVE, NOT OF USE (keep false) //repeating source and targ lang is allowed (true) or not (false)
@@ -60,7 +60,6 @@ class DensityAlgo
     void findCycles(Graph &C, int source); //find cycles for source in the context graph - caller function for dfs
     void getMetrics(int source); //get metrics for each target word from current cycle in the cycle_stack
     void dfs(int uidx, int source, int depth); //depth first search for cycles (uidx is current node)
-    bool wordIsReq(wordNode &u, InfoSets &reqd); //are translations to be found for u
 
 public:
     //constructor
@@ -69,6 +68,7 @@ public:
         configlist = _configlist;
         POS_to_config = _POS_to_config;
     }
+    bool wordIsReq(wordNode &u, InfoSets &reqd); //are translations to be found for u
     int run(string &passedfile, map<string, Graph> &pred, InfoSets &reqdPred);
     //main function of the class to call other functions and run the algo
     int findTrans(int source, map<string, Graph> &pred); //finalize translations and output them using metrics for each potential target

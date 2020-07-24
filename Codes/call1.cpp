@@ -119,7 +119,7 @@ void predByLang(string &file_pref, map<string, Graph> &pred, string &lp1, string
 }*/
 
 //Run after precomputing biconnected components
-int runBicomp(Graph &G, vector<Config> &configlist, map<string, int> &POS_to_config, string &prefix,
+int runBicomp(Graph &G, vector<Config> configlist, map<string, int> &POS_to_config, string &prefix,
         map<string, Graph> &pred, string &exptno, string &lp1, string &lp2, InfoSets reqd)
 {
     string fileout_name = "../Main/Results/" + prefix + "bicomp_out.txt";
@@ -129,10 +129,31 @@ int runBicomp(Graph &G, vector<Config> &configlist, map<string, int> &POS_to_con
 
     Biconnected B; //object of biconnected computation class
     B.findBicomps(G);
+
+
     for(auto SG: G.subGraphs) //iterate over components and run density algo for each
     {
         DensityAlgo D = DensityAlgo(SG, configlist, POS_to_config);
         new_trans += D.run(fileout_name, pred, reqd); //append output to fileout_name
+    }
+
+    bool req_bicompless_run = false; //is a cycle-less (transitive) run required?
+    InfoSets reqd_transitive = reqd; //additional restrictions for cycle-less run if any
+    vector<Config> configlist_transitive = configlist;
+    Graph tempG;
+    DensityAlgo temp = DensityAlgo(tempG, configlist, POS_to_config);
+    for(auto &w: G.vertices){ //iterate over vertices
+        if(!temp.wordIsReq(w, reqd)) continue; //if vertex is not required by original reqd ignore
+        if(configlist[POS_to_config[w.rep.pos]].transitive==2){ //otherwise if it's a non-bicomp transitive run POS
+            req_bicompless_run = true; //then we need a bicompless run
+            configlist_transitive[POS_to_config[w.rep.pos]].transitive=1; //set its trans_configlist to 1
+            reqd_transitive.condOR["pos"].insert(w.rep.pos); //this POS is to be processed in the transitive run
+        }
+    }
+    if(req_bicompless_run){ //if the bicconnected component-less run is required
+        //initialize a transitive Density algo object
+        DensityAlgo DTrans = DensityAlgo(G, configlist_transitive, POS_to_config);
+        new_trans += DTrans.run(fileout_name, pred, reqd_transitive);
     }
 
     string pred_file_name = "../Main/Results/Expts/" + exptno + "/Analysis/" + lp1 + "/";
@@ -160,7 +181,7 @@ void genAll(string exptno, vector<Config> &configlist, map<string, int> &POS_to_
     string l1[] = {"en", "en", "fr", "fr", "eo", "eo", "eo", "eo", "oc", "oc", "oc"};
     string l2[] = {"es", "ca", "es", "ca", "fr", "ca", "en", "es", "ca", "es", "fr"};
 
-    for(int i = 2; i < 11; i++){
+    for(int i = 1; i < 11; i++){
         cout << "Language No.: " << i+1 << endl;
         Stopwatch timer;
         string lp1 = l1[i] + "-" + l2[i], lp2= l2[i] + "-" + l1[i]; //language pair to get predictions for
@@ -175,7 +196,7 @@ void genAll(string exptno, vector<Config> &configlist, map<string, int> &POS_to_
         map<string, Graph> predicted; //string stores language pair and maps it to a graph
 
         //precompute biconnected components and then run
-        reqd.condOR.clear(); reqd.condOR["lang"].insert(l1[i]); reqd.condOR["lang"].insert(l2[i]);
+        reqd.condOR["lang"].clear(); reqd.condOR["lang"].insert(l1[i]); reqd.condOR["lang"].insert(l2[i]);
         int new_trans = runBicomp(G, configlist, POS_to_config, prefix, predicted, exptno, lp1, lp2, reqd);
         cout << new_trans << endl;
         timer.end();
@@ -197,13 +218,14 @@ int main()
     //config[0].max_cycle_length = 7;
     //config[0].large_min_cyc_len = 5; config[0].small_min_cyc_len = 4;
     //config[0].deg_gt2_multiplier = 1;
+    config[1].transitive = true;
     config[1].context_depth = 4;
     config[1].conf_threshold = 0.1; //every pruned cycle gets selected
     config[1].large_min_cyc_len = 4;
     POS_to_config["properNoun"] = 1; POS_to_config["numeral"] = 1;
     InfoSets reqd;
     reqd.infolist.push_back("lang"); reqd.infolist.push_back("pos"); reqd.infolist.push_back("word_rep");
-    genAll("6", config, POS_to_config, reqd);
+    genAll("7", config, POS_to_config, reqd);
     //cin >> word;
     //Graph G;
     //runPairs(G, idxign); //load pairs into graph(object, langpairindex to ignore)

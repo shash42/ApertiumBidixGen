@@ -263,10 +263,10 @@ int DensityAlgo::run(string &passedfile, map<string, Graph> &pred, InfoSets &req
         }
         //cout << G.vertices[i].rep.surface << " " << dfsG.vertices.size() << endl;
 
-        if(config.transitive){
+        if(config.transitive == 1){
             num_trans += findTransitive(source_idx_inC, pred);
         }
-        else {
+        else if(config.transitive == 0){
             M[i].resize(dfsG.vertices.size()); //dim2 of M = no. of vertices in context of word (dfsG)
             findCycles(dfsG, source_idx_inC); //this word is 0 in context-graph as it will be the first word added
             int cyccount = 0; //total cycle count - might be useful for debugging
