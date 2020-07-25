@@ -162,11 +162,12 @@ int DensityAlgo::findTrans(int source, map<string, Graph> &pred, map<pair<wordDa
 
         wordNode v = dfsG.vertices[i]; //
 
-        if(entries.find({v.rep, u.rep})!=entries.end()){
-            entries[{v.rep, u.rep}] = max(confidence, entries[{v.rep, u.rep}]);
-        }
-        else{
-            entries[{u.rep, v.rep}] = confidence;
+        if(confidence > 0) {
+            if (entries.find({v.rep, u.rep}) != entries.end()) {
+                entries[{v.rep, u.rep}] = max(confidence, entries[{v.rep, u.rep}]);
+            } else {
+                entries[{u.rep, v.rep}] = confidence;
+            }
         }
         if(confidence >= config.conf_threshold)
         { //if it is higher than the threshold required predict this as a new translation
@@ -202,10 +203,10 @@ int DensityAlgo::findTransitive(int source, map<string, Graph> &pred, map<pair<w
         if(j!=source && source_connected.find(j)==source_connected.end()){
             wordNode u = dfsG.vertices[source], v = dfsG.vertices[j];
             if(entries.find({v.rep, u.rep})!=entries.end()){
-                entries[{v.rep, u.rep}] = max((float) 0.99, entries[{v.rep, u.rep}]);
+                entries[{v.rep, u.rep}] = max((float) 1, entries[{v.rep, u.rep}]);
             }
             else{
-                entries[{u.rep, v.rep}] = 0.99;
+                entries[{u.rep, v.rep}] = 1;
             }
             string langpairUv = u.rep.lang + "-" + v.rep.lang;
             string langpairVu = v.rep.lang + "-" + u.rep.lang;
@@ -223,8 +224,7 @@ int DensityAlgo::findTransitive(int source, map<string, Graph> &pred, map<pair<w
 }
 bool DensityAlgo::wordIsReq(wordNode &u, InfoSets &reqd){
     bool ret = true;
-    for(auto &info: reqd.infolist){
-
+    for(auto info: reqd.infolist){
         //if(!reqd.condOR[info].empty() && reqd.condOR[info].find(u.rep.info[info])==reqd.condOR[info].end()){
         //above if using dynamic
         string uinfo = u.rep.word_rep;
@@ -253,7 +253,7 @@ int DensityAlgo::run(string &passedfile, map<string, Graph> &pred, InfoSets &req
 
     for(int i = 0; i < G.vertices.size(); i++)
     {
-        if(i%10000==0 && i) {
+        if(i%50000==0 && i) {
             cout << i << endl; //output every 1000th node just to check progress
         }
         if(!wordIsReq(G.vertices[i], reqdPred)) continue;

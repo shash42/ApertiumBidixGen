@@ -6,6 +6,7 @@
 
 #include<chrono>
 #include<experimental/filesystem>
+#include<algorithm>
 
 using namespace std::chrono;
 namespace fs = std::experimental::filesystem;
@@ -67,6 +68,11 @@ void getStatsComps(Graph &G)
     compfile.close();
 }
 
+struct sortByConfDesc{
+    bool operator()(const pair<pair<wordData, wordData>, float> &u, pair<pair<wordData, wordData>, float> &v){
+        return u.second > v.second;
+    }
+};
 //load the pairs listed in LangData-List into the graph
 void runPairs(Graph &G, int idxign)
 {
@@ -109,9 +115,11 @@ void predByLang(string &file_pref, map<string, Graph> &pred,
         summary << endl; //blank line
     }
     //get possibilities with confidence printed
+    vector< pair< pair<wordData, wordData>, float> > ventry(entries.begin(), entries.end());
+    sort(ventry.begin(), ventry.end(), sortByConfDesc());
     cout << entries.size() << endl;
     ofstream poss; poss.open(file_pref + "possibilites.txt");
-    for(auto &entrypair: entries){
+    for(auto &entrypair: ventry){
         //only one of {w1, w2} or {w2, w1} can exist as in implementation
         wordData w1 = entrypair.first.first, w2 = entrypair.first.second;
         if(w1.lang + "-" + w2.lang != lp1) swap(w1, w2);
@@ -181,7 +189,7 @@ void genAll(string exptno, vector<Config> &configlist, map<string, int> &POS_to_
     string l1[] = {"en", "en", "fr", "fr", "eo", "eo", "eo", "eo", "oc", "oc", "oc"};
     string l2[] = {"es", "ca", "es", "ca", "fr", "ca", "en", "es", "ca", "es", "fr"};
 
-    for(int i = 0; i < 1; i++){
+    for(int i = 0; i < 11; i++){
         cout << "Language No.: " << i+1 << endl;
         Stopwatch timer;
         string lp1 = l1[i] + "-" + l2[i], lp2= l2[i] + "-" + l1[i]; //language pair to get predictions for
@@ -213,13 +221,14 @@ int main()
     vector<Config> config(num_configs); //initialize with number of different configs required
     map<string, int> POS_to_config;
     //config.large_cutoff = 0;
-    config[0].context_depth = 1;
-    config[0].conf_threshold = 0.65;
-    //config[0].max_cycle_length = 7;
-    //config[0].large_min_cyc_len = 5; config[0].small_min_cyc_len = 4;
+    config[0].context_depth = 4;
+    config[0].conf_threshold = 0.6;
+    config[0].max_cycle_length = 9;
+    config[0].deg_gt2_multiplier = 1.4;
+    config[0].large_min_cyc_len = 4; config[0].small_min_cyc_len = 4;
     //config[0].deg_gt2_multiplier = 1;
     config[1].transitive = 2;
-    config[1].context_depth = 3;
+    config[1].context_depth = 4;
     config[1].conf_threshold = 0.1; //every pruned cycle gets selected
     config[1].large_min_cyc_len = 4;
     POS_to_config["properNoun"] = 1; POS_to_config["numeral"] = 1;
