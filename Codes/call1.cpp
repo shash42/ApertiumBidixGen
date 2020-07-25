@@ -109,12 +109,13 @@ void predByLang(string &file_pref, map<string, Graph> &pred,
         summary << endl; //blank line
     }
     //get possibilities with confidence printed
+    cout << entries.size() << endl;
     ofstream poss; poss.open(file_pref + "possibilites.txt");
     for(auto &entrypair: entries){
         //only one of {w1, w2} or {w2, w1} can exist as in implementation
         wordData w1 = entrypair.first.first, w2 = entrypair.first.second;
-        if(w1.lang == lp2) swap(w1, w2);
-        if(w1.lang != lp1) continue;
+        if(w1.lang + "-" + w2.lang != lp1) swap(w1, w2);
+        if(w1.lang + "-" + w2.lang != lp1) continue;
         poss << w1.surface << " " << w2.surface << " " << entrypair.second << "\n";
         poss << w2.surface << " " << w1.surface << " " << entrypair.second << "\n";
     }
@@ -212,7 +213,7 @@ int main()
     vector<Config> config(num_configs); //initialize with number of different configs required
     map<string, int> POS_to_config;
     //config.large_cutoff = 0;
-    config[0].context_depth = 4;
+    config[0].context_depth = 1;
     config[0].conf_threshold = 0.65;
     //config[0].max_cycle_length = 7;
     //config[0].large_min_cyc_len = 5; config[0].small_min_cyc_len = 4;
