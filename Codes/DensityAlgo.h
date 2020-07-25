@@ -69,10 +69,10 @@ public:
         POS_to_config = _POS_to_config;
     }
     bool wordIsReq(wordNode &u, InfoSets &reqd); //are translations to be found for u
-    int run(string &passedfile, map<string, Graph> &pred, InfoSets &reqdPred);
+    int run(string &passedfile, map<string, Graph> &pred, InfoSets &reqdPred, map<pair<wordData, wordData>, float> &entries);
     //main function of the class to call other functions and run the algo
-    int findTrans(int source, map<string, Graph> &pred); //finalize translations and output them using metrics for each potential target
-    int findTransitive(int source, map<string, Graph>&pred);
+    int findTrans(int source, map<string, Graph> &pred, map<pair<wordData, wordData>, float> &entries); //finalize translations and output them using metrics for each potential target
+    int findTransitive(int source, map<string, Graph>&pred, map<pair<wordData, wordData>, float> &entries);
 };
 
 #endif //GSOCAPERTIUM2020_DENSITYALGO_H

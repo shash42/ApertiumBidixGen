@@ -93,8 +93,10 @@ void runPairs(Graph &G, int idxign)
 }
 
 //get predictions for a single language-pair
-void predByLang(string &file_pref, map<string, Graph> &pred, string &lp1, string &lp2){
+void predByLang(string &file_pref, map<string, Graph> &pred,
+        string &lp1, string &lp2, map<pair<wordData, wordData>, float> &entries){
     ofstream summary; summary.open(file_pref + "pred-summary.txt");
+
     for(auto &langpair: pred){
         if(langpair.first!=lp1 && langpair.first!=lp2) continue; //if not required pair continue
         Graph &langG = langpair.second; //graph of the language pair
@@ -105,6 +107,16 @@ void predByLang(string &file_pref, map<string, Graph> &pred, string &lp1, string
         ofstream outfile; outfile.open(file_name);
         langG.printGraph(outfile);
         summary << endl; //blank line
+    }
+    //get possibilities with confidence printed
+    ofstream poss; poss.open(file_pref + "possibilites.txt");
+    for(auto &entrypair: entries){
+        //only one of {w1, w2} or {w2, w1} can exist as in implementation
+        wordData w1 = entrypair.first.first, w2 = entrypair.first.second;
+        if(w1.lang == lp2) swap(w1, w2);
+        if(w1.lang != lp1) continue;
+        poss << w1.surface << " " << w2.surface << " " << entrypair.second << "\n";
+        poss << w2.surface << " " << w1.surface << " " << entrypair.second << "\n";
     }
 }
 
@@ -122,6 +134,7 @@ void predByLang(string &file_pref, map<string, Graph> &pred, string &lp1, string
 int runBicomp(Graph &G, vector<Config> configlist, map<string, int> &POS_to_config, string &prefix,
         map<string, Graph> &pred, string &exptno, string &lp1, string &lp2, InfoSets reqd)
 {
+    map<pair<wordData, wordData>, float> entries;
     string fileout_name = "../Main/Results/" + prefix + "bicomp_out.txt";
     ofstream fout;
     fout.open(fileout_name); fout.close();
@@ -134,7 +147,7 @@ int runBicomp(Graph &G, vector<Config> configlist, map<string, int> &POS_to_conf
     for(auto SG: G.subGraphs) //iterate over components and run density algo for each
     {
         DensityAlgo D = DensityAlgo(SG, configlist, POS_to_config);
-        new_trans += D.run(fileout_name, pred, reqd); //append output to fileout_name
+        new_trans += D.run(fileout_name, pred, reqd, entries); //append output to fileout_name
     }
 
     bool req_bicompless_run = false; //is a cycle-less (transitive) run required?
@@ -153,25 +166,11 @@ int runBicomp(Graph &G, vector<Config> configlist, map<string, int> &POS_to_conf
     if(req_bicompless_run){ //if the bicconnected component-less run is required
         //initialize a transitive Density algo object
         DensityAlgo DTrans = DensityAlgo(G, configlist_transitive, POS_to_config);
-        new_trans += DTrans.run(fileout_name, pred, reqd_transitive);
+        new_trans += DTrans.run(fileout_name, pred, reqd_transitive, entries);
     }
 
     string pred_file_name = "../Main/Results/Expts/" + exptno + "/Analysis/" + lp1 + "/";
-    predByLang(pred_file_name, pred, lp1, lp2);
-    return new_trans;
-}
-
-//Run directly without precomputing biconnected components
-int runDirect(Graph &G, vector<Config> &configlist, map<string, int> &POS_to_config, string &prefix,
-              map<string, Graph> &pred, string &exptno, string &lp1, string &lp2, InfoSets reqd)
-{
-    string fileout_name = "../Main/Results/" + prefix + "_out.txt";
-    ofstream fout;
-    fout.open(fileout_name); fout.close();
-    DensityAlgo D(G, configlist, POS_to_config);
-    int new_trans = D.run(fileout_name, pred, reqd);
-    string pred_file_name = "../Main/Results/Expts/" + exptno + "/Analysis/" + lp1 + "/";
-    predByLang(pred_file_name, pred, lp1, lp2);
+    predByLang(pred_file_name, pred, lp1, lp2, entries);
     return new_trans;
 }
 
@@ -181,7 +180,7 @@ void genAll(string exptno, vector<Config> &configlist, map<string, int> &POS_to_
     string l1[] = {"en", "en", "fr", "fr", "eo", "eo", "eo", "eo", "oc", "oc", "oc"};
     string l2[] = {"es", "ca", "es", "ca", "fr", "ca", "en", "es", "ca", "es", "fr"};
 
-    for(int i = 1; i < 11; i++){
+    for(int i = 0; i < 1; i++){
         cout << "Language No.: " << i+1 << endl;
         Stopwatch timer;
         string lp1 = l1[i] + "-" + l2[i], lp2= l2[i] + "-" + l1[i]; //language pair to get predictions for
@@ -203,8 +202,8 @@ void genAll(string exptno, vector<Config> &configlist, map<string, int> &POS_to_
         timer.log();
 
         //Do analysis of predictions
-        Compare C(l1[i], l2[i], i, exptno);
-        CountbyPOS cntPOS(exptno, lp1);
+        //Compare C(l1[i], l2[i], i, exptno);
+        //CountbyPOS cntPOS(exptno, lp1);
     }
 }
 int main()
@@ -225,7 +224,7 @@ int main()
     POS_to_config["properNoun"] = 1; POS_to_config["numeral"] = 1;
     InfoSets reqd;
     reqd.infolist.push_back("lang"); reqd.infolist.push_back("pos"); reqd.infolist.push_back("word_rep");
-    genAll("8", config, POS_to_config, reqd);
+    genAll("9", config, POS_to_config, reqd);
     //cin >> word;
     //Graph G;
     //runPairs(G, idxign); //load pairs into graph(object, langpairindex to ignore)

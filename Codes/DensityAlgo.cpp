@@ -132,7 +132,7 @@ void DensityAlgo::findCycles(Graph &C, int source){
     dfs(source, source, 0);
 }
 
-int DensityAlgo::findTrans(int source, map<string, Graph> &pred)
+int DensityAlgo::findTrans(int source, map<string, Graph> &pred, map<pair<wordData, wordData>, float> &entries)
 { //the source integer passed is it's index in context graph (dfsG)
     int num_trans = 0; //stores number of predicted translations
     //fout << "Confidence score matchings for lemma: " << dfsG.vertices[source].rep.surface << endl;
@@ -161,6 +161,13 @@ int DensityAlgo::findTrans(int source, map<string, Graph> &pred)
         }
 
         wordNode v = dfsG.vertices[i]; //
+
+        if(entries.find({v.rep, u.rep})!=entries.end()){
+            entries[{v.rep, u.rep}] = max(confidence, entries[{v.rep, u.rep}]);
+        }
+        else{
+            entries[{u.rep, v.rep}] = confidence;
+        }
         if(confidence >= config.conf_threshold)
         { //if it is higher than the threshold required predict this as a new translation
             /*string langpairUv = u.rep.info["lang"] + "-" + v.rep.info["lang"];
@@ -189,11 +196,17 @@ int DensityAlgo::findTrans(int source, map<string, Graph> &pred)
 }
 
 //Finds translations using transitive closure (all nodes in context within depth are translations)
-int DensityAlgo::findTransitive(int source, map<string, Graph> &pred) {
+int DensityAlgo::findTransitive(int source, map<string, Graph> &pred, map<pair<wordData, wordData>, float> &entries) {
     int num_trans=0;
     for(int j = 0; j < dfsG.vertices.size(); j++){
         if(j!=source && source_connected.find(j)==source_connected.end()){
             wordNode u = dfsG.vertices[source], v = dfsG.vertices[j];
+            if(entries.find({v.rep, u.rep})!=entries.end()){
+                entries[{v.rep, u.rep}] = max((float) 0.99, entries[{v.rep, u.rep}]);
+            }
+            else{
+                entries[{u.rep, v.rep}] = 0.99;
+            }
             string langpairUv = u.rep.lang + "-" + v.rep.lang;
             string langpairVu = v.rep.lang + "-" + u.rep.lang;
             bool isnew;
@@ -231,7 +244,7 @@ bool DensityAlgo::wordIsReq(wordNode &u, InfoSets &reqd){
  * Fill the ObjectSets with the language/POS/words you want. Translations for a lang/POS/word
  * will be searched if it is in it's respective set (unless that set is empty)
  */
-int DensityAlgo::run(string &passedfile, map<string, Graph> &pred, InfoSets &reqdPred)
+int DensityAlgo::run(string &passedfile, map<string, Graph> &pred, InfoSets &reqdPred, map<pair<wordData, wordData>, float> &entries)
 {
     //fout.open(passedfile, ios::app);
     //fout << G.vertices.size() << " " << G.num_edges << endl;
@@ -264,7 +277,7 @@ int DensityAlgo::run(string &passedfile, map<string, Graph> &pred, InfoSets &req
         //cout << G.vertices[i].rep.surface << " " << dfsG.vertices.size() << endl;
 
         if(config.transitive == 1){
-            num_trans += findTransitive(source_idx_inC, pred);
+            num_trans += findTransitive(source_idx_inC, pred, entries);
         }
         else if(config.transitive == 0){
             M[i].resize(dfsG.vertices.size()); //dim2 of M = no. of vertices in context of word (dfsG)
@@ -274,7 +287,7 @@ int DensityAlgo::run(string &passedfile, map<string, Graph> &pred, InfoSets &req
                 cyccount += met.size(); //add the number of valid metrics found to cycle count
             }
             //cout << G.vertices[i].rep.surface << " " << cyccount << endl;
-            num_trans += findTrans(source_idx_inC, pred);
+            num_trans += findTrans(source_idx_inC, pred, entries);
         }
     }
     //fout.close();
