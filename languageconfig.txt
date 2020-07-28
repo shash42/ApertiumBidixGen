@@ -1,0 +1,45 @@
+11
+en es
+10
+en fr fr eo eo eo eo oc oc oc
+ca es ca fr ca en es ca es fr
+en ca
+10
+en fr fr eo eo eo eo oc oc oc
+es es ca fr ca en es ca es fr
+fr es
+10
+en en fr eo eo eo eo oc oc oc
+es ca ca fr ca en es ca es fr
+fr ca
+10
+en en fr eo eo eo eo oc oc oc
+es ca es fr ca en es ca es fr
+eo fr
+10
+en en fr fr eo eo eo oc oc oc
+es ca es ca ca en es ca es fr
+eo ca
+10
+en en fr fr eo eo eo oc oc oc
+es ca es ca fr en es ca es fr
+eo en
+10
+en en fr fr eo eo eo oc oc oc
+es ca es ca fr ca es ca es fr
+eo es
+10
+en en fr fr eo eo eo oc oc oc
+es ca es ca fr ca en ca es fr
+oc ca
+10
+en en fr fr eo eo eo eo oc oc
+es ca es ca fr ca en es es fr
+oc es
+10
+en en fr fr eo eo eo eo oc oc
+es ca es ca fr ca en es ca fr
+oc fr
+10
+en en fr fr eo eo eo eo oc oc
+es ca es ca fr ca en es ca es
