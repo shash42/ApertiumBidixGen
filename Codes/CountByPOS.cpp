@@ -1,9 +1,9 @@
 #include "Graph.h"
 #include "Biconnected.h"
+#include "Graph.cpp"
+
 #include<set>
 #include<iostream>
-
-
 
 class CountbyPOS{
     Graph GO, GC, GE[4], GM[4];
@@ -102,22 +102,22 @@ void CountbyPOS::OutRaw(string lang, string fnamepref) {
 //count correct/extra for the output by POS category. lang stores the langpair name
 CountbyPOS::CountbyPOS(string &exptno, string &lang)
 {
-    string file_name = "../Main/LangData/Data-" + lang + ".txt"; //get file name for original language data
-    fout.open("../Main/Analysis/Tempfile.txt"); //required output file for load-data function
-    GO.loadData(file_name, fout); //load data into original graph
+    string file_name = "../LangData/Data-" + lang + ".txt"; //get file name for original language data
+    //fout.open("../Analysis/Tempfile.txt"); //required output file for load-data function
+    GO.loadData(file_name); //load data into original graph
     countpos(GO, OV, OE, fout, "Original");
-    string fnamepref = "../Main/Results/Expts/" + exptno + "/Analysis/" + lang + "/";
+    string fnamepref = "../Results/Expts/" + exptno + "/Analysis/" + lang + "/";
     file_name =  fnamepref + "correct.txt"; //file name for correct predictions
-    GC.loadData(file_name, fout); //load data into correct graph
+    GC.loadData(file_name); //load data into correct graph
     countpos(GC, CV, CE, fout, "Correct Predictions");
     for(int i = 0; i < 4; i++){
         file_name = fnamepref + "extra" + to_string(i) + ".txt"; //file name for extra predictions
-        GE[i].loadData(file_name, fout); //load data into extra graph
+        GE[i].loadData(file_name); //load data into extra graph
         countpos(GE[i], EV[i], EE[i], fout, "Extra predictions");
     }
     for(int i = 0; i < 4; i++){
         file_name = fnamepref + "missed" + to_string(i) + ".txt"; //file name for missed predictions
-        GM[i].loadData(file_name, fout); //load data into extra graph
+        GM[i].loadData(file_name); //load data into extra graph
         countpos(GM[i], MV[i], ME[i], fout, "Missed predictions");
     }
     fout.close();

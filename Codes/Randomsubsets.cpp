@@ -70,7 +70,7 @@ void Output(vector<info> &translations, string &dirpath){
 void gen(string &exptno, int numpairs, string l1[], string l2[]){
     for(int i = 0; i < numpairs; i++){
         string lp1 = l1[i] + "-" + l2[i], lp2= l2[i] + "-" + l1[i]; //language pair to get predictions for
-        string dirpath = "../Main/Results/Expts/" + exptno + "/Analysis/" + lp1;
+        string dirpath = "../Results/Expts/" + exptno + "/Analysis/" + lp1;
         vector<info> predictions;
 
         for(int sharev = 0; sharev < 4; sharev++){

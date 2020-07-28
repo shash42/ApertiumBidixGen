@@ -1,3 +1,5 @@
+#ifndef GSOCAPERTIUM2020_GRAPH_CPP
+#define GSOCAPERTIUM2020_GRAPH_CPP
 #include "Graph.h"
 
 string wordData::extract_rep(int &i, string edge) {
@@ -51,7 +53,7 @@ bool Graph::addEdge(wordData &u, wordData &v) {
     }
     return false;
 }
-void Graph::loadData(string &input_file, ofstream &fout)
+void Graph::loadData(string &input_file)
 {
     ifstream fin; //input file variable;
     string edge; //stores one edge information, i.e. one line in input file
@@ -66,8 +68,8 @@ void Graph::loadData(string &input_file, ofstream &fout)
         addEdge(SLw, TLw); //Add the edge
     }
 
-    fout << "Number of words: " << vertices.size() << endl;
-    fout << "Number of edges: " << num_edges << endl;
+    //fout << "Number of words: " << vertices.size() << endl;
+    //fout << "Number of edges: " << num_edges << endl;
 }
 void Graph::printGraph(ofstream &fout)
 { //u->v v->u will both be printed but won't necessarily be together in the output
@@ -87,3 +89,4 @@ void Graph::reset() {
     vertices.clear();
     subGraphs.clear();
 }
+#endif GSOCAPERTIUM2020_GRAPH_CPP

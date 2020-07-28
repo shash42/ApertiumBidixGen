@@ -66,7 +66,7 @@ public:
     void initNode(wordData &s); //initialize a node in the graph using worddata
     int getIdx(wordData &s); //get index of (or initialize) node corresponding to the word data
     bool addEdge(wordData &u, wordData &v); //add an edge between nodes having worddata u, v
-    void loadData(string &input_file, ofstream &fout); //load data into the graph from input_file
+    void loadData(string &input_file); //load data into the graph from input_file
     void reset(); //reset the graph object (empty it)
     void printGraph(ofstream &fout); //print the graph edges
 };

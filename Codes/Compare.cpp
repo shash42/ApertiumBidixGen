@@ -1,5 +1,7 @@
 #include "Graph.h"
 #include "Biconnected.h"
+#include "Graph.cpp"
+
 #include<set>
 #include<iostream>
 
@@ -17,17 +19,17 @@ void Compare::getUsedData(Graph &GD, int idxign)
     int num_pairs = 11; //number of pairs of languages.
     string input_file;
     ifstream file_list;
-    file_list.open("../Main/LangData-List.txt"); //file with names of lang pairs
-    ofstream fout;
-    fout.open("../Main/Analysis/Tempfile.txt");
+    file_list.open("../LangData-List.txt"); //file with names of lang pairs
+   // ofstream fout;
+ //   fout.open("../Analysis/Tempfile.txt");
     for(int i = 0; i < num_pairs; i++){
         file_list >> input_file;
         if(i==idxign) continue; //ignore this language pair (incase of removal and generation tests)
         //cout << input_file << endl; //output current input file for tracking progress
-        fout << input_file << endl;
-        GD.loadData(input_file, fout);
+     //   fout << input_file << endl;
+        GD.loadData(input_file);
     }
-    fout.close();
+    //fout.close();
 }
 
 //which extra graph to put in based on common vertices: 0-none, 1-lang1 vertex, 2-lang2 vertex, 3-both vertices
@@ -84,22 +86,22 @@ void Compare::getStats(Graph &inG, Graph &notInG, Graph &divG, Graph GE[], Graph
 
 Compare::Compare(string l1, string l2, int idxign, string &exptno){
     string lang = l1+"-"+l2; //language-pair to compare on
-    string pred = "../Main/Results/Expts/" + exptno + "/Analysis/" + lang + "/predictions.txt";
-    string orig = "../Main/LangData/Data-" + lang + ".txt"; //file with data for comparison
+    string pred = "../Results/Expts/" + exptno + "/Analysis/" + lang + "/predictions.txt";
+    string orig = "../LangData/Data-" + lang + ".txt"; //file with data for comparison
     Graph GP, GD, GO, GC, GE[4], GM[4]; //G-prediction, G-original, G-correct, G-extra, G-missed
-    ofstream fout;
-    fout.open("../Main/Analysis/Tempfile.txt"); //temporary output file for load data analytics
-    GP.loadData(pred, fout);
-    GO.loadData(orig, fout);
+    //ofstream fout;
+  //  fout.open("../Analysis/Tempfile.txt"); //temporary output file for load data analytics
+    GP.loadData(pred);
+    GO.loadData(orig);
     getUsedData(GD, idxign);
     set<string> VC, VE, VM; //words which it got correct, words which were extra and missed
 
     getStats(GP, GO, GO, GE, GC, VC, VE, l1, l2); //Get Precision Stats
     getStats(GO, GP, GD, GM, GC, VC, VM, l1, l2); //Get Recall Stats
 
-    fout.close();
+    //fout.close();
     ofstream summary, gout;
-    string prefix = "../Main/Results/Expts/" + exptno + "/Analysis/" + lang + "/";
+    string prefix = "../Results/Expts/" + exptno + "/Analysis/" + lang + "/";
     summary.open(prefix + "compare-summary.txt");
     summary << "Number of correct vertices (in P and O):" << VC.size() << endl;
     summary << "Number of extra vertices (in P, not in O): " << VE.size() << endl;
