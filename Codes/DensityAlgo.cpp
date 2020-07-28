@@ -1,3 +1,6 @@
+#ifndef GSOCAPERTIUM2020_DENSITYALGO_CPP
+#define GSOCAPERTIUM2020_DENSITYALGO_CPP
+
 #include "Graph.h"
 #include "Biconnected.h"
 #include "DensityAlgo.h"
@@ -135,7 +138,6 @@ void DensityAlgo::findCycles(Graph &C, int source){
 int DensityAlgo::findTrans(int source, map<string, Graph> &pred, map<pair<wordData, wordData>, float> &entries)
 { //the source integer passed is it's index in context graph (dfsG)
     int num_trans = 0; //stores number of predicted translations
-    //fout << "Confidence score matchings for lemma: " << dfsG.vertices[source].rep.surface << endl;
     wordNode u = G.vertices[source_idx_inG];
 
     for(int i = 0; i < dfsG.vertices.size(); i++) //iterate over all vertices
@@ -156,7 +158,6 @@ int DensityAlgo::findTrans(int source, map<string, Graph> &pred, map<pair<wordDa
 
         if(dfsG.vertices[source].adj.find(i)!=dfsG.vertices[source].adj.end())
         { //if existing translation in input graph
-            //       fout << "Existing: " << dfsG.vertices[i].rep.surface << endl;
             continue;
         }
 
@@ -183,16 +184,8 @@ int DensityAlgo::findTrans(int source, map<string, Graph> &pred, map<pair<wordDa
                 isnew = pred[langpairUv].addEdge(u.rep, v.rep);
             }
             if(isnew) num_trans++; //increase count of predicted translations
-            //     fout << "New Translation!: " << v.rep.surface << " = " << confidence << " - " << M[source_idx_inG][i].size();
         }
-
-        else{
-            //otherwise just output as an in-context word along with confidence, not a predicted translation
-            //   fout << "In context: " << v.rep.surface << " = " << confidence << " - " << M[source_idx_inG][i].size();
-        }
-        //    fout << endl;
     }
-    //fout << endl;
     return num_trans;
 }
 
@@ -244,10 +237,8 @@ bool DensityAlgo::wordIsReq(wordNode &u, InfoSets &reqd){
  * Fill the ObjectSets with the language/POS/words you want. Translations for a lang/POS/word
  * will be searched if it is in it's respective set (unless that set is empty)
  */
-int DensityAlgo::run(string &passedfile, map<string, Graph> &pred, InfoSets &reqdPred, map<pair<wordData, wordData>, float> &entries)
+int DensityAlgo::run(map<string, Graph> &pred, InfoSets &reqdPred, map<pair<wordData, wordData>, float> &entries)
 {
-    //fout.open(passedfile, ios::app);
-    //fout << G.vertices.size() << " " << G.num_edges << endl;
     M.resize(G.vertices.size()); //dim1 of M = no. of vertices in this graph - flag
     int num_trans = 0;
 
@@ -290,6 +281,7 @@ int DensityAlgo::run(string &passedfile, map<string, Graph> &pred, InfoSets &req
             num_trans += findTrans(source_idx_inC, pred, entries);
         }
     }
-    //fout.close();
     return num_trans;
 }
+
+#endif GSOCAPERTIUM2020_DENSITYALGO_CPP
