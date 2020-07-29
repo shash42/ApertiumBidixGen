@@ -1,11 +1,23 @@
 
 
+
 Last updated in June-end 2020
 
 
 # ApertiumBidixGen
 
 ### Bilingual Dictionary Generation via Graph Exploration for Apertium.
+
+#### Temporary Download Instructions for Reproducing
+<ol>
+<li> Create a folder in your local machine, and to it download the 'Codes' folder and the 'LangData' folder.
+<li> Make sure you have a compiler that supports C++17 or higher. 
+<li> cd into the 'Codes' folder and run  <br>
+g++ -std=c++17 Interface.cpp -lstdc++fs
+<li> Enter ./a.out
+<li> Follow the instructions given and provide the required information to generate predictions!
+<li> Check the Results folder and the corresponding experiment number's folder for the output of the algorithm.
+</ol>
 
 #### About the project
 
@@ -56,4 +68,5 @@ It might also be helpful to understand and internalize the concept of a [DFS-Tre
 
 #### Future Possibilities
 Using Linear Algebra to enumerate cycles, and perhaps exploit properties of Fundamental Cycles and Cycle Basis - [Introduction to the concept](https://www.codeproject.com/Articles/1158232/Enumerating-All-Cycles-in-an-Undirected-Graph). This can especially be useful to speed-up the computation of cycle-density for a given cycle.
+
 
