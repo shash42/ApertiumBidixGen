@@ -5,11 +5,11 @@
 #include "PosstoPred.cpp"
 
 #include<chrono>
-#include<experimental/filesystem>
+#include "filesystem.hpp"
 #include<algorithm>
 
 using namespace std::chrono;
-namespace fs = std::experimental::filesystem;
+namespace fs = std::filesystem;
 
 //Used to time code
 struct Stopwatch{
@@ -211,7 +211,7 @@ void Generate::RunWords(string &exptno) {
     }
     file_W.close();
     cout << "Word file read, " << numWords << " words received! " << endl;
-
+    cout << outfilename << endl;
     string lp2 = "Wont Be Used";
     Graph G;
     runPairs(G, lI[0]); //load pairs into graph(object, langpairindex to ignore)
@@ -220,6 +220,8 @@ void Generate::RunWords(string &exptno) {
     timer.start(); // start timer
     map<string, Graph> predicted; //string stores language pair and maps it to a graph
     reqd.condOR["lang"].clear();
+    string dirpath = "../Results/Expts/" + exptno + "/Analysis/" + outfilename;
+    fs::create_directory(dirpath);
     int new_trans = runDirectWords(G, H, POS_to_config, predicted, exptno, outfilename, lp2, reqd);
     cout << new_trans << endl;
     timer.end();
@@ -307,7 +309,23 @@ int main(){
     else if(choice==2){
         cout << "Enter your required confidence threshold: " << endl;
         float threshold; cin >> threshold;
-        convert(exptno, threshold);
+        cout << "How many folders (inside the experiment's folder) do you want to generate predictions for?: ";
+        int numfolders; cin >> numfolders;
+        cout << "Enter 1 foldername per line" << endl;
+        vector<string> foldernames;
+        for(int i = 0; i < numfolders; i++){
+            string temp;
+            while(temp.empty()){
+                getline(cin, temp);
+                string dirpath; dirpath = "../Results/Expts/" + exptno + "/Analysis/" + temp;
+                if(!fs::exists(dirpath)){
+                    cout << "Invalid foldername, " << to_string(numfolders - i) << " left. Try again!";
+                    temp.clear();
+                }
+            }
+            foldernames.push_back(temp);
+        }
+        convert(exptno, threshold, numfolders, foldernames);
     }
     return 0;
 }
