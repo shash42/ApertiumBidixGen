@@ -1,9 +1,8 @@
 #include "Graph.cpp"
 #include "Biconnected.cpp"
 #include "DensityAlgo.cpp"
-#include "Compare.cpp"
-#include "CountByPOS.cpp"
 #include "callers.cpp"
+#include "PosstoPred.cpp"
 
 #include<chrono>
 #include<experimental/filesystem>
@@ -30,18 +29,43 @@ struct Stopwatch{
     }
 };
 
+void CreateDir(string &exptno){
+    fs::create_directory("../Results");
+    fs::create_directory("../Results/Expts");
+    if(fs::exists("../Results/Expts/" + exptno)){
+        char choice = 'I';
+        while(choice == 'I'){
+            cout << "Experiment " << exptno << " already exists. Are you sure you want to overwrite it? [Y/N]: ";
+            cin >> choice;
+            choice = toupper(choice);
+            if(choice != 'Y' && choice != 'N'){
+                cout << "Invalid choice! Try again." << endl;
+                choice = 'I';
+            }
+        }
+        if(choice=='N') {
+            cout << "Please run the program again!" << endl;
+            exit(7);
+        }
+    }
+    fs::create_directory("../Results/Expts/" + exptno);
+    fs::create_directory("../Results/Expts/" + exptno + "/Analysis");
+}
+
 class Generate{
     int num_pred;
     vector<string> l1, l2;
     vector<vector<pair<string, string>>> lI;
     vector<Config> H;
     map<string, int> POS_to_config;
+    InfoSets reqd;
 public:
     void SetDefaults();
     void GetHyperparameters();
-    void GetLangs();
-    void Run(string &exptno);
+    void RunWords(string &exptno);
+    void RunLangs(string &exptno);
 };
+
 void Generate::SetDefaults() {
     Config defaultconfig, transitiveconfig;
     H.push_back(defaultconfig);
@@ -49,7 +73,9 @@ void Generate::SetDefaults() {
     transitiveconfig.context_depth = 3;
     H.push_back(transitiveconfig);
     POS_to_config["properNoun"] = 1; POS_to_config["numeral"] = 1;
+    reqd.infolist.push_back("lang"); reqd.infolist.push_back("pos"); reqd.infolist.push_back("word_rep");
 }
+
 void Generate::GetHyperparameters() {
     char choice = 'I';
     while(choice == 'I'){
@@ -65,6 +91,8 @@ void Generate::GetHyperparameters() {
         return;
     }
 
+    H.clear(); //remove defaults
+    POS_to_config.clear();
     string H_filename;
     do {
         cout << "Enter Hyperparameter file path relative to Interface.cpp run location" << endl;
@@ -76,10 +104,10 @@ void Generate::GetHyperparameters() {
     while(!fs::exists(H_filename));
     ifstream file_H;   file_H.open(H_filename);
 
-    string takein;
-    file_H >> takein;
     int num_H = 0;
     Config defaultconfig;   H.push_back(defaultconfig);
+    string takein;
+    file_H >> takein;
     while(takein != "POS_To_Hyperparameter_Map"){
         if(takein=="end"){
             file_H >> takein;
@@ -87,6 +115,7 @@ void Generate::GetHyperparameters() {
                 H.push_back(defaultconfig);
                 num_H++;
             }
+            continue;
         }
         else if(takein=="transitive"){
             string equalsym; file_H >> equalsym;
@@ -101,7 +130,7 @@ void Generate::GetHyperparameters() {
         else if(takein=="max_cycle_length"){
             string equalsym; file_H >> equalsym;
             int x; file_H >> x;
-            H[num_H].context_depth = x;
+            H[num_H].max_cycle_length = x;
         }
         else if(takein=="large_cutoff"){
             string equalsym; file_H >> equalsym;
@@ -129,9 +158,10 @@ void Generate::GetHyperparameters() {
             H[num_H].conf_threshold = x;
         }
         else{
-            cout << "Invalid Hyperparameter Name. Try Again!";
+            cout << "Invalid Hyperparameter Name " << takein << ". Try Again!";
             exit(7);
         }
+        file_H >> takein;
     }
 
     cout << H.size() << " Hyperparameter Configurations Retrieved" << endl;
@@ -141,9 +171,62 @@ void Generate::GetHyperparameters() {
         string equalsym; file_H >> equalsym;
         int x; file_H >> x;
         POS_to_config[takein] = x;
+        file_H >> takein;
     }
+    file_H.close();
 }
-void Generate::GetLangs() {
+
+void Generate::RunWords(string &exptno) {
+    num_pred = 1;
+    lI.resize(num_pred);
+    string W_filename;
+    do {
+        cout << "Enter word, language list file path relative to run location" << endl;
+        cin >> W_filename;
+        if(!fs::exists(W_filename)){
+            cout << "File not found" << endl;
+        }
+    }
+    while(!fs::exists(W_filename));
+    ifstream file_W; file_W.open(W_filename);
+
+    string outfilename;
+    getline(file_W, outfilename);
+    int numWords;
+    string numwordline;
+    getline(file_W, numwordline);
+    stringstream(numwordline) >> numWords;
+    for(int i = 0; i < numWords; i++){
+        string word;
+        getline(file_W, word);
+        reqd.condOR["word_rep"].insert(word);
+    }
+    int num_lang; file_W >> num_lang;
+    lI[0].resize(num_lang);
+    for(int j = 0; j < num_lang; j++){
+        file_W >> lI[0][j].first;
+    }
+    for(int j = 0; j < num_lang; j++){
+        file_W >> lI[0][j].second;
+    }
+    file_W.close();
+    cout << "Word file read, " << numWords << " words received! " << endl;
+
+    string lp2 = "Wont Be Used";
+    Graph G;
+    runPairs(G, lI[0]); //load pairs into graph(object, langpairindex to ignore)
+    cout << "Loaded" << endl;
+    Stopwatch timer;
+    timer.start(); // start timer
+    map<string, Graph> predicted; //string stores language pair and maps it to a graph
+    reqd.condOR["lang"].clear();
+    int new_trans = runDirectWords(G, H, POS_to_config, predicted, exptno, outfilename, lp2, reqd);
+    cout << new_trans << endl;
+    timer.end();
+    timer.log();
+}
+
+void Generate::RunLangs(string &exptno) {
     string L_filename;
     do {
         cout << "Enter language list file path relative to run location" << endl;
@@ -168,42 +251,34 @@ void Generate::GetLangs() {
             file_L >> lI[i][j].second;
         }
     }
-}
-void Generate::Run(string &exptno) {
-    InfoSets reqd;
-    reqd.infolist.push_back("lang"); reqd.infolist.push_back("pos"); reqd.infolist.push_back("word_rep");
+    file_L.close();
 
     for (int i = 0; i < num_pred; i++) {
         cout << "Language No.: " << i + 1 << endl;
-        Stopwatch timer;
         string lp1 = l1[i] + "-" + l2[i], lp2 = l2[i] + "-" + l1[i]; //language pair to get predictions for
         string dirpath = "../Results/Expts/" + exptno + "/Analysis/" + lp1;
         fs::create_directory(dirpath);
-        string prefix = "rem_" + lp1; //output file
 
-        //cin >> word;
         Graph G;
         runPairs(G, lI[i]); //load pairs into graph(object, langpairindex to ignore)
         cout << "Loaded" << endl;
+        Stopwatch timer;
         timer.start(); // start timer
         map<string, Graph> predicted; //string stores language pair and maps it to a graph
 
         //precompute biconnected components and then run
         reqd.condOR["lang"].clear();
-        reqd.condOR["lang"].insert(l1[i]);
-        reqd.condOR["lang"].insert(l2[i]);
-        int new_trans = runBicomp(G, H, POS_to_config, prefix, predicted, exptno, lp1, lp2, reqd);
+        bool fixedlp = false;
+        if(l1[i] != "NoFix"){
+            reqd.condOR["lang"].insert(l1[i]);
+            reqd.condOR["lang"].insert(l2[i]);
+            fixedlp = true;
+        }
+        int new_trans = runBicompLangs(G, H, POS_to_config, fixedlp, predicted, exptno, lp1, lp2, reqd);
         cout << new_trans << endl;
         timer.end();
         timer.log();
     }
-}
-
-void CreateDir(string &exptno){
-    fs::create_directory("../Results");
-    fs::create_directory("../Results/Expts");
-    fs::create_directory("../Results/Expts/" + exptno);
-    fs::create_directory("../Results/Expts/" + exptno + "/Analysis");
 }
 
 int main(){
@@ -211,10 +286,28 @@ int main(){
     cout << "Enter the Experiment Number: ";
     cin >> exptno;
     CreateDir(exptno);
-    Generate Predictor;
-    Predictor.SetDefaults();
-    Predictor.GetHyperparameters();
-    Predictor.GetLangs();
-    Predictor.Run(exptno);
+
+    cout << "Do you want to generate new possibilities (1) or convert an existing possibilities file to predictions (2) ?: ";
+    int choice;
+    cin >> choice;
+    if(choice==1){
+        Generate Predictor;
+        Predictor.SetDefaults();
+        Predictor.GetHyperparameters();
+
+        cout << "Do you want to generate translations for some words (1) or get all translations for some languages (2) ?: ";
+        int WLchoice; cin >> WLchoice;
+        if(WLchoice==1){
+            Predictor.RunWords(exptno);
+        }
+        else if(WLchoice==2){
+            Predictor.RunLangs(exptno);
+        }
+    }
+    else if(choice==2){
+        cout << "Enter your required confidence threshold: " << endl;
+        float threshold; cin >> threshold;
+        convert(exptno, threshold);
+    }
     return 0;
 }

@@ -46,12 +46,12 @@ void runPairs(Graph &G, vector<pair<string, string>> &lI)
 }
 
 //get predictions for a single language-pair
-void predByLang(string &file_pref, map<string, Graph> &pred,
+void predByLang(string &file_pref, map<string, Graph> &pred, bool fixedlp,
                 string &lp1, string &lp2, map<pair<wordData, wordData>, float> &entries){
     ofstream summary; summary.open(file_pref + "pred-summary.txt");
 
     for(auto &langpair: pred){
-        if(langpair.first!=lp1 && langpair.first!=lp2) continue; //if not required pair continue
+        if(fixedlp && langpair.first!=lp1 && langpair.first!=lp2) continue; //if not required pair continue
         Graph &langG = langpair.second; //graph of the language pair
         summary << langpair.first << endl;
         summary << "Number of vertices: " << langG.vertices.size() << endl;
@@ -69,31 +69,18 @@ void predByLang(string &file_pref, map<string, Graph> &pred,
     for(auto &entrypair: ventry){
         //only one of {w1, w2} or {w2, w1} can exist as in implementation
         wordData w1 = entrypair.first.first, w2 = entrypair.first.second;
-        if(w1.lang + "-" + w2.lang != lp1) swap(w1, w2);
-        if(w1.lang + "-" + w2.lang != lp1) continue;
+        if(fixedlp && w1.lang + "-" + w2.lang != lp1) swap(w1, w2);
+        if(fixedlp && w1.lang + "-" + w2.lang != lp1) continue;
         poss << w1.surface << " " << w2.surface << " " << entrypair.second << "\n";
         poss << w2.surface << " " << w1.surface << " " << entrypair.second << "\n";
     }
 }
 
-//Load a small word based context graph - FIX FUNCTION OR REMOVE
-/*void runWords(Graph &G, string &word)
-{
-    string fin_name = "../SampleWord/" + word + ".txt";
-    ofstream fout;
-    fout.open("../Results/" + word + "_analysis.txt");
-    G.loadData(fin_name, fout); //unidirectional data load
-    cout << "loaded" << endl;
-}*/
-
 //Run after precomputing biconnected components
-int runBicomp(Graph &G, vector<Config> configlist, map<string, int> &POS_to_config, string &prefix,
+int runBicompLangs(Graph &G, vector<Config> configlist, map<string, int> &POS_to_config, bool fixedlp,
               map<string, Graph> &pred, string &exptno, string &lp1, string &lp2, InfoSets reqd)
 {
     map<pair<wordData, wordData>, float> entries;
-    /*string fileout_name = "../Results/" + prefix + "bicomp_out.txt";
-    ofstream fout;
-    fout.open(fileout_name); fout.close();*/
     int new_trans=0;
 
     Biconnected B; //object of biconnected computation class
@@ -106,6 +93,7 @@ int runBicomp(Graph &G, vector<Config> configlist, map<string, int> &POS_to_conf
         new_trans += D.run(pred, reqd, entries); //append output to fileout_name
     }
 
+    cout << "Now Transitives\n";
     bool req_bicompless_run = false; //is a cycle-less (transitive) run required?
     InfoSets reqd_transitive = reqd; //additional restrictions for cycle-less run if any
     vector<Config> configlist_transitive = configlist;
@@ -126,6 +114,24 @@ int runBicomp(Graph &G, vector<Config> configlist, map<string, int> &POS_to_conf
     }
 
     string pred_file_name = "../Results/Expts/" + exptno + "/Analysis/" + lp1 + "/";
-    predByLang(pred_file_name, pred, lp1, lp2, entries);
+    predByLang(pred_file_name, pred, fixedlp, lp1, lp2, entries);
+    return new_trans;
+}
+
+//Run only particular words
+int runDirectWords(Graph &G, vector<Config> configlist, map<string, int> &POS_to_config,
+              map<string, Graph> &pred, string &exptno, string &lp1, string &lp2, InfoSets reqd)
+{
+    map<pair<wordData, wordData>, float> entries;
+    int new_trans=0;
+
+    for(auto config: configlist){
+        if(config.transitive==2) config.transitive=1;
+    }
+    DensityAlgo DTrans = DensityAlgo(G, configlist, POS_to_config);
+    new_trans += DTrans.run(pred, reqd, entries);
+
+    string pred_file_name = "../Results/Expts/" + exptno + "/Analysis/" + lp1 + "/";
+    predByLang(pred_file_name, pred, false, lp1, lp2, entries);
     return new_trans;
 }

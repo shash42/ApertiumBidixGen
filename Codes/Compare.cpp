@@ -1,3 +1,6 @@
+#ifndef GSOCAPERTIUM2020_COMPARE_CPP
+#define GSOCAPERTIUM2020_COMPARE_CPP
+
 #include "Graph.h"
 #include "Biconnected.h"
 #include "Graph.cpp"
@@ -138,3 +141,5 @@ Compare::Compare(string l1, string l2, int idxign, string &exptno){
         gout.close();
     }
 }
+
+#endif GSOCAPERTIUM2020_COMPARE_CPP

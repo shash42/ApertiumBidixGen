@@ -1,14 +1,14 @@
 #include "Compare.cpp"
 #include "CountByPOS.cpp"
 
-void convert(string exptno, float threshold){
+void convert(string exptno, float threshold, bool compare=false){
     float pr = 1e-5;
     int numpairs = 11;
     string l1[] = {"en", "en", "fr", "fr", "eo", "eo", "eo", "eo", "oc", "oc", "oc"};
     string l2[] = {"es", "ca", "es", "ca", "fr", "ca", "en", "es", "ca", "es", "fr"};
     for(int i = 0; i < numpairs; i++){
         string lp1 = l1[i] + "-" + l2[i], lp2= l2[i] + "-" + l1[i]; //language pair to get predictions for
-        string dirpath = "../Main/Results/Expts/" + exptno + "/Analysis/" + lp1;
+        string dirpath = "../Results/Expts/" + exptno + "/Analysis/" + lp1;
         string prefix= "rem_" + lp1; //output file
         ifstream file_poss;  ofstream file_pred;
         file_poss.open(dirpath + "/possibilities.txt");
@@ -28,12 +28,11 @@ void convert(string exptno, float threshold){
         }
         cout << "done" << endl;
         file_poss.close(); file_pred.close();
-        //Do analysis of predictions
-        Compare C(l1[i], l2[i], i, exptno);
-        CountbyPOS cntPOS(exptno, lp1);
+
+        if(compare) {
+            //Do analysis of predictions
+            Compare C(l1[i], l2[i], i, exptno);
+            CountbyPOS cntPOS(exptno, lp1);
+        }
     }
-}
-signed main(){
-    string exptno = "9";
-    convert(exptno, 0.5);
 }

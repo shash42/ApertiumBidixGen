@@ -1,3 +1,6 @@
+#ifndef GSOCAPERTIUM2020_COUNTBYPOS_CPP
+#define GSOCAPERTIUM2020_COUNTBYPOS_CPP
+
 #include "Graph.h"
 #include "Biconnected.h"
 #include "Graph.cpp"
@@ -125,3 +128,5 @@ CountbyPOS::CountbyPOS(string &exptno, string &lang)
     OutReadable(lang, fnamepref);
     OutRaw(lang, fnamepref);
 }
+
+#endif GSOCAPERTIUM2020_COUNTBYPOS_CPP
