@@ -64,7 +64,7 @@ void predByLang(string &file_pref, map<string, Graph> &pred, bool fixedlp,
     //get possibilities with confidence printed
     vector< pair< pair<wordData, wordData>, float> > ventry(entries.begin(), entries.end());
     sort(ventry.begin(), ventry.end(), sortByConfDesc());
-    cout << entries.size() << endl;
+    //cout << entries.size() << endl;
     ofstream poss; poss.open(file_pref + "possibilities.txt");
     for(auto &entrypair: ventry){
         //only one of {w1, w2} or {w2, w1} can exist as in implementation

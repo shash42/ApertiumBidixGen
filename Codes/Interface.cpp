@@ -5,7 +5,7 @@
 #include "PosstoPred.cpp"
 
 #include<chrono>
-#include "filesystem.hpp"
+#include "filesystem.hpp" 
 #include<algorithm>
 
 using namespace std::chrono;
@@ -223,7 +223,7 @@ void Generate::RunWords(string &exptno) {
     string dirpath = "../Results/Expts/" + exptno + "/Analysis/" + outfilename;
     fs::create_directory(dirpath);
     int new_trans = runDirectWords(G, H, POS_to_config, predicted, exptno, outfilename, lp2, reqd);
-    cout << new_trans << endl;
+    //cout << new_trans << endl;
     timer.end();
     timer.log();
 }
@@ -277,7 +277,7 @@ void Generate::RunLangs(string &exptno) {
             fixedlp = true;
         }
         int new_trans = runBicompLangs(G, H, POS_to_config, fixedlp, predicted, exptno, lp1, lp2, reqd);
-        cout << new_trans << endl;
+       // cout << new_trans << endl;
         timer.end();
         timer.log();
     }
