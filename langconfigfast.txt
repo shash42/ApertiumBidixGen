@@ -1,0 +1,9 @@
+2
+en es
+10
+en fr fr eo eo eo eo oc oc oc
+ca es ca fr ca en es ca es fr
+NoFix 2
+11
+en en fr eo eo eo eo oc oc oc
+ca es ca fr ca en es ca es fr

@@ -1,0 +1,8 @@
+WordOutput
+3
+doll
+muñeca
+abacus
+11
+en en fr fr eo eo eo eo oc oc oc
+es ca es ca fr ca en es ca es fr
