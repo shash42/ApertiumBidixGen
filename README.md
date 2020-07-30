@@ -10,7 +10,7 @@ Last updated in June-end 2020
 
 #### Temporary Download Instructions for Reproducing
 <ol>
-<li> Create a folder in your local machine, and to it download the 'Codes' folder and the 'LangData' folder.
+<li> Download the Tool folder to your local machine.
 <li> Make sure you have a compiler that supports C++17 or higher. 
 <li> cd into the 'Codes' folder and run  <br>
 g++ -std=c++17 Interface.cpp -lstdc++fs
