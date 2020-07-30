@@ -12,12 +12,12 @@ C++17 or higher
 </ol>
 
 <h2> Usage Guidelines </h2>
-After running the executable (./a.out for now), the program outputs the following:
+After running the executable (./a.out for now), the program outputs the following: 
 
 > Enter the Experiment Number:
 
 It is important to understand why this is asked. The output of each run produces or overwrites data in a folder named with the experiment number you input. This folder is present inside Results/ (also produced by the program it doesn't already exist). So for example if you enter '2' then a folder with path Tool/Results/2/Analysis/ will contain the actions of the program. <br>
-This essentially allows the user to run the program with separate config parameters and get results in separate folders to analyze what config parameters works best for them.
+This essentially allows the user to run the program with separate config parameters and get results in separate folders to analyze what config parameters works best for them. <br>
 
 If the folder number you input already exists, the program will re-confirm if you want to make changes to the folder (potentially overwriting the existing data). 
 
@@ -47,8 +47,8 @@ Simply put the name of each folder (inside the experiment folder) that you wish 
 The program will now execute and generate the predictions.txt based on the possibilities.txt inside these folders. <br>
 Example output:
 
-> doll done!
-> en-ca done!
+> doll done! <br>
+> en-ca done! <br>
 
 Great! Now you've learnt how to generate predictions from possibilities, but how to generate possibilities in the first place? Let's go back to when the program asked for this:
 
@@ -88,43 +88,43 @@ As mentioned before, there are 2 main ways to generate new possibilities. One is
 <h3> Language-Pair Config file </h3>
 
 A 'block' in a language-pair config file consists the follows: <br>
-> Output Language Pair as "en es" or "NoFix integer"
-> Number of input language pairs, say M
-> SL~1~ SL~2~ SL~3~ ... SL~M~
-> TL~1~ TL~2~ TL~3~ ... TL~M~
+> Output Language Pair as "en es" or "NoFix integer" <br>
+> Number of input language pairs, say M <br>
+> SL~1~ SL~2~ SL~3~ ... SL~M~ <br>
+> TL~1~ TL~2~ TL~3~ ... TL~M~ <br>
 
 The first line contains the target language pair for which entries have to be generated. So for eg: "en es" means generating entries from english to spanish (and vice-versa). "en-es" will also become be the name of the folder in which results will be generated. Notably, it's also possible to not restrict the predicted translations' language pair by specifying the first line of the block as "NoFix 1" or "NoFix 2" or any other integer with "NoFix" (case-sensitive). In this case results will be produced in the "NoFix-1" or "NoFix-2" etc. folder. <br>
 The second line contains the number of input language pairs, say N. This data will be used to produce predictions and the input data must be available in the LangData folder with file names like "Data-en-es.txt". The LangData folder is provided in installation. The 3rd and 4th line together contain the description of these N language pairs. The ith string on both lines forms a language pair. So for eg if line 3 and 4 are:
 
-> en en fr
-> ca es ca
+> en en fr <br>
+> ca es ca <br>
 
 This means the input language pairs are en-ca, en-es and fr-ca. Also, in this example the second line of the block must have 3. <br>
 
 The first line of the language-pair config file consists of the number of blocks, say M. Description for M blocks follow in the following 4M lines. Example:
 
-> Number of blocks, M
-> 4 LINES describing Block 1
-> 4 LINES describing Block 2
-> .
-> .
-> .
+> Number of blocks, M <br>
+> 4 LINES describing Block 1 <br>
+> 4 LINES describing Block 2 <br>
+> . <br>
+> . <br>
+> 4 LINES describing Block M <br>
 
 Examples are provided in "langconfigfast.txt" and "languageconfig.txt", specifically the latter reproduces the experiment of removing 1 language pair and using the other 10 as input.
 
 <h3> Word Config file </h3>
 The brief format of the word config file is as follows:
 
-> Output File Name
-> Number of words to find translations for, say N
-> Word 1
-> Word 2
+> Output File Name <br>
+> Number of words to find translations for, say N <br>
+> Word 1 <br>
+> Word 2 <br>
 > .
 > .
-> Word N
-> Number of input language pairs, say M
-> SL~1~ SL~2~ SL~3~ ... SL~M~
-> TL~1~ TL~2~ TL~3~ ... TL~M~
+> Word N<br>
+> Number of input language pairs, say M<br>
+> SL~1~ SL~2~ SL~3~ ... SL~M~<br>
+> TL~1~ TL~2~ TL~3~ ... TL~M~<br>
 
 The output file name is where the final output results will be produced. The 2nd line contains the number of words for which the user needs translations. Then, one word per line needs to be added. Finally, the input language pair description which is used for generation follows much as explained above.
 <h3> Hyperparameter Config file </h3>
@@ -156,36 +156,36 @@ In practice, tuning 1), 2), 3) and 8) should be more than sufficient. Confidence
 Right now, the formatting requirements for the hyperparameters file is quite strict. It is white-space sensitive, so please adhere to the format carefully. <br>
 The formal structure of the file is as follows: <br>
 
-> ~Hyperparameter Set~ 0
-> end
-> ~Hyperparameter Set~ 1
-> end
-> .
-> .
-> .
-> POS_To_Hyperparameter_Map
-> POS1 = index-i
-> POS2 = index-j
-> .
-> .
-> .
->ENDOFFILE
+> ~Hyperparameter Set~ 0 <br>
+> end<br>
+> ~Hyperparameter Set~ 1<br>
+> end<br>
+> .<br>
+> .<br>
+> .<br>
+> POS_To_Hyperparameter_Map<br>
+> POS1 = index-i<br>
+> POS2 = index-j<br>
+> .<br>
+> .<br>
+> .<br>
+>ENDOFFILE<br>
 
 ~Hyperparameter Set~ as defined above is a group of lines of the following form:
 
-> transitive = 0
-> context_depth = 4
-> max_cycle_length = 9
-> large_cutoff = 5
-> large_min_cyc_len = 5
-> small_min_cyc_len = 4
-> deg_gt2_multiplier = 1.1
-> conf_threshold = 0.65
+> transitive = 0<br>
+> context_depth = 4<br>
+> max_cycle_length = 9<br>
+> large_cutoff = 5<br>
+> large_min_cyc_len = 5<br>
+> small_min_cyc_len = 4<br>
+> deg_gt2_multiplier = 1.1<br>
+> conf_threshold = 0.65<br>
 
 The given aliases are both case sensitive and any change in spelling would make them unrecognizable for the program. Note that it is not important to add specific values for all hyperparameters. If the value for a specific hyperparameter is not mentioned, it's default value will be used. So for example, cross-checking with the defaults above, the above set differs only in max_cycle_length and deg_gt2_multiplier. So it is sufficient to only specify them without any changes to the actual output/meaning:
-> max_cycle_length = 9
-> deg_gt2_multiplier = 1.1
-> 
+> max_cycle_length = 9<br>
+> deg_gt2_multiplier = 1.1<br>
+
 A sample file ("hyperparameters.txt") is also provided to understand this paradigm. 
 
 <hr> </hr>
