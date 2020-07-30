@@ -90,8 +90,8 @@ As mentioned before, there are 2 main ways to generate new possibilities. One is
 A 'block' in a language-pair config file consists the follows: <br>
 > Output Language Pair as "en es" or "NoFix integer" <br>
 > Number of input language pairs, say M <br>
-> SL~1~ SL~2~ SL~3~ ... SL~M~ <br>
-> TL~1~ TL~2~ TL~3~ ... TL~M~ <br>
+> SL<sub>1</sub> SL<sub>2</sub> SL<sub>3</sub> ... SL<sub>M</sub> <br>
+> TL<sub>1</sub> TL<sub>2</sub> TL<sub>3</sub> ... TL<sub>M</sub> <br>
 
 The first line contains the target language pair for which entries have to be generated. So for eg: "en es" means generating entries from english to spanish (and vice-versa). "en-es" will also become be the name of the folder in which results will be generated. Notably, it's also possible to not restrict the predicted translations' language pair by specifying the first line of the block as "NoFix 1" or "NoFix 2" or any other integer with "NoFix" (case-sensitive). In this case results will be produced in the "NoFix-1" or "NoFix-2" etc. folder. <br>
 The second line contains the number of input language pairs, say N. This data will be used to produce predictions and the input data must be available in the LangData folder with file names like "Data-en-es.txt". The LangData folder is provided in installation. The 3rd and 4th line together contain the description of these N language pairs. The ith string on both lines forms a language pair. So for eg if line 3 and 4 are:
@@ -123,8 +123,8 @@ The brief format of the word config file is as follows:
 > .
 > Word N<br>
 > Number of input language pairs, say M<br>
-> SL~1~ SL~2~ SL~3~ ... SL~M~<br>
-> TL~1~ TL~2~ TL~3~ ... TL~M~<br>
+> SL<sub>1</sub> SL<sub>2</sub> SL<sub>3</sub> ... SL<sub>M</sub> <br>
+> TL<sub>1</sub> TL<sub>2</sub> TL<sub>3</sub> ... TL<sub>M</sub> <br>
 
 The output file name is where the final output results will be produced. The 2nd line contains the number of words for which the user needs translations. Then, one word per line needs to be added. Finally, the input language pair description which is used for generation follows much as explained above.
 <h3> Hyperparameter Config file </h3>
@@ -156,9 +156,9 @@ In practice, tuning 1), 2), 3) and 8) should be more than sufficient. Confidence
 Right now, the formatting requirements for the hyperparameters file is quite strict. It is white-space sensitive, so please adhere to the format carefully. <br>
 The formal structure of the file is as follows: <br>
 
-> ~Hyperparameter Set~ 0 <br>
+> *Hyperparameter Set* 0 <br>
 > end<br>
-> ~Hyperparameter Set~ 1<br>
+> *Hyperparameter Set* 1<br>
 > end<br>
 > .<br>
 > .<br>
@@ -171,7 +171,7 @@ The formal structure of the file is as follows: <br>
 > .<br>
 >ENDOFFILE<br>
 
-~Hyperparameter Set~ as defined above is a group of lines of the following form:
+*Hyperparameter Set* as defined above is a group of lines of the following form:
 
 > transitive = 0<br>
 > context_depth = 4<br>
