@@ -53,6 +53,8 @@ vector<info> getRand(vector<info> &pred, int num_req, string &l1){
             randidx = rng(0, pred.size());
             if(POS.find(pred[randidx].SLw.pos)==POS.end()) randidx=-1;
             else if(pred[randidx].SLw.lang != l1) randidx=-1;
+            else if(pred[randidx].SLw.word_rep == pred[randidx].TLw.word_rep) randidx=-1;
+            else if(pred[randidx].SLw.pos != pred[randidx].TLw.pos) randidx=-1;
         }
         taken.insert(randidx);
         translations.push_back(pred[randidx]);
@@ -61,7 +63,7 @@ vector<info> getRand(vector<info> &pred, int num_req, string &l1){
 }
 
 void Output(vector<info> &translations, string &dirpath){
-    ofstream fout; fout.open(dirpath + "/randomsubset.csv");
+    ofstream fout; fout.open(dirpath + "/randomsubset2.csv");
     for(auto &t: translations){
         fout << t.SLw.surface << " , " << t.TLw.surface << " , " << t.sharedv << " , " << t.confidence << '\n';
     }
