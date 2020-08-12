@@ -57,17 +57,33 @@ void BidixParsing::populate_POS_Map(){
         if(!v[3].empty()){
             string apert = getMapTag(v[0]), lex = getMapTag(v[2]);
           //  cout << apert << " " << lex << endl;
+            if(lex[0]=='v' && lex[1]=='b') lex = "verb"; //manual change, get every vb to verb.
             ApertToLex[apert] = lex;
         }
     }
+    //Manual additions:
+    ApertToLex["abbr"] = "properNoun";
 }
 
 void BidixParsing::getPOS(wordData &word, string &nval){
-    string info;
+    string _info, info;
+    if(nval[0]==':') nval = nval.substr(1, nval.length()); //edge-case for nno-nob pair.
     istringstream str(nval);
-    while(getline(str, info, '_')){
-        if(info.empty()) continue;
-        if(ApertToLex.find(info)!=ApertToLex.end()) word.pos = ApertToLex[info];
+    string fullpos;
+    bool _start=true;
+    while(getline(str, _info, '_')){
+        if(!_start) fullpos += '_';
+        _start=false;
+        stringstream tempss = stringstream(_info); //added second check for - to handle edge-case as in pol-szl
+        bool dashstart = true;
+        while(getline(tempss, info, '-')){
+            if(!dashstart) fullpos += '-';
+            dashstart = false;
+            if(info.empty()) continue;
+            fullpos += info;
+            if(ApertToLex.find(info)!=ApertToLex.end()) word.pos = ApertToLex[info];
+            if(word.pos=="none" && ApertToLex.find(fullpos)!=ApertToLex.end()) word.pos = ApertToLex[fullpos];
+        }
     }
 }
 
@@ -80,7 +96,16 @@ wordData BidixParsing::getWord(xml_node w, string &lang){
             if(!word.word_rep.empty()) word.word_rep += " ";
             word.word_rep += chtag.value();
         }
-        else if(tagname == "s"){
+        if(tagname == "g"){
+            for(xml_node gch = chtag.first_child(); gch; gch = gch.next_sibling()){
+                string gtag = gch.name();
+                if(gtag.empty()){
+                    if(!word.word_rep.empty()) word.word_rep += " ";
+                    word.word_rep += gch.value();
+                }
+            }
+        }
+        else if(word.pos=="none" && tagname == "s"){
             string nval = chtag.attribute("n").value();
             if(!nval.empty()){
                 getPOS(word, nval);
@@ -93,12 +118,18 @@ wordData BidixParsing::getWord(xml_node w, string &lang){
 
 void BidixParsing::Output(){
     cout << num_entries << endl;
-    int corr = 0, err = 0;
+    int corr = 0, err = 0, useful = 0;
     string correctpath = "../Bidixes/Parsed/Correct/" + l1 + "-" + l2 + ".txt";
     string errorpath = "../Bidixes/Parsed/Error/" + l1 + "-" + l2 + ".txt";
+    string usefulpath = "../Bidixes/Parsed/Useful/" + l1 + "-" + l2 + ".txt";
     ofstream fout; fout.open(correctpath);
     ofstream ferr; ferr.open(errorpath);
+    ofstream fuse; fuse.open(usefulpath);
     for(auto &t: translations){
+        if(t.first.pos!="none" && t.second.pos!="none" && !t.first.word_rep.empty() && !t.second.word_rep.empty()){
+            fuse << t.first.surface << " " << t.second.surface << endl;
+            useful++;
+        }
         if(t.first.pos != t.second.pos || t.first.pos=="none" || t.first.word_rep.empty() || t.second.word_rep.empty()){
             ferr << t.first.surface <<  " " << t.second.surface <<  endl;
             err++;
@@ -108,7 +139,7 @@ void BidixParsing::Output(){
             fout << t.first.surface <<  " " << t.second.surface <<  endl;
         }
     }
-    cout << corr << " " << err << endl;
+    cout << useful << " " << corr << " " << err << endl;
 }
 
 void BidixParsing::run(string _l1, string _l2){
@@ -118,7 +149,7 @@ void BidixParsing::run(string _l1, string _l2){
     string strpath = "../Bidixes/Raw/apertium-" + l1 + "-" + l2 + "." + l1 + "-" + l2 + ".dix";
     const char* path = const_cast<char *>(strpath.c_str());
     xml_parse_result result = doc.load_file(path);
-    cout << result.description() << endl << result.offset << endl;
+    //cout << result.description() << endl << result.offset << endl;
     xml_node dict = doc.first_child();
 
     for(xml_node child = dict.first_child(); child; child = child.next_sibling()){
@@ -141,7 +172,7 @@ void BidixParsing::run(string _l1, string _l2){
                     valid = true;
                 }
 
-                else if(tagname=="par"){
+                else if((left.pos=="none" || right.pos=="none") && tagname=="par"){
                     string nval = ech.attribute("n").value();
                     if(!nval.empty()){
                         getPOS(left, nval);   getPOS(right, nval);
