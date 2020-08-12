@@ -3,10 +3,41 @@
 #include<iostream>
 #include<vector>
 #include<sstream>
+#include "filesystem.hpp"
 #include "Graph.h"
 
 using namespace std;
 using namespace pugi;
+namespace fs = std::filesystem;
+
+map<string, string> langcode2to3;
+
+void loadlangcodes(){
+    ifstream flang; flang.open("../LangData/ISO639 - Sheet1.tsv");
+    string line, cell;
+    int linenum = 0;
+    while(getline(flang, line, '\n')){
+        linenum++;
+        if(linenum==1) continue; //ignore first line of the tsv
+        /*for(int i = 0; i < line.length(); i++){
+            if(line[i]=='\t'){
+                cout << "woot" << " ";
+            }
+        }*/
+        line = line.substr(0, line.length()-1); //clean last erroneous character
+        istringstream entry(line);
+        int colnum=0;
+        string let2, let3;
+        while(getline(entry, cell, '\t')){
+            colnum++;
+            if(colnum%3==1) continue; //ignore the name
+            else if(colnum%3==2) let2=cell;
+            else if(colnum%3==0) let3=cell;
+        }
+        langcode2to3[let2] = let3;
+    }
+    flang.close();
+}
 
 class BidixParsing{
     map<string, string> ApertToLex;
@@ -41,7 +72,7 @@ string BidixParsing::getMapTag(string &str){
 }
 
 void BidixParsing::populate_POS_Map(){
-    string path = "../Bidixes/apertium-lexinfo-tags-mapping.csv";
+    string path = "../LangData/apertium-lexinfo-tags-mapping.csv";
     ifstream fin; fin.open(path);
     string line;
     int num = 0;
@@ -89,7 +120,9 @@ void BidixParsing::getPOS(wordData &word, string &nval){
 
 wordData BidixParsing::getWord(xml_node w, string &lang){
     wordData word;
-    word.lang = lang; word.pos = "none";
+    word.lang = lang;
+    if(langcode2to3.find(lang)!=langcode2to3.end()) word.lang = langcode2to3[lang];
+    word.pos = "none";
     for(xml_node chtag = w.first_child(); chtag; chtag = chtag.next_sibling()){
         string tagname = chtag.name();
         if(tagname.empty()){
@@ -118,47 +151,48 @@ wordData BidixParsing::getWord(xml_node w, string &lang){
 
 void BidixParsing::Output(){
     cout << num_entries << endl;
-    int corr = 0, err = 0, useful = 0;
-    string correctpath = "../Bidixes/Parsed/Correct/" + l1 + "-" + l2 + ".txt";
-    string errorpath = "../Bidixes/Parsed/Error/" + l1 + "-" + l2 + ".txt";
-    string usefulpath = "../Bidixes/Parsed/Useful/" + l1 + "-" + l2 + ".txt";
-    ofstream fout; fout.open(correctpath);
-    ofstream ferr; ferr.open(errorpath);
+    //int corr = 0, err = 0, useful = 0;
+    //string correctpath = "../LangData/Parsed/Correct/" + l1 + "-" + l2 + ".txt";
+    //string errorpath = "../LangData/Parsed/Error/" + l1 + "-" + l2 + ".txt";
+    fs::create_directory("../LangData/Parsed");
+    string usefulpath = "../LangData/Parsed/" + l1 + "-" + l2 + ".txt";
+    //ofstream fout; fout.open(correctpath);
+    //ofstream ferr; ferr.open(errorpath);
     ofstream fuse; fuse.open(usefulpath);
     for(auto &t: translations){
         if(t.first.pos!="none" && t.second.pos!="none" && !t.first.word_rep.empty() && !t.second.word_rep.empty()){
             fuse << t.first.surface << " " << t.second.surface << endl;
-            useful++;
+            // useful++;
         }
-        if(t.first.pos != t.second.pos || t.first.pos=="none" || t.first.word_rep.empty() || t.second.word_rep.empty()){
+      /*  if(t.first.pos != t.second.pos || t.first.pos=="none" || t.first.word_rep.empty() || t.second.word_rep.empty()){
             ferr << t.first.surface <<  " " << t.second.surface <<  endl;
             err++;
         }
         else{
             corr++;
             fout << t.first.surface <<  " " << t.second.surface <<  endl;
-        }
+        }*/
     }
-    cout << useful << " " << corr << " " << err << endl;
+//    cout << useful << " " << corr << " " << err << endl;
 }
 
 void BidixParsing::run(string _l1, string _l2){
-    l1 = _l1; l2 = _l2;
-    translations.clear(); num_entries = 0;
+    l1 = _l1; l2 = _l2; //get passed language pair
+    translations.clear(); num_entries = 0; //remove data from old runs
     xml_document doc;
-    string strpath = "../Bidixes/Raw/apertium-" + l1 + "-" + l2 + "." + l1 + "-" + l2 + ".dix";
-    const char* path = const_cast<char *>(strpath.c_str());
+    string strpath = "../LangData/Raw/apertium-" + l1 + "-" + l2 + "." + l1 + "-" + l2 + ".dix";
+    const char* path = const_cast<char *>(strpath.c_str()); //convert path to const char* as required for result
     xml_parse_result result = doc.load_file(path);
-    //cout << result.description() << endl << result.offset << endl;
-    xml_node dict = doc.first_child();
+    //cout << result.description() << endl << result.offset << endl; //used to give error details and last char
+    xml_node dict = doc.first_child();//dict tag
 
     for(xml_node child = dict.first_child(); child; child = child.next_sibling()){
-        if((string) child.name()!="section") continue;
+        if((string) child.name()!="section") continue; //iterate over sections
         for(xml_node e = child.child("e"); e; e = e.next_sibling("e")){
-            num_entries++;
-            wordData left, right; bool valid = false;
+            num_entries++; //iterate over entries
+            wordData left, right; bool valid = false; //valid is used to mark correctly parsed entries(?)
             for(xml_node ech = e.first_child(); ech; ech = ech.next_sibling()){
-                string tagname = ech.name();
+                string tagname = ech.name(); //iterate over child nodes of <e> tag
 
                 if(tagname=="p"){
                     xml_node p = e.first_child();
@@ -188,15 +222,17 @@ void BidixParsing::run(string _l1, string _l2){
 }
 
 int main(){
-    ifstream fin; fin.open("../Bidixes/list.txt");
-    freopen("../Bidixes/Analysis.txt", "w", stdout);
+    loadlangcodes(); //load 2 digit to 3 digit language code table
+    ifstream fin; fin.open("../LangData/langlist.txt"); //list of languages to parse
+    //freopen("../LangData/Analysis.txt", "w", stdout);
     BidixParsing BP;
     while(!fin.eof()){
         string l1, l2;
         fin >> l1 >> l2;
-        cout << l1 << " " << l2 << endl;
+        if(l1.length()==0 || l2.length()==0) continue; //added check (ignore) for empty lines/langnames
+        //cout << l1 << " " << l2 << endl;
         cerr << l1 << " " << l2 << endl;
-        BP.run(l1, l2);
-        BP.Output();
+        BP.run(l1, l2); //run parsing for the given language pair
+        BP.Output(); //output the parse results
     }
 }
