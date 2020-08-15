@@ -1,9 +1,9 @@
 2
-en es
+eng spa
 10
-en fr fr eo eo eo eo oc oc oc
-ca es ca fr ca en es ca es fr
+eng fra fra epo epo epo epo oci oci oci
+cat spa cat fra cat eng spa cat spa fra
 NoFix 2
 11
-en en fr eo eo eo eo oc oc oc
-ca es ca fr ca en es ca es fr
+eng eng fra fra epo epo epo epo oci oci oci
+cat spa spa cat fra cat eng spa cat spa fra
