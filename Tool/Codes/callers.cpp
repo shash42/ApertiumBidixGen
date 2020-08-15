@@ -18,7 +18,7 @@ void runPairs(Graph &G, vector<pair<string, string>> &lI)
     for(int i = 0; i < lI.size(); i++)
     {
         string langpair = lI[i].first + "-" + lI[i].second;
-        input_file = "../LangData/Data-" + langpair + ".txt";
+        input_file = "../LangData/Parsed/" + langpair + ".txt";
         //cout << input_file << endl; //output current input file for tracking progress
         //fout << input_file << endl;
         G.loadData(input_file);

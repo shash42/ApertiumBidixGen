@@ -96,8 +96,7 @@ void BidixParsing::getPOS(wordData &word, string &nval){
 //Get the word representation and POS from xml node (language has to be passed as parameter can be 2 letter code)
 wordData BidixParsing::getWord(xml_node w, string &lang, LangCodes &LC){
     wordData word; //word object that will be returned
-    word.lang = lang; //assign the lang (which may be 2 lett
-    if(LC.langcode2to3.find(lang)!=LC.langcode2to3.end()) word.lang = LC.langcode2to3[lang]; //convert to 3 letter code
+    word.lang = lang; //assign the 3 letter lang code
     word.pos = "none"; //initially POS is none
     for(xml_node chtag = w.first_child(); chtag; chtag = chtag.next_sibling()){ //iterate through children node in xml
         string tagname = chtag.name();
@@ -155,15 +154,17 @@ void BidixParsing::Output(){
 //    cout << useful << " " << corr << " " << err << endl;
 }
 
+//Pass the original form itself (2 letter codes allowed, converts to 3 internally)
 void BidixParsing::run(string _l1, string _l2, LangCodes &LC){
-    l1 = _l1; l2 = _l2; //get passed language pair
     translations.clear(); num_entries = 0; //remove data from old runs
     xml_document doc;
-    string strpath = "../LangData/Raw/apertium-" + l1 + "-" + l2 + "." + l1 + "-" + l2 + ".dix";
+    string strpath = "../LangData/Raw/apertium-" + _l1 + "-" + _l2 + "." + _l1 + "-" + _l2 + ".dix";
     const char* path = const_cast<char *>(strpath.c_str()); //convert path to const char* as required for result
     xml_parse_result result = doc.load_file(path);
     //cout << result.description() << endl << result.offset << endl; //used to give error details and last char
     xml_node dict = doc.first_child();//dict tag
+    l1 = _l1; if(LC.langcode2to3.find(_l1)!=LC.langcode2to3.end()) l1 = LC.langcode2to3[_l1]; //convert to 3 letter code
+    l2 = _l2; if(LC.langcode2to3.find(_l2)!=LC.langcode2to3.end()) l2 = LC.langcode2to3[_l2]; //convert to 3 letter code
 
     for(xml_node child = dict.first_child(); child; child = child.next_sibling()){
         if((string) child.name()!="section") continue; //iterate over sections
