@@ -73,4 +73,4 @@ public:
     void printGraph(ofstream &fout); //print the graph edges
 };
 
-#endif GSOCAPERTIUM2020_GRAPH_H
+#endif //GSOCAPERTIUM2020_GRAPH_H

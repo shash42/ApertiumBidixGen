@@ -74,4 +74,4 @@ public:
     int findTransitive(int source, map<string, Graph>&pred, map<pair<wordData, wordData>, float> &entries);
 };
 
-#endif GSOCAPERTIUM2020_DENSITYALGO_H
+#endif //GSOCAPERTIUM2020_DENSITYALGO_H

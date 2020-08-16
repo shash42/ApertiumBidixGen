@@ -93,7 +93,7 @@ int runBicompLangs(Graph &G, vector<Config> configlist, map<string, int> &POS_to
         new_trans += D.run(pred, reqd, entries); //append output to fileout_name
     }
 
-    cout << "Now Transitives\n";
+    //cout << "Now Transitives\n";
     bool req_bicompless_run = false; //is a cycle-less (transitive) run required?
     InfoSets reqd_transitive = reqd; //additional restrictions for cycle-less run if any
     vector<Config> configlist_transitive = configlist;

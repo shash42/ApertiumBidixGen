@@ -129,4 +129,4 @@ CountbyPOS::CountbyPOS(string &exptno, string &lang)
     OutRaw(lang, fnamepref);
 }
 
-#endif GSOCAPERTIUM2020_COUNTBYPOS_CPP
+#endif //GSOCAPERTIUM2020_COUNTBYPOS_CPP

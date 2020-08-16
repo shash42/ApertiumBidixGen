@@ -142,4 +142,4 @@ Compare::Compare(string l1, string l2, int idxign, string &exptno){
     }
 }
 
-#endif GSOCAPERTIUM2020_COMPARE_CPP
+#endif //GSOCAPERTIUM2020_COMPARE_CPP

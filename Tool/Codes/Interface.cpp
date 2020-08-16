@@ -3,6 +3,7 @@
 #include "DensityAlgo.cpp"
 #include "callers.cpp"
 #include "PosstoPred.cpp"
+#include "Convert2to3.cpp"
 
 #include<chrono>
 #include "filesystem.hpp" 
