@@ -4,85 +4,109 @@ C++17 or higher
 <h2> Installation Guide</h2>
 <ol>
 <li> Download the Tool folder to your local machine.
-<li>cd into the 'Codes' folder and run  
-    g++ -std=c++17 Interface.cpp -lstdc++fs
-<li> Enter ./a.out
-<li> Follow the instructions given (more on this in the next section) and provide the required information to generate predictions!
-<li> Check the Results folder and the corresponding experiment number's folder for the output of the algorithm.
+<li> cd into the 'Codes' folder
+<li> Compile the algorithm with  g++ -o bidixgen -std=c++17 Interface.cpp -lstdc++fs
+<li> Enter ./bidixgen.out with appropriate arguments as described below
+<li> Check the Results folder and the corresponding experiment number's folder for the output/changes produced by the algorithm.
 </ol>
 
 <h2> Usage Guidelines </h2>
-After running the executable (./a.out for now), the program outputs the following: 
+After compiling, the execution command is: <br>
 
-> Enter the Experiment Number:
+<code> ./bidixgen.out [arguments] </code> <br>
 
-It is important to understand why this is asked. The output of each run produces or overwrites data in a folder named with the experiment number you input. This folder is present inside Results/ (also produced by the program it doesn't already exist). So for example if you enter '2' then a folder with path Tool/Results/2/Analysis/ will contain the actions of the program. <br>
+<h3> Arguments - Quick Guide Option Tree</h3>
+<ol>
+    <li> <code> --expt_name="custom_name_here" </code> Required option, non-empty value must be specified. </li>
+<li> Mode of execution (choose exactly one and follow the steps listed under it)
+<ol type = 'A'>
+<li> <code> -possible_translations </code> No value to be specified.
+<ol type = 'a'>
+<li> <code> --hyperparameter_file="path_to_hyperparameter_config_file" </code> [Optional] Used to provide a custom hyperparameter file, nly to be used in-case the defaults need to be tinkered with. </li>
+<li> Generate translations for specific words or an entire language pair (must provide exactly one)
+<ol type = 'i'>
+<li> <code> word_file="path_to_word_config_file" </code> If specific words are to be translated.
+<li> <code> lang_file="path_to_langpair_config_file" </code> If entire language pairs have to be translated.
+</ol>
+</ol>
+</li>
+<li> <code> -get_predictions</code> No value to be specified.
+<ol type = 'a'>
+<li> <code> --confidence=" "</code> [Optional] Takes decimal value in [0, 1]. Default value: 0.65
+<li> <code>--folder_file="path_to_folder_config_file"</code> Necessary to specify.
+</ol>
+</li>
+
+Only sequences of steps from the root to the leaf of the above option-tree form an accurate command. <br>
+All file paths can be relative (to folder of execution) or absolute path along with it. How to create these files is described later. <br>
+You can use the first letter of the attribute as a short form for all attributes, eg: <code> --e="custom_name_here" </code> for specifying the experiment name or <code>-g</code> for get_predictions <br>
+
+Some examples:
+
+<code> ./bidixgen.out --e=TestRun -p --h="../hp_config.txt" --l="../lang_config.txt"</code> - Generates possibilities in the TestRun folder <br>
+
+<code> ./bidixgen.out --e=TestRun -g --f=../folder_config.txt </code> - Generates predictions in the TestRun folder from the possibilities generated in the previous command. <br>
+
+<code>./bidixgen.out --e=TestRun -g --c=0.55 --f="../folder_config.txt" </code> - Generates predictions from the possibilities file generated in command 1 taking all translations with confidence score > 0.55 <br>
+
+<h3> Detailed Explanation of Arguments </h3>
+
+<h4>1. --expt_name </h4>
+
+It is important to understand why this is asked. The output of each run produces or overwrites data in a folder named with the experiment name you input. This folder is present inside Results/ (also produced by the program if it doesn't already exist). So for example if you enter '2' then a folder with path Tool/Results/2/Analysis/ will contain the actions of the program. <br>
 This essentially allows the user to run the program with separate config parameters and get results in separate folders to analyze what config parameters works best for them. <br>
 
-If the folder number you input already exists, the program will re-confirm if you want to make changes to the folder (potentially overwriting the existing data). 
+<h4> 2. Execution Mode </h4>
 
-> Experiment 1 already exists. Are you sure you want to overwrite it? [Y/N]:
+There are 2 possible modes, <code> -possible_translations </code> and <code> -get_predictions </code>. <br>
 
-Enter 'Y' if that is okay, otherwise enter 'N' andyou will have to run the program again with the experiment number which you actually want to work on.
+Here, it is important to know that on running the main algorithm (-possible_translations), it produces a 'possibilities.txt' file in the target experiment folder. These are translations accompanied by their 'confidence' scores. Then, the user can execute <code>./bidixgen.out</code> with appropriate arguments again and convert the possibilities into predictions, produced in the 'predictions.txt' file. This is done to allow the user to play with different confidence thresholds and see which suits their needs best. 
 
-The next thing the program asks is:
+<h5> 2A. -possible_translations </h5>
 
-> Do you want to generate new possibilities (1) or convert an existing possibilities file to predictions (2) ?:
-
-Here, it is important to know that on running the main algorithm (option 1), it produces a 'possibilities.txt' file in the target experiment folder. These are translations accompanied by their 'confidence' scores. Then, the user can run this program again and convert the possibilities into predictions, produced in the 'predictions.txt' file. This is done to allow the user to play with different confidence thresholds and see which suits their needs best. So for example, if you enter '2', the following will be shown:
-
-> Enter your required confidence threshold:
-
-Say you enter 0.7 (or whatever other value). Then the following is requested:
-
-> How many folders (inside the experiment's folder) do you want to generate predictions for?:
-
-This is because the same experiment folder, multiple folders can exist for different language pairs, word translations etc. More on this later <br>
-After inputting the required number, the following is requested:
-
-> Enter 1 foldername per line
-
-Simply put the name of each folder (inside the experiment folder) that you wish to generate predictions for, one per line (put in exactly the number of folders you specified in the previous prompt).
-
-The program will now execute and generate the predictions.txt based on the possibilities.txt inside these folders. <br>
-Example output:
-
-> doll done! <br>
-> en-ca done! <br>
-
-Great! Now you've learnt how to generate predictions from possibilities, but how to generate possibilities in the first place? Let's go back to when the program asked for this:
-
-> Do you want to generate new possibilities (1) or convert an existing possibilities file to predictions (2) ?:
-
-Enter 1. The program now asks:
-
-> Do you want to enter your own hyperparameter configurations? [Y/N]:
-
-The program has some default hyperparameters, and these can be changed by you as the user to see what works best for your language-pair / requirements. If you enter Y, the program responds with:
-
-> Enter Hyperparameter file path relative to Interface.cpp run location
+The program has some default hyperparameters as described later, and these can be changed by you as the user to see what works best for your language-pair and requirements. This can be done by adding <code> --hyperparameter_file="path_to_hyperparameter_config" </code>as an attribute. <br>
 
 The hyperparameters that you want should be available in a file. Suppose it's called "hyperparameters.txt" and it's stored in the folder right outside Codes (where Interface.cpp runs from). You then enter "../hyperparameters.txt". More on how this hyperparameter file can be configured later. <br>
-If you want to continue with default hyperparameters, you can obviously just enter 'N'. Both options lead to the next prompt:
 
-> Do you want to generate translations for some words (1) or get all translations for some languages (2) ?:
+Finally, the program provides 2 options. Either generate translations for some words or for some entire language pairs.  <br>
 
-Essentially, the program provides 2 options. Either generate translations for some words or for some entire language pairs. The process further for both these processes is similar. Based on what you entered, you will get either of these two:
+Enter exactly one of these arguments (for words, language-pairs respectively) <br>
 
-> Enter word, language list file path relative to run location
+<code> --word_file="path_to_word_file"</code> <br>
 
 or
 
-> Enter language list file path relative to run location
+<code> --lang_file="path_to_lang_file"</code> <br>
 
-Provide the file just like the hyperparameters file above.  The config files required for the 2 options have to be formatted differently. More on that later. <br>
+Provide the files just like the hyperparameters file above.  The config files required for the 2 options have to be formatted differently. More on that later. <br>
 After this, the algorithm for generation will start running! It will provide some output like 'Loaded' within a minute which means that the input data has been read. You will then get outputs as different parts of your required output get processed (eg after each language-pair/word-translations are generated). It can take upto 10 minutes per language-pair generated normally.<br>
 
-Once the program has terminated check the Results/ExperimentNumber/Analysis folder. It would have folders corresponding to the words/langauge-pairs you have produced translations for!
+Once the program has terminated check the Results/ExperimentName/Analysis folder. It would have folders corresponding to the words/language-pairs you have produced translations for!
+
+<h5> 2B. -get_predictions </h5>
+
+As mentioned before, in get_predictions mode, the program converts an existing possibilites.txt file in possibly multiple folders (as defined in the folder_file attribute described soon) within an experiment. <br>
+
+First you can optionally change the confidence score value from the default 0.65 by specifying <code>--confidence=0.6</code> or 0.8 (if you want to minimise false positives, or 0.5 (if you really want to be liberal) etc. Any value from [0, 1] is permissible. <br>
+
+You must necessarily provide a folder_config file describing which folders this conversion from possibilities to predictions must take place. This is done by adding <code>--folder_file="path_to_folder_config_file"</code> <br>
+
+This is because in the same experiment folder, multiple folders can exist for different language pairs, word translations etc. More on this later <br>
+
+The program will now execute and generate the predictions.txt based on the possibilities.txt inside these folders. <br>
+Example output: <br>
+
+> doll done! <br>
+> eng-cat done! <br>
+
+That's it!
 
 <h2> Config File Guidelines </h2>
 
-There are 3 types of config files at present. a) hyperparameter file, b) language-pair file, c) word-file. Samples for all of the 3 types are provided in the download: "hyperparameters.txt", "langconfigfast.txt", "wordconfig.txt". <br>
+There are 4 types of config files at present. a) hyperparameter file, b) language-pair file, c) word-file d) folder-file. The first 3 are for possible_translations mode and the last one for get_predictions. Samples for all of the 4 types are provided in the download: "hyperparameters.txt", "langconfigfast.txt", "wordconfig.txt", "folderconfig.txt". <br>
+
+An important point to mention here is that the algorithm strictly uses ISO 639-3 for language codes. This is the standard for the 3 letter language codes in the apertium-trunk. Some pairs in apertium still use 2-letter language codes (ISO 639-1), and for this purpose, when a bidix is parsed into an internally readable format, it's automatically changed to 3-letter codes. For this, the Wikipedia mapping (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) is used. You can refer to it in-case you're lost. How it affects you? Well, throughout the config files, make sure you stick to the 3-letter language codes. <br>
+
 As mentioned before, there are 2 main ways to generate new possibilities. One is a word-by-word approach where translations are found for a specified list of words. The other is a language pairs approach where results for multiple language-pairs can be generated (or as you will see, all possible predictions irrespective of language-pair). Both modes require a hyperparameters config file which is fed in earlier. Both modes have a separate type of config file described below.
 
 <h3> Language-Pair Config file </h3>
@@ -93,15 +117,15 @@ A 'block' in a language-pair config file consists the follows: <br>
 > SL<sub>1</sub> SL<sub>2</sub> SL<sub>3</sub> ... SL<sub>M</sub> <br>
 > TL<sub>1</sub> TL<sub>2</sub> TL<sub>3</sub> ... TL<sub>M</sub> <br>
 
-The first line contains the target language pair for which entries have to be generated. So for eg: "en es" means generating entries from english to spanish (and vice-versa). "en-es" will also become be the name of the folder in which results will be generated. Notably, it's also possible to not restrict the predicted translations' language pair by specifying the first line of the block as "NoFix 1" or "NoFix 2" or any other integer with "NoFix" (case-sensitive). In this case results will be produced in the "NoFix-1" or "NoFix-2" etc. folder. <br>
-The second line contains the number of input language pairs, say N. This data will be used to produce predictions and the input data must be available in the LangData folder with file names like "Data-en-es.txt". The LangData folder is provided in installation. The 3rd and 4th line together contain the description of these N language pairs. The ith string on both lines forms a language pair. So for eg if line 3 and 4 are:
+The first line contains the target language pair for which entries have to be generated. So for eg: "eng spa" means generating entries from english to spanish (and vice-versa). "eng-spa" will also become be the name of the folder in which results will be generated. Notably, it's also possible to not restrict the predicted translations' language pair by specifying the first line of the block as "NoFix 1" or "NoFix 2" or any other integer with "NoFix" (case-sensitive). In this case results will be produced in the "NoFix-1" or "NoFix-2" etc. folder. <br>
+The second line contains the number of input language pairs, say N. This data will be used to produce predictions and the input data must be available in the LangData/Parsed folder with file names like "eng-spa.txt". The 3rd and 4th line together contain the description of these N language pairs. The ith string on both lines forms a language pair. So for eg if line 3 and 4 are: <br>
 
-> en en fr <br>
-> ca es ca <br>
+> eng eng fra <br>
+> cat spa cat <br>
 
-This means the input language pairs are en-ca, en-es and fr-ca. Also, in this example the second line of the block must have 3. <br>
+This means the input language pairs are eng-cat, eng-spa and fra-cat. Also, in this example the second line of the block must have 3. <br>
 
-The first line of the language-pair config file consists of the number of blocks, say M. Description for M blocks follow in the following 4M lines. Example:
+The first line of the language-pair config file consists of the number of blocks, say M. Description for M blocks follow in the following 4M lines. Example: <br>
 
 > Number of blocks, M <br>
 > 4 LINES describing Block 1 <br>
@@ -110,10 +134,10 @@ The first line of the language-pair config file consists of the number of blocks
 > . <br>
 > 4 LINES describing Block M <br>
 
-Examples are provided in "langconfigfast.txt" and "languageconfig.txt", specifically the latter reproduces the experiment of removing 1 language pair and using the other 10 as input.
+Examples are provided in "langconfigfast.txt" and "languageconfig.txt", specifically the latter reproduces the experiment of removing 1 language pair and using the other 10 as input. <br>
 
 <h3> Word Config file </h3>
-The brief format of the word config file is as follows:
+The brief format of the word config file is as follows: <br>
 
 > Output File Name <br>
 > Number of words to find translations for, say N <br>
@@ -148,7 +172,7 @@ First, it is important to understand the different kind of hyperparameters that 
      Increasing this: a) Increases Precision b) Decreases |Pred|. Recommended Range: 0.5-0.8. Default: 0.65
 
 In practice, tuning 1), 2), 3) and 8) should be more than sufficient. Confidence can be tuned after generating the 'possibilities' file (which contains all possible translations with confidence > 0) by using the possibilities to prediction feature.
- 
+
  <h4> Different Hyperparameter Sets for Different POS </h4>
  It is possible to define different sets of hyperparameters for different parts of speech. By default, properNouns and numerals have a transitive POS, whereas others use cycle density algorithm defaults as described above. You can define multiple sets of hyperparameters in your hyperparameters file and then provide a mapping from POS to the hyperparameter set number as described in the file format below.
 
@@ -169,9 +193,9 @@ The formal structure of the file is as follows: <br>
 > .<br>
 > .<br>
 > .<br>
->ENDOFFILE<br>
+> ENDOFFILE<br>
 
-*Hyperparameter Set* as defined above is a group of lines of the following form:
+*Hyperparameter Set* as defined above is a group of lines of the following form: <br>
 
 > transitive = 0<br>
 > context_depth = 4<br>
@@ -182,11 +206,31 @@ The formal structure of the file is as follows: <br>
 > deg_gt2_multiplier = 1.1<br>
 > conf_threshold = 0.65<br>
 
-The given aliases are both case sensitive and any change in spelling would make them unrecognizable for the program. Note that it is not important to add specific values for all hyperparameters. If the value for a specific hyperparameter is not mentioned, it's default value will be used. So for example, cross-checking with the defaults above, the above set differs only in max_cycle_length and deg_gt2_multiplier. So it is sufficient to only specify them without any changes to the actual output/meaning:
+The given aliases are both case sensitive and any change in spelling would make them unrecognizable for the program. Note that it is not important to add specific values for all hyperparameters. If the value for a specific hyperparameter is not mentioned, it's default value will be used. So for example, cross-checking with the defaults above, the above set differs only in max_cycle_length and deg_gt2_multiplier. So it is sufficient to only specify them without any changes to the actual output/meaning: <br>
 > max_cycle_length = 9<br>
 > deg_gt2_multiplier = 1.1<br>
 
 A sample file ("hyperparameters.txt") is also provided to understand this paradigm. 
+
+<h3> Folder Config File </h3>
+
+This config file, required by the get_predictions mode, is the easiest to handle. It's input format is:
+
+> Number of folders for converting possibilities to predictions, say N  <br>
+>
+> Folder_1_Name <br>
+>
+> Folder_2_Name <br>
+>
+> . <br>
+>
+> . <br>
+>
+> . <br>
+>
+> Folder_N_Name <br>
+
+These folder names can be of language-pair data or word-translations data as they're both formatted similarly.
 
 <hr> </hr>
 In totality, it may be a bit overwhelming at once. Try to not play with the config files and use the ones provided in the install first. Using word-translations mode runs fast so use that initially. Then, start by making a new hyperparameter file and adding custom hyperparameters. Then customize the word-config / language-pair config and slowly it's easy to understand :)
