@@ -36,7 +36,9 @@ After compiling, the execution command is: <br>
 <li> <code>--folder_file="path_to_folder_config_file"</code> Necessary to specify.
 </ol>
 </li>
-
+</ol>
+</ol>
+	
 Only sequences of steps from the root to the leaf of the above option-tree form an accurate command. <br>
 All file paths can be relative (to folder of execution) or absolute path along with it. How to create these files is described later. <br>
 You can use the first letter of the attribute as a short form for all attributes, eg: <code> --e="custom_name_here" </code> for specifying the experiment name or <code>-g</code> for get_predictions <br>
