@@ -5,15 +5,15 @@ C++17 or higher
 <ol>
 <li> Download the Tool folder to your local machine.
 <li> cd into the 'Codes' folder
-<li> Compile the algorithm with  g++ -o bidixgen -std=c++17 Interface.cpp -lstdc++fs
-<li> Enter ./bidixgen.out with appropriate arguments as described below
+<li> Compile the algorithm with  g++ -o bidixgen -std=c++17 CLI.cpp -lstdc++fs
+<li> Enter ./bidixgen with appropriate arguments as described below
 <li> Check the Results folder and the corresponding experiment number's folder for the output/changes produced by the algorithm.
 </ol>
 
 <h2> Usage Guidelines </h2>
 After compiling, the execution command is: <br>
 
-<code> ./bidixgen.out [arguments] </code> <br>
+<code> ./bidixgen [arguments] </code> <br>
 
 <h3> Arguments - Quick Guide Option Tree</h3>
 <ol>
@@ -45,11 +45,11 @@ You can use the first letter of the attribute as a short form for all attributes
 
 Some examples:
 
-<code> ./bidixgen.out --e=TestRun -p --h="../hp_config.txt" --l="../lang_config.txt"</code> - Generates possibilities in the TestRun folder <br>
+<code> ./bidixgen --e=TestRun -p --h="../hp_config.txt" --l="../lang_config.txt"</code> - Generates possibilities in the TestRun folder <br>
 
-<code> ./bidixgen.out --e=TestRun -g --f=../folder_config.txt </code> - Generates predictions in the TestRun folder from the possibilities generated in the previous command. <br>
+<code> ./bidixgen --e=TestRun -g --f=../folder_config.txt </code> - Generates predictions in the TestRun folder from the possibilities generated in the previous command. <br>
 
-<code>./bidixgen.out --e=TestRun -g --c=0.55 --f="../folder_config.txt" </code> - Generates predictions from the possibilities file generated in command 1 taking all translations with confidence score > 0.55 <br>
+<code>./bidixgen --e=TestRun -g --c=0.55 --f="../folder_config.txt" </code> - Generates predictions from the possibilities file generated in command 1 taking all translations with confidence score > 0.55 <br>
 
 <h3> Detailed Explanation of Arguments </h3>
 
@@ -62,13 +62,13 @@ This essentially allows the user to run the program with separate config paramet
 
 There are 2 possible modes, <code> -possible_translations </code> and <code> -get_predictions </code>. <br>
 
-Here, it is important to know that on running the main algorithm (-possible_translations), it produces a 'possibilities.txt' file in the target experiment folder. These are translations accompanied by their 'confidence' scores. Then, the user can execute <code>./bidixgen.out</code> with appropriate arguments again and convert the possibilities into predictions, produced in the 'predictions.txt' file. This is done to allow the user to play with different confidence thresholds and see which suits their needs best. 
+Here, it is important to know that on running the main algorithm (-possible_translations), it produces a 'possibilities.txt' file in the target experiment folder. These are translations accompanied by their 'confidence' scores. Then, the user can execute <code>./bidixgen</code> with appropriate arguments again and convert the possibilities into predictions, produced in the 'predictions.txt' file. This is done to allow the user to play with different confidence thresholds and see which suits their needs best. 
 
 <h5> 2A. -possible_translations </h5>
 
 The program has some default hyperparameters as described later, and these can be changed by you as the user to see what works best for your language-pair and requirements. This can be done by adding <code> --hyperparameter_file="path_to_hyperparameter_config" </code>as an attribute. <br>
 
-The hyperparameters that you want should be available in a file. Suppose it's called "hyperparameters.txt" and it's stored in the folder right outside Codes (where Interface.cpp runs from). You then enter "../hyperparameters.txt". More on how this hyperparameter file can be configured later. <br>
+The hyperparameters that you want should be available in a file. Suppose it's called "hyperparameters.txt" and it's stored in the folder right outside Codes (where CLI.cpp runs from). You then enter "../hyperparameters.txt". More on how this hyperparameter file can be configured later. <br>
 
 Finally, the program provides 2 options. Either generate translations for some words or for some entire language pairs.  <br>
 
