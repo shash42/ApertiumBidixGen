@@ -24,7 +24,7 @@ public:
     BidixParsing(){ //constructor
         populate_POS_Map();
     }
-    void run(string _l1, string _l2, LangCodes &LC); //Parse the bidix of l1-l2
+    void run(string path, string _l1, string _l2, LangCodes &LC); //Parse the bidix of l1-l2
     void Output(); //Generate the output after parsing
 };
 
@@ -155,10 +155,9 @@ void BidixParsing::Output(){
 }
 
 //Pass the original form itself (2 letter codes allowed, converts to 3 internally)
-void BidixParsing::run(string _l1, string _l2, LangCodes &LC){
+void BidixParsing::run(string strpath, string _l1, string _l2, LangCodes &LC){
     translations.clear(); num_entries = 0; //remove data from old runs
     xml_document doc;
-    string strpath = "../LangData/Raw/apertium-" + _l1 + "-" + _l2 + "." + _l1 + "-" + _l2 + ".dix";
     const char* path = const_cast<char *>(strpath.c_str()); //convert path to const char* as required for result
     xml_parse_result result = doc.load_file(path);
     //cout << result.description() << endl << result.offset << endl; //used to give error details and last char
@@ -201,18 +200,27 @@ void BidixParsing::run(string _l1, string _l2, LangCodes &LC){
     }
 }
 
-int main(){
+int main(int argc, char *argv[]){
+    if(argc!=2){
+        cerr << "1 argument, path to language-pair list required." << endl;
+        return 0;
+    }
+    if(!fs::exists(argv[1])){
+        cerr << "Language-pair list file path not found!!" << endl;
+        return 0;
+    }
     LangCodes LC; //load 2 digit to 3 digit language code table
-    ifstream fin; fin.open("../LangData/langlist.txt"); //list of languages to parse
+    ifstream fin; fin.open(argv[1]); //list of languages to parse
     //freopen("../LangData/Analysis.txt", "w", stdout);
     BidixParsing BP;
     while(!fin.eof()){
-        string l1, l2;
-        fin >> l1 >> l2;
+        string path, l1, l2;
+        getline(fin, path);
+        getline(fin, l1, ' '); getline(fin, l2);
         if(l1.length()==0 || l2.length()==0) continue; //added check (ignore) for empty lines/langnames
         //cout << l1 << " " << l2 << endl;
-        cerr << l1 << " " << l2 << endl;
-        BP.run(l1, l2, LC); //run parsing for the given language pair
+        cout << l1 << " " << l2 << endl;
+        BP.run(path, l1, l2, LC); //run parsing for the given language pair
         BP.Output(); //output the parse results
     }
 }
