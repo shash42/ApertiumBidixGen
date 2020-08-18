@@ -4,5 +4,5 @@ doll
 muñeca
 abacus
 11
-en en fr fr eo eo eo eo oc oc oc
-es ca es ca fr ca en es ca es fr
+eng eng fra fra epo epo epo epo oci oci oci
+cat spa spa cat fra cat eng spa cat spa fra

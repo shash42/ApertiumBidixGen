@@ -11,6 +11,7 @@ using namespace std;
 
 //Used to store information about a given word
 //Assumption: all members of info that are accessed are defined at initialization
+//After each modification, declaration without passing index, edge, call makesurface()
 struct wordData
 {
     vector<string> infolist; //use this to make the types of info stored dynamic
@@ -21,10 +22,6 @@ struct wordData
     string extract_rep(int &i, string edge); //extract written representation
     string extract_info(int &i, string edge); //extract information about word
     wordData() = default; //default constructor
-    void makesurface(){ //surface stores the word in input/output format
-        //info["surface"] = "\"" + info["word_rep"] + "\"-" + info["pos"] + "-" + info["lang"];
-        surface = "\"" + word_rep + "\"-" + pos + "-" + lang;
-    }
     wordData(int &i, string &edge) //given edge in input format, extract word data
     {
         /*info["word_rep"] = extract_rep(i, edge); //get written representation
@@ -40,6 +37,11 @@ struct wordData
         //string s1 = info.at("surface"), s2 = t1.info.at("surface");
         string s1 = surface, s2 = t1.surface;
         return s1 < s2;
+    }
+public:
+    void makesurface(){ //surface stores the word in input/output format
+        //info["surface"] = "\"" + info["word_rep"] + "\"-" + info["pos"] + "-" + info["lang"];
+        surface = "\"" + word_rep + "\"-" + pos + "-" + lang;
     }
 };
 
@@ -71,4 +73,4 @@ public:
     void printGraph(ofstream &fout); //print the graph edges
 };
 
-#endif GSOCAPERTIUM2020_GRAPH_H
+#endif //GSOCAPERTIUM2020_GRAPH_H

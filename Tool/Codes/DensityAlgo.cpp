@@ -2,7 +2,7 @@
 #define GSOCAPERTIUM2020_DENSITYALGO_CPP
 
 #include "Graph.h"
-#include "Biconnected.h"
+#include "Biconnected.cpp"
 #include "DensityAlgo.h"
 #include<iostream>
 #include<queue>
@@ -244,9 +244,9 @@ int DensityAlgo::run(map<string, Graph> &pred, InfoSets &reqdPred, map<pair<word
 
     for(int i = 0; i < G.vertices.size(); i++)
     {
-        if(i%50000==0 && i) {
+        /*if(i%50000==0 && i) {
             cout << i << endl; //output every 1000th node just to check progress
-        }
+        }*/ //Debugging output
         if(!wordIsReq(G.vertices[i], reqdPred)) continue;
         //cout << G.vertices[i].rep.surface << " " << num_trans << endl;
 
@@ -284,4 +284,4 @@ int DensityAlgo::run(map<string, Graph> &pred, InfoSets &reqdPred, map<pair<word
     return num_trans;
 }
 
-#endif GSOCAPERTIUM2020_DENSITYALGO_CPP
+#endif //GSOCAPERTIUM2020_DENSITYALGO_CPP

@@ -1,11 +1,11 @@
 #include "Compare.cpp"
 #include "CountByPOS.cpp"
 
+//requires appropriate foldername with appropriate
 void convert(string exptno, float threshold, int numfolders, vector<string> &foldernames){
     float pr = 1e-5;
     for(int i = 0; i < numfolders; i++){
-        string lp1 = foldernames[i];
-        string dirpath = "../Results/Expts/" + exptno + "/Analysis/" + lp1;
+        string dirpath = "../Results/Expts/" + exptno + "/Analysis/" + foldernames[i];
         ifstream file_poss;  ofstream file_pred;
         file_poss.open(dirpath + "/possibilities.txt");
         file_pred.open(dirpath + "/predictions.txt");
@@ -22,7 +22,7 @@ void convert(string exptno, float threshold, int numfolders, vector<string> &fol
                 }
             }
         }
-        cout << lp1 << " done!" << endl;
+        cout << foldernames[i] << " done!" << endl;
         file_poss.close(); file_pred.close();
     }
 }

@@ -46,7 +46,7 @@ bool Graph::addEdge(wordData &u, wordData &v) {
     //If it is not already in the vertex adjacency list
     if(vertices[u_idx].adj.find(v_idx)==vertices[u_idx].adj.end())
     { //set ensures no multi-edges. all edges are added as bidirectional
-        num_edges++; //increase edge count by 1
+        num_edges++;
         vertices[u_idx].adj.insert(v_idx);
         vertices[v_idx].adj.insert(u_idx); //edges are assumed to be bidirectional
         return true;
@@ -89,4 +89,4 @@ void Graph::reset() {
     vertices.clear();
     subGraphs.clear();
 }
-#endif GSOCAPERTIUM2020_GRAPH_CPP
+#endif //GSOCAPERTIUM2020_GRAPH_CPP

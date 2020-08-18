@@ -9,15 +9,7 @@ Last updated in June-end 2020
 ### Bilingual Dictionary Generation via Graph Exploration for Apertium.
 
 #### Temporary Download Instructions for Reproducing
-<ol>
-<li> Download the Tool folder to your local machine.
-<li> Make sure you have a compiler that supports C++17 or higher. 
-<li> cd into the 'Codes' folder and run  <br>
-g++ -std=c++17 Interface.cpp -lstdc++fs
-<li> Enter ./a.out
-<li> Follow the instructions given and provide the required information to generate predictions!
-<li> Check the Results folder and the corresponding experiment number's folder for the output of the algorithm.
-</ol>
+Check the Tool folder.
 
 #### About the project
 

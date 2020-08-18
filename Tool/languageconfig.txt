@@ -1,45 +1,45 @@
 11
-en es
+eng spa
 10
-en fr fr eo eo eo eo oc oc oc
-ca es ca fr ca en es ca es fr
-en ca
+eng fra fra epo epo epo epo oci oci oci
+cat spa cat fra cat eng spa cat spa fra
+eng cat
 10
-en fr fr eo eo eo eo oc oc oc
-es es ca fr ca en es ca es fr
-fr es
+eng fra fra epo epo epo epo oci oci oci
+spa spa cat fra cat eng spa cat spa fra
+fra spa
 10
-en en fr eo eo eo eo oc oc oc
-es ca ca fr ca en es ca es fr
-fr ca
+eng eng fra epo epo epo epo oci oci oci
+cat spa cat fra cat eng spa cat spa fra
+fra cat
 10
-en en fr eo eo eo eo oc oc oc
-es ca es fr ca en es ca es fr
-eo fr
+eng eng fra epo epo epo epo oci oci oci
+cat spa spa fra cat eng spa cat spa fra
+epo fra
 10
-en en fr fr eo eo eo oc oc oc
-es ca es ca ca en es ca es fr
-eo ca
+eng eng fra fra epo epo epo oci oci oci
+cat spa spa cat cat eng spa cat spa fra
+epo cat
 10
-en en fr fr eo eo eo oc oc oc
-es ca es ca fr en es ca es fr
-eo en
+eng eng fra fra epo epo epo oci oci oci
+cat spa spa cat fra eng spa cat spa fra
+epo eng
 10
-en en fr fr eo eo eo oc oc oc
-es ca es ca fr ca es ca es fr
-eo es
+eng eng fra fra epo epo epo oci oci oci
+cat spa spa cat fra cat spa cat spa fra
+epo spa
 10
-en en fr fr eo eo eo oc oc oc
-es ca es ca fr ca en ca es fr
-oc ca
+eng eng fra fra epo epo epo oci oci oci
+cat spa spa cat fra cat eng cat spa fra
+oci cat
 10
-en en fr fr eo eo eo eo oc oc
-es ca es ca fr ca en es es fr
-oc es
+eng eng fra fra epo epo epo epo oci oci
+cat spa spa cat fra cat eng spa spa fra
+oci spa
 10
-en en fr fr eo eo eo eo oc oc
-es ca es ca fr ca en es ca fr
-oc fr
+eng eng fra fra epo epo epo epo oci oci
+cat spa spa cat fra cat eng spa cat fra
+oci fra
 10
-en en fr fr eo eo eo eo oc oc
-es ca es ca fr ca en es ca es
+eng eng fra fra epo epo epo epo oci oci
+cat spa spa cat fra cat eng spa cat spa
