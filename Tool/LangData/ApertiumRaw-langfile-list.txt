@@ -1,0 +1,108 @@
+../LangData/Raw/apertium-afr-nld.afr-nld.dix
+afr nld
+../LangData/Raw/apertium-arg-cat.arg-cat.dix
+arg cat
+../LangData/Raw/apertium-bel-rus.bel-rus.dix
+bel rus
+../LangData/Raw/apertium-br-fr.br-fr.dix
+br fr
+../LangData/Raw/apertium-cat-ita.cat-ita.dix
+cat ita
+../LangData/Raw/apertium-cat-srd.cat-srd.dix
+cat srd
+../LangData/Raw/apertium-crh-tur.crh-tur.dix
+crh tur
+../LangData/Raw/apertium-cym-eng.cym-eng.dix
+cym eng
+../LangData/Raw/apertium-dan-nor.dan-nor.dix
+dan nor
+../LangData/Raw/apertium-eng-cat.eng-cat.dix
+eng cat
+../LangData/Raw/apertium-eng-kaz.eng-kaz.dix
+eng kaz
+../LangData/Raw/apertium-en-gl.en-gl.dix
+en gl
+../LangData/Raw/apertium-eng-spa.eng-spa.dix
+eng spa
+../LangData/Raw/apertium-eo-ca.eo-ca.dix
+eo ca
+../LangData/Raw/apertium-eo-en.eo-en.dix
+eo en
+../LangData/Raw/apertium-eo-es.eo-es.dix
+eo es
+../LangData/Raw/apertium-eo-fr.eo-fr.dix
+eo fr
+../LangData/Raw/apertium-es-gl.es-gl.dix
+es gl
+../LangData/Raw/apertium-es-pt.es-pt.dix
+es pt
+../LangData/Raw/apertium-es-ro.es-ro.dix
+es ro
+../LangData/Raw/apertium-eu-en.eu-en.dix
+eu en
+../LangData/Raw/apertium-eu-es.eu-es.dix
+eu es
+../LangData/Raw/apertium-fra-cat.fra-cat.dix
+fra cat
+../LangData/Raw/apertium-fr-es.fr-es.dix
+fr es
+../LangData/Raw/apertium-hbs-eng.hbs-eng.dix
+hbs eng
+../LangData/Raw/apertium-hbs-mkd.hbs-mkd.dix
+hbs mkd
+../LangData/Raw/apertium-hbs-slv.hbs-slv.dix
+hbs slv
+../LangData/Raw/apertium-ind-zlm.ind-zlm.dix
+ind zlm
+../LangData/Raw/apertium-isl-eng.isl-eng.dix
+isl eng
+../LangData/Raw/apertium-isl-swe.isl-swe.dix
+isl swe
+../LangData/Raw/apertium-kaz-rus.kaz-rus.dix
+kaz rus
+../LangData/Raw/apertium-kaz-tat.kaz-tat.dix
+kaz tat
+../LangData/Raw/apertium-mkd-bul.mkd-bul.dix
+mkd bul
+../LangData/Raw/apertium-mkd-eng.mkd-eng.dix
+mkd eng
+../LangData/Raw/apertium-mlt-ara.mlt-ara.dix
+mlt ara
+../LangData/Raw/apertium-nno-nob.nno-nob.dix
+nno nob
+../LangData/Raw/apertium-oc-ca.oc-ca.dix
+oc ca
+../LangData/Raw/apertium-oc-es.oc-es.dix
+oc es
+../LangData/Raw/apertium-oci-fra.oci-fra.dix
+oci fra
+../LangData/Raw/apertium-pol-szl.pol-szl.dix
+pol szl
+../LangData/Raw/apertium-por-cat.por-cat.dix
+por cat
+../LangData/Raw/apertium-pt-gl.pt-gl.dix
+pt gl
+../LangData/Raw/apertium-ron-cat.ron-cat.dix
+ron cat
+../LangData/Raw/apertium-rus-ukr.rus-ukr.dix
+rus ukr
+../LangData/Raw/apertium-sme-nob.sme-nob.dix
+sme nob
+../LangData/Raw/apertium-spa-arg.spa-arg.dix
+spa arg
+../LangData/Raw/apertium-spa-ast.spa-ast.dix
+spa ast
+../LangData/Raw/apertium-spa-cat.spa-cat.dix
+spa cat
+../LangData/Raw/apertium-spa-ita.spa-ita.dix
+spa ita
+../LangData/Raw/apertium-srd-ita.srd-ita.dix
+srd ita
+../LangData/Raw/apertium-swe-dan.swe-dan.dix
+swe dan
+../LangData/Raw/apertium-swe-nor.swe-nor.dix
+swe nor
+../LangData/Raw/apertium-urd-hin.urd-hin.dix
+urd hin
+../LangData/Raw/apertium--.-.dix
+ 
