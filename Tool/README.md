@@ -48,7 +48,7 @@ The way to convert Apertium data to the internal format is by compiling using <c
 The output (internal format) files are then available in the "Parsed" folder inside LangData. 
 
 <h2> Usage Guidelines </h2>
-After compiling, the execution command is: <br>
+After compiling using <code> g++ -o bidixgen -std=c++17 CLI.cpp -lstdc++fs </code>, the execution command is: <br>
 
 <code> ./bidixgen [arguments] </code> <br>
 
