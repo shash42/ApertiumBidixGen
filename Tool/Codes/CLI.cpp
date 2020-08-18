@@ -2,7 +2,7 @@
 #include "callers.cpp"
 #include "PosstoPred.cpp"
 #include "Convert2to3.cpp"
-#include "CLIInterface.h"
+#include "CLI.h"
 
 #include "filesystem.hpp"
 #include<algorithm>
@@ -217,7 +217,7 @@ void GenPred::Run(ifstream &fin, string &exptname, float &confidence) {
 int main(int argc, char *argv[]){
 
     string exptname, folder_filename, hp_filename, word_filename, lang_filename;
-    float confidence = -1;
+    float confidence = 0.65;
     bool pred, poss;
     int c;
     while(1){
