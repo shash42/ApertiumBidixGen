@@ -5,10 +5,47 @@ C++17 or higher
 <ol>
 <li> Download the Tool folder to your local machine.
 <li> cd into the 'Codes' folder
-<li> Compile the algorithm with  g++ -o bidixgen -std=c++17 CLI.cpp -lstdc++fs
-<li> Enter ./bidixgen with appropriate arguments as described below
-<li> Check the Results folder and the corresponding experiment number's folder for the output/changes produced by the algorithm.
+<li> Parse the bidixes provided in the download by the commands <code> g++ -o parse -std=c++17 BidixParsing.cpp -lstdc++fs </code> and then <code> ./parse config_file_path </code>. Described in more detail below.
+<li> Use following the usage guidelines below. </li>
 </ol>
+
+<h2> Parsing Bilingual Dictionaries or RDF Data </h2>
+
+The algorithm reads from a simple internal format different from both Apertium Bilingual Dictionaries and RDF Data. This is so that in the future if data from more sources needs to be taken, they can be converted into this simple format by writing only a new parsing script. After that, the algorithm can use this data too. <br>
+
+First, it's important to describe the lang-file-list. This is what is passed to both for Apertium bidix format and RDF CSV parsing. It's an easy format for other parsers too. It consists of multiple "blocks" where one block provides the data for one language pair. It is defined as follows: <br>
+
+> Path <br>
+>
+> LeftLang code RightLang code <br>
+
+Path describes the path to the raw Apertium bidix file. The 2 "Lang code"s are the language codes of the languages the bidix file contains. For eg: eng cat or en ca. <br>
+
+An important point to mention here is that the algorithm strictly uses ISO 639-3 for language codes. This is the standard for the 3 letter language codes in the apertium-trunk. Some pairs in apertium still use 2-letter language codes (ISO 639-1), and for this purpose, when a bidix is parsed into an internally readable format, it's automatically changed to 3-letter codes. For this, the Wikipedia mapping (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) is used. For the lang-file-list it's possible to also provide 2-letter language codes (ISO 639-1) as mapping from 2-letter to 3-letter codes is done at the parsing step. However, for the config files described later it is necessary  to stick to the 3 letter codes. <br>
+
+So the lang-file-list is a concatenation of multiple such blocks: <br>
+
+> Path 1 <br>
+>
+> LeftLang code RightLang code for language pair 1 <br>
+>
+> Path 2<br>
+>
+> LeftLang code RightLang code for language pair 2<br>
+>
+> . <br>
+>
+> . <br>
+>
+> Path N <br>
+>
+> LeftLang code RightLang code for language pair N <br>
+
+You can refer to "ApertiumRaw-langfile-list.txt" provided in the download as an example. <br>
+
+The way to convert Apertium data to the internal format is by compiling using <code> g++ -o parse -std=c++17 BidixParsing.cpp -lstdc++fs </code> followed by <code>./parse path_to_lang-file-list </code> .  Similarly for RDF, it is expected that the RDF data is available in a CSV format, where there are spaces before and after the comma. The compilation command is <code> g++ -o parse -std=c++17 RDFCSVParsing.cpp -lstdc++fs </code> followed again by <code>./parse path_to_lang-file-list </code> <br>
+
+The output (internal format) files are then available in the "Parsed" folder inside LangData. 
 
 <h2> Usage Guidelines </h2>
 After compiling, the execution command is: <br>
@@ -38,7 +75,7 @@ After compiling, the execution command is: <br>
 </li>
 </ol>
 </ol>
-	
+
 Only sequences of steps from the root to the leaf of the above option-tree form an accurate command. <br>
 All file paths can be relative (to folder of execution) or absolute path along with it. How to create these files is described later. <br>
 You can use the first letter of the attribute as a short form for all attributes, eg: <code> --e="custom_name_here" </code> for specifying the experiment name or <code>-g</code> for get_predictions <br>
@@ -49,7 +86,7 @@ Some examples:
 
 <code> ./bidixgen --e=TestRun -g --f=../folder_config.txt </code> - Generates predictions in the TestRun folder from the possibilities generated in the previous command. <br>
 
-<code>./bidixgen --e=TestRun -g --c=0.55 --f="../folder_config.txt" </code> - Generates predictions from the possibilities file generated in command 1 taking all translations with confidence score > 0.55 <br>
+<code>./bidixgen --e=TestRun -g --c=0.55 --f="../folder_config.txt" </code> - Generates predictions from the possibilities file generated in command 1 taking all translations with confidence score > 0.55 <br>
 
 <h3> Detailed Explanation of Arguments </h3>
 
@@ -60,13 +97,13 @@ This essentially allows the user to run the program with separate config paramet
 
 <h4> 2. Execution Mode </h4>
 
-There are 2 possible modes, <code> -possible_translations </code> and <code> -get_predictions </code>. <br>
+There are 2 possible modes, <code> -possible_translations </code> and <code> -get_predictions </code>. <br>
 
 Here, it is important to know that on running the main algorithm (-possible_translations), it produces a 'possibilities.txt' file in the target experiment folder. These are translations accompanied by their 'confidence' scores. Then, the user can execute <code>./bidixgen</code> with appropriate arguments again and convert the possibilities into predictions, produced in the 'predictions.txt' file. This is done to allow the user to play with different confidence thresholds and see which suits their needs best. 
 
 <h5> 2A. -possible_translations </h5>
 
-The program has some default hyperparameters as described later, and these can be changed by you as the user to see what works best for your language-pair and requirements. This can be done by adding <code> --hyperparameter_file="path_to_hyperparameter_config" </code>as an attribute. <br>
+The program has some default hyperparameters as described later, and these can be changed by you as the user to see what works best for your language-pair and requirements. This can be done by adding <code> --hyperparameter_file="path_to_hyperparameter_config" </code>as an attribute. <br>
 
 The hyperparameters that you want should be available in a file. Suppose it's called "hyperparameters.txt" and it's stored in the folder right outside Codes (where CLI.cpp runs from). You then enter "../hyperparameters.txt". More on how this hyperparameter file can be configured later. <br>
 
@@ -74,7 +111,7 @@ Finally, the program provides 2 options. Either generate translations for some w
 
 Enter exactly one of these arguments (for words, language-pairs respectively) <br>
 
-<code> --word_file="path_to_word_file"</code> <br>
+<code> --word_file="path_to_word_file"</code> <br>
 
 or
 
@@ -105,9 +142,7 @@ That's it!
 
 <h2> Config File Guidelines </h2>
 
-There are 4 types of config files at present. a) hyperparameter file, b) language-pair file, c) word-file d) folder-file. The first 3 are for possible_translations mode and the last one for get_predictions. Samples for all of the 4 types are provided in the download: "hyperparameters.txt", "langconfigfast.txt", "wordconfig.txt", "folderconfig.txt". <br>
-
-An important point to mention here is that the algorithm strictly uses ISO 639-3 for language codes. This is the standard for the 3 letter language codes in the apertium-trunk. Some pairs in apertium still use 2-letter language codes (ISO 639-1), and for this purpose, when a bidix is parsed into an internally readable format, it's automatically changed to 3-letter codes. For this, the Wikipedia mapping (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) is used. You can refer to it in-case you're lost. How it affects you? Well, throughout the config files, make sure you stick to the 3-letter language codes. <br>
+There are 4 types of config files at present. a) hyperparameter file, b) language-pair file, c) word-file d) folder-file. The first 3 are for possible_translations mode and the last one for get_predictions. Samples for all of the 4 types are provided in the download: "hyperparameters.txt", "langconfigfast.txt", "wordconfig.txt", "folderconfig.txt". Throughout the config files, make sure you stick to the 3-letter language codes. <br>
 
 As mentioned before, there are 2 main ways to generate new possibilities. One is a word-by-word approach where translations are found for a specified list of words. The other is a language pairs approach where results for multiple language-pairs can be generated (or as you will see, all possible predictions irrespective of language-pair). Both modes require a hyperparameters config file which is fed in earlier. Both modes have a separate type of config file described below.
 
