@@ -43,7 +43,7 @@ So the lang-file-list is a concatenation of multiple such blocks: <br>
 
 You can refer to "ApertiumRaw-langfile-list.txt" provided in the download as an example. <br>
 
-The way to convert Apertium data to the internal format is by compiling using <code> g++ -o parse -std=c++17 BidixParsing.cpp -lstdc++fs </code> followed by <code>./parse path_to_lang-file-list </code> .  Similarly for RDF, it is expected that the RDF data is available in a CSV format, where there are spaces before and after the comma. The compilation command is <code> g++ -o parse -std=c++17 RDFCSVParsing.cpp -lstdc++fs </code> followed again by <code>./parse path_to_lang-file-list </code> <br>
+The way to convert Apertium data to the internal format is by compiling using <code> g++ -o parse -std=c++17 BidixParsing.cpp -lstdc++fs </code> followed by <code>./parse path_to_lang-file-list </code> .  Similarly for RDF, it is expected that the RDF data is available in a CSV format, where there are spaces before and after the comma. The compilation command is <code> g++ -o parse -std=c++17 RDFCSVParsing.cpp -lstdc++fs </code> followed again by <code>./parse path_to_lang-file-list </code> <br>
 
 The output (internal format) files are then available in the "Parsed" folder inside LangData. 
 
@@ -194,19 +194,20 @@ First, it is important to understand the different kind of hyperparameters that 
 <ol>
 	<li> <b> Transitive </b> (alias: transitive) - Whether the translations should be produced in a transitive way or not. Actually this takes a non-binary value, specifically from 0-2. 0 means to use the proper cycle-algorithm. 1 means to use transitivity within the biconnected component (atleast 1 cycle must pass through source-word, target-word). 2 means a proper transitive relation. If this is set to 1 or 2, only the Context Depth hyperparameter is applicable, which defines the depth to which transitive relations are to be considered.
     <li> <b> Context Depth </b> (alias: context_depth) - Maximum length of shortest path from source word to target word <br>
-    Increasing this: a) Increases Run-Time b) Increases |Pred| and precision (performance) till a point, after that becomes useless/reduces performance. Recommended range: 2-5. Default: 3 if transitive closure, 4 otherwise.
+    Increasing this: a) Increases Run-Time b) Increases |Pred| and precision (performance) till a point, after that becomes useless/reduces performance. Recommended range: [2, 5]. Default: 3 if transitive closure, 4 otherwise. Allowed range: [1, 10] 
     <li> <b> Maximum Cycle Length </b> (alias: max_cycle_length) - Maximum length of cycle <br>
-    Increasing this: a) Increases Run-Time b) Increases |Pred| and precision (performance) till a point, after that becomes redundant. Big dense cycles will have small denser subcycles. Recommended range 6-9. Default: 7
+    Increasing this: a) Increases Run-Time b) Increases |Pred| and precision (performance) till a point, after that becomes redundant. Big dense cycles will have small denser subcycles. Recommended range [6, 9]. Default: 7. Allowed range: [4, 12]
     <li> <b> Cutoff for being 'Large Context' </b> (alias: large_cutoff) - Minimum degree of source word for it to be 'Large Context' <br>
-    Increasing means more contexts become small contexts and have lesser required minimum cycle length. If set to 0, all contexts are large context. Recommended range: 3-7, Default: 5
+    Increasing means more contexts become small contexts and have lesser required minimum cycle length. If set to 0, all contexts are large context. Recommended range: [3, 7], Default: 5. Allowed range: [0, 12]
     <li> <b> Minimum Cycle Length in Large Contexts </b> (alias: large_min_cyc_len) - Minimum length of cycle in Large Contexts i.e. Deg(Source) greater or equal Cutoff <br>
-    Increasing this: a) Decreases |Pred| b) Could slightly increase precision but don't make it too high/too low c) Slightly Decreases Run-Time. Recommend range: 4-6. Default: 5 
+    Increasing this: a) Decreases |Pred| b) Could slightly increase precision but don't make it too high/too low c) Slightly Decreases Run-Time. Recommend range: [4, 6]. Default: 5. Allowed range: [0, 10]
     <li> <b> Minimum Cycle Length in Small Contexts </b> (alias: small_min_cyc_len) - Minimum length of cycle in Small Contexts <br>
-    Increasing this: Same as above. Recommend range: 4-5. Default: 4 
+    Increasing this: Same as above. Recommend range: [4, 5]. Default: 4. Allowed range: [0, 8]
     <li> <b> Confidence Multiplier if Target has degree > 2 </b> (alias: deg_gt2_multiplier) - If the target has degree more than 2, confidence score is multiplied by this value <br>
-     Increasing this: a) Increases |Pred| b) Might decrease Precision. Recommended Range: 1-1.5. Default: 1.3
+     Increasing this: a) Increases |Pred| b) Might decrease Precision. Recommended Range: [1, 1.5]. Default: 1.3. Allowed range: [0.5, 3.0]
     <li> <b> Confidence Threshold for predictions </b> (alias: conf_threshold) - Confidence Score cutoff for prediction to be be valid <br>
-     Increasing this: a) Increases Precision b) Decreases |Pred|. Recommended Range: 0.5-0.8. Default: 0.65
+     Increasing this: a) Increases Precision b) Decreases |Pred|. Recommended Range: [0.5, 0.8]. Default: 0.65. Allowed range: [0.1, 1.0]
+
 
 In practice, tuning 1), 2), 3) and 8) should be more than sufficient. Confidence can be tuned after generating the 'possibilities' file (which contains all possible translations with confidence > 0) by using the possibilities to prediction feature.
 
@@ -247,7 +248,11 @@ The given aliases are both case sensitive and any change in spelling would make 
 > max_cycle_length = 9<br>
 > deg_gt2_multiplier = 1.1<br>
 
-A sample file ("hyperparameters.txt") is also provided to understand this paradigm. 
+A sample file ("hyperparameters.txt") is also provided to understand this paradigm. <br>
+
+Note that the POS allowed have a fixed set of possible values and are case, white-space sensitive. These are: <br>
+
+<code> noun, properNoun, verb, adverb, adjective, numeral, pronoun, preposition, punctuation, article, determiner, conjunction, particle </code><br>
 
 <h3> Folder Config File </h3>
 
@@ -271,3 +276,7 @@ These folder names can be of language-pair data or word-translations data as the
 
 <hr> </hr>
 In totality, it may be a bit overwhelming at once. Try to not play with the config files and use the ones provided in the install first. Using word-translations mode runs fast so use that initially. Then, start by making a new hyperparameter file and adding custom hyperparameters. Then customize the word-config / language-pair config and slowly it's easy to understand :)
+
+<h3> Note on program outputs and issues </h3>
+
+As many steps in the algorithm take a long time to run, intermediate output is often provided. Moreover, as the input format can be a little complex and easy to make mistakes in, efforts have been made to provide detailed error-handling, warning messages. In cases where feasible, the program just ignores a particular erroneous input line and continues, but else-where it may be forced to exit with an error status. Please read the error-message, and try to fix something in your config files by referring to the detailed README instructions above. It is wise to not deviate at all from the above mentioned formats as we might have not handled certain types of erroneous input, which could lead to weird output or long run-times. In-case the error seems in-explainable, please open an issue and for faster responses ask on the IRC or use the Apertium mailing-list. Any feedback is appreciated!
