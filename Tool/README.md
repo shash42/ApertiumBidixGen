@@ -13,6 +13,8 @@ C++17 or higher
 
 The algorithm reads from a simple internal format different from both Apertium Bilingual Dictionaries and RDF Data. This is so that in the future if data from more sources needs to be taken, they can be converted into this simple format by writing only a new parsing script. After that, the algorithm can use this data too. <br>
 
+Typically, you will have to parse the provided directories once after installation. In the future you can reuse that parsed data. If you add any new bidixes, you'll have to parse them too. <br>
+
 First, it's important to describe the lang-file-list. This is what is passed to both for Apertium bidix format and RDF CSV parsing. It's an easy format for other parsers too. It consists of multiple "blocks" where one block provides the data for one language pair. It is defined as follows: <br>
 
 > Path <br>
@@ -62,8 +64,8 @@ After compiling using <code> g++ -o bidixgen -std=c++17 CLI.cpp -lstdc++fs </cod
 <li> <code> --hyperparameter_file="path_to_hyperparameter_config_file" </code> [Optional] Used to provide a custom hyperparameter file, nly to be used in-case the defaults need to be tinkered with. </li>
 <li> Generate translations for specific words or an entire language pair (must provide exactly one)
 <ol type = 'i'>
-<li> <code> word_file="path_to_word_config_file" </code> If specific words are to be translated.
-<li> <code> lang_file="path_to_langpair_config_file" </code> If entire language pairs have to be translated.
+<li> <code> --word_file="path_to_word_config_file" </code> If specific words are to be translated.
+<li> <code> --lang_file="path_to_langpair_config_file" </code> If entire language pairs have to be translated.
 </ol>
 </ol>
 </li>
@@ -75,6 +77,7 @@ After compiling using <code> g++ -o bidixgen -std=c++17 CLI.cpp -lstdc++fs </cod
 </li>
 </ol>
 </ol>
+
 
 Only sequences of steps from the root to the leaf of the above option-tree form an accurate command. <br>
 All file paths can be relative (to folder of execution) or absolute path along with it. How to create these files is described later. <br>
@@ -252,7 +255,9 @@ A sample file ("hyperparameters.txt") is also provided to understand this paradi
 
 Note that the POS allowed have a fixed set of possible values and are case, white-space sensitive. These are: <br>
 
-<code> noun, properNoun, verb, adverb, adjective, numeral, pronoun, preposition, punctuation, article, determiner, conjunction, particle </code><br>
+<code> noun, properNoun, verb, adverb, adjective, numeral, pronoun, preposition, punctuation, article, determiner, conjunction, particle </code><br>
+
+Note that in the POS_To_Hyperparameter_Map the indexes to the hyperparameter set are 0 indexed, much like how the hyperparameter sets were labelled using 0-indexing in the format mentioned above. 
 
 <h3> Folder Config File </h3>
 
