@@ -56,9 +56,6 @@ void predByLang(string &file_pref, map<string, Graph> &pred, bool fixedlp,
         summary << langpair.first << endl;
         summary << "Number of vertices: " << langG.vertices.size() << endl;
         summary << "Number of edges: " << langG.num_edges << endl;
-        string file_name = file_pref + "predictions.txt";
-        ofstream outfile; outfile.open(file_name);
-        langG.printGraph(outfile);
         summary << endl; //blank line
     }
     //get possibilities with confidence printed

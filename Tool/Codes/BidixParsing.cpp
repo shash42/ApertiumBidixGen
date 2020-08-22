@@ -67,6 +67,18 @@ void BidixParsing::populate_POS_Map(){
     }
     //Manual additions: Some edge-cases based on aanlyzed bidixes
     ApertToLex["abbr"] = "properNoun";
+    ApertToLex["coordinatingConjunction"] = "conjunction";
+    ApertToLex["subordinatingConjunction"] = "conjunction";
+    ApertToLex["copula"] = "verb";
+    ApertToLex["demonstrativePronoun"] = "pronoun";
+    ApertToLex["demonstrativeDeterminer"] = "determiner";
+    ApertToLex["indefinitePronoun"] = "pronoun";
+    ApertToLex["interrogativePronoun"] = "pronoun";
+    ApertToLex["personalPronoun"] = "pronoun";
+    ApertToLex["presentParticipleAdjective"] = "adjective";
+    ApertToLex["reflexivePersonalPronoun"] = "pronoun";
+    ApertToLex["relativePronoun"] = "pronoun";
+    ApertToLex["reciprocalPronoun"] = "pronoun";
 }
 
 //get the acutaly POS using the wordData and passed apertium tag(s) in n=""
@@ -200,6 +212,14 @@ void BidixParsing::run(string strpath, string _l1, string _l2, LangCodes &LC){
     }
 }
 
+void codelengthcheck(string &langcode)
+{
+    if(langcode.length()<2 || langcode.length()>3){
+        cerr << "Warning: You have not used 3 digit lang-codes in " << langcode << endl; //don't break as it may be intended
+        cerr << "It might still work if you are sure this is intended, but can otherwise lead to unexpected behaviour" << endl;
+    }
+}
+
 int main(int argc, char *argv[]){
     if(argc!=2){
         cerr << "1 argument, path to language-pair list required." << endl;
@@ -217,6 +237,7 @@ int main(int argc, char *argv[]){
         string path, l1, l2;
         getline(fin, path);
         getline(fin, l1, ' '); getline(fin, l2);
+        codelengthcheck(l1); codelengthcheck(l2);
         if(l1.length()==0 || l2.length()==0) continue; //added check (ignore) for empty lines/langnames
         //cout << l1 << " " << l2 << endl;
         cout << l1 << " " << l2 << endl;

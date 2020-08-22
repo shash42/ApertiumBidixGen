@@ -27,6 +27,58 @@ void GenPoss::SetDefaults() {
     reqd.infolist.push_back("lang"); reqd.infolist.push_back("pos"); reqd.infolist.push_back("word_rep");
 }
 
+bool HpCheck::FailCheck(ifstream &file, string &parameter) {
+    if(file.fail()){
+        file.clear();
+        cerr << "Invalid input, "<< " hyperparameter set " << num_H << " - " << parameter << " not assigned!\n";
+        file.ignore(numeric_limits<streamsize>::max(), '\n');
+        return false;
+    }
+    return true;
+}
+
+bool HpCheck::RangeCheckInt(ifstream &file, int x, string &parameter) {
+    cerr << parameter << " " << x << endl;
+    if(x>=permIntL && x<=permIntR){
+        return true;
+    }
+    cerr << "Hyperparameter set " << num_H << " - Parameter: " << parameter << " not assigned!" << endl;
+    cerr << "Permissible range for " << parameter <<  "is [" << permIntL <<", " << permIntR << "]" << endl;
+    if(recIntL >= 0 && recIntR >= 0) cerr << "Recommended range for " << parameter <<  "is [" << recIntL <<", " << recIntR << "]" << endl;
+    file.ignore(numeric_limits<streamsize>::max(), '\n');
+    return false;
+}
+
+bool HpCheck::RangeCheckFloat(ifstream &file, float x, string &parameter) {
+    //cerr << parameter << " " << x << endl;
+    if(x>=permFloatL - Hprecision && x<permFloatR + Hprecision){
+        return true;
+    }
+    cerr << "Hyperparameter set " << num_H << " - Parameter: " << parameter << " not assigned!" << endl;
+    cerr << "Permissible range for " << parameter <<  "is [" << permFloatL <<", " << permFloatR << "]" << endl;
+    if(recFloatL > -Hprecision && recFloatR > -Hprecision) cerr << "Recommended range for " << parameter <<  "is [" << recFloatL <<", " << recFloatR << "]" << endl;
+    file.ignore(numeric_limits<streamsize>::max(), '\n');
+    return false;
+}
+
+bool equalcheck(string &equalsym, int &num_H, string &takein, ifstream &file_H){
+    if(equalsym!="="){
+        cerr << "Formatting error detected in hyperparameter set " << num_H << ", " << takein << " not assigned!" << endl;
+        file_H.ignore(numeric_limits<streamsize>::max(), '\n');
+        file_H >> takein; //required for next iteration as after this it will skip this iteration of the loop
+        transform(takein.begin(), takein.end(), takein.begin(), ::tolower); //convert to lower case for ease of use
+        return false;
+    }
+    else return true;
+}
+
+void length3codecheck(string &langcode)
+{
+    if(langcode.length()!=3){
+        cerr << "Warning: You have not used 3 digit lang-codes in " << langcode << endl; //don't break as it may be intended
+        cerr << "It might still work if you are sure this is intended, but can otherwise lead to unexpected behaviour" << endl;
+    }
+}
 bool GenPoss::GetHyperparameters(ifstream &file_H) {
 
     H.clear(); //remove defaults
@@ -36,76 +88,175 @@ bool GenPoss::GetHyperparameters(ifstream &file_H) {
     Config defaultconfig;   H.push_back(defaultconfig);
     string takein;
     file_H >> takein;
-    while(takein != "POS_To_Hyperparameter_Map"){
+    transform(takein.begin(), takein.end(), takein.begin(), ::tolower); //convert to lower case for ease of use
+    int perset = 0;
+    while(takein != "pos_to_hyperparameter_map"){
+        //cerr << takein << endl;
+        perset++;
         if(takein=="end"){
+            perset = 0;
             file_H >> takein;
-            if(takein != "POS_To_Hyperparameter_Map"){
+
+            transform(takein.begin(), takein.end(), takein.begin(), ::tolower); //convert to lower case for ease of use
+            if(takein != "pos_to_hyperparameter_map"){
                 H.push_back(defaultconfig);
                 num_H++;
             }
+            if(num_H > num_H_Cap){
+                cerr << "Too many hyperparameter sets received, current upper-limit is" << num_H_Cap << endl;
+                cerr << "Maximum 1 hyperparameter set per POS can be used. Thus, more hyperparameter sets shouldn't be needed" << endl;
+                cerr << "Possible causes: error in format like not adding POS_to_Hyperparameter_Map in the correct position in the config file" << endl;
+                return false;
+            }
             continue;
+        }
+        if(perset > num_PperH_Cap){
+            cerr << "Too many parameters for this hyperparameter set were recieved." << endl;
+            cerr << "Are you sure you didn't miss an \"end\" at the end of a hyperparameter set?" << endl;
+            return false;
         }
         else if(takein=="transitive"){
             string equalsym; file_H >> equalsym;
+            if(!equalcheck(equalsym, num_H, takein, file_H)){ //file_H >> takein is done inside so can directly jump to next iteration
+                continue;
+            }
             int x; file_H >> x;
-            H[num_H].transitive = x;
+            HpCheck HpChecker(num_H, (int) 0, (int) 2, -1, -1);
+            if(HpChecker.FailCheck(file_H, takein) && HpChecker.RangeCheckInt(file_H, x, takein)){
+                H[num_H].transitive = x;
+            }
         }
         else if(takein=="context_depth"){
             string equalsym; file_H >> equalsym;
+            if(!equalcheck(equalsym, num_H, takein, file_H)){ //file_H >> takein is done inside so can directly jump to next iteration
+                continue;
+            }
             int x; file_H >> x;
-            H[num_H].context_depth = x;
+            HpCheck HpChecker(num_H, (int) 1, (int) 10, 2, 5);
+            if(HpChecker.FailCheck(file_H, takein) && HpChecker.RangeCheckInt(file_H, x, takein)){
+                H[num_H].context_depth = x;
+            }
         }
         else if(takein=="max_cycle_length"){
             string equalsym; file_H >> equalsym;
+            if(!equalcheck(equalsym, num_H, takein, file_H)){ //file_H >> takein is done inside so can directly jump to next iteration
+                continue;
+            }
             int x; file_H >> x;
-            H[num_H].max_cycle_length = x;
+            HpCheck HpChecker(num_H, (int) 4, (int) 12, 6, 9);
+            if(HpChecker.FailCheck(file_H, takein) && HpChecker.RangeCheckInt(file_H, x, takein)){
+                H[num_H].max_cycle_length = x;
+            }
         }
         else if(takein=="large_cutoff"){
             string equalsym; file_H >> equalsym;
+            if(!equalcheck(equalsym, num_H, takein, file_H)){ //file_H >> takein is done inside so can directly jump to next iteration
+                continue;
+            }
             int x; file_H >> x;
-            H[num_H].large_cutoff = x;
+            HpCheck HpChecker(num_H, (int) 0, (int) 12, 3, 7);
+            if(HpChecker.FailCheck(file_H, takein) && HpChecker.RangeCheckInt(file_H, x, takein)){
+                H[num_H].large_cutoff = x;
+            }
         }
         else if(takein=="large_min_cyc_len"){
             string equalsym; file_H >> equalsym;
+            if(!equalcheck(equalsym, num_H, takein, file_H)){ //file_H >> takein is done inside so can directly jump to next iteration
+                continue;
+            }
             int x; file_H >> x;
-            H[num_H].large_min_cyc_len = x;
+            HpCheck HpChecker(num_H, (int) 0, (int) 10, 4, 6);
+            if(HpChecker.FailCheck(file_H, takein) && HpChecker.RangeCheckInt(file_H, x, takein)){
+                H[num_H].large_min_cyc_len = x;
+            }
         }
         else if(takein=="small_min_cyc_len"){
             string equalsym; file_H >> equalsym;
+            if(!equalcheck(equalsym, num_H, takein, file_H)){ //file_H >> takein is done inside so can directly jump to next iteration
+                continue;
+            }
             int x; file_H >> x;
-            H[num_H].small_min_cyc_len = x;
+            HpCheck HpChecker(num_H, (int) 0, (int) 8, 4, 5);
+            if(HpChecker.FailCheck(file_H, takein) && HpChecker.RangeCheckInt(file_H, x, takein)){
+                H[num_H].small_min_cyc_len = x;
+            }
         }
         else if(takein=="deg_gt2_multiplier"){
             string equalsym; file_H >> equalsym;
+            if(!equalcheck(equalsym, num_H, takein, file_H)){ //file_H >> takein is done inside so can directly jump to next iteration
+                continue;
+            }
             float x; file_H >> x;
-            H[num_H].deg_gt2_multiplier = x;
+            HpCheck HpChecker(num_H, (float) 0.5, (float) 3.0, (float) 1, (float) 1.5);
+            if(HpChecker.FailCheck(file_H, takein) && HpChecker.RangeCheckFloat(file_H, x, takein)){
+                H[num_H].deg_gt2_multiplier = x;
+            }
         }
         else if(takein=="conf_threshold"){
             string equalsym; file_H >> equalsym;
+            if(!equalcheck(equalsym, num_H, takein, file_H)){ //file_H >> takein is done inside so can directly jump to next iteration
+                continue;
+            }
             float x; file_H >> x;
-            H[num_H].conf_threshold = x;
+            HpCheck HpChecker(num_H, (float) 0.1, (float) 1.01, (float) 0.5, (float) 0.8);
+            if(HpChecker.FailCheck(file_H, takein) && HpChecker.RangeCheckFloat(file_H, x, takein)){
+                H[num_H].conf_threshold = x;
+            }
         }
         else{
             cerr << "Invalid Hyperparameter Name " << takein << endl;
-            return false;
+            file_H.ignore(numeric_limits<streamsize>::max(), '\n');
         }
         file_H >> takein;
+        transform(takein.begin(), takein.end(), takein.begin(), ::tolower); //convert to lower case for ease of use
     }
 
     cout << H.size() << " Hyperparameter Configurations Retrieved" << endl;
 
+    int iterations = 0;
     file_H >> takein;
     while(takein != "ENDOFFILE"){
+        iterations++;
+
+        set<string> POS = {"noun", "properNoun", "verb", "adverb", "adjective", "numeral", "pronoun", "preposition",
+                           "punctuation", "article", "determiner", "conjunction", "particle"};
+        if(POS.find(takein)==POS.end()){
+            cerr << takein << " is not among the usable POS. This line has been ignored." << endl;
+            file_H.ignore(numeric_limits<streamsize>::max(), '\n');
+            file_H >> takein;
+            continue;
+        }
+        if(iterations > num_H_Cap){
+            cerr << "Too many POS-Hyperparameter mappings received, there is currently an upper-limit of" << num_H_Cap << endl;
+            cerr << "Maximum 1 hyperparameter set per POS can be used. Thus, more mappings shouldn't be needed" << endl;
+            cerr << "Possible causes: error in format like not ENDOFFILE in the correct position in the config file" << endl;
+            return false;
+        }
+
         string equalsym; file_H >> equalsym;
+        if(!equalcheck(equalsym, num_H, takein, file_H)){ //file_H >> takein is done inside so can directly jump to next iteration
+            continue;
+        }
         int x; file_H >> x;
-        POS_to_config[takein] = x;
+        if(file_H.fail()){
+            file_H.clear();
+            cerr << "Mapping number " << iterations << " provided is in an invalid format." << endl;
+            return false;
+        }
+        else if(x<0 || x>num_H){
+            cerr << "POS mapped to invalid hyperparameter " << x << " as " << num_H << " hyperparameter configs were provided" << endl;
+            return false;
+        }
+        else{
+            POS_to_config[takein] = x;
+        }
         file_H >> takein;
     }
     file_H.close();
     return true;
 }
 
-bool GenPoss::RunWords(string &exptno, ifstream &file_W) {
+bool GenPoss::RunWords(string &exptname, ifstream &file_W) {
     num_pred = 1;
     lI.resize(num_pred);
 
@@ -114,22 +265,43 @@ bool GenPoss::RunWords(string &exptno, ifstream &file_W) {
     int numWords;
     string numwordline;
     getline(file_W, numwordline);
-    stringstream(numwordline) >> numWords;
+    stringstream numwordstream = stringstream(numwordline);
+    numwordstream >> numWords;
+    if(numwordstream.fail()){
+        numwordstream.clear();
+        cerr << "Invalid input value for requirement: Number of Words" << endl;
+        return false;
+    }
+    if(numWords > num_W_Cap){
+        cerr << "Too many words. The current upper limit is " << num_W_Cap << endl;
+        return false;
+    }
     for(int i = 0; i < numWords; i++){
         string word;
         getline(file_W, word);
         reqd.condOR["word_rep"].insert(word);
     }
     int num_lang; file_W >> num_lang;
+    if(file_W.fail()){
+        file_W.clear();
+        cerr << "Invalid input value for requirement: Number of Language Pairs to use" << endl;
+        return false;
+    }
+    if(numWords > num_B_Cap){
+        cerr << "Too many bidixes. The current upper limit is " << num_B_Cap << endl;
+        return false;
+    }
     lI[0].resize(num_lang);
     for(int j = 0; j < num_lang; j++){
         file_W >> lI[0][j].first;
+        length3codecheck(lI[0][j].first);
     }
     for(int j = 0; j < num_lang; j++){
-        file_W >> lI[0][j].second;
+        file_W >> lI[0][j].second; //[TODO: Add checks for parsed existence of .first-.second here]
+        length3codecheck(lI[0][j].second);
     }
     file_W.close();
-    cout << "Word file read, " << numWords << " words received! " << endl;
+    cout << "Word Config file read, " << numWords << " words received to generate output for! " << endl;
     //cout << outfilename << endl;
     string lp2 = "Wont Be Used";
     Graph G;
@@ -139,9 +311,9 @@ bool GenPoss::RunWords(string &exptno, ifstream &file_W) {
     timer.start(); // start timer
     map<string, Graph> predicted; //string stores language pair and maps it to a graph
     reqd.condOR["lang"].clear();
-    string dirpath = "../Results/Expts/" + exptno + "/Analysis/" + outfilename;
+    string dirpath = "../Results/Expts/" + exptname + "/Analysis/" + outfilename;
     fs::create_directory(dirpath);
-    int new_trans = runDirectWords(G, H, POS_to_config, predicted, exptno, outfilename, lp2, reqd);
+    int new_trans = runDirectWords(G, H, POS_to_config, predicted, exptname, outfilename, lp2, reqd);
     //cout << new_trans << endl;
     timer.end();
     timer.log();
@@ -150,16 +322,39 @@ bool GenPoss::RunWords(string &exptno, ifstream &file_W) {
 
 bool GenPoss::RunLangs(string &exptno, ifstream &file_L) {
     file_L >> num_pred;
+    if(file_L.fail()){
+        file_L.clear();
+        cerr << "Invalid input value for requirement: Number of Language Pairs to use" << endl;
+        return false;
+    }
+    if(num_pred > num_LPGen_Cap){
+        cerr << "Too many required generation files. The current upper limit is " << num_LPGen_Cap << endl;
+        return false;
+    }
     l1.resize(num_pred); l2.resize(num_pred); lI.resize(num_pred);
     for(int i = 0; i < num_pred; i++){
         file_L >> l1[i] >> l2[i];
+        if(l1[i]!="NoFix"){
+            length3codecheck(l1[i]); length3codecheck(l2[i]);
+        }
         int num_lang; file_L >> num_lang;
+        if(file_L.fail()){
+            file_L.clear();
+            cerr << "Invalid input value for requirement: Number of Language Pairs to use" << endl;
+            return false;
+        }
+        if(num_pred > num_B_Cap){
+            cerr << "Too many bidixes. The current upper limit is " << num_B_Cap << endl;
+            return false;
+        }
         lI[i].resize(num_lang);
         for(int j = 0; j < num_lang; j++){
             file_L >> lI[i][j].first;
+            length3codecheck(lI[i][j].first);
         }
         for(int j = 0; j < num_lang; j++){
-            file_L >> lI[i][j].second;
+            file_L >> lI[i][j].second; //TODO: [Add checks here for existence of the parsed langpair]
+            length3codecheck(lI[i][j].second);
         }
     }
     file_L.close();
@@ -194,23 +389,28 @@ bool GenPoss::RunLangs(string &exptno, ifstream &file_L) {
 }
 
 void GenPred::Run(ifstream &fin, string &exptname, float &confidence) {
-    cout << "Converting..." << endl;
     foldernames.clear();
-    string tempnum;
-    getline(fin, tempnum);
-    num_folders = stoi(tempnum);
-
+    fin >> num_folders;
+    if(fin.fail()){
+        cerr << "Invalid input type for number of folders, integer between [1, 100] required. Please try again\n";
+        return;
+    }
+    if(num_folders < 1 || num_folders > 100){
+        cerr << "Invalid value for number of folders, integer between [1, 100] required. Please try again\n";
+        return;
+    }
+    fin.ignore(); //ignore the \n because after this we use getline
     for(int i = 0; i < num_folders; i++){
         string temp;
         getline(fin, temp);
         string dirpath; dirpath = "../Results/Expts/" + exptname + "/Analysis/" + temp;
-        if(!fs::exists(dirpath)){
-            cerr << "Invalid foldername, " << to_string(num_folders - i) << " folders left. Try again!";
+        if(!temp.empty() || !fs::exists(dirpath)){
+            cerr << "Invalid foldername on line " << i+1 << ", Please try again\n";
             return;
         }
         foldernames.push_back(temp);
     }
-
+    cout << "Converting..." << endl;
     convert(exptname, confidence, num_folders, foldernames);
 }
 
@@ -218,7 +418,7 @@ int main(int argc, char *argv[]){
 
     string exptname, folder_filename, hp_filename, word_filename, lang_filename;
     float confidence = 0.65;
-    bool pred, poss;
+    bool pred=false, poss=false;
     int c;
     while(1){
         int option_index = 0;
@@ -235,7 +435,7 @@ int main(int argc, char *argv[]){
                         {NULL,      0,                 NULL,    0}
                 };
 
-        c = getopt_long(argc, argv, ":e:pgc:f:h:w:l:", long_options, &option_index);
+        c = getopt_long(argc, argv, "e:pgc:f:h:w:l:", long_options, &option_index);
         if (c == -1)
             break;
 
@@ -271,64 +471,72 @@ int main(int argc, char *argv[]){
     }
 
     if(exptname.empty()){
-        cerr << "Enter valid experiment name" << endl;
-        return 0;
+        cerr << "Experiment name not provided" << endl;
+        exit(1);
     }
     CreateDir(exptname);
-
+    if(poss && pred){
+        cerr << "Ambiguous command, both possible_translations and get_predicitons mode selected. Choose one!\n";
+        exit(1);
+    }
     if(poss){
         GenPoss Predictor;
         Predictor.SetDefaults();
         if(!hp_filename.empty()){
+            if(!fs::exists(hp_filename)){
+                cerr << "The hyperparameter information file provided does not exist, please try again\n";
+                exit(1);
+            }
             ifstream hp_file; hp_file.open(hp_filename);
             bool valid_hp = Predictor.GetHyperparameters(hp_file);
             if(!valid_hp){
                 cerr << "Please Try Again" << endl;
-                return 0;
+                exit(1);
             }
         }
+        else{
+            cout << "Using default hyperparameters!" << endl;
+        }
         if(word_filename.length() && lang_filename.length()){
-            cerr << "Both word and language pair modes are not possible together. Please try again!";
-            return 0;
+            cerr << "Both word and language pair modes are not possible together. Please try again!\n";
+            exit(1);
         }
         if(word_filename.empty() && lang_filename.empty()){
-            cerr << "Neither word file nor language pair file provided. Please choose a mode and try again!";
-            return 0;
+            cerr << "Neither word file nor language pair file provided. Please choose a mode and try again!\n";
+            exit(1);
         }
         if(!word_filename.empty()){
-            cout << word_filename << endl;
             if(!fs::exists(word_filename)){
-                cerr << "The word generation information file provided does not exist, please try again";
-                return 0;
+                cerr << "The word generation information file provided does not exist, please try again\n";
+                exit(1);
             }
             ifstream word_file; word_file.open(word_filename);
             bool valid_word = Predictor.RunWords(exptname, word_file);
             if(!valid_word){
-                cerr << "Please Try Again" << endl;
-                return 0;
+                cerr << "Please try again!\n";
+                exit(1);
             }
         }
         else if(!lang_filename.empty()){
             if(!fs::exists(lang_filename)){
-                cerr << "The language-pair generation information file provided does not exist, please try again";
-                return 0;
+                cerr << "The language-pair generation information file provided does not exist, please try again\n";
+                exit(1);
             }
             ifstream lang_file; lang_file.open(lang_filename);
             bool valid_lang = Predictor.RunLangs(exptname, lang_file);
             if(!valid_lang){
-                cerr << "Please Try Again" << endl;
-                return 0;
+                exit(1);
             }
         }
     }
     else if(pred){
         if(confidence < 0 || confidence > 1){
-            cerr << "Invalid confidence score, please try again";
-            return 0;
+            cerr << "Invalid confidence score\n";
+            exit(1);
         }
         if(!fs::exists(folder_filename)){
-            cerr << "The folder information file provided does not exist, please try again";
-            return 0;
+            cerr << "The folder information file provided does not exist, please try again\n";
+            exit(1);
         }
         ifstream folder_data; folder_data.open(folder_filename);
         GenPred Predictor;
@@ -336,8 +544,8 @@ int main(int argc, char *argv[]){
     }
     else
     {
-        cerr << "You must provide one of --find_possibilities (-p) or --get_predictions (-g)";
-        return 0;
+        cerr << "You must provide one of --find_possibilities (-p) or --get_predictions (-g)\n";
+        exit(1);
     }
     return 0;
 }
