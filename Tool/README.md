@@ -45,7 +45,7 @@ So the lang-file-list is a concatenation of multiple such blocks: <br>
 
 You can refer to "ApertiumRaw-langfile-list.txt" provided in the download as an example. <br>
 
-The way to convert Apertium data to the internal format is by compiling using <code> g++ -o parse -std=c++17 BidixParsing.cpp -lstdc++fs </code> followed by <code>./parse path_to_lang-file-list </code> .  Similarly for RDF, it is expected that the RDF data is available in a CSV format, where there are spaces before and after the comma. The compilation command is <code> g++ -o parse -std=c++17 RDFCSVParsing.cpp -lstdc++fs </code> followed again by <code>./parse path_to_lang-file-list </code> <br>
+The way to convert Apertium data to the internal format is by compiling using <code> g++ -o parse -std=c++17 BidixParsing.cpp -lstdc++fs </code> followed by <code>./parse path_to_lang-file-list [path_to_destination-folder] </code>.  The path_to_destination-folder is an optional argument, by default the parsed results will go to <code> /LangData/Parsed</code>Similarly for RDF, it is expected that the RDF data is available in a CSV format, where there are spaces before and after the comma. The compilation command is <code> g++ -o rdfparse -std=c++17 RDFCSVParsing.cpp -lstdc++fs </code> followed again by <code>./rdfparse path_to_lang-file-list [path_to_destination-folder] .</code> </code> Once again, the path_to_destination-folder is optional, this time the default being <code> /LangData/RDFParsed</code><br>
 
 The output (internal format) files are then available in the "Parsed" folder inside LangData. 
 
@@ -59,7 +59,7 @@ After compiling using <code> g++ -o bidixgen -std=c++17 CLI.cpp -lstdc++fs </cod
     <li> <code> --expt_name="custom_name_here" </code> Required option, non-empty value must be specified. </li>
 <li> Mode of execution (choose exactly one and follow the steps listed under it)
 <ol type = 'A'>
-<li> <code> -possible_translations </code> No value to be specified.
+<li> <code> --possible_translations="parsed-input_folder_name_here" </code> 
 <ol type = 'a'>
 <li> <code> --hyperparameter_file="path_to_hyperparameter_config_file" </code> [Optional] Used to provide a custom hyperparameter file, nly to be used in-case the defaults need to be tinkered with. </li>
 <li> Generate translations for specific words or an entire language pair (must provide exactly one)
@@ -69,7 +69,7 @@ After compiling using <code> g++ -o bidixgen -std=c++17 CLI.cpp -lstdc++fs </cod
 </ol>
 </ol>
 </li>
-<li> <code> -get_predictions</code> No value to be specified.
+<li> <code> --get_predictions</code> No value to be specified.
 <ol type = 'a'>
 <li> <code> --confidence=" "</code> [Optional] Takes decimal value in [0, 1]. Default value: 0.65
 <li> <code>--folder_file="path_to_folder_config_file"</code> Necessary to specify.
@@ -79,17 +79,18 @@ After compiling using <code> g++ -o bidixgen -std=c++17 CLI.cpp -lstdc++fs </cod
 </ol>
 
 
+
 Only sequences of steps from the root to the leaf of the above option-tree form an accurate command. <br>
 All file paths can be relative (to folder of execution) or absolute path along with it. How to create these files is described later. <br>
-You can use the first letter of the attribute as a short form for all attributes, eg: <code> --e="custom_name_here" </code> for specifying the experiment name or <code>-g</code> for get_predictions <br>
+You can use the first letter of the attribute as a short form for all attributes, eg: <code> -e="custom_name_here" </code> for specifying the experiment name or <code>-g</code> for get_predictions <br>
 
 Some examples:
 
-<code> ./bidixgen --e=TestRun -p --h="../hp_config.txt" --l="../lang_config.txt"</code> - Generates possibilities in the TestRun folder <br>
+<code> ./bidixgen -e=TestRun -p="../LangData/Parsed" -h="../hp_config.txt" -l="../lang_config.txt"</code> - Generates possibilities in the TestRun folder <br>
 
-<code> ./bidixgen --e=TestRun -g --f=../folder_config.txt </code> - Generates predictions in the TestRun folder from the possibilities generated in the previous command. <br>
+<code> ./bidixgen -e=TestRun -g -f=../folder_config.txt </code> - Generates predictions in the TestRun folder from the possibilities generated in the previous command. <br>
 
-<code>./bidixgen --e=TestRun -g --c=0.55 --f="../folder_config.txt" </code> - Generates predictions from the possibilities file generated in command 1 taking all translations with confidence score > 0.55 <br>
+<code>./bidixgen -e=TestRun -g -c=0.55 -f="../folder_config.txt" </code> - Generates predictions from the possibilities file generated in command 1 taking all translations with confidence score > 0.55 <br>
 
 <h3> Detailed Explanation of Arguments </h3>
 
@@ -100,11 +101,13 @@ This essentially allows the user to run the program with separate config paramet
 
 <h4> 2. Execution Mode </h4>
 
-There are 2 possible modes, <code> -possible_translations </code> and <code> -get_predictions </code>. <br>
+There are 2 possible modes, <code> --possible_translations </code> and <code> --get_predictions </code>. <br>
 
-Here, it is important to know that on running the main algorithm (-possible_translations), it produces a 'possibilities.txt' file in the target experiment folder. These are translations accompanied by their 'confidence' scores. Then, the user can execute <code>./bidixgen</code> with appropriate arguments again and convert the possibilities into predictions, produced in the 'predictions.txt' file. This is done to allow the user to play with different confidence thresholds and see which suits their needs best. 
+Here, it is important to know that on running the main algorithm (--possible_translations), it produces a 'possibilities.txt' file in the target experiment folder. These are translations accompanied by their 'confidence' scores. Then, the user can execute <code>./bidixgen</code> with appropriate arguments again and convert the possibilities into predictions, produced in the 'predictions.txt' file. This is done to allow the user to play with different confidence thresholds and see which suits their needs best. 
 
-<h5> 2A. -possible_translations </h5>
+<h5> 2A. --possible_translations </h5>
+
+It takes as a compulsory attribute the path to the folder containing parsed input files which are used to generate possible translations. All files in this folder must have language pairs of the format "abc-xyz.txt" if abc and xyz are the 3-letter codes of the source and target language respectively. This is also the default generated by the parser. <br>
 
 The program has some default hyperparameters as described later, and these can be changed by you as the user to see what works best for your language-pair and requirements. This can be done by adding <code> --hyperparameter_file="path_to_hyperparameter_config" </code>as an attribute. <br>
 
