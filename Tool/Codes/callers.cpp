@@ -9,7 +9,7 @@ struct sortByConfDesc{
 };
 
 //load the pairs listed in LangData-List into the graph
-void runPairs(Graph &G, vector<pair<string, string>> &lI)
+void runPairs(Graph &G, vector<pair<string, string>> &lI, string &input_folder)
 {
     string input_file;
     //ofstream fout;
@@ -18,7 +18,8 @@ void runPairs(Graph &G, vector<pair<string, string>> &lI)
     for(int i = 0; i < lI.size(); i++)
     {
         string langpair = lI[i].first + "-" + lI[i].second;
-        input_file = "../LangData/Parsed/" + langpair + ".txt";
+        if(input_folder[input_folder.length()-1] != '/') input_folder += "/";
+        input_file =  input_folder + langpair + ".txt";
         //cout << input_file << endl; //output current input file for tracking progress
         //fout << input_file << endl;
         G.loadData(input_file);

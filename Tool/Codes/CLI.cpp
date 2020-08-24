@@ -38,7 +38,7 @@ bool HpCheck::FailCheck(ifstream &file, string &parameter) {
 }
 
 bool HpCheck::RangeCheckInt(ifstream &file, int x, string &parameter) {
-    cerr << parameter << " " << x << endl;
+    //cerr << parameter << " " << x << endl;
     if(x>=permIntL && x<=permIntR){
         return true;
     }
@@ -256,7 +256,7 @@ bool GenPoss::GetHyperparameters(ifstream &file_H) {
     return true;
 }
 
-bool GenPoss::RunWords(string &exptname, ifstream &file_W) {
+bool GenPoss::RunWords(string &exptname, ifstream &file_W, string &input_folder) {
     num_pred = 1;
     lI.resize(num_pred);
 
@@ -299,13 +299,17 @@ bool GenPoss::RunWords(string &exptname, ifstream &file_W) {
     for(int j = 0; j < num_lang; j++){
         file_W >> lI[0][j].second; //[TODO: Add checks for parsed existence of .first-.second here]
         length3codecheck(lI[0][j].second);
+        if(!fs::exists(input_folder + lI[0][j].first + "-" + lI[0][j].second + ".txt")){
+            cerr << "Data for pair " << lI[0][j].first << "-" << lI[0][j].second << " not found in provided input directory!" << endl;
+            exit(1);
+        }
     }
     file_W.close();
     cout << "Word Config file read, " << numWords << " words received to generate output for! " << endl;
     //cout << outfilename << endl;
     string lp2 = "Wont Be Used";
     Graph G;
-    runPairs(G, lI[0]); //load pairs into graph(object, langpairindex to ignore)
+    runPairs(G, lI[0], input_folder); //load pairs into graph(object, langpairindex to ignore)
     cout << "Loaded" << endl;
     Stopwatch timer;
     timer.start(); // start timer
@@ -320,7 +324,7 @@ bool GenPoss::RunWords(string &exptname, ifstream &file_W) {
     return true;
 }
 
-bool GenPoss::RunLangs(string &exptno, ifstream &file_L) {
+bool GenPoss::RunLangs(string &exptno, ifstream &file_L, string &input_folder) {
     file_L >> num_pred;
     if(file_L.fail()){
         file_L.clear();
@@ -355,6 +359,10 @@ bool GenPoss::RunLangs(string &exptno, ifstream &file_L) {
         for(int j = 0; j < num_lang; j++){
             file_L >> lI[i][j].second; //TODO: [Add checks here for existence of the parsed langpair]
             length3codecheck(lI[i][j].second);
+            if(!fs::exists(input_folder + lI[i][j].first + "-" + lI[i][j].second + ".txt")){
+                cerr << "Data for pair " << lI[i][j].first << "-" << lI[i][j].second << " not found in provided input directory!" << endl;
+                exit(1);
+            }
         }
     }
     file_L.close();
@@ -366,7 +374,7 @@ bool GenPoss::RunLangs(string &exptno, ifstream &file_L) {
         fs::create_directory(dirpath);
 
         Graph G;
-        runPairs(G, lI[i]); //load pairs into graph(object, langpairindex to ignore)
+        runPairs(G, lI[i], input_folder); //load pairs into graph(object, langpairindex to ignore)
         cout << "Loaded" << endl;
         Stopwatch timer;
         timer.start(); // start timer
@@ -404,7 +412,7 @@ void GenPred::Run(ifstream &fin, string &exptname, float &confidence) {
         string temp;
         getline(fin, temp);
         string dirpath; dirpath = "../Results/Expts/" + exptname + "/Analysis/" + temp;
-        if(!temp.empty() || !fs::exists(dirpath)){
+        if(temp.empty() || !fs::exists(dirpath)){
             cerr << "Invalid foldername on line " << i+1 << ", Please try again\n";
             return;
         }
@@ -416,7 +424,7 @@ void GenPred::Run(ifstream &fin, string &exptname, float &confidence) {
 
 int main(int argc, char *argv[]){
 
-    string exptname, folder_filename, hp_filename, word_filename, lang_filename;
+    string exptname, folder_filename, hp_filename, word_filename, lang_filename, lang_folder;
     float confidence = 0.65;
     bool pred=false, poss=false;
     int c;
@@ -425,7 +433,7 @@ int main(int argc, char *argv[]){
         static struct option long_options[] =
                 {
                         {"expt_name",     required_argument, NULL,  'e'},
-                        {"possible_translations",  no_argument,       NULL,  'p'},
+                        {"possible_translations",  required_argument,       NULL,  'p'},
                         {"get_predictions",  no_argument, NULL,  'g'},
                         {"confidence", optional_argument,       NULL,  'c'},
                         {"folder_file",  required_argument, NULL,  'f'},
@@ -435,7 +443,7 @@ int main(int argc, char *argv[]){
                         {NULL,      0,                 NULL,    0}
                 };
 
-        c = getopt_long(argc, argv, "e:pgc:f:h:w:l:", long_options, &option_index);
+        c = getopt_long_only(argc, argv, "e:p:gc:f:h:w:l:", long_options, &option_index);
         if (c == -1)
             break;
 
@@ -446,6 +454,12 @@ int main(int argc, char *argv[]){
                 break;
             case 'p':
                 poss=true;
+                lang_folder = optarg;
+                if(!fs::exists(lang_folder)){
+                    cerr << "Input folder for language data provided (argument to -p) does not exist!\n";
+                    exit(1);
+                }
+                if(lang_folder[lang_folder.length()-1]!='/') lang_folder += "/";
                 break;
             case 'g':
                 pred=true;
@@ -511,7 +525,7 @@ int main(int argc, char *argv[]){
                 exit(1);
             }
             ifstream word_file; word_file.open(word_filename);
-            bool valid_word = Predictor.RunWords(exptname, word_file);
+            bool valid_word = Predictor.RunWords(exptname, word_file, lang_folder);
             if(!valid_word){
                 cerr << "Please try again!\n";
                 exit(1);
@@ -523,7 +537,7 @@ int main(int argc, char *argv[]){
                 exit(1);
             }
             ifstream lang_file; lang_file.open(lang_filename);
-            bool valid_lang = Predictor.RunLangs(exptname, lang_file);
+            bool valid_lang = Predictor.RunLangs(exptname, lang_file, lang_folder);
             if(!valid_lang){
                 exit(1);
             }

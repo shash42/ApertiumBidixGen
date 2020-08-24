@@ -25,7 +25,7 @@ public:
         populate_POS_Map();
     }
     void run(string path, string _l1, string _l2, LangCodes &LC); //Parse the bidix of l1-l2
-    void Output(); //Generate the output after parsing
+    void Output(string folderpath); //Generate the output after parsing
 };
 
 //Get the actual reqd info from the passed string (CSV cell value column 1, 3)
@@ -137,13 +137,15 @@ wordData BidixParsing::getWord(xml_node w, string &lang, LangCodes &LC){
 }
 
 //Print parsed output into target file
-void BidixParsing::Output(){
+void BidixParsing::Output(string folderpath){
     cout << num_entries << endl; //output number of entries {temporary}
     //int corr = 0, err = 0, useful = 0; //number of correct, error, useful entries
     //string correctpath = "../LangData/Parsed/Correct/" + l1 + "-" + l2 + ".txt"; //correct entries
     //string errorpath = "../LangData/Parsed/Error/" + l1 + "-" + l2 + ".txt"; //error entries
-    fs::create_directory("../LangData/Parsed"); //create the directory
-    string usefulpath = "../LangData/Parsed/" + l1 + "-" + l2 + ".txt";
+    if(folderpath.empty()) folderpath = "../LangData/Parsed";
+    fs::create_directory(folderpath); //create the directory
+    if(folderpath[folderpath.length()-1]!='/') folderpath+="/";
+    string usefulpath = folderpath + l1 + "-" + l2 + ".txt";
     //ofstream fout; fout.open(correctpath);
     //ofstream ferr; ferr.open(errorpath);
     ofstream fuse; fuse.open(usefulpath);
@@ -221,8 +223,8 @@ void codelengthcheck(string &langcode)
 }
 
 int main(int argc, char *argv[]){
-    if(argc!=2){
-        cerr << "1 argument, path to language-pair list required." << endl;
+    if(argc>3 || argc<=1){
+        cerr << "Usage: ./parse path-to-languagepair-list [path-to-destination-folder]" << endl;
         return 0;
     }
     if(!fs::exists(argv[1])){
@@ -236,12 +238,14 @@ int main(int argc, char *argv[]){
     while(!fin.eof()){
         string path, l1, l2;
         getline(fin, path);
+        if(path.empty()) continue;
         getline(fin, l1, ' '); getline(fin, l2);
+        if(l1.empty() || l2.empty()) continue;
         codelengthcheck(l1); codelengthcheck(l2);
         if(l1.length()==0 || l2.length()==0) continue; //added check (ignore) for empty lines/langnames
         //cout << l1 << " " << l2 << endl;
         cout << l1 << " " << l2 << endl;
         BP.run(path, l1, l2, LC); //run parsing for the given language pair
-        BP.Output(); //output the parse results
+        BP.Output(argv[2]); //output the parse results
     }
 }

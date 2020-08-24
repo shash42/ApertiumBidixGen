@@ -51,10 +51,12 @@ void getparts(string line, vector<string> &parts)
     parts[1] = getlast(parts[1], 1);
     parts[3] = getlast(parts[3], 1);
 }
-void Parse(string inp_path, string l1, string l2){
+void Parse(string inp_path, string l1, string l2, string folderpath){
     ifstream fin;     fin.open(inp_path);
-    fs::create_directory("../LangData/RDFParsed"); //create the directory
-    ofstream fout; fout.open("../LangData/RDFParsed/" + l1 + "-" + l2 + ".txt");
+    if(folderpath.empty()) folderpath = "../LangData/RDFParsed";
+    fs::create_directory(folderpath); //create the directory
+    if(folderpath[folderpath.length()-1]!='/') folderpath+="/";
+    ofstream fout; fout.open(folderpath + l1 + "-" + l2 + ".txt");
     string line, word;
     getline(fin, line);
     int count = 0;
@@ -69,8 +71,8 @@ void Parse(string inp_path, string l1, string l2){
 }
 
 int main(int argc, char *argv[]){
-    if(argc!=2){
-        cerr << "1 argument, path to language-pair list required." << endl;
+    if(argc>3 || argc<=1){
+        cerr << "Usage: ./rdfparse path-to-languagepair-list [path-to-destination-folder]" << endl;
         return 0;
     }
     if(!fs::exists(argv[1])){
@@ -89,6 +91,6 @@ int main(int argc, char *argv[]){
         cout << l1 << " " << l2 << endl;
         if(LC.langcode2to3.find(l1)!=LC.langcode2to3.end()) l1 = LC.langcode2to3[l1]; //convert to 3 letter code
         if(LC.langcode2to3.find(l2)!=LC.langcode2to3.end()) l2 = LC.langcode2to3[l2]; //convert to 3 letter code
-        Parse(path, l1, l2); //run parsing for the given language pair
+        Parse(path, l1, l2, argv[2]); //run parsing for the given language pair
     }
 }
