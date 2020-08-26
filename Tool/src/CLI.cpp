@@ -424,13 +424,21 @@ void GenPred::Run(ifstream &fin, string &exptname, float &confidence, bool bidix
 
 int main(int argc, char *argv[]){
 
-    string usage_message = "ApertiumBidixGen helps automatically generate entries for Apertium bilingual dictionaries using data from existing"
+    string about_message = "About:\n\tApertiumBidixGen helps automatically generate entries for Apertium bilingual dictionaries using data from existing"
                            " Apertium data. It allows a friendly experimental setup for the user to try different configurations and reach "
-                           "upon what works best for the language-pair they are developing. More about the project at: https://github.com/shash42/ApertiumBidixGen \n\n"
-                           "Usage: checkout the README.md downloaded locally or at https://github.com/shash42/ApertiumBidixGen/tree/master/Tool/README.md\n";
+                           "upon what works best for the language-pair they are developing. More about the project at: https://github.com/shash42/ApertiumBidixGen \n\n";
+
+    string usage_message = "Usage:\n"
+                           "\t./bidixgen (-e | --expt-folder)<result_folder> (-p | --possible-translations)<input_folder>"
+                           " [(-o | --own-hyperparameters)<hp_config>] (-w | --word-file)<word_file> (-n | --no-diff-pos)\n\n"
+                           "\t./bidixgen (-e | --expt-folder)<result_folder> (-p | --possible-translations)<input_folder>"
+                           " [(-o | --own-hyperparameters)<hp_config>] (-l | --language-file)<lang_file> (-n | --no-diff-pos)\n\n"
+                           "\t./bidixgen (-e | --expt-folder)<result_folder> (-g | --get-predictions) (-f | --folder-file)<folder_config>"
+                           " [(-c | --confidence)<score0-1>] [(-b | --bidix-output)]\n\n"
+                           "For more information: Checkout the README.md downloaded locally or at https://github.com/shash42/ApertiumBidixGen/tree/master/Tool/README.md\n";
 
     if(argc<=1){
-        cerr << usage_message << endl;
+        cerr << about_message << endl << usage_message << endl;
         return 0;
     }
     string exptname, folder_filename, hp_filename, word_filename, lang_filename, lang_folder;
@@ -441,7 +449,7 @@ int main(int argc, char *argv[]){
         int option_index = 0;
         static struct option long_options[] =
                 {
-                        {"expt-name",     required_argument, NULL,  'e'},
+                        {"expt-folder",     required_argument, NULL,  'e'},
                         {"possible-translations",  required_argument,       NULL,  'p'},
                         {"get-predictions",  no_argument, NULL,  'g'},
                         {"confidence", optional_argument,       NULL,  'c'},
@@ -507,6 +515,9 @@ int main(int argc, char *argv[]){
     if(exptname.empty()){
         cerr << "Experiment name not provided" << endl;
         exit(1);
+    }
+    for(int i = 0; i < exptname.length(); i++){
+        
     }
     CreateDir(exptname);
     if(poss && pred){
