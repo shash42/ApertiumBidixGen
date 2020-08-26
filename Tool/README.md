@@ -13,7 +13,9 @@ C++17 or higher
 
 <h2> Parsing Bilingual Dictionaries or RDF Data </h2>
 
-The algorithm reads from a simple internal format different from both Apertium Bilingual Dictionaries and RDF Data. This is so that in the future if data from more sources needs to be taken, they can be converted into this simple format by writing only a new parsing script. After that, the algorithm can use this data too. <br>
+The algorithm reads from a simple internal format different from both Apertium Bilingual Dictionaries and RDF Data. This is so that in the future if data from more sources needs to be taken, they can be converted into this simple format by writing only a new parsing script. After that, the algorithm can use this data too. The internal format is a TSV of the following format: <br>
+
+Word_Rep1	POS1	Lang1	Word_Rep2	POS2	Lang2 <br>
 
 Typically, you will have to parse the provided directories once after installation. In the future you can reuse that parsed data. If you add any new bidixes, you'll have to parse them too. <br>
 
@@ -77,6 +79,7 @@ After compiling using <code> g++ -o bidixgen -std=c++17 CLI.cpp -lstdc++fs </cod
 <ol type = 'a'>
 <li> <code> --confidence=" "</code> [Optional] Takes decimal value in [0, 1]. Default value: 0.65
 <li> <code>--folder-file="path_to_folder_config_file"</code> Necessary to specify.
+<li> <code> --bidixoutput </code> This is an optional argument to get predictions output in bidix entries format
 </ol>
 </li>
 </ol>
@@ -86,7 +89,7 @@ After compiling using <code> g++ -o bidixgen -std=c++17 CLI.cpp -lstdc++fs </cod
 
 Only sequences of steps from the root to the leaf of the above option-tree form an accurate command. <br>
 All file paths can be relative (to folder of execution) or absolute path along with it. How to create these files is described later. <br>
-You can use the first letter of the attribute as a short form for all attributes, eg: <code> -e="custom_name_here" </code> for specifying the experiment name or <code>-g</code> for get_predictions <br>
+You can use the first letter (or any prefix) of the attribute as a short form for all attributes, eg: <code> -e="custom_name_here" </code> for specifying the experiment name or <code>-g</code> for get_predictions <br>
 
 Some examples:
 
@@ -144,6 +147,8 @@ First you can optionally change the confidence score value from the default 0.65
 You must necessarily provide a folder_config file describing which folders this conversion from possibilities to predictions must take place. This is done by adding <code>--folder-file="path_to_folder_config_file"</code> <br>
 
 This is because in the same experiment folder, multiple folders can exist for different language pairs, word translations etc. More on this later <br>
+
+Finally, the default output format is TSV, but you can get output in apertium bidix format by adding the option <code>--bidixoutput </code>. An example entry produced is: `<e a="BidixGen">	<p><l>muñeca<s n="noun"/></l>	<r>canell<s n="noun"/></r></p></e>`. You can see that the author name is BidixGen for convenience, as these entries are not complete and cannot be added into apertium data as it is. The `<s>` tags contain the lexinfo POS, which needs to be replaced with morphological information relevant to the bidix you are creating. <br>
 
 The program will now execute and generate the predictions.txt based on the possibilities.txt inside these folders. <br>
 Example output: <br>
