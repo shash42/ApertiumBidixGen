@@ -4,11 +4,15 @@ C++17 or higher
 
 <h2> Installation Guide</h2>
 <ol>
-<li> Download the Tool folder to your local machine.
-<li> cd into the 'Codes' folder
-<li> Parse the bidixes provided in the download by the commands <code> g++ -o parse -std=c++17 BidixParsing.cpp -lstdc++fs </code> and then <code> ./parse config_file_path </code>. Described in more detail below.
+<li> Download either the entire repository, or just the Tool folder (svn checkout https://github.com/shash42/ApertiumBidixGen/trunk/Tool) to your local machine.
+<li> cd into the Tool folder and run: <br>
+    <code>autoreconf -i</code> <br>
+    <code>./configure</code> <br>
+    <code>sudo make install</code>
+<li> Parse the bidixes provided in the download by the command <code> ./parse config_file_path </code>. Described in more detail below.
 <li> Use following the usage guidelines below. </li>
 </ol>
+
 
 
 <h2> Parsing Bilingual Dictionaries or RDF Data </h2>
@@ -49,19 +53,19 @@ So the lang-file-list is a concatenation of multiple such blocks: <br>
 
 You can refer to "ApertiumRaw-langfile-list.txt" provided in the download as an example. <br>
 
-The way to convert Apertium data to the internal format is by compiling using <code> g++ -o parse -std=c++17 BidixParsing.cpp -lstdc++fs </code> followed by <code>./parse path_to_lang-file-list [path_to_destination-folder] </code>.  The path_to_destination-folder is an optional argument, by default the parsed results will go to <code> /LangData/Parsed</code>Similarly for RDF, it is expected that the RDF data is available in a CSV format, where there are spaces before and after the comma. The compilation command is <code> g++ -o rdfparse -std=c++17 RDFCSVParsing.cpp -lstdc++fs </code> followed again by <code>./rdfparse path_to_lang-file-list [path_to_destination-folder] .</code> </code> Once again, the path_to_destination-folder is optional, this time the default being <code> /LangData/RDFParsed</code><br>
+The way to convert Apertium data to the internal format is by using  <code>./parsebidix path_to_lang-file-list [path_to_destination-folder] </code>.  The path_to_destination-folder is an optional argument, by default the parsed results will go to <code> /LangData/Parsed. </code>Similarly for RDF, it is expected that the RDF data is available in a CSV format, where there are spaces before and after the comma. The usage command is similar, <code>./parsecsvrdf path_to_lang-file-list [path_to_destination-folder] .</code> </code> Once again, the path_to_destination-folder is optional, this time the default being <code> /LangData/RDFParsed</code><br>
 
 Currently, most (>90% expected) Apertium entries can be parsed except those mentioned here: !!!*add link*!!!. Majorly, the issue is with entries using regex or some other unconventional mode of description. All valid RDF CSV data should be parse-able. It is recommended to directly use Apertium data though as RDF data is itself a parsed version of RDF which loses or changes some information.
 
 <h2> Usage Guidelines </h2>
 
-After compiling using <code> g++ -o bidixgen -std=c++17 CLI.cpp -lstdc++fs </code>, the execution command is: <br>
+The execution command is: <br>
 
 <code> ./bidixgen [arguments] </code> <br>
 
 <h3> Arguments - Quick Guide Option Tree</h3>
 <ol>
-    <li> <code> --expt-name="custom_name_here" </code> Required option, non-empty value must be specified. </li>
+    <li> <code> --expt-folder="custom_name_here" </code> Required option, non-empty value must be specified. </li>
 <li> Mode of execution (choose exactly one and follow the steps listed under it)
 <ol type = 'A'>
 <li> <code> --possible-translations="parsed-input_folder_name_here" </code> 
@@ -70,16 +74,16 @@ After compiling using <code> g++ -o bidixgen -std=c++17 CLI.cpp -lstdc++fs </cod
 <li> Generate translations for specific words or an entire language pair (must provide exactly one)
 <ol type = 'i'>
 <li> <code> --word-file="path_to_word_config_file" </code> If specific words are to be translated.
-<li> <code> --lang-file="path_to_langpair_config_file" </code> If entire language pairs have to be translated.
+<li> <code> --language-file="path_to_langpair_config_file" </code> If entire language pairs have to be translated.
 </ol>
-    <li> <code> --no-diff-pos </code> - It is an optional argument to specify that predicted entries with different POS should not be included. </li>
+    <li> <code> --no-diff-pos </code> - [Optional] Predicted entries with different POS should not be included. </li>
 </ol>
 </li>
 <li> <code> --get-predictions</code> No value to be specified.
 <ol type = 'a'>
-<li> <code> --confidence=" "</code> [Optional] Takes decimal value in [0, 1]. Default value: 0.65
 <li> <code>--folder-file="path_to_folder_config_file"</code> Necessary to specify.
-<li> <code> --bidixoutput </code> This is an optional argument to get predictions output in bidix entries format
+<li> <code> --confidence=" "</code> [Optional] Takes decimal value in [0, 1]. Default value: 0.65
+<li> <code> --bidix-output </code> [Optional] Get predictions output in bidix entries format
 </ol>
 </li>
 </ol>
@@ -101,7 +105,7 @@ Some examples:
 
 <h3> Detailed Explanation of Arguments </h3>
 
-<h4>1. --expt-name </h4>
+<h4>1. --expt-folder </h4>
 
 It is important to understand why this is asked. The output of each run produces or overwrites data in a folder named with the experiment name you input. This folder is present inside Results/ (also produced by the program if it doesn't already exist). So for example if you enter '2' then a folder with path Tool/Results/2/Analysis/ will contain the actions of the program. <br>
 This essentially allows the user to run the program with separate config parameters and get results in separate folders to analyze what config parameters works best for them. <br>
@@ -128,7 +132,7 @@ Enter exactly one of these arguments (for words, language-pairs respectively) <b
 
 or
 
-<code> --lang-file="path_to_lang_file"</code> <br>
+<code> --language-file="path_to_lang_file"</code> <br>
 
 Provide the files just like the hyperparameters file above.  The config files required for the 2 options have to be formatted differently. More on that later. <br>
 
@@ -148,7 +152,7 @@ You must necessarily provide a folder_config file describing which folders this 
 
 This is because in the same experiment folder, multiple folders can exist for different language pairs, word translations etc. More on this later <br>
 
-Finally, the default output format is TSV, but you can get output in apertium bidix format by adding the option <code>--bidixoutput </code>. An example entry produced is: `<e a="BidixGen">	<p><l>muñeca<s n="noun"/></l>	<r>canell<s n="noun"/></r></p></e>`. You can see that the author name is BidixGen for convenience, as these entries are not complete and cannot be added into apertium data as it is. The `<s>` tags contain the lexinfo POS, which needs to be replaced with morphological information relevant to the bidix you are creating. <br>
+Finally, the default output format is TSV, but you can get output in apertium bidix format by adding the option <code>--bidix-output </code>. An example entry produced is: `<e a="BidixGen" c="score:0.9">	<p><l>muñeca<s n="noun"/></l>	<r>canell<s n="noun"/></r></p></e>`. You can see that the author name is BidixGen for convenience, as these entries are not complete and cannot be added into apertium data as it is. The confidence score is mentioned using the Apertium syntax for comments (attribute c). The `<s>` tags contain the lexinfo POS, which needs to be replaced with morphological information relevant to the bidix you are creating. <br>
 
 The program will now execute and generate the predictions.txt based on the possibilities.txt inside these folders. <br>
 Example output: <br>
@@ -230,6 +234,7 @@ First, it is important to understand the different kind of hyperparameters that 
      Increasing this: a) Increases |Pred| b) Might decrease Precision. Recommended Range: [1, 1.5]. Default: 1.3. Allowed range: [0.5, 3.0]
     <li> <b> Confidence Threshold for predictions </b> (alias: conf_threshold) - Confidence Score cutoff for prediction to be be valid <br>
      Increasing this: a) Increases Precision b) Decreases |Pred|. Recommended Range: [0.5, 0.8]. Default: 0.65. Allowed range: [0.1, 1.0]
+
 
 
 
