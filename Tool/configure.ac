@@ -1,4 +1,4 @@
-AC_INIT([ApertiumBidixGen], [2020.1.0], [shashwat.goel@research.iiit.ac.in], [https://github.com/shash42/ApertiumBidixGen/tree/master/Tool])
+AC_INIT([ApertiumBidixGen], [2020.1.0], [shashwat.goel@research.iiit.ac.in])
 AM_INIT_AUTOMAKE
 AC_PROG_CXX
 AC_PROG_CC
