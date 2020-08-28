@@ -1,8 +1,9 @@
 <li>VisualAnalysisByCategory.ipynb - A Jupyter Notebook with analysis of experimental results at the end of Phase 1. In this experiment, 11 language pairs were procured, and each was removed and generated using the other 10 independently. Results were analyzed for different POS categories based on 2 metrics: Percentage of verifiably correct predictions from excluded data, Percentage of predictions as compared to excluded data. Quantiative results and Qualitative inferences are both presented.
 <li>DetailedVisualAnalysisbyCat.ipynb - A Jupyter Notebook which shows a better and finer analysis and visualization of results of the above experiment, by dividing errors into 4 categories based on the number of words (out of 2) of a translation found in data, both for precision and recall. This gives a much more realistic picture of the performance. Explanation of the formulas are further provided here: https://hackmd.io/@o7NQTGl-SCCmH18WdRRuzA/r1A40BXyw Graphs have been plotted using plotly, so they will not be visible in GitHub previews. Instead, download the Jupyter Notebook using the following instructions:
 
+An html file is provided with both for a quick-view of the latest results provided. <br>
 <details>
-	<summary> Instructions for viewing the notebook </summary>
+	<summary> Instructions for viewing the notebook in a tweakable manner </summary>
   <ol>
 	<li> Open the notebook in Github: https://github.com/shash42/ApertiumBidixGen/blob/master/DetailedVisualAnalysisbyCat.ipynb
 	<li> Click on Download in the top-right.
