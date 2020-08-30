@@ -21,9 +21,9 @@ This project aims to provide a fast, generalized tool that given multiple biling
 
 <h5> What can it be used for? </h5>
 
-Apertium provides more than 50 high quality stable language pairs, apart from unreleased data on an even larger number of language pairs. Generating bilingual dictionaries semi-automatically can be of immense use to Apertium language-pair developers to increase Apertium's coverage, and keeping that in mind a fast Apertium bilingual dictionary parser with >90% coverage comes packaged into the tool. An option allows language-pair developers to generate "incomplete" Apertium bilingual dictionary entries. This is because in it's current state, the project does not handle morphological information, an important component of Apertium bilingual dictionaries. <br>
+[Apertium](https://github.com/apertium/apertium-trunk) provides more than 50 high quality stable language pairs, apart from unreleased data on an even larger number of language pairs. Generating bilingual dictionaries semi-automatically can be of immense use to Apertium language-pair developers to increase Apertium's coverage, and keeping that in mind a fast Apertium bilingual dictionary parser with >90% coverage comes packaged into the tool. An option allows language-pair developers to generate "incomplete" Apertium bilingual dictionary entries. This is because in it's current state, the project does not handle morphological information, an important component of Apertium bilingual dictionaries. <br>
 
-The project has also been packaged for RDF data using the Lemon model (which happens to be sourced from Apertium data itself). An RDF Parser that works on RDF queried TSV data is provided, along with a SPARQL query that extracts all translations between a given pair of languages. More details on this can be found in the Tools/src folder. <br>
+The project has also been packaged for ApertiumRDF project, that provides RDF format data. An RDF Parser that works on RDF queried TSV data is provided, along with a SPARQL query that extracts all translations between a given pair of languages. More details on this can be found in the Tools/src folder. <br>
 
 While these are 2 specific source data-sources, generalization has been a key goal of this project. By just writing a parser that converts source data to the required internal input TSV format: SLw, POS(SLw), SL, TLw, POS(TLw), TL, the tool can be used for a variety of source data. Here SL stands for Source Language, TL stands for Target Language, '-w' stands for -word and POS(w) stands for POS of a word. Given the experiment-oriented setup, the user can tune the algorithm with simplicity for a variety of data<br>
 
@@ -45,8 +45,9 @@ The project was built by me (Shashwat Goel) as part of the Google Summer of Code
 <li>Analysis - The directory contains raw data of runs used by Result Visualizations
 <li>Result Visualizations - The directory contains jupyter notebooks demonstrating the efficacy of the tool developed.
 <li>Coding Challenge - The directory contains a preliminary code written for applying to Apertium for GSoC 2020. Mostly unimportant, perhaps except future GSoC aspirants.
-<li>SampleWord - Some sample word contexts used for sanity checks. Borrowed from the M. Villegas repository [2].
+    <li>SampleWord - Some sample word contexts used for sanity checks. Borrowed from the <a href="https://github.com/martavillegas/ApertiumRDF">M. Villegas ApertiumRDF repository</a>.
 <li> Tool - Contains installation files and the codebase for the actual CLI tool for users
+
 
 <sup>1</sup>Apertium bilingual dictionaries have some unidirectional entries to encode a lexical selection heuristic in the bilingual dictionary itself.
 
