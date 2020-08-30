@@ -1,57 +1,52 @@
-Documentation in progress!
+Last updated on August 30.
 
 # ApertiumBidixGen
 
-### Bilingual Dictionary Generation via Graph Exploration for Apertium.
+### Bilingual Dictionary Generation via Graph Exploration
 
 #### Instructions for Usage and Installation
 Check the Tool folder.
 
 #### About the project
 
-A bilingual dictionary defines translations between lemmas (colloquially words, but excluding morphologically changed "surface forms" and often including multi-words) of two languages. Here lexical entries are seen as just their written representation along with their part of speech, with no additional information. These two languages can be referred to as Source Language and Target Language, though this distinction doesn't really matter from a bilingual dictionary standpoint as translations are traditionally bidirectional<sup>1</sup>. <br>
+<h5> Terminology </h5>
 
-Given a set of languages and bilingual dictionaries among pairs of these languages, it is non-trivial to accurately determine the translation to language B of an arbitrary lexical entry X of language A if there is not a direct A-B bilingual dictionary. This is primarily due to phenomena like 'polysemy'. Polysemy means that the same word can have multiple semantic senses, which might not necessarily be true for it's translation pair along one sense. This limits the prediction accuracy of a direct transitive closure between lemmas. <br>
+A bilingual dictionary defines translations between lemmas (colloquially words or phrases, but only in their base form i.e. excluding morphologically changed "surface forms") of two languages. Here lexical entries are seen as just their written representation along with their part of speech, with no additional information on their semantic "sense". These two languages can be referred to as Source Language and Target Language, though this distinction doesn't really matter from a bilingual dictionary standpoint as translations are traditionally bidirectional<sup>1</sup>. <br>
 
-This project aims to provide a fast, generalized tool that given multiple bilingual dictionaries helps predict possible translations across languages not already in the source data. This could be in the form of generating entire new bilingual dictionaries, enriching existing bilingual dictionaries or finding translations for particular words. It can do so for a variety of source data, provided a parser that converts this data into the required internal TSV format. The output provides translations and the algorithm's "confidence score" for these translations in another TSV. The project provides a command-line interface optimized for ease of experimentation, as the optimal set of "hyperparameters" can vary across use-cases, languages and quality of source data. <br>
+Given a set of languages and bilingual dictionaries among pairs of these languages, it is non-trivial to accurately determine the translation to language B of an arbitrary lexical entry X of language A if there is not a direct A-B bilingual dictionary. This is primarily due to phenomena like 'polysemy'. Polysemy means that the same word can have multiple semantic senses, which might not necessarily be true for it's translation pair along one sense. This limits the prediction accuracy of a direct transitive closure between lemmas. A primer on the problem with a nice diagram is also available on [this Apertium Wiki post](https://wiki.apertium.org/wiki/Bilingual_dictionary_discovery). <br>
 
-The project was built as a part of the Google Summer of Code 2020 for the open source organization Apertium. Apertium provides more than 50 high quality stable language pairs, apart from unreleased data on an even larger number of language pairs. Generating bilingual dictionaries semi-automatically can be of immense use to Apertium language-pair developers, and keeping that in mind a fast Apertium bilingual dictionary parser with >90% coverage comes packaged into the tool. An option allows language-pair developers to generate "incomplete" Apertium bilingual dictionary entries. This is because in it's current state, the project does not handle morphological information, an important component of Apertium bilingual dictionaries. This is a planned update in the near future based on a "Templates" script developed for the scn-spa pair by spectie and khannatanmai. <br>
+<h5> The Tool </h5>
 
-<br>
+This project aims to provide a fast, generalized tool that given multiple bilingual dictionaries helps predict possible translations not already in the source data. This could be in the form of generating entire new bilingual dictionaries, enriching existing bilingual dictionaries or finding translations for particular words. An important point is that the algorithm performs multilingual inference, bilingual dictionaries are just a way to input this data into the algorithm. The tool structures translations data as a graph, with vertices as a (lemma, POS, language) triplet and undirected edges between translations. Inference is done from this graph using an optimised version of the Cycle Density algorithm proposed by M. Vilegas et al. in [Leveraging RDF Graphs for Crossing Multiple Bilingual Dictionaries](https://www.aclweb.org/anthology/L16-1140/). The output provides translations and the algorithm's "confidence score" for these translations in another TSV. The project provides a command-line interface optimized for ease of experimentation, as the optimal set of "hyperparameters" can vary across use-cases, properties of the languages involved and quality of source data. <br>
 
-[1]. Apertium bilingual dictionaries have some unidirectional entries to encode a lexical selection heuristic in the bilingual dictionary itself.
+<h5> What can it be used for? </h5>
+
+Apertium provides more than 50 high quality stable language pairs, apart from unreleased data on an even larger number of language pairs. Generating bilingual dictionaries semi-automatically can be of immense use to Apertium language-pair developers to increase Apertium's coverage, and keeping that in mind a fast Apertium bilingual dictionary parser with >90% coverage comes packaged into the tool. An option allows language-pair developers to generate "incomplete" Apertium bilingual dictionary entries. This is because in it's current state, the project does not handle morphological information, an important component of Apertium bilingual dictionaries. <br>
+
+The project has also been packaged for RDF data using the Lemon model (which happens to be sourced from Apertium data itself). An RDF Parser that works on RDF queried TSV data is provided, along with a SPARQL query that extracts all translations between a given pair of languages. More details on this can be found in the Tools/src folder. <br>
+
+While these are 2 specific source data-sources, generalization has been a key goal of this project. By just writing a parser that converts source data to the required internal input TSV format: SLw, POS(SLw), SL, TLw, POS(TLw), TL, the tool can be used for a variety of source data. Here SL stands for Source Language, TL stands for Target Language, '-w' stands for -word and POS(w) stands for POS of a word. Given the experiment-oriented setup, the user can tune the algorithm with simplicity for a variety of data<br>
+
+In the tool's current state, the possible POS are: "noun", "properNoun", "verb", "adverb", "adjective", "numeral", "pronoun", "preposition", "punctuation", "article", "determiner", "conjunction", "particle". Note that good performance is seen for nouns, proper nouns, verbs, adverbs, adjectives and numerals as these depend less on grammar-rules. The others have been allowed but results for them may not be great. <br>
+
+Suppose you are trying to generate translations between language A and language B. The algorithm looks for cycles that contain words of both language A and B. A constraint enforced in the algorithm is to not take multiple words from the same language in such cycles, as this mitigates the adverse effect of polysemy. However, this means, to get meaningful results, input bilingual dictionaries together should form a graph (with languages as vertices and an edge between a pair of languages that have a bilingual dictionary) that has cycles containing language A and language B, preferably with higher density. To understand this, consider the graph of RDF v2.0 data: <br>
+
+<a href="https://www.imageupload.net/image/kjOpd"><img src="https://img.imageupload.net/2020/08/30/Graph.png" alt="Graph.png" height=400 /></a>
+
+The darker the colour, the more highly connected a language is.  Here the algorithm will generate more predictions for the highly connected but not existing pairs like EN-FR but would not generate any predictions for UK-BE as they're only connected through RU in the default settings. However, a transitive hyperparameter has also been provided (further details in Tool folder) which can be used in cases like UK-BE, but ofcourse with lesser accuracy. In general, depending on the connected-ness of the target language-pair in the input data, the confidence score threshold would have to be shifted, perhaps even a switch to transitive closure, and care has been taken to facilitate this. This also helps the tool become a super-set of [Apertium Crossdics](https://wiki.apertium.org/wiki/Crossdics) in terms of functionality <br>
+
+<h5> Creators </h5>
+
+The project was built by me (Shashwat Goel) as part of the Google Summer of Code 2020 for the open source organization Apertium under the advice of Dr. Mikel L. Forcada and Dr. Jorge Gracia. Please do provide any feedback or report urgent issues on <a href="mailto:shashwat.goel@research.iiit.ac.in"> my email address </a>. The project is in it's initial version, and I am actively working on maintaining and refining both the functionality and the approach. Feel free to ask any queries, I'll be happy to help! If you're interested in contributing to the project, I would love to have a chat, write me a mail! <br>
 
 #### Repository Structure
 
 <ul>
 <li>Analysis - The directory contains raw data of runs used by Result Visualizations
-<li>Codes - The directory contains the main codes (in C++) written for the project. More details are available in it's README file.
 <li>Result Visualizations - The directory contains jupyter notebooks demonstrating the efficacy of the tool developed.
 <li>Coding Challenge - The directory contains a preliminary code written for applying to Apertium for GSoC 2020. Mostly unimportant, perhaps except future GSoC aspirants.
-<li>SampleWord - Some sample words as used for quick sanity checks. Borrowed from the M. Villegas repository referenced below.
+<li>SampleWord - Some sample word contexts used for sanity checks. Borrowed from the M. Villegas repository [2].
 <li> Tool - Contains installation files and the codebase for the actual CLI tool for users
 
-[Leveraging RDF Graphs for Crossing Multiple Bilingual Dictionaries](https://www.aclweb.org/anthology/L16-1140/) used for word-by-word sanity-checks and initial testing.
-
-#### Understanding the Algorithms Used
-The algorithm is largely based on the Cycle Density-based translation inference approach described here:[Leveraging  RDF  Graphs for Crossing Multiple Bilingual Dictionaries](https://www.aclweb.org/anthology/L16-1140.pdf). Background on the problem as well as the algorithmic details and intuition can be found here.
-
-Biconnected Components of the input graph are computed before finding cycles due to the following nice properties they provide:
-<ol>
-<li> In any cycle in the graph, all vertices belong to the same biconnected component.
-<li> If 2 vertices belong to the same component, there is atleast one cycle that goes through both.
-</ol>
-This allows independent handling of each biconnected component, breaking down the large language graph into smaller subgraphs on which the Cycle Density algorithm can be applied.<br>
-Further Reading: <br>
-
-[Theory](https://www.ics.uci.edu/~goodrich/teach/cs260P/notes/Biconnectivity.pdf) <br>
-[Implementation details](https://www.hackerearth.com/practice/algorithms/graphs/biconnected-components/tutorial/)
-
-Using Depth First Search to find all cycles (easy to add modifications for pruning): [Short explanation](https://stackoverflow.com/a/549312) <br>
-
-It might also be helpful to understand and internalize the concept of a [DFS-Tree](https://codeforces.com/blog/entry/68138) <br>
-#### Additional Resources
-
-#### Future Possibilities
-Using Linear Algebra to enumerate cycles, and perhaps exploit properties of Fundamental Cycles and Cycle Basis - [Introduction to the concept](https://www.codeproject.com/Articles/1158232/Enumerating-All-Cycles-in-an-Undirected-Graph). This can especially be useful to speed-up the computation of cycle-density for a given cycle. 
+<sup>1</sup>Apertium bilingual dictionaries have some unidirectional entries to encode a lexical selection heuristic in the bilingual dictionary itself.
 
