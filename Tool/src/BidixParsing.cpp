@@ -224,7 +224,7 @@ void codelengthcheck(string &langcode)
 
 int main(int argc, char *argv[]){
     if(argc>3 || argc<=1){
-        cerr << "Usage: ./parse path-to-languagepair-list [path-to-destination-folder]" << endl;
+        cerr << "Usage: ./parsebidix path-to-languagepair-list [path-to-destination-folder]" << endl;
         return 0;
     }
     if(!fs::exists(argv[1])){
@@ -232,8 +232,13 @@ int main(int argc, char *argv[]){
         return 0;
     }
     string input_path = "../LangData/Parse";
-    if(argc==3){
-        input_path = argv[2];
+    if(argc==3) input_path = argv[2];
+    if(argc==3 && !fs::exists(argv[2])){
+        cerr << "Target folder not found!" << endl;
+        return 0;
+    }
+    else if(argc==2){
+        fs::create_directory("../LangData/Parse");
     }
     LangCodes LC; //load 2 digit to 3 digit language code table
     ifstream fin; fin.open(argv[1]); //list of languages to parse

@@ -72,12 +72,21 @@ void Parse(string inp_path, string l1, string l2, string folderpath){
 
 int main(int argc, char *argv[]){
     if(argc>3 || argc<=1){
-        cerr << "Usage: ./rdfparse path-to-languagepair-list [path-to-destination-folder]" << endl;
+        cerr << "Usage: ./parserdfcsv path-to-languagepair-list [path-to-destination-folder]" << endl;
         return 0;
     }
     if(!fs::exists(argv[1])){
         cerr << "Language-pair list file path not found!!" << endl;
         return 0;
+    }
+    string input_path = "../LangData/Parse";
+    if(argc==3) input_path = argv[2];
+    if(argc==3 && !fs::exists(argv[2])){
+        cerr << "Target folder not found!" << endl;
+        return 0;
+    }
+    else if(argc==2){
+        fs::create_directory("../LangData/Parse");
     }
     LangCodes LC; //load 2 digit to 3 digit language code table
     ifstream fin; fin.open(argv[1]); //list of languages to parse
@@ -91,6 +100,6 @@ int main(int argc, char *argv[]){
         cerr << l1 << " " << l2 << endl;
         if(LC.langcode2to3.find(l1)!=LC.langcode2to3.end()) l1 = LC.langcode2to3[l1]; //convert to 3 letter code
         if(LC.langcode2to3.find(l2)!=LC.langcode2to3.end()) l2 = LC.langcode2to3[l2]; //convert to 3 letter code
-        Parse(path, l1, l2, argv[2]); //run parsing for the given language pair
+        Parse(path, l1, l2, input_path); //run parsing for the given language pair
     }
 }
