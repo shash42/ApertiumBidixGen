@@ -8,7 +8,7 @@ C++17 or higher
 <li> cd into the Tool folder and run: <br>
     <code>autoreconf -i</code> <br>
     <code>./configure</code> <br>
-    <code>sudo make install</code>
+    <code>make install</code>
 <li> Parse the bidixes provided in the download by the command <code> ./parse config_file_path </code>. Described in more detail below.
 <li> Use following the usage guidelines below. </li>
 </ol>
