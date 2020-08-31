@@ -1,0 +1,9 @@
+2
+eng spa
+10
+eng fra fra epo epo epo epo oci oci oci
+cat spa cat fra cat eng spa cat spa fra
+NoFix 2
+11
+eng eng fra fra epo epo epo epo oci oci oci
+cat spa spa cat fra cat eng spa cat spa fra
