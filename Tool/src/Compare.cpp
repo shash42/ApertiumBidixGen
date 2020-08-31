@@ -22,9 +22,9 @@ void Compare::getUsedData(Graph &GD, int idxign)
     int num_pairs = 11; //number of pairs of languages.
     string input_file;
     ifstream file_list;
-    file_list.open("LangData-List.txt"); //file with names of lang pairs
+    file_list.open("../LangData-List.txt"); //file with names of lang pairs
    // ofstream fout;
- //   fout.open("Analysis/Tempfile.txt");
+ //   fout.open("../Analysis/Tempfile.txt");
     for(int i = 0; i < num_pairs; i++){
         file_list >> input_file;
         if(i==idxign) continue; //ignore this language pair (incase of removal and generation tests)
@@ -89,11 +89,11 @@ void Compare::getStats(Graph &inG, Graph &notInG, Graph &divG, Graph GE[], Graph
 
 Compare::Compare(string l1, string l2, int idxign, string &exptno){
     string lang = l1+"-"+l2; //language-pair to compare on
-    string pred = "Results/Expts/" + exptno + "/Analysis/" + lang + "/predictions.txt";
-    string orig = "LangData/Data-" + lang + ".txt"; //file with data for comparison
+    string pred = "../Results/Expts/" + exptno + "/Analysis/" + lang + "/predictions.txt";
+    string orig = "../LangData/Data-" + lang + ".txt"; //file with data for comparison
     Graph GP, GD, GO, GC, GE[4], GM[4]; //G-prediction, G-original, G-correct, G-extra, G-missed
     //ofstream fout;
-  //  fout.open("Analysis/Tempfile.txt"); //temporary output file for load data analytics
+  //  fout.open("../Analysis/Tempfile.txt"); //temporary output file for load data analytics
     GP.loadData(pred);
     GO.loadData(orig);
     getUsedData(GD, idxign);
@@ -104,7 +104,7 @@ Compare::Compare(string l1, string l2, int idxign, string &exptno){
 
     //fout.close();
     ofstream summary, gout;
-    string prefix = "Results/Expts/" + exptno + "/Analysis/" + lang + "/";
+    string prefix = "../Results/Expts/" + exptno + "/Analysis/" + lang + "/";
     summary.open(prefix + "compare-summary.txt");
     summary << "Number of correct vertices (in P and O):" << VC.size() << endl;
     summary << "Number of extra vertices (in P, not in O): " << VE.size() << endl;

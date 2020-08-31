@@ -13,7 +13,7 @@ void runPairs(Graph &G, vector<pair<string, string>> &lI, string &input_folder)
 {
     string input_file;
     //ofstream fout;
-    //fout.open("Analysis/Tempfile.txt");
+    //fout.open("../Analysis/Tempfile.txt");
     int prev_nodes = 0, prev_edges = 0; //cumalative vertices/edges till now
     for(int i = 0; i < lI.size(); i++)
     {
@@ -30,7 +30,7 @@ void runPairs(Graph &G, vector<pair<string, string>> &lI, string &input_folder)
     }
 
     //experimental printing of translations with different POS
-    /*ofstream diffpos; diffpos.open("Analysis/DiffPOS.txt");
+    /*ofstream diffpos; diffpos.open("../Analysis/DiffPOS.txt");
     int cnt = 0;
     for(auto u: G.vertices){
         for(auto vidx: u.adj){
@@ -112,7 +112,7 @@ int runBicompLangs(Graph &G, vector<Config> configlist, map<string, int> &POS_to
         new_trans += DTrans.run(pred, reqd_transitive, entries);
     }
 
-    string pred_file_name = "Results/Expts/" + exptno + "/Analysis/" + lp1 + "/";
+    string pred_file_name = "../Results/Expts/" + exptno + "/Analysis/" + lp1 + "/";
     predByLang(pred_file_name, pred, fixedlp, lp1, lp2, entries, diffpos);
     return new_trans;
 }
@@ -130,7 +130,7 @@ int runDirectWords(Graph &G, vector<Config> configlist, map<string, int> &POS_to
     DensityAlgo DTrans = DensityAlgo(G, configlist, POS_to_config);
     new_trans += DTrans.run(pred, reqd, entries);
 
-    string pred_file_name = "Results/Expts/" + exptno + "/Analysis/" + lp1 + "/";
+    string pred_file_name = "../Results/Expts/" + exptno + "/Analysis/" + lp1 + "/";
     predByLang(pred_file_name, pred, false, lp1, lp2, entries, diffpos);
     return new_trans;
 }

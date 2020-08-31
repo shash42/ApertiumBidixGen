@@ -13,7 +13,7 @@ public:
     map<string, string> langcode2to3;
     LangCodes() {
         ifstream flang;
-        flang.open("LangData/ISO639 - Sheet1.tsv");
+        flang.open("../LangData/ISO639 - Sheet1.tsv");
         string line, cell;
         int linenum = 0;
         while (getline(flang, line, '\n')) {

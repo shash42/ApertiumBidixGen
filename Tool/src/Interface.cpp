@@ -31,9 +31,9 @@ struct Stopwatch{
 };
 
 void CreateDir(string &exptno){
-    fs::create_directory("Results");
-    fs::create_directory("Results/Expts");
-    if(fs::exists("Results/Expts/" + exptno)){
+    fs::create_directory("../Results");
+    fs::create_directory("../Results/Expts");
+    if(fs::exists("../Results/Expts/" + exptno)){
         char choice = 'I';
         while(choice == 'I'){
             cout << "Experiment " << exptno << " already exists. Are you sure you want to overwrite it? [Y/N]: ";
@@ -49,8 +49,8 @@ void CreateDir(string &exptno){
             exit(7);
         }
     }
-    fs::create_directory("Results/Expts/" + exptno);
-    fs::create_directory("Results/Expts/" + exptno + "/Analysis");
+    fs::create_directory("../Results/Expts/" + exptno);
+    fs::create_directory("../Results/Expts/" + exptno + "/Analysis");
 }
 
 class Generate{
@@ -221,7 +221,7 @@ void Generate::RunWords(string &exptno) {
     timer.start(); // start timer
     map<string, Graph> predicted; //string stores language pair and maps it to a graph
     reqd.condOR["lang"].clear();
-    string dirpath = "Results/Expts/" + exptno + "/Analysis/" + outfilename;
+    string dirpath = "../Results/Expts/" + exptno + "/Analysis/" + outfilename;
     fs::create_directory(dirpath);
     int new_trans = runDirectWords(G, H, POS_to_config, predicted, exptno, outfilename, lp2, reqd);
     //cout << new_trans << endl;
@@ -259,7 +259,7 @@ void Generate::RunLangs(string &exptno) {
     for (int i = 0; i < num_pred; i++) {
         cout << "Language No.: " << i + 1 << endl;
         string lp1 = l1[i] + "-" + l2[i], lp2 = l2[i] + "-" + l1[i]; //language pair to get predictions for
-        string dirpath = "Results/Expts/" + exptno + "/Analysis/" + lp1;
+        string dirpath = "../Results/Expts/" + exptno + "/Analysis/" + lp1;
         fs::create_directory(dirpath);
 
         Graph G;
@@ -318,7 +318,7 @@ int main(){
             string temp;
             while(temp.empty()){
                 getline(cin, temp);
-                string dirpath; dirpath = "Results/Expts/" + exptno + "/Analysis/" + temp;
+                string dirpath; dirpath = "../Results/Expts/" + exptno + "/Analysis/" + temp;
                 if(!fs::exists(dirpath)){
                     cout << "Invalid foldername, " << to_string(numfolders - i) << " left. Try again!";
                     temp.clear();
