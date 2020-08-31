@@ -12,7 +12,7 @@ The following installation sequence requires svn, autoconf and C++17 to be insta
     <code>autoreconf -i</code> <br>
     <code>./configure</code> <br>
     <code>make install</code> - This step might require sudo privileges <br>
-<li> Parse the bidixes provided in the download by the command <code> ./parse config_file_path </code>. Described in more detail below.
+<li> Parse apertium source data (parser, data packaged in the install), ApertiumRDF data (parser packaged in install) or write a parser for your own source data! Described in more detail below.
 <li> Use following the usage guidelines below. </li>
 </ol>
 
