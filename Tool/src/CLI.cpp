@@ -11,10 +11,10 @@
 namespace fs = std::filesystem;
 
 void CreateDir(string &exptname){
-    fs::create_directory("../Results");
-    fs::create_directory("../Results/Expts");
-    fs::create_directory("../Results/Expts/" + exptname);
-    fs::create_directory("../Results/Expts/" + exptname + "/Analysis");
+    fs::create_directory("Results");
+    fs::create_directory("Results/Expts");
+    fs::create_directory("Results/Expts/" + exptname);
+    fs::create_directory("Results/Expts/" + exptname + "/Analysis");
 }
 
 void GenPoss::SetDefaults() {
@@ -315,7 +315,7 @@ bool GenPoss::RunWords(string &exptname, ifstream &file_W, string &input_folder,
     timer.start(); // start timer
     map<string, Graph> predicted; //string stores language pair and maps it to a graph
     reqd.condOR["lang"].clear();
-    string dirpath = "../Results/Expts/" + exptname + "/Analysis/" + outfilename;
+    string dirpath = "Results/Expts/" + exptname + "/Analysis/" + outfilename;
     fs::create_directory(dirpath);
     int new_trans = runDirectWords(G, H, POS_to_config, predicted, exptname, outfilename, lp2, reqd, diffpos);
     //cerr << new_trans << endl;
@@ -370,7 +370,7 @@ bool GenPoss::RunLangs(string &exptno, ifstream &file_L, string &input_folder, b
     for (int i = 0; i < num_pred; i++) {
         cerr << "Language No.: " << i + 1 << endl;
         string lp1 = l1[i] + "-" + l2[i], lp2 = l2[i] + "-" + l1[i]; //language pair to get predictions for
-        string dirpath = "../Results/Expts/" + exptno + "/Analysis/" + lp1;
+        string dirpath = "Results/Expts/" + exptno + "/Analysis/" + lp1;
         fs::create_directory(dirpath);
 
         Graph G;
@@ -411,7 +411,7 @@ void GenPred::Run(ifstream &fin, string &exptname, float &confidence, bool bidix
     for(int i = 0; i < num_folders; i++){
         string temp;
         getline(fin, temp);
-        string dirpath; dirpath = "../Results/Expts/" + exptname + "/Analysis/" + temp;
+        string dirpath; dirpath = "Results/Expts/" + exptname + "/Analysis/" + temp;
         if(temp.empty() || !fs::exists(dirpath)){
             cerr << "Invalid foldername on line " << i+1 << ", Please try again\n";
             return;

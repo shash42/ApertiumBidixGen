@@ -45,7 +45,7 @@ string BidixParsing::getMapTag(string &str){
 
 //Map from apertium tag to POS [using an external lexinfo csv for mapping]
 void BidixParsing::populate_POS_Map(){
-    string path = "../LangData/apertium-lexinfo-tags-mapping.csv";
+    string path = "LangData/apertium-lexinfo-tags-mapping.csv";
     ifstream fin; fin.open(path);
     string line;
     int num = 0;
@@ -140,9 +140,9 @@ wordData BidixParsing::getWord(xml_node w, string &lang, LangCodes &LC){
 void BidixParsing::Output(string folderpath){
     cerr << num_entries << endl; //output number of entries {temporary}
     //int corr = 0, err = 0, useful = 0; //number of correct, error, useful entries
-    //string correctpath = "../LangData/Parsed/Correct/" + l1 + "-" + l2 + ".txt"; //correct entries
-    //string errorpath = "../LangData/Parsed/Error/" + l1 + "-" + l2 + ".txt"; //error entries
-    if(folderpath.empty()) folderpath = "../LangData/Parsed";
+    //string correctpath = "LangData/Parsed/Correct/" + l1 + "-" + l2 + ".txt"; //correct entries
+    //string errorpath = "LangData/Parsed/Error/" + l1 + "-" + l2 + ".txt"; //error entries
+    if(folderpath.empty()) folderpath = "LangData/Parsed";
     fs::create_directory(folderpath); //create the directory
     if(folderpath[folderpath.length()-1]!='/') folderpath+="/";
     string usefulpath = folderpath + l1 + "-" + l2 + ".txt";
@@ -231,18 +231,18 @@ int main(int argc, char *argv[]){
         cerr << "Language-pair list file path not found!!" << endl;
         return 0;
     }
-    string input_path = "../LangData/Parse";
+    string input_path = "LangData/Parse";
     if(argc==3) input_path = argv[2];
     if(argc==3 && !fs::exists(argv[2])){
         cerr << "Target folder not found!" << endl;
         return 0;
     }
     else if(argc==2){
-        fs::create_directory("../LangData/Parse");
+        fs::create_directory("LangData/Parse");
     }
     LangCodes LC; //load 2 digit to 3 digit language code table
     ifstream fin; fin.open(argv[1]); //list of languages to parse
-    //freopen("../LangData/Analysis.txt", "w", stdout);
+    //freopen("LangData/Analysis.txt", "w", stdout);
     BidixParsing BP;
     while(!fin.eof()){
         string path, l1, l2;

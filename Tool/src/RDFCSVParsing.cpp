@@ -53,7 +53,7 @@ void getparts(string line, vector<string> &parts)
 }
 void Parse(string inp_path, string l1, string l2, string folderpath){
     ifstream fin;     fin.open(inp_path);
-    if(folderpath.empty()) folderpath = "../LangData/RDFParsed";
+    if(folderpath.empty()) folderpath = "LangData/RDFParsed";
     fs::create_directory(folderpath); //create the directory
     if(folderpath[folderpath.length()-1]!='/') folderpath+="/";
     ofstream fout; fout.open(folderpath + l1 + "-" + l2 + ".txt");
@@ -79,18 +79,18 @@ int main(int argc, char *argv[]){
         cerr << "Language-pair list file path not found!!" << endl;
         return 0;
     }
-    string input_path = "../LangData/Parse";
+    string input_path = "LangData/Parse";
     if(argc==3) input_path = argv[2];
     if(argc==3 && !fs::exists(argv[2])){
         cerr << "Target folder not found!" << endl;
         return 0;
     }
     else if(argc==2){
-        fs::create_directory("../LangData/Parse");
+        fs::create_directory("LangData/Parse");
     }
     LangCodes LC; //load 2 digit to 3 digit language code table
     ifstream fin; fin.open(argv[1]); //list of languages to parse
-    //freopen("../LangData/Analysis.txt", "w", stdout);
+    //freopen("LangData/Analysis.txt", "w", stdout);
     while(!fin.eof()){
         string path, l1, l2;
         getline(fin, path);

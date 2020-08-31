@@ -32,7 +32,7 @@ void convert(string exptno, float threshold, int numfolders, vector<string> &fol
     int num_info = 3; //number of columns to extract per word
     float pr = 1e-5;
     for(int i = 0; i < numfolders; i++){
-        string dirpath = "../Results/Expts/" + exptno + "/Analysis/" + foldernames[i];
+        string dirpath = "Results/Expts/" + exptno + "/Analysis/" + foldernames[i];
         ifstream file_poss;  ofstream file_pred;
         file_poss.open(dirpath + "/possibilities.txt");
         file_pred.open(dirpath + "/predictions.txt");

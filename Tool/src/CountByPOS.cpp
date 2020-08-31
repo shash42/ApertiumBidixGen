@@ -105,11 +105,11 @@ void CountbyPOS::OutRaw(string lang, string fnamepref) {
 //count correct/extra for the output by POS category. lang stores the langpair name
 CountbyPOS::CountbyPOS(string &exptno, string &lang)
 {
-    string file_name = "../LangData/Data-" + lang + ".txt"; //get file name for original language data
-    //fout.open("../Analysis/Tempfile.txt"); //required output file for load-data function
+    string file_name = "LangData/Data-" + lang + ".txt"; //get file name for original language data
+    //fout.open("Analysis/Tempfile.txt"); //required output file for load-data function
     GO.loadData(file_name); //load data into original graph
     countpos(GO, OV, OE, fout, "Original");
-    string fnamepref = "../Results/Expts/" + exptno + "/Analysis/" + lang + "/";
+    string fnamepref = "Results/Expts/" + exptno + "/Analysis/" + lang + "/";
     file_name =  fnamepref + "correct.txt"; //file name for correct predictions
     GC.loadData(file_name); //load data into correct graph
     countpos(GC, CV, CE, fout, "Correct Predictions");

@@ -60,9 +60,9 @@ void getStats(Graph &inG, Graph &notInG, Graph &divG, Graph GE[], Graph &GC,
 
 void Compare(string l1, string l2, ofstream &summary){
     string lang = l1+"-"+l2; //language-pair to compare on
-    string pred = "../Bidixes/Parsed/Useful/" + lang + ".txt";
-    string orig = "../Bidixes/RDFParsed/Data-" + lang + ".txt"; //file with data for comparison
-    string missed = "../Bidixes/RDFParsed/Missed/" + lang + ".txt";
+    string pred = "Bidixes/Parsed/Useful/" + lang + ".txt";
+    string orig = "Bidixes/RDFParsed/Data-" + lang + ".txt"; //file with data for comparison
+    string missed = "Bidixes/RDFParsed/Missed/" + lang + ".txt";
     Graph GP, GO, GC, GE[4], GM[4]; //G-prediction, G-original, G-correct, G-extra, G-missed
 
     GP.loadData(pred);
@@ -98,13 +98,13 @@ void Compare(string l1, string l2, ofstream &summary){
 }
 void To3letter(){
     ifstream fin;
-    fin.open("../Bidixes/RDFParsed/Data-List.txt");
+    fin.open("Bidixes/RDFParsed/Data-List.txt");
     for(int i = 0; i < 11; i++){
         string l1, l2;
         fin >> l1 >> l2;
         cout << l1 << " " << l2 << endl;
         if(l1.length()<3) continue;
-        string langfile = "../Bidixes/RDFParsed/Data-" + l1 + "-" + l2 + ".txt";
+        string langfile = "Bidixes/RDFParsed/Data-" + l1 + "-" + l2 + ".txt";
         Graph G;
         G.loadData(langfile);
         for(auto &v: G.vertices){
@@ -121,9 +121,9 @@ void To3letter(){
 int main(){
     //To3letter();
     ofstream fout;
-    fout.open("../Bidixes/RDFParsed/ResAnalysis.txt");
+    fout.open("Bidixes/RDFParsed/ResAnalysis.txt");
     ifstream fin;
-    fin.open("../Bidixes/RDFParsed/Data-List.txt");
+    fin.open("Bidixes/RDFParsed/Data-List.txt");
     for(int i = 0; i < 11; i++){
         string l1, l2;
         fin >> l1 >> l2;
