@@ -1,3 +1,4 @@
+.svn
 Makefile
 CTestTestfile.cmake
 Results/
@@ -22,3 +23,7 @@ src/Makefile.in
 src/parsebidix
 src/parserdfcsv
 src/bidixgen
+stamp-h1
+parsebidix
+bidixgen
+parsedrdfcsv
