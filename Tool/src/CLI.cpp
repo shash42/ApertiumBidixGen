@@ -1,20 +1,10 @@
-#include "Graph.cpp"
-#include "callers.cpp"
-#include "PosstoPred.cpp"
-#include "Convert2to3.cpp"
 #include "CLI.h"
 
-#include "filesystem.hpp"
-#include<algorithm>
-#include<getopt.h>
-
-namespace fs = std::filesystem;
-
 void CreateDir(string &exptname){
-    fs::create_directory("Results");
-    fs::create_directory("Results/Expts");
-    fs::create_directory("Results/Expts/" + exptname);
-    fs::create_directory("Results/Expts/" + exptname + "/Analysis");
+    createdir("Results", 0755);
+    createdir("Results/Expts", 0755);
+    createdir("Results/Expts/" + exptname, 0755);
+    createdir("Results/Expts/" + exptname + "/Analysis", 0755);
 }
 
 void GenPoss::SetDefaults() {
@@ -299,7 +289,8 @@ bool GenPoss::RunWords(string &exptname, ifstream &file_W, string &input_folder,
     for(int j = 0; j < num_lang; j++){
         file_W >> lI[0][j].second; //[TODO: Add checks for parsed existence of .first-.second here]
         length3codecheck(lI[0][j].second);
-        if(!fs::exists(input_folder + lI[0][j].first + "-" + lI[0][j].second + ".txt")){
+
+        if(!existspath(input_folder + lI[0][j].first + "-" + lI[0][j].second + ".txt")){
             cerr << "Data for pair " << lI[0][j].first << "-" << lI[0][j].second << " not found in provided input directory!" << endl;
             exit(1);
         }
@@ -316,7 +307,7 @@ bool GenPoss::RunWords(string &exptname, ifstream &file_W, string &input_folder,
     map<string, Graph> predicted; //string stores language pair and maps it to a graph
     reqd.condOR["lang"].clear();
     string dirpath = "Results/Expts/" + exptname + "/Analysis/" + outfilename;
-    fs::create_directory(dirpath);
+    createdir(dirpath, 0755);
     int new_trans = runDirectWords(G, H, POS_to_config, predicted, exptname, outfilename, lp2, reqd, diffpos);
     //cerr << new_trans << endl;
     timer.end();
@@ -359,7 +350,7 @@ bool GenPoss::RunLangs(string &exptno, ifstream &file_L, string &input_folder, b
         for(int j = 0; j < num_lang; j++){
             file_L >> lI[i][j].second;
             length3codecheck(lI[i][j].second);
-            if(!fs::exists(input_folder + lI[i][j].first + "-" + lI[i][j].second + ".txt")){
+            if(!existspath(input_folder + lI[i][j].first + "-" + lI[i][j].second + ".txt")){
                 cerr << "Data for pair " << lI[i][j].first << "-" << lI[i][j].second << " not found in provided input directory!" << endl;
                 exit(1);
             }
@@ -371,7 +362,7 @@ bool GenPoss::RunLangs(string &exptno, ifstream &file_L, string &input_folder, b
         cerr << "Language No.: " << i + 1 << endl;
         string lp1 = l1[i] + "-" + l2[i], lp2 = l2[i] + "-" + l1[i]; //language pair to get predictions for
         string dirpath = "Results/Expts/" + exptno + "/Analysis/" + lp1;
-        fs::create_directory(dirpath);
+        createdir(dirpath, 0755);
 
         Graph G;
         runPairs(G, lI[i], input_folder); //load pairs into graph(object, langpairindex to ignore)
@@ -412,7 +403,7 @@ void GenPred::Run(ifstream &fin, string &exptname, float &confidence, bool bidix
         string temp;
         getline(fin, temp);
         string dirpath; dirpath = "Results/Expts/" + exptname + "/Analysis/" + temp;
-        if(temp.empty() || !fs::exists(dirpath)){
+        if(temp.empty() || !existspath(dirpath)){
             cerr << "Invalid foldername on line " << i+1 << ", Please try again\n";
             return;
         }
@@ -475,7 +466,7 @@ int main(int argc, char *argv[]){
             case 'p':
                 poss=true;
                 lang_folder = optarg;
-                if(!fs::exists(lang_folder)){
+                if(!existspath(lang_folder)){
                     cerr << "Input folder for language data provided (argument to -p) does not exist!\n";
                     exit(1);
                 }
@@ -528,7 +519,7 @@ int main(int argc, char *argv[]){
         GenPoss Predictor;
         Predictor.SetDefaults();
         if(!hp_filename.empty()){
-            if(!fs::exists(hp_filename)){
+            if(!existspath(hp_filename)){
                 cerr << "The hyperparameter information file provided does not exist, please try again\n";
                 exit(1);
             }
@@ -551,7 +542,7 @@ int main(int argc, char *argv[]){
             exit(1);
         }
         if(!word_filename.empty()){
-            if(!fs::exists(word_filename)){
+            if(!existspath(word_filename)){
                 cerr << "The word generation information file provided does not exist, please try again\n";
                 exit(1);
             }
@@ -563,7 +554,7 @@ int main(int argc, char *argv[]){
             }
         }
         else if(!lang_filename.empty()){
-            if(!fs::exists(lang_filename)){
+            if(!existspath(lang_filename)){
                 cerr << "The language-pair generation information file provided does not exist, please try again\n";
                 exit(1);
             }
@@ -579,7 +570,7 @@ int main(int argc, char *argv[]){
             cerr << "Invalid confidence score\n";
             exit(1);
         }
-        if(!fs::exists(folder_filename)){
+        if(!existspath(folder_filename)){
             cerr << "The folder information file provided does not exist, please try again\n";
             exit(1);
         }

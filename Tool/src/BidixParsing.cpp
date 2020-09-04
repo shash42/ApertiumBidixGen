@@ -1,13 +1,12 @@
 #include "pugixml-1.10/src/pugixml.cpp"
 #include<iostream>
 #include<vector>
-#include "filesystem.hpp"
 #include "Graph.h"
 #include "Convert2to3.cpp"
+#include "filesyscalls.cpp"
 
 using namespace std;
 using namespace pugi;
-namespace fs = std::filesystem;
 
 //Class used to parse .dix bidixes to .txt internally usable format for the algorithm
 class BidixParsing{
@@ -143,7 +142,7 @@ void BidixParsing::Output(string folderpath){
     //string correctpath = "LangData/Parsed/Correct/" + l1 + "-" + l2 + ".txt"; //correct entries
     //string errorpath = "LangData/Parsed/Error/" + l1 + "-" + l2 + ".txt"; //error entries
     if(folderpath.empty()) folderpath = "LangData/Parsed";
-    fs::create_directory(folderpath); //create the directory
+    createdir(folderpath, 0755); //create the directory
     if(folderpath[folderpath.length()-1]!='/') folderpath+="/";
     string usefulpath = folderpath + l1 + "-" + l2 + ".txt";
     //ofstream fout; fout.open(correctpath);
@@ -227,18 +226,18 @@ int main(int argc, char *argv[]){
         cerr << "Usage: ./parsebidix path-to-languagepair-list [path-to-destination-folder]" << endl;
         return 0;
     }
-    if(!fs::exists(argv[1])){
+    if(!existspath(argv[1])){
         cerr << "Language-pair list file path not found!!" << endl;
         return 0;
     }
     string input_path = "LangData/Parse";
     if(argc==3) input_path = argv[2];
-    if(argc==3 && !fs::exists(argv[2])){
+    if(argc==3 && !existspath(argv[2])){
         cerr << "Target folder not found!" << endl;
         return 0;
     }
     else if(argc==2){
-        fs::create_directory("LangData/Parse");
+        createdir("LangData/Parse", 0755);
     }
     LangCodes LC; //load 2 digit to 3 digit language code table
     ifstream fin; fin.open(argv[1]); //list of languages to parse

@@ -5,6 +5,13 @@
 #include <map>
 #include <string>
 #include <chrono>
+#include<algorithm>
+#include<getopt.h>
+#include "filesyscalls.cpp"
+#include "Graph.cpp"
+#include "callers.cpp"
+#include "PosstoPred.cpp"
+#include "Convert2to3.cpp"
 
 using namespace std::chrono;
 
@@ -21,7 +28,7 @@ struct Stopwatch{
     long long report(){ //calculate time taken
         return duration_cast<microseconds>(eTime - sTime).count();
     }
-    void log(string s=""){ //output the time taken
+    void log(string s=""){ //put the time taken
         cerr<<"Time taken "<<s<<" : "<<report()/1e6<<" seconds"<<endl;
     }
 };
@@ -64,7 +71,7 @@ class GenPred {
     int num_folders;
     vector<string> foldernames;
 public:
-    void Run(ifstream &fin, string &exptname, float &confidence, bool bidixoutput);
+    void Run(ifstream &fin, string &exptname, float &confidence, bool bidixput);
 };
 
 

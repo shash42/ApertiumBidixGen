@@ -3,11 +3,10 @@
 #include<vector>
 #include<fstream>
 #include<sstream>
-#include "filesystem.hpp"
 #include "Convert2to3.cpp"
+#include "filesyscalls.cpp"
 
 using namespace std;
-namespace fs = std::filesystem;
 
 string getlast(string &link, int trim = 0) //gets pos tag
 { //trim = 1 ignores the last character, call when it is \n or "
@@ -54,7 +53,7 @@ void getparts(string line, vector<string> &parts)
 void Parse(string inp_path, string l1, string l2, string folderpath){
     ifstream fin;     fin.open(inp_path);
     if(folderpath.empty()) folderpath = "LangData/RDFParsed";
-    fs::create_directory(folderpath); //create the directory
+    createdir(folderpath, 0755); //create the directory
     if(folderpath[folderpath.length()-1]!='/') folderpath+="/";
     ofstream fout; fout.open(folderpath + l1 + "-" + l2 + ".txt");
     string line, word;
@@ -75,18 +74,18 @@ int main(int argc, char *argv[]){
         cerr << "Usage: ./parserdfcsv path-to-languagepair-list [path-to-destination-folder]" << endl;
         return 0;
     }
-    if(!fs::exists(argv[1])){
+    if(!existspath(argv[1])){
         cerr << "Language-pair list file path not found!!" << endl;
         return 0;
     }
     string input_path = "LangData/Parse";
     if(argc==3) input_path = argv[2];
-    if(argc==3 && !fs::exists(argv[2])){
+    if(argc==3 && !existspath(argv[2])){
         cerr << "Target folder not found!" << endl;
         return 0;
     }
     else if(argc==2){
-        fs::create_directory("LangData/Parse");
+        createdir("LangData/Parse", 0755);
     }
     LangCodes LC; //load 2 digit to 3 digit language code table
     ifstream fin; fin.open(argv[1]); //list of languages to parse
