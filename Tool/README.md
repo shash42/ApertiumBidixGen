@@ -7,7 +7,7 @@ C++17 or higher
 The following installation sequence requires svn, autoconf and C++17 to be installed. It's been tested to work with Ubuntu 20 and Mac OS, there might be some issues running make install with older versions of Ubuntu. <br>
 
 <ol>
-<li> Download either the entire repository, or just the Tool folder (<code> svn checkout https://github.com/shash42/ApertiumBidixGen/trunk/Tool </code>) to your local machine.
+<li> Download either the entire repository, or just the Tool folder (<code> svn checkout https://github.com/shash42/ApertiumBidixGen/branches/syscall/Tool </code>) to your local machine.
 <li> cd into the Tool folder and run: <br>
     <code>autoreconf -i</code> <br>
     <code>./configure</code> <br>
