@@ -1,0 +1,109 @@
+27
+arg cat
+26
+cat cat eng eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci oci por por ron spa spa spa srd 
+ita srd cat glg spa cat eng spa fra glg por ron eng spa cat spa cat spa fra cat glg cat arg cat ita ita 
+cat ita
+26
+arg cat eng eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci oci por por ron spa spa spa srd 
+cat srd cat glg spa cat eng spa fra glg por ron eng spa cat spa cat spa fra cat glg cat arg cat ita ita 
+cat srd
+26
+arg cat eng eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci oci por por ron spa spa spa srd 
+cat ita cat glg spa cat eng spa fra glg por ron eng spa cat spa cat spa fra cat glg cat arg cat ita ita 
+eng cat
+26
+arg cat cat eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci oci por por ron spa spa spa srd 
+cat ita srd glg spa cat eng spa fra glg por ron eng spa cat spa cat spa fra cat glg cat arg cat ita ita 
+eng glg
+26
+arg cat cat eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci oci por por ron spa spa spa srd 
+cat ita srd cat spa cat eng spa fra glg por ron eng spa cat spa cat spa fra cat glg cat arg cat ita ita 
+eng spa
+26
+arg cat cat eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci oci por por ron spa spa spa srd 
+cat ita srd cat glg cat eng spa fra glg por ron eng spa cat spa cat spa fra cat glg cat arg cat ita ita 
+epo cat
+26
+arg cat cat eng eng eng epo epo epo spa spa spa eus eus fra fra oci oci oci por por ron spa spa spa srd 
+cat ita srd cat glg spa eng spa fra glg por ron eng spa cat spa cat spa fra cat glg cat arg cat ita ita 
+epo eng
+26
+arg cat cat eng eng eng epo epo epo spa spa spa eus eus fra fra oci oci oci por por ron spa spa spa srd 
+cat ita srd cat glg spa cat spa fra glg por ron eng spa cat spa cat spa fra cat glg cat arg cat ita ita 
+epo spa
+26
+arg cat cat eng eng eng epo epo epo spa spa spa eus eus fra fra oci oci oci por por ron spa spa spa srd 
+cat ita srd cat glg spa cat eng fra glg por ron eng spa cat spa cat spa fra cat glg cat arg cat ita ita 
+epo fra
+26
+arg cat cat eng eng eng epo epo epo spa spa spa eus eus fra fra oci oci oci por por ron spa spa spa srd 
+cat ita srd cat glg spa cat eng spa glg por ron eng spa cat spa cat spa fra cat glg cat arg cat ita ita 
+spa glg
+26
+arg cat cat eng eng eng epo epo epo epo spa spa eus eus fra fra oci oci oci por por ron spa spa spa srd 
+cat ita srd cat glg spa cat eng spa fra por ron eng spa cat spa cat spa fra cat glg cat arg cat ita ita 
+spa por
+26
+arg cat cat eng eng eng epo epo epo epo spa spa eus eus fra fra oci oci oci por por ron spa spa spa srd 
+cat ita srd cat glg spa cat eng spa fra glg ron eng spa cat spa cat spa fra cat glg cat arg cat ita ita 
+spa ron
+26
+arg cat cat eng eng eng epo epo epo epo spa spa eus eus fra fra oci oci oci por por ron spa spa spa srd 
+cat ita srd cat glg spa cat eng spa fra glg por eng spa cat spa cat spa fra cat glg cat arg cat ita ita 
+eus eng
+26
+arg cat cat eng eng eng epo epo epo epo spa spa spa eus fra fra oci oci oci por por ron spa spa spa srd 
+cat ita srd cat glg spa cat eng spa fra glg por ron spa cat spa cat spa fra cat glg cat arg cat ita ita 
+eus spa
+26
+arg cat cat eng eng eng epo epo epo epo spa spa spa eus fra fra oci oci oci por por ron spa spa spa srd 
+cat ita srd cat glg spa cat eng spa fra glg por ron eng cat spa cat spa fra cat glg cat arg cat ita ita 
+fra cat
+26
+arg cat cat eng eng eng epo epo epo epo spa spa spa eus eus fra oci oci oci por por ron spa spa spa srd 
+cat ita srd cat glg spa cat eng spa fra glg por ron eng spa spa cat spa fra cat glg cat arg cat ita ita 
+fra spa
+26
+arg cat cat eng eng eng epo epo epo epo spa spa spa eus eus fra oci oci oci por por ron spa spa spa srd 
+cat ita srd cat glg spa cat eng spa fra glg por ron eng spa cat cat spa fra cat glg cat arg cat ita ita 
+oci cat
+26
+arg cat cat eng eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci por por ron spa spa spa srd 
+cat ita srd cat glg spa cat eng spa fra glg por ron eng spa cat spa spa fra cat glg cat arg cat ita ita 
+oci spa
+26
+arg cat cat eng eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci por por ron spa spa spa srd 
+cat ita srd cat glg spa cat eng spa fra glg por ron eng spa cat spa cat fra cat glg cat arg cat ita ita 
+oci fra
+26
+arg cat cat eng eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci por por ron spa spa spa srd 
+cat ita srd cat glg spa cat eng spa fra glg por ron eng spa cat spa cat spa cat glg cat arg cat ita ita 
+por cat
+26
+arg cat cat eng eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci oci por ron spa spa spa srd 
+cat ita srd cat glg spa cat eng spa fra glg por ron eng spa cat spa cat spa fra glg cat arg cat ita ita 
+por glg
+26
+arg cat cat eng eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci oci por ron spa spa spa srd 
+cat ita srd cat glg spa cat eng spa fra glg por ron eng spa cat spa cat spa fra cat cat arg cat ita ita 
+ron cat
+26
+arg cat cat eng eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci oci por por spa spa spa srd 
+cat ita srd cat glg spa cat eng spa fra glg por ron eng spa cat spa cat spa fra cat glg arg cat ita ita 
+spa arg
+26
+arg cat cat eng eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci oci por por ron spa spa srd 
+cat ita srd cat glg spa cat eng spa fra glg por ron eng spa cat spa cat spa fra cat glg cat cat ita ita 
+spa cat
+26
+arg cat cat eng eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci oci por por ron spa spa srd 
+cat ita srd cat glg spa cat eng spa fra glg por ron eng spa cat spa cat spa fra cat glg cat arg ita ita 
+spa ita
+26
+arg cat cat eng eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci oci por por ron spa spa srd 
+cat ita srd cat glg spa cat eng spa fra glg por ron eng spa cat spa cat spa fra cat glg cat arg cat ita 
+srd ita
+26
+arg cat cat eng eng eng epo epo epo epo spa spa spa eus eus fra fra oci oci oci por por ron spa spa spa 
+cat ita srd cat glg spa cat eng spa fra glg por ron eng spa cat spa cat spa fra cat glg cat arg cat ita 

@@ -1,2 +1,12 @@
-1
-WordOutput
+11
+eng-cat
+eng-spa
+epo-cat
+epo-eng
+epo-fra
+epo-spa
+fra-cat
+fra-spa
+oci-cat
+oci-fra
+oci-spa
