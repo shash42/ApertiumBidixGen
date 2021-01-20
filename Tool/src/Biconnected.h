@@ -1,11 +1,11 @@
 //
 // Created by shashwat on 15/06/20.
 //
+#ifndef GSOCAPERTIUM2020_BICONNECTED_H
+#define GSOCAPERTIUM2020_BICONNECTED_H
 #include "Graph.h"
 #include<vector>
 #include<stack>
-#ifndef GSOCAPERTIUM2020_BICONNECTED_H
-#define GSOCAPERTIUM2020_BICONNECTED_H
 
 using namespace std;
 

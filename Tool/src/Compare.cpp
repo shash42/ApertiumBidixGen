@@ -11,23 +11,21 @@
 //Compare predictions to actual data. Takes 2-3 mins to run.
 class Compare{
     void putInExtra(Graph &divG, Graph GE[], wordData u, wordData v, string &l1, string &l2);
-    void getUsedData(Graph &GD, int idxign);
+    void getUsedData(Graph &GD, string used, int num_pairs);
     void getStats(Graph &inG, Graph &notInG, Graph &divG, Graph GE[], Graph &GC,
                   set<string> &VC, set<string> &VE, string &l1, string &l2);
 public:
-    Compare(string l1, string l2, int idxign, string &exptno);
+    Compare(string l1, string l2, string pred, string orig, string used, int num_used, string prefix);
 };
-void Compare::getUsedData(Graph &GD, int idxign)
+void Compare::getUsedData(Graph &GD, string used, int num_pairs)
 {
-    int num_pairs = 11; //number of pairs of languages.
     string input_file;
     ifstream file_list;
-    file_list.open("LangData-List.txt"); //file with names of lang pairs
+    file_list.open(used); //file with names of lang pairs
    // ofstream fout;
  //   fout.open("Analysis/Tempfile.txt");
     for(int i = 0; i < num_pairs; i++){
         file_list >> input_file;
-        if(i==idxign) continue; //ignore this language pair (incase of removal and generation tests)
         //cerr << input_file << endl; //output current input file for tracking progress
      //   fout << input_file << endl;
         GD.loadData(input_file);
@@ -87,16 +85,18 @@ void Compare::getStats(Graph &inG, Graph &notInG, Graph &divG, Graph GE[], Graph
     }
 }
 
-Compare::Compare(string l1, string l2, int idxign, string &exptno){
-    string lang = l1+"-"+l2; //language-pair to compare on
-    string pred = "Results/Expts/" + exptno + "/Analysis/" + lang + "/predictions.txt";
-    string orig = "LangData/Data-" + lang + ".txt"; //file with data for comparison
+Compare::Compare(string l1, string l2, string pred, string orig, string used, int num_used, string prefix){
+    //string lang = l1+"-"+l2; //language-pair to compare on
+    //string pred = "Results/Expts/" + exptno + "/Analysis/" + lang + "/predictions.txt";
+    //string orig = "LangData/Data-" + lang + ".txt"; //file with data for comparison
     Graph GP, GD, GO, GC, GE[4], GM[4]; //G-prediction, G-original, G-correct, G-extra, G-missed
     //ofstream fout;
   //  fout.open("Analysis/Tempfile.txt"); //temporary output file for load data analytics
+    cerr << "entered" << endl;
     GP.loadData(pred);
     GO.loadData(orig);
-    getUsedData(GD, idxign);
+    cerr << "loaded pred and orig" << endl;
+    getUsedData(GD, used, num_used);
     set<string> VC, VE, VM; //words which it got correct, words which were extra and missed
 
     getStats(GP, GO, GO, GE, GC, VC, VE, l1, l2); //Get Precision Stats
@@ -104,7 +104,7 @@ Compare::Compare(string l1, string l2, int idxign, string &exptno){
 
     //fout.close();
     ofstream summary, gout;
-    string prefix = "Results/Expts/" + exptno + "/Analysis/" + lang + "/";
+    //string prefix = "Results/Expts/" + exptno + "/Analysis/" + lang + "/";
     summary.open(prefix + "compare-summary.txt");
     summary << "Number of correct vertices (in P and O):" << VC.size() << endl;
     summary << "Number of extra vertices (in P, not in O): " << VE.size() << endl;

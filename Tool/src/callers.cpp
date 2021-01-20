@@ -1,5 +1,6 @@
 #include "Graph.cpp"
 #include "DensityAlgo.cpp"
+#include "Biconnected.cpp"
 #include<algorithm>
 
 struct sortByConfDesc{

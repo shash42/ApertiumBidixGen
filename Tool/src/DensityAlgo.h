@@ -23,7 +23,7 @@ public:
     int transitive = 0; //0 -> not transitive 1 -> bicomp then transitive 2 -> completely transitive
     int context_depth = 4; //distance to which a word's context is extracted
     int max_cycle_length = 7; //maximum cycle length to limit compute
-    bool st_lang_repeat = false; //REMOVE, NOT OF USE (keep false) //repeating source and targ lang is allowed (true) or not (false)
+    bool st_lang_repeat = true; //REMOVE, NOT OF USE (keep false) //repeating source and targ lang is allowed (true) or not (false)
     bool any_lang_repeat = true; //REMOVE, NOT OF USE (keep true) //repeating of language is allowed (true) or not (false)
     int large_cutoff = 5; //cutoff on degree of source word to decide small or large context
     int large_min_cyc_len = 5; //min cycle length in large context
@@ -36,6 +36,10 @@ public:
 class Metrics
 {
 public:
+    /*new metric*/
+    int edge_score = 0;
+    float weight = 0;
+    
     int sldeg=0, tldeg=0, num_vertices=0, num_edges=0;
     float density=0;
     bool is_edge =  false;

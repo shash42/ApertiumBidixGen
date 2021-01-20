@@ -21,35 +21,32 @@ string getlast(string &link, int trim = 0) //gets pos tag
     return pos;
 }
 
-void getparts(string line, vector<string> &parts)
+bool getparts(string line, vector<string> &parts)
 {
     string word = "";
-    bool start=true;
     for(int i = 1; i < line.length(); i++)
     {
-        if(!start && line.substr(i-2, 3) == " , ")
-        {
-            start=true;
-            word = "";
-        }
-        else if(start && line.substr(i, 2) == " ,")
+        if(line.substr(i, 2) == "\"@")
         {
             parts.push_back(word);
-            start=false;
-        } else{
+            word = "";
+            i+=4;
+        }
+        else if(line.substr(i, 1) == "\t")
+        {
+            parts.push_back(word);
+            word = "";
+        }
+        else{
             word+=line[i];
         }
     }
-    if(parts[0][0]!='"')
-    {
-        parts[0] = "\"" + parts[0] + "\"";
-    }
-    if(parts[2][0]!='"')
-    {
-        parts[2] = "\"" + parts[2] + "\"";
-    }
+    parts.push_back(word);
+    if(parts[2].length()<=1) return false;
+    else parts[2] = parts[2].substr(1, parts[2].length()-1);
     parts[1] = getlast(parts[1], 1);
     parts[3] = getlast(parts[3], 1);
+    return true;
 }
 void Parse(string inp_path, string l1, string l2, string folderpath){
     ifstream fin;     fin.open(inp_path);
@@ -64,7 +61,7 @@ void Parse(string inp_path, string l1, string l2, string folderpath){
     {
         count++;
         vector<string> parts;
-        getparts(line, parts);
+        if(!getparts(line, parts)) continue;
         fout << parts[0] << "\t" << parts[1] << "\t" << l1 << "\t" << parts[2] << "\t" << parts[3] << "\t" << l2 << endl;
     }
     fin.close();    fout.close();

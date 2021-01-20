@@ -2,7 +2,7 @@
 #define GSOCAPERTIUM2020_DENSITYALGO_CPP
 
 #include "Graph.h"
-#include "Biconnected.cpp"
+#include "Biconnected.h"
 #include "DensityAlgo.h"
 #include<iostream>
 #include<queue>
@@ -37,26 +37,45 @@ void DensityAlgo::findContext(int source)
 }
 void DensityAlgo::getMetrics(int source) {
     set<int> vertex_list; //list of vertices in this cycle
+    map<int, int> cyc_pos; //new metric
+    int cyc_sz = cycle_stack.size();
+    int cntr=0; //new metric
     for(auto uidx: cycle_stack) //can take all vertices because cycle started and ends at first vertex.
     {
+        cyc_pos[uidx] = cntr++; //new metric
+
         vertex_list.insert(uidx);
     }
-    vector<int> deg(cycle_stack.size()); //stores degree within the cycle for each vertex
+    vector<int> deg(cyc_sz); //stores degree within the cycle for each vertex
     int num_edges = 0; //number of edges within the cycle, double-counted. O(edges in dfsG)
+    int tot_score = 0; //new metric
 
-    for(int i = 0; i < cycle_stack.size(); i++){
+    for(int i = 0; i < cyc_sz; i++){
         int uidx = cycle_stack[i];
         for(auto vidx: dfsG.vertices[uidx].adj){
             //if the edge going out is to a vertex within the cycle, count the edge (add to degree and num_edges)
             if(vertex_list.find(vidx)!=vertex_list.end()){
-                num_edges++; deg[i]++;
+                deg[i]++;
+                num_edges++;
+                if(abs(cyc_pos[vidx] - i)==1) continue; //experimental
+                /*new metric*/
+                int upos = cyc_pos[vidx];
+                if(abs(upos - i)==1) continue;
+                else tot_score += max((upos - i + cyc_sz)%cyc_sz, (i - upos + cyc_sz)%cyc_sz);
             }
         }
     }
 
     //denom = denominator of density formula.
-    int denom = (cycle_stack.size() * (cycle_stack.size() - 1)) / 2;
-    for(int i = 1; i < cycle_stack.size(); i++) //start from 1 here as first node is just the source word
+    int denom = (cyc_sz * (cyc_sz - 1)) / 2;
+    //denom -= cyc_sz; //experimental;
+    /*new metric*/
+    int edge_maxl = cyc_sz/2;
+    int subt = (edge_maxl * (edge_maxl-1)) / 2, add = ((cyc_sz-3)*(cyc_sz-2))/2;
+    int denomscore = cyc_sz * 2 * (add-subt);
+    if(cyc_sz%2==0) denomscore += (cyc_sz * (cyc_sz - 2));
+
+    for(int i = 1; i < cyc_sz; i++) //start from 1 here as first node is just the source word
     {
         int vidx = cycle_stack[i];
         if(source_connected.find(vidx)!=source_connected.end())
@@ -73,6 +92,7 @@ void DensityAlgo::getMetrics(int source) {
         temp.sldeg = deg[0]; temp.tldeg = deg[i]; //source word is indexed 0 here so.
         //calculate density (divided by 2 to offset double counting done earlier)
         temp.density = (float) num_edges / (float) (2*denom);
+        temp.weight = (float) tot_score / (float) (denomscore); //new metric
         //first dimension is acc to index in G. Second is according to index in context graph.
         M[source_idx_inG][vidx].push_back(temp);
     }
@@ -91,13 +111,13 @@ void DensityAlgo::dfs(int uidx, int source, int depth)
         //if source lang repeat is not allowed and v is of same lang is u, don't go to v.
         //Use first IF if wordData is dynamic
         //if(source!=vidx && !config.st_lang_repeat && v.rep.info["lang"] == dfsG.vertices[source].rep.info["lang"])
-        if(source!=vidx && !config.st_lang_repeat && v.rep.lang == dfsG.vertices[source].rep.lang) {
+        if(source!=vidx && (!config.st_lang_repeat && v.rep.lang == dfsG.vertices[source].rep.lang)) {
             continue;
         }
         //Only if the adjacent vertex is not visited
         if(visited[vidx] == false)
         { //and the current cycle length is not equal to maximum
-            if(cycle_stack.size() < config.max_cycle_length - 1)
+            if(cycle_stack.size() < config.max_cycle_length)
             {
                 //If language repetition is allowed or v's language has not been visited.
                 if(config.any_lang_repeat || lang_in_cyc.find(dfsG.vertices[vidx].rep.lang) == lang_in_cyc.end()){
@@ -126,6 +146,7 @@ void DensityAlgo::dfs(int uidx, int source, int depth)
     cycle_stack.pop_back(); //remove vertex from the stack
     lang_in_cyc.erase(u.rep.lang); //remove it's language from the current language set.
 }
+
 void DensityAlgo::findCycles(Graph &C, int source){
     cycle_stack.clear(); //clear stack
     lang_in_cyc.clear();
@@ -147,7 +168,10 @@ int DensityAlgo::findTrans(int source, map<string, Graph> &pred, map<pair<wordDa
         float confidence=0; //stores the final confidence for output
 
         for(auto cyc: cycles){ //iterate over the metrics for different cycles
+            /*new metric - use cyc.weight line instead of cyc.density*/
             float curr_den = cyc.density; //density of cycle (temporary confidence variable)
+            //float curr_den = cyc.weight;
+
             if(cyc.tldeg > 2) //if target word degree is > 2 multiply the current confidence
             {
                 curr_den *= config.deg_gt2_multiplier;
