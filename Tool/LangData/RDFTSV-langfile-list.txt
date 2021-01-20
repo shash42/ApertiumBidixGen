@@ -1,0 +1,54 @@
+LangData/RDFData/an-ca.tsv
+arg cat
+LangData/RDFData/ca-it.tsv
+cat ita
+LangData/RDFData/ca-sc.tsv
+cat srd
+LangData/RDFData/en-ca.tsv
+eng cat
+LangData/RDFData/en-gl.tsv
+eng glg
+LangData/RDFData/en-es.tsv
+eng spa
+LangData/RDFData/eo-ca.tsv
+epo cat
+LangData/RDFData/eo-en.tsv
+epo eng
+LangData/RDFData/eo-es.tsv
+epo spa
+LangData/RDFData/eo-fr.tsv
+epo fra
+LangData/RDFData/es-gl.tsv
+spa glg
+LangData/RDFData/es-pt.tsv
+spa por
+LangData/RDFData/es-ro.tsv
+spa ron
+LangData/RDFData/eu-en.tsv
+eus eng
+LangData/RDFData/eu-es.tsv
+eus spa
+LangData/RDFData/fr-ca.tsv
+fra cat
+LangData/RDFData/fr-es.tsv
+fra spa
+LangData/RDFData/oc-ca.tsv
+oci cat
+LangData/RDFData/oc-es.tsv
+oci spa
+LangData/RDFData/oc-fr.tsv
+oci fra
+LangData/RDFData/pt-ca.tsv
+por cat
+LangData/RDFData/pt-gl.tsv
+por glg
+LangData/RDFData/ro-ca.tsv
+ron cat
+LangData/RDFData/es-an.tsv
+spa arg
+LangData/RDFData/es-ca.tsv
+spa cat
+LangData/RDFData/es-it.tsv
+spa ita
+LangData/RDFData/sc-it.tsv
+srd ita
