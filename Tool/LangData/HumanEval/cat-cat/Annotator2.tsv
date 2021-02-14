@@ -1,0 +1,151 @@
+								Y/N	Comments
+garatge	noun	cat	cotxera	noun	cat	0	0.84	y	
+balancejar	verb	cat	oscil·lar	verb	cat	0	0.746667	y	
+tàrtar	noun	cat	tàtar	noun	cat	0	0.84	y	
+passeig	noun	cat	rambla	noun	cat	0	0.84	y	
+error	noun	cat	errada	noun	cat	0	1	y	
+com a màxim	adverb	cat	a tot estirar	adverb	cat	0	0.98	y	
+avenç	noun	cat	progressió	noun	cat	0	0.84	y	
+saldo	noun	cat	rebaixa	noun	cat	0	0.84	y	
+discussió	noun	cat	controvèrsia	noun	cat	0	0.746667	y	
+per tercera vegada	adverb	cat	per tercer cop	adverb	cat	0	1	y	
+recaptar	verb	cat	collir	verb	cat	0	0.533333	n	recollir sí, collir pense que no
+potestat	noun	cat	poder	noun	cat	0	0.84	y	
+sobtadament	adverb	cat	de cop i volta	adverb	cat	0	0.533333	y	
+fatigat	adjective	cat	cansat	adjective	cat	0	0.84	y	
+cadira de braços	noun	cat	butaca	noun	cat	0	1	y	
+en acabat	adverb	cat	després	adverb	cat	0	1	y	
+retornar	verb	cat	restituir	verb	cat	0	0.746667	y	
+bajanada	noun	cat	ximpleria	noun	cat	0	0.533333	y	
+canonada	noun	cat	conducció	noun	cat	0	0.653333	y	
+senyera	noun	cat	bandera	noun	cat	0	0.98	y	
+espatllar	verb	cat	espatlar	verb	cat	0	1	y	
+ferramenta	noun	cat	eina	noun	cat	0	1	y	
+espai	noun	cat	zona	noun	cat	0	0.6	y	
+de confiança	adjective	cat	fidedigne	adjective	cat	0	0.6	y	
+xiquet	noun	cat	xaval	noun	cat	0	0.84	y	
+blat de moro	noun	cat	panís	noun	cat	0	0.98	y	
+recialla	noun	cat	desferra	noun	cat	0	1	n	dubte: mirar exemples
+despatx	noun	cat	gabinet	noun	cat	0	0.746667	y	
+de segur	adverb	cat	certament	adverb	cat	0	0.533333	y	
+famolenc	adjective	cat	afamat	adjective	cat	0	0.533333	y	
+àlies	noun	cat	sobrenom	noun	cat	0	0.84	y	
+talla	noun	cat	mida	noun	cat	0	0.84	y	
+corfa	noun	cat	escorça	noun	cat	0	1	y	
+mànec	noun	cat	maneta	noun	cat	0	0.6	y	
+pólvores	noun	cat	pols	noun	cat	0	1	y	
+cavar	verb	cat	excavar	verb	cat	0	0.84	y	
+fonament	noun	cat	fundació	noun	cat	0	0.84	y	
+dedicació	noun	cat	devoció	noun	cat	0	0.746667	y	
+baix	adverb	cat	davall	adverb	cat	0	0.84	y	dubte: POS
+barret	noun	cat	capell	noun	cat	0	0.84	y	
+ruta	noun	cat	via	noun	cat	0	0.84	y	
+avariar	verb	cat	desbaratar	verb	cat	0	0.533333	y	avariar la collita, desbaratar la collita
+afrontar	verb	cat	enfrontar	verb	cat	0	0.98	y	
+politja	noun	cat	corriola	noun	cat	0	1	y	
+horrible	adjective	cat	espantós	adjective	cat	0	0.98	y	
+fluix	noun	cat	flux	noun	cat	0	1	y	fluix de sang, flux de sang
+per últim cop	adverb	cat	per última vegada	adverb	cat	0	0.666667	y	
+pedagògic	adjective	cat	didàctic	adjective	cat	0	0.533333	y	
+vas	noun	cat	copa	noun	cat	0	0.84	y	
+poblat	adjective	cat	populós	adjective	cat	0	0.84	y	
+xarrada	noun	cat	xat	noun	cat	0	0.533333	y	dubte
+balançar	verb	cat	balancejar	verb	cat	0	0.666667	y	
+revenja	noun	cat	venjança	noun	cat	0	0.84	y	
+intent	noun	cat	temptativa	noun	cat	0	0.98	y	
+a baix	adverb	cat	cap avall	adverb	cat	0	0.746667	y	mirar a baix, mirar cap avall
+vet ací	adverb	cat	veus ací	adverb	cat	0	0.833333	y	
+inequívocament	adverb	cat	indubtablement	adverb	cat	0	0.653333	y	
+basar	verb	cat	fonamentar	verb	cat	0	0.98	y	
+funcionari	noun	cat	càrrec	noun	cat	0	0.98	y	funcionari públic, càrrec públic
+dors	noun	cat	llom	noun	cat	0	0.533333	y	
+cargolar	verb	cat	enrotllar	verb	cat	0	0.653333	y	cargolar les mànigues, enrotllar les mànigues
+arrencada	noun	cat	engegada	noun	cat	0	0.84	y	
+bogeria	noun	cat	febrada	noun	cat	0	1	y	
+doblar	verb	cat	doblegar	verb	cat	0	1	y	
+repartiment	noun	cat	repartició	noun	cat	0	0.746667	y	
+transmetre	verb	cat	transportar	verb	cat	0	0.746667	y	
+pantaixar	verb	cat	bleixar	verb	cat	0	0.533333	y	panteixar?
+custodiar	verb	cat	tutelar	verb	cat	0	0.533333	y	
+còlera	noun	cat	enuig	noun	cat	0	0.84	y	
+enfront	adverb	cat	al capdavant	adverb	cat	0	1	y	
+llistat	noun	cat	llista	noun	cat	0	0.84	n	dubte
+comprendre	verb	cat	abastar	verb	cat	0	0.84	y	
+desvincular	verb	cat	deslligar	verb	cat	0	0.84	y	
+alentir	verb	cat	retardar	verb	cat	0	0.84	y	
+inútil	adjective	cat	ociós	adjective	cat	0	0.653333	y	
+lluentor	noun	cat	brillantor	noun	cat	0	0.84	y	
+plegar	verb	cat	inclinar	verb	cat	0	0.533333	y	
+menar	verb	cat	dirigir	verb	cat	0	0.98	y	
+esguerrar	verb	cat	esgarrar	verb	cat	0	1	y	
+endarrera	adverb	cat	arrere	adverb	cat	0	1	y	
+pagès	noun	cat	ramader	noun	cat	0	0.84	y	
+capçada	noun	cat	copa	noun	cat	0	0.98	y	
+recreació	noun	cat	esbarjo	noun	cat	0	0.653333	y	
+sostre	noun	cat	teulada	noun	cat	0	1	n	
+ací	adverb	cat	aquí	adverb	cat	0	1	y	
+nexe	noun	cat	llaç	noun	cat	0	0.84	y	
+consegüentment	adverb	cat	conseqüentment	adverb	cat	0	0.84	y	
+infant	noun	cat	criatura	noun	cat	0	0.84	y	
+tancar	verb	cat	barrar	verb	cat	0	0.84	y	
+llumí	noun	cat	fòsfor	noun	cat	0	0.653333	y	
+elevar	verb	cat	enlairar	verb	cat	0	0.98	y	
+abecedari	noun	cat	beceroles	noun	cat	0	0.746667	y	
+ovella	noun	cat	be	noun	cat	0	0.98	y	
+forqueta	noun	cat	forquilla	noun	cat	0	1	y	
+servar	verb	cat	mirar	verb	cat	0	0.533333	n	
+cridòria	noun	cat	aldarull	noun	cat	0	0.98	y	
+bresquiller	noun	cat	presseguera	noun	cat	0	0.746667	y	
+proporcionar	verb	cat	fornir	verb	cat	0	0.653333	y	
+cullera	noun	cat	cullerada	noun	cat	0	0.98	n	
+usualment	adverb	cat	freqüentment	adverb	cat	0	0.653333	y	
+melmelada	noun	cat	confitura	noun	cat	0	0.84	y	
+aljub	noun	cat	cisterna	noun	cat	0	0.84	y	
+colgar	verb	cat	abrigar	verb	cat	0	0.98	y	colgar sota les mantes, abrigar sota les mantes?
+clar	adjective	cat	translúcid	adjective	cat	0	0.653333	y	
+a prop	adverb	cat	prop	adverb	cat	0	1	y	
+feina	noun	cat	ofici	noun	cat	0	0.84	y	
+llimera	noun	cat	llimoner	noun	cat	0	0.746667	y	
+seny	noun	cat	sensatesa	noun	cat	0	0.746667	y	
+darrer	adjective	cat	últim	adjective	cat	0	1	y	
+rotatiu	noun	cat	periòdic	noun	cat	0	0.84	y	
+enrere	adverb	cat	darrera	adverb	cat	0	0.84	y	
+tribunal	noun	cat	jutjat	noun	cat	0	0.98	y	
+convertir-se	verb	cat	esdevenir	verb	cat	0	0.84	y	
+especialment	adverb	cat	particularment	adverb	cat	0	0.84	y	
+pietós	adjective	cat	piadós	adjective	cat	0	1	y	
+començar	verb	cat	iniciar	verb	cat	0	0.98	y	
+repudiar	verb	cat	rebutjar	verb	cat	0	0.84	y	
+dita	noun	cat	proverbi	noun	cat	0	0.84	y	
+plet	noun	cat	litigi	noun	cat	0	0.84	y	
+septe	noun	cat	envà	noun	cat	0	0.98	y	septe nasal, envà nasal
+peça de roba	noun	cat	peça de vestir	noun	cat	0	0.666667	y	
+fer una ullada	verb	cat	donar un cop d'ull	verb	cat	0	0.5	y	
+pesebre	noun	cat	pessebre	noun	cat	0	1	y	
+cap de colla	noun	cat	capatàs	noun	cat	0	0.98	y	
+aviat	adverb	cat	d'hora	adverb	cat	0	1	y	
+quedar	verb	cat	restar	verb	cat	0	0.98	y	
+inevitable	adjective	cat	ineludible	adjective	cat	0	0.746667	y	
+recercar	verb	cat	buscar	verb	cat	0	0.653333	y	
+bromejar	verb	cat	fer broma	verb	cat	0	0.98	y	
+desglaçar	verb	cat	desgelar	verb	cat	0	0.84	y	
+segell	noun	cat	etiqueta	noun	cat	0	0.84	y	
+colpejar	verb	cat	batre	verb	cat	0	0.84	y	
+brillant	adjective	cat	enginyós	adjective	cat	0	0.533333	y	
+molt	adverb	cat	ben	adverb	cat	0	0.84	y	
+per altra banda	adverb	cat	d'una altra banda	adverb	cat	0	1	y	
+pebre	noun	cat	pebrot	noun	cat	0	0.84	y	
+ubicar	verb	cat	situar	verb	cat	0	0.98	y	
+catastròfic	adjective	cat	desastrós	adjective	cat	0	0.84	y	
+detenir	verb	cat	parar	verb	cat	0	0.98	y	
+forquilla	noun	cat	forqueta	noun	cat	0	1	y	
+parada	noun	cat	estand	noun	cat	0	0.653333	y	
+habilitat	noun	cat	capacitat	noun	cat	0	0.84	y	
+murri	adjective	cat	picardiós	adjective	cat	0	1	y	
+celler	noun	cat	cava	noun	cat	0	0.533333	y	
+captar	verb	cat	agafar	verb	cat	0	0.84	y	
+aspre	adjective	cat	agre	adjective	cat	0	0.84	y	comentari aspre, comentari agre
+cansat	adjective	cat	fatigat	adjective	cat	0	0.84	y	
+maleter	noun	cat	portaequipatge	noun	cat	0	1	y	
+a sota	adverb	cat	a baix	adverb	cat	0	1	y	
+dossier	noun	cat	fitxer	noun	cat	0	0.6	n	

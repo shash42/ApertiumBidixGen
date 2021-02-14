@@ -1,0 +1,151 @@
+Occitan	French	Correct/Wrong	Comments
+mantier-verb-oc	être entretenus-verb-fr	Wrong	
+disputa-noun-oc	querelle-noun-fr	Correct	
+familhar-adjective-oc	familial-adjective-fr	Wrong	
+Virgili-properNoun-oc	Virgile-properNoun-fr	Correct	
+cadea-noun-oc	chaine-noun-fr	Correct	only in aranese and Gascon (and maybe vivaroalpine) variant
+generauments-adverb-oc	généralement-adverb-fr	Correct	only in aranese and Gascon (and maybe vivaroalpine) variant
+finaument-adverb-oc	enfin-adverb-fr	Correct	only in aranese and Gascon (and maybe vivaroalpine) variant
+mortalatge-noun-oc	tuerie-noun-fr	Correct	
+Canàries-properNoun-oc	Canaries-properNoun-fr	Correct	only in aranese variant
+immediatament-adverb-oc	aussitôt-adverb-fr	Correct	
+Maria-properNoun-oc	Marie-properNoun-fr	Correct	
+substanciau-adjective-oc	substantiel-adjective-fr	Correct	only in some variants (gascon, aranese, provençal, limousin, vivaroalpine, maybe auvergnat)
+rèste-noun-oc	restant-noun-fr	Correct	
+esclarir-verb-oc	expliquer-verb-fr	Correct	
+País Basco-properNoun-oc	Pays Basque-properNoun-fr	Correct	
+abituauments-adverb-oc	habituellement-adverb-fr	Correct	only in aranese and Gascon (and maybe vivaroalpine) variant
+unificacion-noun-oc	union-noun-fr	Correct	
+setanta uèch-numeral-oc	septante-huit-numeral-fr	Correct	only in lengadocian variant (general occitan in Apertium) and provençal
+ligam-noun-oc	relation-noun-fr	Correct	
+avant-adverb-oc	tantôt-adverb-fr	Correct	
+mandament-noun-oc	ordre-noun-fr	Wrong	
+precisaments-adverb-oc	précisément-adverb-fr	Correct	only in aranese variant ?
+gosar-verb-oc	oser-verb-fr	Correct	
+proprietat-noun-oc	domaine-noun-fr	Correct	
+fraire-noun-oc	moine-noun-fr	Correct	
+intrada-noun-oc	revenu-noun-fr	Correct	
+otelèr-adjective-oc	hôtelier-adjective-fr	Correct	only in aranese and gascon variants
+hic-noun-oc	kyste-noun-fr	Wrong	
+galhec-adjective-oc	galicien-adjective-fr	Correct	
+François-properNoun-oc	Francesc-properNoun-fr	Correct	
+Lhèida-properNoun-oc	Lleida-properNoun-fr	Correct	
+polemic-adjective-oc	controversé-adjective-fr	Correct	
+ensús-adverb-oc	en dessus-adverb-fr	Correct	
+arténher-verb-oc	obtenir-verb-fr	Correct	
+davantièr-adjective-oc	de devant-adjective-fr	Correct	
+insolit-adjective-oc	inaccoutumé-adjective-fr	Correct	
+unilateral-adjective-oc	unilatéral-adjective-fr	Correct	only in languedocien (general occitan in Apertium), lemosin and auvergnat variants
+orrible-adjective-oc	affreux-adjective-fr	Correct	
+colapse-noun-oc	éffondrement-noun-fr	Wrong	I don't think "colapse" existís. Maybe "collapse" does, but I can't find it in any dictionary or corpus
+sosténer-verb-oc	supporter-verb-fr	Correct	
+madama-noun-oc	monsieur-noun-fr	Wrong	
+funeralhes-noun-oc	obsèques-noun-fr	Correct	only in aranese variant
+entièraments-adverb-oc	entièrement-adverb-fr	Correct	only in aranese variant ?
+arreu-adverb-oc	partout-adverb-fr		No idea what "arreu" means but I found occurences in some gascon texts
+levar-verb-oc	dresser-verb-fr	Correct	
+completament-adverb-oc	totalement-adverb-fr	Correct	
+continu-adjective-oc	continuel-adjective-fr	Correct	
+remembrança-noun-oc	souvenir-noun-fr	Correct	
+jaç-noun-oc	lit-noun-fr	Correct	
+pòsa-noun-oc	repos-noun-fr	Correct	
+Sudafrica-properNoun-oc	Afrique du Sud-properNoun-fr	Correct	
+ressortir-verb-oc	dépasser-verb-fr	Correct	
+direccion-noun-oc	adresse-noun-fr	Wrong	
+larèr-noun-oc	maison-noun-fr	Correct	
+retirat-noun-oc	pensionnaire-noun-fr	Wrong	
+repertoriar-verb-oc	inventorier-verb-fr	Correct	
+non pas-adverb-oc	ne-adverb-fr	Correct	
+Orense-properNoun-oc	Ourense-properNoun-fr	Correct	
+ribièra-noun-oc	rive-noun-fr	Correct	
+Lèsbos-properNoun-oc	Lesbos-properNoun-fr	Correct	
+litorau-adjective-oc	côtier-adjective-fr	Correct	only in some variants (gascon, aranese, provençal, limousin, vivaroalpine, maybe auvergnat)
+fem-noun-oc	fumier-noun-fr	Correct	
+procèssus-noun-oc	processus-noun-fr	Correct	
+infermièr-noun-oc	infirmier-noun-fr	Correct	
+ubicacion-noun-oc	emplacement-noun-fr	Wrong	It's from spanish, maybe it's used in the aranese variant, but probably it's incorrect
+òme-noun-oc	monsieur-noun-fr	Correct	
+espital-noun-oc	hopital-noun-fr	Correct	only in languedocien (general occitan in Apertium), lemosin and auvergnat variants
+collocacion-noun-oc	placement-noun-fr	Wrong	
+pròva-noun-oc	test-noun-fr	Correct	
+arrecuélher-verb-oc	ramasser-verb-fr	Correct	only in gascon and aranese variants
+legaument-adverb-oc	légalement-adverb-fr	Correct	only in gascon and aranese variants (and maybe limousin)
+abiletat-noun-oc	capacité-noun-fr	Correct	
+copòla-noun-oc	dôme-noun-fr	Correct	
+suberviuença-noun-oc	survivance-noun-fr	Correct	only in aranese variant
+manjar-noun-oc	repas-noun-fr	Correct	
+precedent-adjective-oc	antérieur-adjective-fr	Correct	
+Pirenèus-properNoun-oc	les Pyrénées-properNoun-fr	Wrong	
+cooperacion-noun-oc	collaboration-noun-fr	Correct	
+uèch cents-numeral-oc	huit cents-numeral-fr	Correct	only in languedocien (general occitan in Apertium) and provençal
+emplec-noun-oc	usage-noun-fr	Correct	
+Algeria-properNoun-oc	Algérie-properNoun-fr	Correct	
+literalaments-adverb-oc	littéralement-adverb-fr	Correct	not in gascony and aranese, but ok in other variants
+ribièira-noun-oc	rive-noun-fr	Correct	
+component-noun-oc	composante-noun-fr	Wrong	I don't think "component" exists
+finalizar-verb-oc	terminer-verb-fr	Correct	
+rebrembrança-noun-oc	souvenir-noun-fr	Correct	
+parallel-adjective-oc	parallèle-adjective-fr	Wrong	"parallel" is a wrong spelling for "parallèl"
+Kowait-properNoun-oc	Kuwait-properNoun-fr	Correct	
+parlaire-noun-oc	locuteur-noun-fr	Correct	
+via-noun-oc	route-noun-fr	Correct	
+institucional-adjective-oc	institutionnel-adjective-fr	Correct	only in languedocien (general occitan in Apertium), lemosin and auvergnat variants
+rusca-noun-oc	couche-noun-fr	Correct	
+parciauments-adverb-oc	partiellement-adverb-fr	Correct	only in aranese and gascon variants
+Salamon-properNoun-oc	Salomon-properNoun-fr	Correct	
+prumèrament-adverb-oc	premièrement-adverb-fr	Correct	
+Martín-properNoun-oc	Martí-properNoun-fr	Correct	
+senhoriau-adjective-oc	majestueux-adjective-fr	Correct	only in some variants (gascon, aranese, provençal, limousin, vivaroalpine, maybe auvergnat)
+cauma-noun-oc	calme-noun-fr	Correct	not in lengadocian variant (general occitan in Apertium)
+enòrme-adjective-oc	géant-adjective-fr	Correct	
+docéncia-noun-oc	enseignement-noun-fr	Wrong	"docéncia" doesn't seem to exist
+potenciaument-adverb-oc	potentiellement-adverb-fr	Correct	only in aranese and gascon variants
+conducta-noun-oc	attitude-noun-fr	Correct	
+mòda-noun-oc	façon-noun-fr	Correct	
+saile-noun-oc	manteau-noun-fr	Correct	
+governant-noun-oc	gouvernant-noun-fr	Correct	
+tà baish-adverb-oc	en dessous-adverb-fr	Correct	only in aranese and gascon variants
+transnacional-adjective-oc	transnational-adjective-fr	Correct	only in languedocien (general occitan in Apertium), lemosin and auvergnat variants
+resèrva-noun-oc	réservation-noun-fr	Correct	
+cuic-noun-oc	canton-noun-fr	Wrong	
+malastrosaments-adverb-oc	lamentablement-adverb-fr	Correct	only in aranese variant ?
+Brunei-properNoun-oc	Brunéi-properNoun-fr	Correct	
+solta-noun-oc	solde-noun-fr	Correct	
+convèni-noun-oc	accord-noun-fr	Wrong	"convèni" exists only as a conjugated verb
+Frankfurt-properNoun-oc	Francfort-properNoun-fr	Correct	
+penchinar-verb-oc	coiffer-verb-fr	Correct	
+acréishement-noun-oc	croissance-noun-fr	Wrong	"acréishement" is a wrong spelling for "acreishement"
+popa-noun-oc	poitrine-noun-fr	Correct	
+excludir-verb-oc	exclure-verb-fr	Correct	
+pofre-noun-oc	pop-noun-fr	Wrong	
+escuerçar-verb-oc	raccourcir-verb-fr	Wrong	"escuerçar" doesn't exist
+forquilha-noun-oc	bifurcation-noun-fr	Correct	
+iniciatiua-noun-oc	entreprise-noun-fr	Correct	only in aranse variant
+La Mèca-properNoun-oc	la Mecque-properNoun-fr	Correct	
+ira-noun-oc	rage-noun-fr	Correct	
+mieu-adjective-oc	à moi-adjective-fr	Correct	
+fin-noun-oc	but-noun-fr	Correct	
+arrosada-noun-oc	rosée-noun-fr	Correct	
+presentador-noun-oc	montreur-noun-fr	Correct	
+potjat-noun-oc	pelouse-noun-fr	Wrong	"potjat" does'nt exist
+anóncia-noun-oc	réclame-noun-fr	Correct	
+obrir-verb-oc	écarquiller-verb-fr	Correct	
+vulgar-adjective-oc	trivial-adjective-fr	Correct	
+collaboracion-noun-oc	coopération-noun-fr	Correct	
+inevitable-adjective-oc	inéluctable-adjective-fr	Correct	
+País Basco-properNoun-oc	Euskadi-properNoun-fr	Correct	
+reportaire-noun-oc	reporter-noun-fr	Correct	
+gratitud-noun-oc	reconnaissance-noun-fr	Correct	
+credent-noun-oc	croyant-noun-fr	Correct	
+uet-adjective-oc	vide-adjective-fr	Correct	If "uet" exists, it's in aranese variant, a variant I don't know well
+privilègi-noun-oc	prérogative-noun-fr	Correct	
+trenta dus-numeral-oc	trente-deux-numeral-fr	Correct	only in gascon and aranese variants (and maybe limousin)
+solet-adjective-oc	unique-adjective-fr	Correct	
+descans-noun-oc	repos-noun-fr	Correct	
+avant-adverb-oc	ensuite-adverb-fr	Wrong	
+Mateo-properNoun-oc	Mateu-properNoun-fr	Correct	
+arrodeth-noun-oc	rouleau-noun-fr	Correct	only in gascon and aranese variants
+autan-noun-oc	est-noun-fr	Correct	
+aut-adjective-oc	élevé-adjective-fr	Correct	
+desgraciat-adjective-oc	malchanceux-adjective-fr	Correct	
+absòlver-verb-oc	absoudre-verb-fr	Correct	

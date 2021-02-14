@@ -1,0 +1,152 @@
+								Y/N	Comments
+garatge	noun	cat	cotxera	noun	cat	0	0.84	Y	In the sense of a place where cars are stored, but not repaired
+balancejar	verb	cat	oscil·lar	verb	cat	0	0.746667	N	it would be balancejar-se (reflexive) not balancejar
+tàrtar	noun	cat	tàtar	noun	cat	0	0.84	Y	
+passeig	noun	cat	rambla	noun	cat	0	0.84	Y	In the sense of "avenue" not "walk"
+error	noun	cat	errada	noun	cat	0	1	Y	
+com a màxim	adverb	cat	a tot estirar	adverb	cat	0	0.98	Y	
+avenç	noun	cat	progressió	noun	cat	0	0.84	Y	I'd go more for "progrés" but yes
+saldo	noun	cat	rebaixa	noun	cat	0	0.84	Y	in the sense of "price reduction"
+discussió	noun	cat	controvèrsia	noun	cat	0	0.746667	Y	
+per tercera vegada	adverb	cat	per tercer cop	adverb	cat	0	1	Y	
+recaptar	verb	cat	collir	verb	cat	0	0.533333	N	Can't think of any context
+potestat	noun	cat	poder	noun	cat	0	0.84	Y	
+sobtadament	adverb	cat	de cop i volta	adverb	cat	0	0.533333	Y	
+fatigat	adjective	cat	cansat	adjective	cat	0	0.84	Y	
+cadira de braços	noun	cat	butaca	noun	cat	0	1	Y	
+en acabat	adverb	cat	després	adverb	cat	0	1	Y	
+retornar	verb	cat	restituir	verb	cat	0	0.746667	Y	
+bajanada	noun	cat	ximpleria	noun	cat	0	0.533333	Y	
+canonada	noun	cat	conducció	noun	cat	0	0.653333	Y	conducció is actually a hyperonym of canonada
+senyera	noun	cat	bandera	noun	cat	0	0.98	Y	senyera is one particular kind of bandera ('flag')
+espatllar	verb	cat	espatlar	verb	cat	0	1	N	More than synonyms these are spelling variants (a bit like labour/labor) for different regions; one'd never use them in the same text, as they would correlate with other spelling changes
+ferramenta	noun	cat	eina	noun	cat	0	1	Y	ferramenta is a hyponym of eina, but quite close in the figurative sense
+espai	noun	cat	zona	noun	cat	0	0.6	Y	
+de confiança	adjective	cat	fidedigne	adjective	cat	0	0.6	Y	
+xiquet	noun	cat	xaval	noun	cat	0	0.84	Y	
+blat de moro	noun	cat	panís	noun	cat	0	0.98	Y	regional synonyms (I say panís, people in Barcelona blat de moro)
+recialla	noun	cat	desferra	noun	cat	0	1	Y	in the sense of "what's left after destruction  or injury", yes
+despatx	noun	cat	gabinet	noun	cat	0	0.746667	Y	equivalent in some senses 
+de segur	adverb	cat	certament	adverb	cat	0	0.533333	Y	
+famolenc	adjective	cat	afamat	adjective	cat	0	0.533333	Y	
+àlies	noun	cat	sobrenom	noun	cat	0	0.84	Y	
+talla	noun	cat	mida	noun	cat	0	0.84	Y	
+corfa	noun	cat	escorça	noun	cat	0	1	Y	probably regional synonyms
+mànec	noun	cat	maneta	noun	cat	0	0.6	N	"maneta" is "crank" while "mànec" is "handle", so no
+pólvores	noun	cat	pols	noun	cat	0	1	N	can't think of a context
+cavar	verb	cat	excavar	verb	cat	0	0.84	Y	
+fonament	noun	cat	fundació	noun	cat	0	0.84	Y	
+dedicació	noun	cat	devoció	noun	cat	0	0.746667	Y	
+baix	adverb	cat	davall	adverb	cat	0	0.84	N	similar in meaning, but not really interchangeable
+barret	noun	cat	capell	noun	cat	0	0.84	Y	
+ruta	noun	cat	via	noun	cat	0	0.84	Y	ruta is a hyponym
+avariar	verb	cat	desbaratar	verb	cat	0	0.533333	Y	
+afrontar	verb	cat	enfrontar	verb	cat	0	0.98	N 	sometimes incorrectly used as synonyms, but really aren't
+politja	noun	cat	corriola	noun	cat	0	1	Y	corriola is a kind of polija
+horrible	adjective	cat	espantós	adjective	cat	0	0.98	Y	
+fluix	noun	cat	flux	noun	cat	0	1	Y	fluix is a kind of flux
+per últim cop	adverb	cat	per última vegada	adverb	cat	0	0.666667	Y	
+pedagògic	adjective	cat	didàctic	adjective	cat	0	0.533333	Y	
+vas	noun	cat	copa	noun	cat	0	0.84	Y	copa is a very specific kind of vas
+poblat	adjective	cat	populós	adjective	cat	0	0.84	Y	
+xarrada	noun	cat	xat	noun	cat	0	0.533333	Y	in the sense of "chat"
+balançar	verb	cat	balancejar	verb	cat	0	0.666667	Y	
+revenja	noun	cat	venjança	noun	cat	0	0.84	Y	
+intent	noun	cat	temptativa	noun	cat	0	0.98	Y	
+a baix	adverb	cat	cap avall	adverb	cat	0	0.746667	N	"a baix" is locative, "cap avall" indicates direction
+vet ací	adverb	cat	veus ací	adverb	cat	0	0.833333	Y	old Catalan formalisms for "here you have"
+inequívocament	adverb	cat	indubtablement	adverb	cat	0	0.653333	Y	
+basar	verb	cat	fonamentar	verb	cat	0	0.98	Y	
+funcionari	noun	cat	càrrec	noun	cat	0	0.98	N	can't think of a context
+dors	noun	cat	llom	noun	cat	0	0.533333	Y	in animals
+cargolar	verb	cat	enrotllar	verb	cat	0	0.653333	Y	not completely sure, but dictionary points at common senses
+arrencada	noun	cat	engegada	noun	cat	0	0.84	Y	
+bogeria	noun	cat	febrada	noun	cat	0	1	N	
+doblar	verb	cat	doblegar	verb	cat	0	1	N 	false synonyms through polysemous Spanish word "doblar"?
+repartiment	noun	cat	repartició	noun	cat	0	0.746667	Y	
+transmetre	verb	cat	transportar	verb	cat	0	0.746667	N	but close: "transmitting" and "transferring" are similar in meaning
+pantaixar	verb	cat	bleixar	verb	cat	0	0.533333	N	very close but not really
+custodiar	verb	cat	tutelar	verb	cat	0	0.533333	Y	
+còlera	noun	cat	enuig	noun	cat	0	0.84	Y	in the sense of "anger"
+enfront	adverb	cat	al capdavant	adverb	cat	0	1	N	one is "in front of" and the other means "being the head of"
+llistat	noun	cat	llista	noun	cat	0	0.84	Y	
+comprendre	verb	cat	abastar	verb	cat	0	0.84	Y	
+desvincular	verb	cat	deslligar	verb	cat	0	0.84	Y	
+alentir	verb	cat	retardar	verb	cat	0	0.84	Y	
+inútil	adjective	cat	ociós	adjective	cat	0	0.653333	Y	I looked it up, and there is a common sense I hadn't thought about
+lluentor	noun	cat	brillantor	noun	cat	0	0.84	Y	
+plegar	verb	cat	inclinar	verb	cat	0	0.533333	N	"folding" and "leaning"
+menar	verb	cat	dirigir	verb	cat	0	0.98	Y	
+esguerrar	verb	cat	esgarrar	verb	cat	0	1	N	same word in two spellings (regional)
+endarrera	adverb	cat	arrere	adverb	cat	0	1	Y	but "endarrera" is not standard, apparently
+pagès	noun	cat	ramader	noun	cat	0	0.84	N	One grows plants, the other herds animals
+capçada	noun	cat	copa	noun	cat	0	0.98	N	probably a false synonym through Spanish copa
+recreació	noun	cat	esbarjo	noun	cat	0	0.653333	Y	
+sostre	noun	cat	teulada	noun	cat	0	1	N	both are "roof" in English, but not synonyms (one is the outer part and the other the inner part)
+ací	adverb	cat	aquí	adverb	cat	0	1	N	They have the same meaning but in different dialects, and inside one dialect they have different meaning, so no
+nexe	noun	cat	llaç	noun	cat	0	0.84	Y	
+consegüentment	adverb	cat	conseqüentment	adverb	cat	0	0.84	Y	
+infant	noun	cat	criatura	noun	cat	0	0.84	Y	
+tancar	verb	cat	barrar	verb	cat	0	0.84	Y	barrar is "to bar" (as in "barred and bolted") whereas "tancar" is just "close"
+llumí	noun	cat	fòsfor	noun	cat	0	0.653333	Y	
+elevar	verb	cat	enlairar	verb	cat	0	0.98	Y	
+abecedari	noun	cat	beceroles	noun	cat	0	0.746667	Y	in the sense of "basic thing to be learned"
+ovella	noun	cat	be	noun	cat	0	0.98	N	"be" is a lamb, "ovella" is a "sheep".
+forqueta	noun	cat	forquilla	noun	cat	0	1	Y	not sure if this is a regional difference; I say forqueta, and Barcelonans say forquilla, but...
+servar	verb	cat	mirar	verb	cat	0	0.533333	N	
+cridòria	noun	cat	aldarull	noun	cat	0	0.98	N	
+bresquiller	noun	cat	presseguera	noun	cat	0	0.746667	Y	not sure if this is just a regional difference, I say "bresquiller", and Barcelonans say "presseguera". 
+proporcionar	verb	cat	fornir	verb	cat	0	0.653333	Y	there is a very narrow sense where they are synonyms
+cullera	noun	cat	cullerada	noun	cat	0	0.98	N	"spoon" and "spoonful"
+usualment	adverb	cat	freqüentment	adverb	cat	0	0.653333	Y	
+melmelada	noun	cat	confitura	noun	cat	0	0.84	Y	melmelada is one kind of confitura
+aljub	noun	cat	cisterna	noun	cat	0	0.84	Y	
+colgar	verb	cat	abrigar	verb	cat	0	0.98	N	close in the sense of "putting oneself in bed and covering oneself" but never heard them interchangeabl
+clar	adjective	cat	translúcid	adjective	cat	0	0.653333	N	
+a prop	adverb	cat	prop	adverb	cat	0	1	Y	
+feina	noun	cat	ofici	noun	cat	0	0.84	Y	
+llimera	noun	cat	llimoner	noun	cat	0	0.746667	Y	I suspect regional synonyms here but...
+seny	noun	cat	sensatesa	noun	cat	0	0.746667	Y	
+darrer	adjective	cat	últim	adjective	cat	0	1	Y	
+rotatiu	noun	cat	periòdic	noun	cat	0	0.84	Y	in the sense of "daily newspaper"
+enrere	adverb	cat	darrera	adverb	cat	0	0.84	N	one expresses position and the other direction
+tribunal	noun	cat	jutjat	noun	cat	0	0.98	Y	some are
+convertir-se	verb	cat	esdevenir	verb	cat	0	0.84	Y	
+especialment	adverb	cat	particularment	adverb	cat	0	0.84	Y	
+pietós	adjective	cat	piadós	adjective	cat	0	1	Y	
+començar	verb	cat	iniciar	verb	cat	0	0.98	Y	
+repudiar	verb	cat	rebutjar	verb	cat	0	0.84	Y	this is interesting, both come from Latin "repudiare" but one is the old word and the other one is a modern loan from Latin
+dita	noun	cat	proverbi	noun	cat	0	0.84	Y	
+plet	noun	cat	litigi	noun	cat	0	0.84	Y	
+septe	noun	cat	envà	noun	cat	0	0.98	Y	in anatomy
+peça de roba	noun	cat	peça de vestir	noun	cat	0	0.666667	Y	
+fer una ullada	verb	cat	donar un cop d'ull	verb	cat	0	0.5	Y	
+pesebre	noun	cat	pessebre	noun	cat	0	1	N	regional spellings; "pesebre" is the genuine one, but "pessebre" is widely used in Catalonia
+cap de colla	noun	cat	capatàs	noun	cat	0	0.98	Y	
+aviat	adverb	cat	d'hora	adverb	cat	0	1	N	not really, one means "soon" and the other means "early"
+quedar	verb	cat	restar	verb	cat	0	0.98	Y	
+inevitable	adjective	cat	ineludible	adjective	cat	0	0.746667	Y	
+recercar	verb	cat	buscar	verb	cat	0	0.653333	Y	some say "buscar" is not proper Catalan (loan from Spanish) but widely used
+bromejar	verb	cat	fer broma	verb	cat	0	0.98	Y	
+desglaçar	verb	cat	desgelar	verb	cat	0	0.84	Y	
+segell	noun	cat	etiqueta	noun	cat	0	0.84	Y	some stamps are labels; yes
+colpejar	verb	cat	batre	verb	cat	0	0.84	Y	
+brillant	adjective	cat	enginyós	adjective	cat	0	0.533333	Y	of a clever person
+molt	adverb	cat	ben	adverb	cat	0	0.84	Y	
+per altra banda	adverb	cat	d'una altra banda	adverb	cat	0	1	Y	
+pebre	noun	cat	pebrot	noun	cat	0	0.84	N	regional: a bell pepper is "pebre" in some areas of Valencia and "pebrot" in Catalonia, but "pebre" in Catalonia only means pepper as a spice
+ubicar	verb	cat	situar	verb	cat	0	0.98	Y	some say "ubicar" is not Catalan but it has that sense, uyes
+catastròfic	adjective	cat	desastrós	adjective	cat	0	0.84	Y	as much as catastrophes are disasters ;-)
+detenir	verb	cat	parar	verb	cat	0	0.98	Y	
+forquilla	noun	cat	forqueta	noun	cat	0	1	Y	careful, reversed version repeated above
+parada	noun	cat	estand	noun	cat	0	0.653333	Y	booth
+habilitat	noun	cat	capacitat	noun	cat	0	0.84	Y	
+murri	adjective	cat	picardiós	adjective	cat	0	1	Y	synonyms in the Catalonia dialect
+celler	noun	cat	cava	noun	cat	0	0.533333	Y	cava is a kind of celler
+captar	verb	cat	agafar	verb	cat	0	0.84	N	interchanging them would be very forced (for instance "captar/agafar una estació de ràdio")
+aspre	adjective	cat	agre	adjective	cat	0	0.84	Y	of a person's charactaer
+cansat	adjective	cat	fatigat	adjective	cat	0	0.84	Y	but reversed version of example above
+maleter	noun	cat	portaequipatge	noun	cat	0	1	Y	
+a sota	adverb	cat	a baix	adverb	cat	0	1	Y	
+dossier	noun	cat	fitxer	noun	cat	0	0.6	Y	
+								119	

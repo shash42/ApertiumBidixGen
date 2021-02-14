@@ -1,0 +1,151 @@
+French	Catalan	Correct/Wrong	Comments
+âgé-adjective-fr	vell-adjective-ca	Correct	
+défavorable-adjective-fr	hostil-adjective-ca	Correct	
+choléra-noun-fr	ira-noun-ca	Correct	
+Andreo-properNoun-fr	Andrés-properNoun-ca	Wrong	
+Joan-properNoun-fr	Jean-properNoun-ca	Wrong	
+grille-noun-fr	graella-noun-ca	Correct	
+Alberta-properNoun-fr	Albert-properNoun-ca	Wrong	
+commencer-verb-fr	dirigir-verb-ca	Wrong	
+action-noun-fr	acte-noun-ca	Wrong	
+gratitude-noun-fr	gratitud-noun-ca	Correct	
+absurde-adjective-fr	forassenyat-adjective-ca	Wrong	
+Jaime-properNoun-fr	Jaume-properNoun-ca	Wrong	
+emplacement-noun-fr	lloc-noun-ca	Correct	
+les États-Unis-properNoun-fr	els Estats Units d'Amèrica-properNoun-ca	Correct	
+génétique-noun-fr	genètica-noun-ca	Correct	
+modalité-noun-fr	rang-noun-ca	Wrong	
+Tananarive-properNoun-fr	Antananarivo-properNoun-ca	Correct	
+en bas-adverb-fr	al dessota-adverb-ca	Wrong	
+flanc-noun-fr	costat-noun-ca	Wrong	
+amas-noun-fr	pila-noun-ca	Correct	
+file-noun-fr	columna-noun-ca	Wrong	
+Guyane-properNoun-fr	Guyana-properNoun-ca	Correct	
+cavité-noun-fr	forat-noun-ca	Correct	
+augmentation-noun-fr	increment-noun-ca	Wrong	
+dessous-adverb-fr	al dessota-adverb-ca	Correct	
+compatissant-adjective-fr	humà-adjective-ca	Wrong	
+Maldives-properNoun-fr	les Maldives-properNoun-ca	Correct	
+voie-noun-fr	ferrocarril-noun-ca	Wrong	
+distant-adjective-fr	llunyà-adjective-ca	Correct	
+soigner-verb-fr	tenir cura-verb-ca	Correct	
+à nouveau-adverb-fr	una altra vegada-adverb-ca	Wrong	
+liaison-noun-fr	vincle-noun-ca	Correct	
+clôture-noun-fr	tanca-noun-ca	Correct	
+Ibérie-properNoun-fr	estat espanyol-properNoun-ca	Wrong	
+Juliette-properNoun-fr	Julieta-properNoun-ca	Correct	
+Ève-properNoun-fr	Eva-properNoun-ca	Correct	
+douteux-adjective-fr	incert-adjective-ca	Correct	
+vingt-trois-numeral-fr	vint-i-tres-numeral-ca	Correct	
+Bernat-properNoun-fr	Bernardo-properNoun-ca	Wrong	
+glace-noun-fr	gel-noun-ca	Correct	
+Lucas-properNoun-fr	Lluc-properNoun-ca	Correct	
+banc-noun-fr	banca-noun-ca	Wrong	
+fils-noun-fr	xic-noun-ca	Wrong	
+simple soldat-noun-fr	soldat-noun-ca	Wrong	
+membre de la suite-noun-fr	acompanyant-noun-ca	Wrong	
+superbe-adjective-fr	genial-adjective-ca	Correct	
+futile-adjective-fr	frívol-adjective-ca	Correct	
+Maroc-properNoun-fr	Marruecos-properNoun-ca	Wrong	
+adresse-noun-fr	direcció-noun-ca	Wrong	
+convention-noun-fr	concordança-noun-ca	Wrong	
+Bassora-properNoun-fr	Bàssora-properNoun-ca	Correct	
+diriger-verb-fr	adreçar-verb-ca	Correct	
+juste-adjective-fr	adequat-adjective-ca	Wrong	
+recueillir-verb-fr	recopilar-verb-ca	Correct	
+rapidement-adverb-fr	de pressa-adverb-ca	Correct	
+degré-noun-fr	esglaó-noun-ca	Correct	
+Brossa-properNoun-fr	Bursa-properNoun-ca	Wrong	
+pique-noun-fr	punta-noun-ca	Wrong	
+mer d'Aral-properNoun-fr	mar d'Aral-properNoun-ca	Correct	
+poignet-noun-fr	puny-noun-ca	Wrong	only correct fr->cat in one sense, but not the general one
+renoncer-verb-fr	desistir-verb-ca	Correct	
+Jacques-properNoun-fr	Jacob-properNoun-ca	Wrong	
+Jorge-properNoun-fr	Georges-properNoun-ca	Wrong	
+étable-noun-fr	quadra-noun-ca	Correct	
+savant-adjective-fr	assenyat-adjective-ca	Wrong	
+Torah-properNoun-fr	Torà-properNoun-ca	Correct	
+provision-noun-fr	reserva-noun-ca	Correct	
+là-adverb-fr	ençà-adverb-ca	Correct	
+domicile-noun-fr	casa-noun-ca	Wrong	
+ci-adverb-fr	ací-adverb-ca	Correct	
+Arabie Saoudite-properNoun-fr	l'Aràbia Saudita-properNoun-ca	Correct	
+Polynésie Française-properNoun-fr	Polinèsia Francesa-properNoun-ca	Correct	
+pouvoir-noun-fr	potència-noun-ca	Wrong	
+didactique-adjective-fr	pedagògic-adjective-ca	Wrong	
+entourage-noun-fr	rodalia-noun-ca	Wrong	
+agrafe-noun-fr	gafa-noun-ca	Correct	
+quarante-neuf-numeral-fr	trenta-nou-numeral-ca	Wrong	
+Îles Mariannes du Nord-properNoun-fr	Illes Marianes del Nord-properNoun-ca	Correct	
+cinquante et un-numeral-fr	cinquanta-u-numeral-ca	Correct	
+Orense-properNoun-fr	Ourense-properNoun-ca	Wrong	
+raisonnable-adjective-fr	racional-adjective-ca	Wrong	
+incontestablement-adverb-fr	indiscutiblement-adverb-ca	Correct	
+Kenya-properNoun-fr	Kenia-properNoun-ca	Correct	
+récit-noun-fr	relació-noun-ca	Wrong	
+propriété-noun-fr	hisenda-noun-ca	Wrong	
+essentiel-adjective-fr	vital-adjective-ca	Wrong	
+attaché-case-noun-fr	carpeta-noun-ca	Wrong	
+Grenade-properNoun-fr	Grenada-properNoun-ca	Wrong	
+rang-noun-fr	filera-noun-ca	Wrong	
+Sicile-properNoun-fr	Sicilia-properNoun-ca	Wrong	
+légal-adjective-fr	legítim-adjective-ca	Wrong	
+étape-noun-fr	estadi-noun-ca	Wrong	
+lamentation-noun-fr	queixa-noun-ca	Correct	
+ours-noun-fr	os-noun-ca	Wrong	
+à côté-adverb-fr	vora-adverb-ca	Correct	
+affaisser-verb-fr	ensorrar-verb-ca	Correct	
+reviser-verb-fr	revisar-verb-ca	Correct	
+rabais-noun-fr	descompte-noun-ca	Correct	
+faire faillite-verb-fr	fallir-verb-ca	Correct	
+terme-noun-fr	membre-noun-ca	Wrong	
+Martín-properNoun-fr	Martin-properNoun-ca	Wrong	
+octante-deux-numeral-fr	vuitanta-dos-numeral-ca	Correct	
+Cachemire-properNoun-fr	Caixmir-properNoun-ca	Correct	
+Union Soviétique-properNoun-fr	Unió Soviètica-properNoun-ca	Correct	
+bord-noun-fr	cantell-noun-ca	Correct	
+Amazone-properNoun-fr	Amazon-properNoun-ca	Correct	
+Cristóbal-properNoun-fr	Christophe-properNoun-ca	Wrong	
+Îles Cocos-properNoun-fr	Illes Cocos-properNoun-ca	Correct	
+quarante et un-numeral-fr	quaranta-u-numeral-ca	Correct	
+éluder-verb-fr	evadir-verb-ca	Correct	
+sept-cent-numeral-fr	set-cents-numeral-ca	Correct	
+allouer-verb-fr	admetre-verb-ca	Wrong	
+complet-adjective-fr	ple-adjective-ca	Wrong	
+garçon-noun-fr	infant-noun-ca	Correct	
+par ailleurs-adverb-fr	per altra banda-adverb-ca	Correct	
+Pays Valencien-properNoun-fr	País Valencià-properNoun-ca	Correct	
+geler-verb-fr	gelar-verb-ca	Correct	
+enfant-noun-fr	xicot-noun-ca	Correct	
+queue-noun-fr	mànec-noun-ca	Wrong	
+crainte-noun-fr	por-noun-ca	Correct	
+esprit d'entreprise-noun-fr	iniciativa-noun-ca	Correct	
+pour l'instant-adverb-fr	ara com ara-adverb-ca	Correct	
+soldat de deuxième classe-noun-fr	soldat-noun-ca	Wrong	
+bolchevique-adjective-fr	bolxevic-adjective-ca	Correct	
+mer d'Azov-properNoun-fr	mar d'Azov-properNoun-ca	Correct	
+habitation-noun-fr	cambra-noun-ca	Correct	
+Moldavie-properNoun-fr	Moldova-properNoun-ca	Wrong	
+distinctif-adjective-fr	característic-adjective-ca	Correct	
+profitable-adjective-fr	rendible-adjective-ca	Correct	
+océan Atlantique-properNoun-fr	l'Atlàntic-properNoun-ca	Wrong	
+diriger-verb-fr	enfocar-verb-ca	Wrong	
+rechange-noun-fr	substitució-noun-ca	Correct	
+Bhoutan-properNoun-fr	Bhután-properNoun-ca	Correct	
+groupement-noun-fr	agrupació-noun-ca	Correct	
+identité de vues-noun-fr	concordança-noun-ca	Correct	
+route-noun-fr	calçada-noun-ca	Correct	
+talon-noun-fr	matriu-noun-ca	Wrong	
+au-dessous-adverb-fr	avall-adverb-ca	Correct	
+petit-fils-noun-fr	net-noun-ca	Correct	
+manteau-noun-fr	capa-noun-ca	Correct	
+EUA-properNoun-fr	Estats Units-properNoun-ca	Wrong	EUA
+ambigu-adjective-fr	equívoc-adjective-ca	Wrong	
+Grenade-properNoun-fr	Granado-properNoun-ca	Wrong	
+Cardiff-properNoun-fr	Caerdydd-properNoun-ca	Wrong	
+Champagne-Ardennes-properNoun-fr	Xampanya-Ardenes-properNoun-ca	Correct	
+compilation-noun-fr	recull-noun-ca	Correct	
+Ives-properNoun-fr	Ivo-properNoun-ca	Wrong	
+démesuré-adjective-fr	abusiu-adjective-ca	Wrong	
+trame-noun-fr	intriga-noun-ca	Wrong	
+Ludovic-properNoun-fr	Louis-properNoun-ca	Wrong	

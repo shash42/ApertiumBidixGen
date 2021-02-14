@@ -1,0 +1,155 @@
+								Y/N	Comments
+shock	noun	eng	discharge	noun	eng	0	0.833333	N	Similar, but no
+entirely	adverb	eng	altogether	adverb	eng	0	0.84	Y	
+churn up	verb	eng	wave	verb	eng	0	0.84	N	
+background	noun	eng	backdrop	noun	eng	0	0.98	Y	
+range	noun	eng	register	noun	eng	0	1	N	
+gun	noun	eng	firearm	noun	eng	0	0.666667	Y	
+sorrow	noun	eng	pity	noun	eng	0	0.84	N	Similar sentiment, but no
+bad	adjective	eng	evil	adjective	eng	0	0.98	Y	Sort of, evil is much stronger though
+endanger	verb	eng	jeopardize	verb	eng	0	0.666667	Y	
+arrangement	noun	eng	chord	noun	eng	0	0.533333	N	
+unveil	verb	eng	reveal	verb	eng	0	0.84	Y	
+trek	noun	eng	hike	noun	eng	0	1	Y	Very similar, difference is too technical
+subway	noun	eng	metre	noun	eng	0	1	N	
+fat	adjective	eng	thick	adjective	eng	0	0.98	Y	Very similar, difference is too technical
+boundary	noun	eng	limit	noun	eng	0	0.98	Y	
+prompt	verb	eng	incite	verb	eng	0	1	Y	
+geographical	adjective	eng	geographic	adjective	eng	0	1	Y	
+the other way around	adverb	eng	upside down	adverb	eng	0	1	Y	
+untangle	verb	eng	disentangle	verb	eng	0	0.98	Y	
+on his part	adverb	eng	on their part	adverb	eng	0	0.84	Y	Same in gender neutral contexts?
+torch	noun	eng	lantern	noun	eng	0	0.98	Y	Very similar, difference is too technical
+rhizome	noun	eng	rootstock	noun	eng	0	0.833333	Y	
+dismal	adjective	eng	dreary	adjective	eng	0	0.5	Y	Sort of, dreary is much stronger though
+here	adverb	eng	up to here	adverb	eng	0	1	N	
+medium	noun	eng	means	noun	eng	0	1	Y	
+continually	adverb	eng	week in week out	adverb	eng	0	1	Y	Sort of, continually is much stronger though
+wet	adjective	eng	damp	adjective	eng	0	0.746667	Y	Sort of, wet is much stronger though
+in a little while	adverb	eng	there and then	adverb	eng	0	1	N	
+stocking	noun	eng	average	noun	eng	0	0.84	N	
+move away	verb	eng	separate	verb	eng	0	0.84	N	Similar, but no
+magnify	verb	eng	heighten	verb	eng	0	0.98	Y	
+stroke	verb	eng	fondle	verb	eng	0	0.84	Y	
+folly	noun	eng	insanity	noun	eng	0	0.98	Y	Sort of, insanity is much stronger though
+sustain	verb	eng	support	verb	eng	0	0.746667	Y	
+tackle	verb	eng	accost	verb	eng	0	0.666667	Y	Sort of, accost is much stronger though
+much more	adverb	eng	all the more	adverb	eng	0	1	N	Similar, but no
+brand	noun	eng	make	noun	eng	0	1	Y	
+dispose	verb	eng	position	verb	eng	0	1	N	
+stubbornly	adverb	eng	obstinately	adverb	eng	0	1	Y	
+soft	adjective	eng	mushy	adjective	eng	0	1	Y	
+fetus	noun	eng	foetus	noun	eng	0	1	Y	
+amateur	adjective	eng	keen	adjective	eng	0	0.746667	N	Similar, but no
+condemnation	noun	eng	conviction	noun	eng	0	0.84	N	Similar, but no
+regional	adjective	eng	local	adjective	eng	0	0.6	Y	
+untrue	adjective	eng	counterfeit	adjective	eng	0	0.533333	Y	
+apt	adjective	eng	appropriate	adjective	eng	0	0.84	Y	
+axis	noun	eng	axle	noun	eng	0	1	Y	Sort of
+allowance	noun	eng	pension	noun	eng	0	1	Y	Sort of
+rating	noun	eng	assessment	noun	eng	0	0.84	N	Similar, but no
+ease	noun	eng	facility	noun	eng	0	1	N	
+fight	verb	eng	struggle	verb	eng	0	1	Y	Sort of, fight is much stronger though
+adamant	adjective	eng	steadfast	adjective	eng	0	0.533333	Y	
+sling	verb	eng	pitch	verb	eng	0	0.98	Y	
+flourish	verb	eng	bloom	verb	eng	0	0.98	Y	Sort of
+withdraw	verb	eng	pull out	verb	eng	0	0.533333	Y	
+sol-fa	noun	eng	solfège	noun	eng	0	0.98	Y	
+on hand	adverb	eng	at hand	adverb	eng	0	1	Y	Similar, difference is too technical
+suspicious	adjective	eng	suspect	adjective	eng	0	0.84	Y	
+allay	verb	eng	clear	verb	eng	0	0.98	N	Similar but no
+liberation	noun	eng	release	noun	eng	0	0.98	Y	
+perverse	adjective	eng	wicked	adjective	eng	0	0.98	Y	Sort of
+predict	verb	eng	foretell	verb	eng	0	0.98	Y	
+daddy	noun	eng	dad	noun	eng	0	1	Y	
+sufficiently	adverb	eng	quite a lot	adverb	eng	0	0.933333	N	SImilar, but no
+match	noun	eng	party	noun	eng	0	1	N	
+below	adverb	eng	low	adverb	eng	0	1	N	Similar, but no
+each time	adverb	eng	every time	adverb	eng	0	1	Y	
+receive	verb	eng	take	verb	eng	0	0.6	N	Similar sentiment, but no
+peep out	verb	eng	prompt	verb	eng	0	0.6	N	
+appraisal	noun	eng	estimation	noun	eng	0	0.746667	Y	
+infertile	adjective	eng	sterile	adjective	eng	0	0.653333	N	Similar, but no
+face up	verb	eng	face	verb	eng	0	0.746667	Y	
+finalise	verb	eng	round off	verb	eng	0	0.653333	N	
+support	verb	eng	back	verb	eng	0	0.98	Y	
+mildly	adverb	eng	somewhat	adverb	eng	0	1	Y	
+furthermore	adverb	eng	besides	adverb	eng	0	1	Y	Sort of
+hesitant	adjective	eng	indecisive	adjective	eng	0	0.84	Y	Sort of, indecisive is much stronger
+daughter	noun	eng	child	noun	eng	0	1	Y	Sort of, child is a superset
+peahen	noun	eng	peafowl	noun	eng	0	0.833333	N	
+fowl	noun	eng	bird	noun	eng	0	1	Y	
+sanctuary	noun	eng	refuge	noun	eng	0	0.6	Y	Sort of
+amusement	noun	eng	fun	noun	eng	0	0.533333	Y	
+exceed	verb	eng	trump	verb	eng	0	0.84	Y	
+setback	noun	eng	mishap	noun	eng	0	0.84	Y	
+clarify	verb	eng	explain	verb	eng	0	0.533333	Y	
+price	noun	eng	cost	noun	eng	0	0.84	Y	
+take	verb	eng	encompass	verb	eng	0	0.533333	N	
+presage	verb	eng	forebode	verb	eng	0	1	Y	
+quash	verb	eng	cancel	verb	eng	0	0.746667	Y	
+nutrition	noun	eng	feeding	noun	eng	0	0.533333	N	Sort of
+hopeless	adjective	eng	desperate	adjective	eng	0	0.84	Y	Sort of, but hopeless is much stronger
+swear	verb	eng	vow	verb	eng	0	1	Y	
+grow	verb	eng	increase	verb	eng	0	0.653333	Y	
+into the bargain	adverb	eng	there again	adverb	eng	0	1	N	
+scandalous	adjective	eng	outrageous	adjective	eng	0	0.84	Y	
+take off	verb	eng	take away	verb	eng	0	1	N	Similar, but no
+unchanging	adjective	eng	invariable	adjective	eng	0	0.6	Y	
+frame	noun	eng	installment	noun	eng	0	0.833333	N	
+dispel	verb	eng	dissipate	verb	eng	0	0.84	N	Similar, but no
+hereby	adverb	eng	hereinafter	adverb	eng	0	1	N	
+dupe	verb	eng	cheat	verb	eng	0	1	Y	
+blueprint	noun	eng	project	noun	eng	0	1	N	Similar, but no
+injure	verb	eng	maul	verb	eng	0	0.84	Y	Sort of, maul is much stronger
+rest	noun	eng	residue	noun	eng	0	0.533333	Y	
+decrease	verb	eng	diminish	verb	eng	0	0.98	Y	
+background	noun	eng	floor	noun	eng	0	0.98	N	
+capture	noun	eng	seizure	noun	eng	0	0.84	N	
+maximize	verb	eng	maximise	verb	eng	0	0.5	Y	
+display	verb	eng	demonstrate	verb	eng	0	0.533333	Y	
+inability	noun	eng	disability	noun	eng	0	1	Y	
+witty	adjective	eng	inventive	adjective	eng	0	0.98	N	Similar, but no
+bring together	verb	eng	total	verb	eng	0	0.98	Y	
+purge	noun	eng	cleansing	noun	eng	0	0.98	N	Similar, but no
+lightful	adjective	eng	luminous	adjective	eng	0	0.98	Y	
+impression	noun	eng	print	noun	eng	0	1	Y	Share a very specific sense ig
+on the other hand	adverb	eng	on the other side	adverb	eng	0	1	Y	
+wake	verb	eng	wake up	verb	eng	0	1	Y	In past tense, I guess: I woke, I woke up are replaceable
+mast	noun	eng	clave	noun	eng	0	0.6	N	Maybe similar (hollow sound when beat), but no
+get in	verb	eng	enter	verb	eng	0	0.84	Y	
+at the most	adverb	eng	at the maximum	adverb	eng	0	0.833333	Y	
+find	verb	eng	find out	verb	eng	0	0.533333	Y	
+card	noun	eng	document	noun	eng	0	1	N	Hyponymy
+the world over	adverb	eng	all over the world	adverb	eng	0	0.833333	Y	
+rank	noun	eng	alcohol content	noun	eng	0	0.98	N	
+position	verb	eng	put	verb	eng	0	0.746667	Y	I put it at X', 'I positioned it at X'
+student	noun	eng	pupil	noun	eng	0	1	Y	
+jointly	adverb	eng	in conjunction	adverb	eng	0	1	Y	
+usage	noun	eng	utilisation	noun	eng	0	0.746667	Y	
+rescue	noun	eng	ransom	noun	eng	0	0.98	N	Paying ransom to save' = 'rescue' maybe, but not the noun
+knock	noun	eng	blow	noun	eng	0	1	Y	
+sulphur	noun	eng	sulfur	noun	eng	0	1	Y	
+so much	adverb	eng	so	adverb	eng	0	0.533333	N	
+take part	verb	eng	mediate	verb	eng	0	0.84	N	
+confront	verb	eng	affront	verb	eng	0	0.746667	Y	
+at arm's length	adverb	eng	near at hand	adverb	eng	0	0.833333	Y	
+exit	verb	eng	come off	verb	eng	0	1	Y	The player came off the pitch = exit
+survey	noun	eng	poll	noun	eng	0	1	Y	
+swipe	verb	eng	bat	verb	eng	0	0.98	Y	
+band	noun	eng	pool	noun	eng	0	0.98	Y	In the band together = pool context?
+synthesise	verb	eng	synthesize	verb	eng	0	0.533333	Y	
+removal	noun	eng	extraction	noun	eng	0	0.98	N	
+strangle	verb	eng	drown	verb	eng	0	0.746667	N	Similar sentiment, but no
+master	noun	eng	employer	noun	eng	0	1	Y	Master is stronger, but okay
+low	adverb	eng	down	adverb	eng	0	1	Y	
+movement	noun	eng	motion	noun	eng	0	1	Y	
+terminate	verb	eng	round off	verb	eng	0	0.746667	N	
+minor	adjective	eng	low	adjective	eng	0	1	Y	
+dissatisfied	adjective	eng	displeased	adjective	eng	0	1	Y	
+without a doubt	adverb	eng	undoubtedly	adverb	eng	0	0.6	Y	
+put	verb	eng	seat	verb	eng	0	0.533333	Y	He put it on the bench, he seated it on the bench
+								104	
+									
+									Hypothesis: 4-cycles are the reason for lotsof wrong conf=1
+									Maybe min cycle length would help here?!

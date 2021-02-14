@@ -1,0 +1,152 @@
+								Y/N	Comments
+tremendamente	adverb	spa	terriblemente	adverb	spa	0	0.84	Y	
+sistemático	adjective	spa	sistémico	adjective	spa	0	0.84	N	
+colapso	noun	spa	desplome	noun	spa	0	0.653333	Y	
+ladera	noun	spa	costado	noun	spa	0	0.84	N	
+compañero	noun	spa	camarada	noun	spa	0	0.746667	Y	
+vocalista	noun	spa	cantante	noun	spa	0	0.84	Y	
+caramelo	noun	spa	bombón	noun	spa	0	0.84	N	
+explanada	noun	spa	llanura	noun	spa	0	0.746667	Y	
+explorador	noun	spa	navegador	noun	spa	0	0.653333	Y	
+arder	verb	spa	abrasar	verb	spa	0	0.98	Y	
+entretanto	adverb	spa	entre tanto	adverb	spa	0	0.933333	Y	
+por otra parte	adverb	spa	por otro lado	adverb	spa	0	1	Y	
+gusto	noun	spa	cata	noun	spa	0	0.6	N	
+risotada	noun	spa	carcajada	noun	spa	0	0.84	Y	
+siquiera	adverb	spa	al menos	adverb	spa	0	1	Y	
+desgraciado	adjective	spa	desdichado	adjective	spa	0	1	Y	
+conclusión	noun	spa	final	noun	spa	0	0.746667	Y	
+localidad	noun	spa	localización	noun	spa	0	0.533333	N	
+apear	verb	spa	bajar	verb	spa	0	0.746667	Y	
+porche	noun	spa	vestíbulo	noun	spa	0	0.533333	N	
+galo	noun	spa	francés	noun	spa	0	0.746667	Y	
+por lo general	adverb	spa	en general	adverb	spa	0	0.98	Y	
+cola	noun	spa	rabo	noun	spa	0	1	Y	
+problema	noun	spa	problemática	noun	spa	0	0.746667	Y	
+encuestar	verb	spa	investigar	verb	spa	0	0.933333	N	
+desenroscar	verb	spa	desatornillar	verb	spa	0	0.98	Y	
+docente	adjective	spa	educativo	adjective	spa	0	0.98	Y	
+avanzar	verb	spa	progresar	verb	spa	0	0.84	Y	
+fundamentación	noun	spa	fundación	noun	spa	0	0.84	Y	
+nieto	noun	spa	sobrino	noun	spa	0	0.98	N	
+sospecha	noun	spa	desconfianza	noun	spa	0	0.533333	Y	
+cient	numeral	spa	millar	numeral	spa	0	1	N	
+impulsar	verb	spa	empujar	verb	spa	0	0.84	Y	
+plazuela	noun	spa	plazoleta	noun	spa	0	0.833333	Y	
+rama	noun	spa	ramo	noun	spa	0	0.84	N	
+trueque	noun	spa	permuta	noun	spa	0	0.533333	Y	
+viñedo	noun	spa	vid	noun	spa	0	1	Y	
+entrada	noun	spa	ingreso	noun	spa	0	0.98	Y	
+un	numeral	spa	uno	numeral	spa	0	1	Y	
+grieta	noun	spa	hendedura	noun	spa	0	0.84	Y	
+presupuestación	noun	spa	presupuesto	noun	spa	0	0.98	Y	
+compañero	noun	spa	acompañante	noun	spa	0	0.98	Y	
+baya	noun	spa	bahía	noun	spa	0	0.746667	N	
+fuerza	noun	spa	pujanza	noun	spa	0	0.84	Y	
+plano	adjective	spa	liso	adjective	spa	0	0.533333	Y	
+cuanto antes	adverb	spa	a la mayor brevedad posible	adverb	spa	0	0.746667	Y	
+feliz	adjective	spa	dichoso	adjective	spa	0	0.98	Y	
+foráneo	adjective	spa	ajeno	adjective	spa	0	0.533333	Y	
+boleto	noun	spa	tique	noun	spa	0	1	Y	
+abono	noun	spa	estiércol	noun	spa	0	0.746667	Y	
+necropsia	noun	spa	autopsia	noun	spa	0	0.746667	Y	
+fundación	noun	spa	fundamento	noun	spa	0	0.533333	Y	
+desleal	adjective	spa	infiel	adjective	spa	0	0.98	Y	
+longitud	noun	spa	eslora	noun	spa	0	0.98	Y	
+hoja	noun	spa	cuchilla	noun	spa	0	1	Y	
+atribuíble	adjective	spa	atribuible	adjective	spa	0	0.666667	N	No lleva tilde
+liderazgo	noun	spa	liderato	noun	spa	0	1	Y	
+arriendo	noun	spa	arrendamiento	noun	spa	0	1	Y	
+conducto	noun	spa	encañado	noun	spa	0	0.933333	Y	
+sólo	adverb	spa	tan sólo	adverb	spa	0	1	Y	
+mozo	noun	spa	niño	noun	spa	0	0.533333	Y	
+abocar	verb	spa	escanciar	verb	spa	0	0.84	Y	
+logo	noun	spa	logotipo	noun	spa	0	0.84	Y	
+perno	noun	spa	caracol	noun	spa	0	0.533333	N	
+a escape	adverb	spa	a todo gas	adverb	spa	0	0.746667	Y	
+peleón	adjective	spa	pendenciero	adjective	spa	0	0.84	Y	
+lucha	noun	spa	pugna	noun	spa	0	1	Y	
+rodaja	noun	spa	tajada	noun	spa	0	0.84	Y	
+holandés	adjective	spa	neerlandés	adjective	spa	0	0.84	Y	
+necesariamente	adverb	spa	forzosamente	adverb	spa	0	0.746667	Y	
+sujeto	noun	spa	asunto	noun	spa	0	1	Y	
+derrochar	verb	spa	malgastar	verb	spa	0	0.84	Y	
+juntamente	adverb	spa	juntas	adverb	spa	0	0.84	Y	
+fidedigno	adjective	spa	confiable	adjective	spa	0	0.98	Y	
+crianza	noun	spa	ganadería	noun	spa	0	0.84	Y	
+zapato	noun	spa	zapata	noun	spa	0	1	N	
+dar la matraca	verb	spa	dar la lata	verb	spa	0	0.5	Y	
+saxo	noun	spa	saxofón	noun	spa	0	0.7	Y	
+en todas partes	adverb	spa	por doquier	adverb	spa	0	0.533333	Y	
+aplastante	adjective	spa	agobiante	adjective	spa	0	0.98	Y	
+auxiliar	noun	spa	ayudante	noun	spa	0	0.98	Y	
+lucha	noun	spa	forcejeo	noun	spa	0	0.98	Y	
+costado	noun	spa	aspecto	noun	spa	0	0.746667	Y	
+seísmo	noun	spa	sismo	noun	spa	0	1	Y	
+aumento	noun	spa	crecimiento	noun	spa	0	0.533333	Y	
+culo	noun	spa	pompis	noun	spa	0	0.746667	Y	
+colegiado	noun	spa	árbitro	noun	spa	0	0.98	Y	
+afiliado	noun	spa	miembro	noun	spa	0	0.84	Y	
+acopio	noun	spa	abasto	noun	spa	0	0.746667	Y	
+recopilación	noun	spa	compilación	noun	spa	0	0.98	Y	
+aviso	noun	spa	anuncio	noun	spa	0	0.533333	Y	
+pantano	noun	spa	marisma	noun	spa	0	1	Y	
+área	noun	spa	espacio	noun	spa	0	0.933333	Y	
+muestra	noun	spa	espécimen	noun	spa	0	0.6	Y	
+tiquete	noun	spa	billete	noun	spa	0	1	Y	
+competición	noun	spa	certamen	noun	spa	0	0.533333	Y	
+planteamiento	noun	spa	propuesta	noun	spa	0	0.98	Y	
+reino	noun	spa	reinado	noun	spa	0	0.533333	Y	
+retraso	noun	spa	retardo	noun	spa	0	0.98	Y	
+chiquillo	noun	spa	muchacho	noun	spa	0	1	Y	
+recto	adjective	spa	derecho	adjective	spa	0	1	Y	
+guardia	noun	spa	guarda	noun	spa	0	0.653333	Y	
+remanente	noun	spa	resto	noun	spa	0	0.84	Y	
+proposición	noun	spa	propuesta	noun	spa	0	1	Y	
+encuadrar	verb	spa	enmarcar	verb	spa	0	0.84	Y	
+aleatorio	adjective	spa	casual	adjective	spa	0	0.84	Y	
+labriego	noun	spa	campesino	noun	spa	0	0.98	Y	
+prestamista	noun	spa	prestador	noun	spa	0	0.746667	Y	
+tanto	adverb	spa	tan	adverb	spa	0	0.98	Y	
+anciano	noun	spa	viejo	noun	spa	0	0.653333	Y	
+excrecencia	noun	spa	excrescencia	noun	spa	0	0.98	N	
+oleaje	noun	spa	oleada	noun	spa	0	0.653333	Y	
+párroco	noun	spa	rector	noun	spa	0	0.98	N	
+bailar	verb	spa	danzar	verb	spa	0	0.98	Y	
+dar a la fuga	verb	spa	huir	verb	spa	0	0.746667	Y	
+dulzura	noun	spa	dulzor	noun	spa	0	0.98	Y	
+mezclar	verb	spa	mezclarse	verb	spa	0	0.533333	Y	
+adónde	adverb	spa	adonde	adverb	spa	0	0.84	N	
+otorgar	verb	spa	entregar	verb	spa	0	0.746667	Y	
+estafar	verb	spa	timar	verb	spa	0	0.84	Y	
+friolera	noun	spa	bagatela	noun	spa	0	0.84	N	
+jaque	noun	spa	ajedrez	noun	spa	0	0.98	Y	
+de ahora en adelante	adverb	spa	en adelante	adverb	spa	0	1	Y	
+reclamar	verb	spa	exigir	verb	spa	0	0.84	Y	
+keniata	adjective	spa	keniano	adjective	spa	0	0.746667	Y	
+ideario	noun	spa	ideología	noun	spa	0	0.84	Y	
+sencillo	adjective	spa	simple	adjective	spa	0	1	Y	
+conducir	verb	spa	llevar	verb	spa	0	0.84	Y	
+fundir	verb	spa	derretir	verb	spa	0	0.98	Y	
+rebaja	noun	spa	reducción	noun	spa	0	1	Y	
+gana	noun	spa	hambre	noun	spa	0	1	Y	
+retrasar	verb	spa	atrasar	verb	spa	0	0.746667	Y	
+temporal	noun	spa	tormenta	noun	spa	0	1	Y	
+aciago	adjective	spa	infausto	adjective	spa	0	0.84	Y	
+certamen	noun	spa	competición	noun	spa	0	0.533333	Y	
+cacerola	noun	spa	cazuela	noun	spa	0	0.98	Y	
+pronto	adjective	spa	rápido	adjective	spa	0	1	Y	
+cambio	noun	spa	alteración	noun	spa	0	0.98	Y	
+muñeca	noun	spa	muñeco	noun	spa	0	1	Y	
+rascadura	noun	spa	arañazo	noun	spa	0	0.533333	Y	
+lámina	noun	spa	cuchilla	noun	spa	0	0.746667	Y	
+mil	numeral	spa	millar	numeral	spa	0	1	Y	
+por adelantado	adverb	spa	por anticipado	adverb	spa	0	0.84	Y	
+convenio	noun	spa	acuerdo	noun	spa	0	1	Y	
+retraso	noun	spa	dilación	noun	spa	0	0.98	Y	
+muchísimo	adverb	spa	muy	adverb	spa	0	0.533333	Y	
+usualmente	adverb	spa	corrientemente	adverb	spa	0	0.533333	Y	
+precedente	adjective	spa	delantero	adjective	spa	0	0.84	Y	
+dieta	noun	spa	régimen	noun	spa	0	0.98	Y	
+día	noun	spa	jornada	noun	spa	0	1	Y	
+								132	

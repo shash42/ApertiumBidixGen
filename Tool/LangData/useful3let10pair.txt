@@ -1,0 +1,11 @@
+eng cat
+eng spa
+epo cat
+epo eng
+epo spa
+epo fra
+fra cat
+fra spa
+oci cat
+oci spa
+oci fra
