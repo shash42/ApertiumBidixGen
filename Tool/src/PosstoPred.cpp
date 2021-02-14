@@ -1,3 +1,5 @@
+//Converts a possibilities file to a predictions file
+
 #include "Compare.cpp"
 #include "CountByPOS.cpp"
 #include "Graph.cpp"
@@ -55,12 +57,3 @@ void convert(string exptno, float threshold, int numfolders, vector<string> &fol
         file_poss.close(); file_pred.close();
     }
 }
-
-//Unused function, needs updates
-/*void predtoanalysis(string exptno, int numpairs, string l1[], string l2[]){
-    for(int i = 0; i < numpairs; i++){
-        string lp1 = l1[i] + "-" + l2[i];
-        Compare(l1[i], l2[i], -1, exptno);
-        CountbyPOS(exptno, lp1);
-    }
-};*/

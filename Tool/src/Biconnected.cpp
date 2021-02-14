@@ -1,3 +1,5 @@
+//Biconnected component computation implementation
+
 #include "Biconnected.h"
 #include "Graph.h"
 

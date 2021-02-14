@@ -1,3 +1,5 @@
+//Implementation for Graph class functions
+
 #ifndef GSOCAPERTIUM2020_GRAPH_CPP
 #define GSOCAPERTIUM2020_GRAPH_CPP
 #include "Graph.h"
@@ -77,6 +79,7 @@ int Graph::getIdx(wordData &s)
 }
 bool Graph::addEdge(wordData &u, wordData &v) {
     int u_idx = getIdx(u);
+    langs.insert(u.lang); langs.insert(v.lang);
     int v_idx = getIdx(v);
     //If it is not already in the vertex adjacency list
     if(vertices[u_idx].adj.find(v_idx)==vertices[u_idx].adj.end())
@@ -88,18 +91,18 @@ bool Graph::addEdge(wordData &u, wordData &v) {
     }
     return false;
 }
-void Graph::loadData(string &input_file)
+void Graph::loadData(string &input_file, bool diffpos=true)
 {
     ifstream fin; //input file variable;
     string edge; //stores one edge information, i.e. one line in input file
     fin.open(input_file);
-
     while(getline(fin, edge)) //get edges till EOF
     {
         //cerr << edge << endl;
         int i = 0;
         wordData SLw(i, edge, 3); //Source lang word
         wordData TLw(i, edge, 3); //Target lang word
+        if(!diffpos && SLw.pos!=TLw.pos) continue;
         addEdge(SLw, TLw); //Add the edge
     }
 

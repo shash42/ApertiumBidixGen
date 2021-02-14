@@ -1,3 +1,5 @@
+//Graph class
+
 #ifndef GSOCAPERTIUM2020_GRAPH_H
 #define GSOCAPERTIUM2020_GRAPH_H
 
@@ -56,12 +58,13 @@ class Graph
 public:
     map<wordData, int> idx_of_word; //map that stores index of each word
     int num_edges = 0; //number of edges in the graph
+    set<string> langs;
     vector<wordNode> vertices; //vector of vertices
     vector<Graph> subGraphs; //subgraphs (like biconnected comoonents) inside the graph
     void initNode(wordData &s); //initialize a node in the graph using worddata
     int getIdx(wordData &s); //get index of (or initialize) node corresponding to the word data
     bool addEdge(wordData &u, wordData &v); //add an edge between nodes having worddata u, v
-    void loadData(string &input_file); //load data into the graph from input_file
+    void loadData(string &input_file, bool diffpos); //load data into the graph from input_file
     void reset(); //reset the graph object (empty it)
     void printGraph(ofstream &fout); //print the graph edges
 };

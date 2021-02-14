@@ -1,3 +1,5 @@
+//Convert 2 letter codes to 3 letter
+
 #ifndef GSOCAPERTIUM2020_3LETTERCODES_CPP
 #define GSOCAPERTIUM2020_3LETTERCODES_CPP
 

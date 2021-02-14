@@ -1,3 +1,5 @@
+//main CLI class
+
 #ifndef GSOCAPERTIUM2020_CLI_H
 #define GSOCAPERTIUM2020_CLI_H
 

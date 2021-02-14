@@ -1,3 +1,5 @@
+//Parse CSV format Apertium RDF v2.0 data
+
 #include<iostream>
 #include<string>
 #include<vector>

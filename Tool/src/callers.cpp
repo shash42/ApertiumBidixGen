@@ -1,3 +1,5 @@
+//Calling main run functions
+
 #include "Graph.cpp"
 #include "DensityAlgo.cpp"
 #include "Biconnected.cpp"
@@ -10,7 +12,7 @@ struct sortByConfDesc{
 };
 
 //load the pairs listed in LangData-List into the graph
-void runPairs(Graph &G, vector<pair<string, string>> &lI, string &input_folder)
+void runPairs(Graph &G, vector<pair<string, string>> &lI, string &input_folder, bool diffpos)
 {
     string input_file;
     //ofstream fout;
@@ -23,7 +25,7 @@ void runPairs(Graph &G, vector<pair<string, string>> &lI, string &input_folder)
         input_file =  input_folder + langpair + ".txt";
         //cerr << input_file << endl; //output current input file for tracking progress
         //fout << input_file << endl;
-        G.loadData(input_file);
+        G.loadData(input_file, diffpos);
         //fout << "Number of vertices: " << G.vertices.size() - prev_nodes << endl; //vertices in this file
         //fout << "Number of edges: " << G.num_edges - prev_edges << endl; //edges in this file
         prev_nodes = G.vertices.size(); prev_edges = G.num_edges; //total number of nodes
@@ -82,10 +84,12 @@ int runBicompLangs(Graph &G, vector<Config> configlist, map<string, int> &POS_to
 {
     map<pair<wordData, wordData>, float> entries;
     int new_trans=0;
-
+    
+    /*DensityAlgo D = DensityAlgo(G, configlist, POS_to_config);
+    new_trans += D.run(pred, reqd, entries); //append output to fileout_name*/
+    
     Biconnected B; //object of biconnected computation class
     B.findBicomps(G);
-
 
     for(auto SG: G.subGraphs) //iterate over components and run density algo for each
     {
@@ -110,7 +114,7 @@ int runBicompLangs(Graph &G, vector<Config> configlist, map<string, int> &POS_to
     if(req_bicompless_run){ //if the bicconnected component-less run is required
         //initialize a transitive Density algo object
         DensityAlgo DTrans = DensityAlgo(G, configlist_transitive, POS_to_config);
-        new_trans += DTrans.run(pred, reqd_transitive, entries);
+        new_trans += DTrans.run(pred, reqd_transitive, entries, true);
     }
 
     string pred_file_name = "Results/Expts/" + exptno + "/Analysis/" + lp1 + "/";

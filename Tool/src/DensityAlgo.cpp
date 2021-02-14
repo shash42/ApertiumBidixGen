@@ -1,3 +1,5 @@
+//Main density algo implementation file
+
 #ifndef GSOCAPERTIUM2020_DENSITYALGO_CPP
 #define GSOCAPERTIUM2020_DENSITYALGO_CPP
 
@@ -37,18 +39,18 @@ void DensityAlgo::findContext(int source)
 }
 void DensityAlgo::getMetrics(int source) {
     set<int> vertex_list; //list of vertices in this cycle
-    map<int, int> cyc_pos; //new metric
+    map<int, int> cyc_pos;
     int cyc_sz = cycle_stack.size();
-    int cntr=0; //new metric
+    int cntr=0; 
     for(auto uidx: cycle_stack) //can take all vertices because cycle started and ends at first vertex.
     {
-        cyc_pos[uidx] = cntr++; //new metric
+        cyc_pos[uidx] = cntr++; 
 
         vertex_list.insert(uidx);
     }
     vector<int> deg(cyc_sz); //stores degree within the cycle for each vertex
     int num_edges = 0; //number of edges within the cycle, double-counted. O(edges in dfsG)
-    int tot_score = 0; //new metric
+    //int tot_score = 0; //new metric
 
     for(int i = 0; i < cyc_sz; i++){
         int uidx = cycle_stack[i];
@@ -56,12 +58,13 @@ void DensityAlgo::getMetrics(int source) {
             //if the edge going out is to a vertex within the cycle, count the edge (add to degree and num_edges)
             if(vertex_list.find(vidx)!=vertex_list.end()){
                 deg[i]++;
+                int st_dist = abs(cyc_pos[vidx] - i); //new metric
                 num_edges++;
-                if(abs(cyc_pos[vidx] - i)==1) continue; //experimental
+                if(st_dist==1 || st_dist == cyc_sz - 1) continue; //experimental
                 /*new metric*/
-                int upos = cyc_pos[vidx];
-                if(abs(upos - i)==1) continue;
-                else tot_score += max((upos - i + cyc_sz)%cyc_sz, (i - upos + cyc_sz)%cyc_sz);
+                /*int upos = cyc_pos[vidx];
+                if(st_dist==1 || st_dist == cyc_sz - 1) continue;
+                else tot_score += max((upos - i + cyc_sz)%cyc_sz, (i - upos + cyc_sz)%cyc_sz); //new metric */
             }
         }
     }
@@ -70,10 +73,10 @@ void DensityAlgo::getMetrics(int source) {
     int denom = (cyc_sz * (cyc_sz - 1)) / 2;
     //denom -= cyc_sz; //experimental;
     /*new metric*/
-    int edge_maxl = cyc_sz/2;
+    /*int edge_maxl = cyc_sz/2;
     int subt = (edge_maxl * (edge_maxl-1)) / 2, add = ((cyc_sz-3)*(cyc_sz-2))/2;
     int denomscore = cyc_sz * 2 * (add-subt);
-    if(cyc_sz%2==0) denomscore += (cyc_sz * (cyc_sz - 2));
+    if(cyc_sz%2==0) denomscore += (cyc_sz * (cyc_sz - 2));*/
 
     for(int i = 1; i < cyc_sz; i++) //start from 1 here as first node is just the source word
     {
@@ -92,7 +95,7 @@ void DensityAlgo::getMetrics(int source) {
         temp.sldeg = deg[0]; temp.tldeg = deg[i]; //source word is indexed 0 here so.
         //calculate density (divided by 2 to offset double counting done earlier)
         temp.density = (float) num_edges / (float) (2*denom);
-        temp.weight = (float) tot_score / (float) (denomscore); //new metric
+        //temp.weight = (float) tot_score / (float) (denomscore); //new metric
         //first dimension is acc to index in G. Second is according to index in context graph.
         M[source_idx_inG][vidx].push_back(temp);
     }
@@ -261,7 +264,7 @@ bool DensityAlgo::wordIsReq(wordNode &u, InfoSets &reqd){
  * Fill the ObjectSets with the language/POS/words you want. Translations for a lang/POS/word
  * will be searched if it is in it's respective set (unless that set is empty)
  */
-int DensityAlgo::run(map<string, Graph> &pred, InfoSets &reqdPred, map<pair<wordData, wordData>, float> &entries)
+int DensityAlgo::run(map<string, Graph> &pred, InfoSets &reqdPred, map<pair<wordData, wordData>, float> &entries, bool transfull=false)
 {
     M.resize(G.vertices.size()); //dim1 of M = no. of vertices in this graph - flag
     int num_trans = 0;
@@ -292,9 +295,17 @@ int DensityAlgo::run(map<string, Graph> &pred, InfoSets &reqdPred, map<pair<word
         //cerr << G.vertices[i].rep.surface << " " << dfsG.vertices.size() << endl;
 
         if(config.transitive == 1){
-            num_trans += findTransitive(source_idx_inC, pred, entries);
+            int bsize = G.vertices.size();
+            float density = 2.0*G.num_edges / (bsize*(bsize-1));
+            if(!transfull && bsize > 2*G.langs.size()){ //if component smaller than num_lang_pairs, transitive!
+                config.transitive = 0;
+            }
+            else{
+                config.context_depth = bsize;
+                num_trans += findTransitive(source_idx_inC, pred, entries);
+            }
         }
-        else if(config.transitive == 0){
+        if(config.transitive == 0){
             M[i].resize(dfsG.vertices.size()); //dim2 of M = no. of vertices in context of word (dfsG)
             findCycles(dfsG, source_idx_inC); //this word is 0 in context-graph as it will be the first word added
             int cyccount = 0; //total cycle count - might be useful for debugging

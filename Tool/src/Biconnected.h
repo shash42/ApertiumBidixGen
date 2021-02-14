@@ -1,6 +1,5 @@
-//
-// Created by shashwat on 15/06/20.
-//
+//Biconnected component class
+
 #ifndef GSOCAPERTIUM2020_BICONNECTED_H
 #define GSOCAPERTIUM2020_BICONNECTED_H
 #include "Graph.h"

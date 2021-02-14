@@ -1,3 +1,5 @@
+//Implementation of CLI, interface for user
+
 #include "Graph.cpp"
 #include "callers.cpp"
 #include "PosstoPred.cpp"
@@ -309,7 +311,7 @@ bool GenPoss::RunWords(string &exptname, ifstream &file_W, string &input_folder,
     //cout << outfilename << endl;
     string lp2 = "Wont Be Used";
     Graph G;
-    runPairs(G, lI[0], input_folder); //load pairs into graph(object, langpairindex to ignore)
+    runPairs(G, lI[0], input_folder, diffpos); //load pairs into graph(object, langpairindex to ignore)
     cerr << "Loaded" << endl;
     Stopwatch timer;
     timer.start(); // start timer
@@ -374,7 +376,7 @@ bool GenPoss::RunLangs(string &exptno, ifstream &file_L, string &input_folder, b
         fs::create_directory(dirpath);
 
         Graph G;
-        runPairs(G, lI[i], input_folder); //load pairs into graph(object, langpairindex to ignore)
+        runPairs(G, lI[i], input_folder, diffpos); //load pairs into graph(object, langpairindex to ignore)
         cerr << "Loaded" << endl;
         Stopwatch timer;
         timer.start(); // start timer

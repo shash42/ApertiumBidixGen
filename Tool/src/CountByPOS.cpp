@@ -1,3 +1,5 @@
+//Split metric evaluations (incl. BWP, BWR) by POS
+
 #ifndef GSOCAPERTIUM2020_COUNTBYPOS_CPP
 #define GSOCAPERTIUM2020_COUNTBYPOS_CPP
 

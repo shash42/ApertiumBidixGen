@@ -1,3 +1,5 @@
+//Implementation of comparison metrics including BWP, BWR
+
 #ifndef GSOCAPERTIUM2020_COMPARE_CPP
 #define GSOCAPERTIUM2020_COMPARE_CPP
 

@@ -1,6 +1,4 @@
-//
-// Created by shashwat on 20/06/20.
-//
+//Density algo class
 
 #ifndef GSOCAPERTIUM2020_DENSITYALGO_H
 #define GSOCAPERTIUM2020_DENSITYALGO_H
@@ -21,15 +19,15 @@ class Config
 {
 public:
     int transitive = 0; //0 -> not transitive 1 -> bicomp then transitive 2 -> completely transitive
-    int context_depth = 4; //distance to which a word's context is extracted
-    int max_cycle_length = 7; //maximum cycle length to limit compute
-    bool st_lang_repeat = true; //REMOVE, NOT OF USE (keep false) //repeating source and targ lang is allowed (true) or not (false)
-    bool any_lang_repeat = true; //REMOVE, NOT OF USE (keep true) //repeating of language is allowed (true) or not (false)
-    int large_cutoff = 5; //cutoff on degree of source word to decide small or large context
-    int large_min_cyc_len = 5; //min cycle length in large context
-    int small_min_cyc_len = 4; //min cycle length in small context
-    float deg_gt2_multiplier = 1.3; //multiplier if target word has sufficient degree
-    float conf_threshold = 0.65; //confidence threshold to predict it as a new translation
+    int context_depth = 3; //distance to which a word's context is extracted
+    int max_cycle_length = 6; //maximum cycle length to limit compute
+    bool st_lang_repeat = true; //NOT USEFUL TO TUNE (keep true) //repeating source and targ lang is allowed (true) or not (false)
+    bool any_lang_repeat = true; //NOT USEFUL TO TUNE (keep true) //repeating of language is allowed (true) or not (false)
+    int large_cutoff = 0; //NOT USEFUL TO TUNE - cutoff on degree of source word to decide small or large context
+    int large_min_cyc_len = 4; //NOT USEFUL TO TUNE - min cycle length in large context
+    int small_min_cyc_len = 4; //NOT USEFUL TO TUNE - min cycle length in small context
+    float deg_gt2_multiplier = 1.4; //multiplier if target word has sufficient degree
+    float conf_threshold = 0.5; //confidence threshold to predict it as a new translation
 };
 
 //Metrics stored for each cycle corresponding to a translation pair
@@ -72,7 +70,7 @@ public:
         POS_to_config = _POS_to_config;
     }
     bool wordIsReq(wordNode &u, InfoSets &reqd); //are translations to be found for u
-    int run(map<string, Graph> &pred, InfoSets &reqdPred, map<pair<wordData, wordData>, float> &entries);
+    int run(map<string, Graph> &pred, InfoSets &reqdPred, map<pair<wordData, wordData>, float> &entries, bool transfull);
     //main function of the class to call other functions and run the algo
     int findTrans(int source, map<string, Graph> &pred, map<pair<wordData, wordData>, float> &entries); //finalize translations and output them using metrics for each potential target
     int findTransitive(int source, map<string, Graph>&pred, map<pair<wordData, wordData>, float> &entries);

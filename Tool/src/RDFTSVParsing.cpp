@@ -1,3 +1,5 @@
+//Parse TSV format Apertium RDF v2.1 data
+
 #include<iostream>
 #include<string>
 #include<vector>

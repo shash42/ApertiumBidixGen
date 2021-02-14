@@ -1,3 +1,5 @@
+//Parses Apertium bidix into TSV format used
+
 #include "pugixml-1.10/src/pugixml.cpp"
 #include<iostream>
 #include<vector>
