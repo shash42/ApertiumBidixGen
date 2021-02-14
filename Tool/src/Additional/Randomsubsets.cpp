@@ -1,5 +1,7 @@
-#include "Graph.h"
-#include "Graph.cpp"
+//Generate random samples of translations from prediction set
+
+#include "../Graph.h"
+#include "../Graph.cpp"
 #include<chrono>
 #include<random>
 #include<iostream>
@@ -43,7 +45,7 @@ void getConf(vector<info> &translations, string &dirpath){
 }
 
 vector<info> getRand(vector<info> &pred, int num_req, string &l1){
-    set<string> POS = {"noun", "verb", "properNoun", "adjective", "adverb", "numeral"};
+    set<string> POS = {"noun", "verb", "adjective", "adverb", "numeral"}; //modify - which POS to choose from
     set<int> taken;
     vector<info> translations;
     taken.insert(-1); //extraneous value for the following while loop
@@ -63,21 +65,23 @@ vector<info> getRand(vector<info> &pred, int num_req, string &l1){
 }
 
 void Output(vector<info> &translations, string &dirpath){
-    ofstream fout; fout.open(dirpath + "/randomsubset2.csv");
+    cerr << "Generated " << dirpath << "/randomsubset150.tsv" << endl;
+    ofstream fout; fout.open(dirpath + "/randomsubset150.tsv");
     for(auto &t: translations){
-        fout << t.SLw.surface << " , " << t.TLw.surface << " , " << t.sharedv << " , " << t.confidence << '\n';
+        fout << t.SLw.surface << "\t" << t.TLw.surface << "\t" << t.sharedv << "\t" << t.confidence << '\n';
     }
 }
 
-void gen(string &exptno, int numpairs, string l1[], string l2[]){
+void gen(string &resfolder, int numpairs, string l1[], string l2[], int numgen){
     for(int i = 0; i < numpairs; i++){
         string lp1 = l1[i] + "-" + l2[i], lp2= l2[i] + "-" + l1[i]; //language pair to get predictions for
-        string dirpath = "Results/Expts/" + exptno + "/Analysis/" + lp1;
+        string dirpath = resfolder + lp1;
         vector<info> predictions;
 
-        for(int sharev = 0; sharev < 4; sharev++){
-            cerr << i << " " << sharev << endl;
-            string file_name = "/extra" + to_string(sharev) + ".txt";
+        for(int sharev = 0; sharev < 4; sharev++){ //set 4 for extras
+            //cerr << i << " " << sharev << endl;
+            string file_name = "/extra" + to_string(sharev) + ".txt"; // use for extra file
+            //string file_name = "/predictions.txt"; //use for predictions
             ifstream file_pred; file_pred.open(dirpath + file_name);
             string edge;
             while(getline(file_pred, edge)) {
@@ -88,17 +92,22 @@ void gen(string &exptno, int numpairs, string l1[], string l2[]){
                 predictions.push_back(temp);
             }
         }
-        vector<info> translations = getRand(predictions, 150, l1[i]);
+        vector<info> translations = getRand(predictions, numgen, l1[i]);
         getConf(translations, dirpath);
         Output(translations, dirpath);
     }
 }
 
-signed main(){
-    string exptno = "9";
-    int numpairs = 1;
-    string l1[] = {"oc"};
-    string l2[] = {"fr"};
-    gen(exptno, numpairs, l1, l2);
+int main(int argc, char*argv[])
+{
+    if(argc!=2){
+        cerr << "Usage: " << argv[0] << " <path-to-result-expt-folder>" << endl;
+        return 0;
+    }
+    string resfolder = argv[1];
+    int numpairs = 3; //modify - number of language pairs to generate for
+    string l1[] = {"eng", "eng", "fra"}; //modify - l1
+    string l2[] = {"cat", "spa", "spa"}; //modify - l2
+    gen(resfolder, numpairs, l1, l2, 150); //modify - final parrameter: number of random translations to chose
     return 0;
 }

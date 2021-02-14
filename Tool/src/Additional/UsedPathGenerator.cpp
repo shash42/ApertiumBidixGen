@@ -1,3 +1,5 @@
+//Random helper file used to generate "used-bidixes" paths needed for BWR computation
+
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -22,8 +24,8 @@ void genLangFile(){
 }
 
 void genLangPathList(){
-    string inpprefix = "Results/Expts/Use26Gen1/Analysis/";
-    string langprefix = "LangData/Parsed/";
+    string inpprefix = "sampleconfigs/Use26Gen1-Paths/";
+    string langprefix = "LangData/RDFParsed/";
     ofstream outp;
     for(int i = 0; i < N; i++){
         string path = inpprefix + inp[i][0] + "-" + inp[i][1] + "/langpathlist.txt";

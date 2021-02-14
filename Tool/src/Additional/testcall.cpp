@@ -1,0 +1,46 @@
+//Call compare and countbypos class for evaluating predictions
+
+#include "../Graph.cpp"
+//#include "../Biconnected.cpp"
+#include "../DensityAlgo.cpp"
+#include "../Compare.cpp"
+#include "../CountByPOS.cpp"
+#include "../callers.cpp"
+#include "../PosstoPred.cpp"
+
+#include<chrono>
+#include<experimental/filesystem>
+#include<algorithm>
+#include <sys/stat.h>
+#include <sys/types.h>
+
+using namespace std::chrono;
+namespace fs = std::experimental::filesystem;
+
+int main(int argc, char*argv[])
+{
+    if(argc!=2){
+        cerr << "Usage: " << argv[0] << "<path-to-expt-folder>" << endl;
+        return 0;
+    }
+    int N = 26; //modify - Number of pairs to evalute
+    /*vector<pair<string, string>> langpairs = {{"eng", "spa"}, {"eng", "cat"}, {"epo", "cat"}, {"epo", "eng"}, 
+    {"epo", "fra"}, {"epo", "spa"}, {"fra", "cat"}, {"fra", "spa"}, {"oci", "cat"},
+     {"oci", "fra"}, {"oci", "spa"}};*/
+    vector<pair<string, string>> langpairs; //modify - langpairs contains the pairs to evaluate for
+    ifstream inp; inp.open("LangData/useful3let.txt"); //list of language pairs taken from here in order.
+    for(int i = 0; i < N; i++){
+        string a, b; inp >> a >> b;
+        langpairs.push_back({a, b});
+    }
+    for(int i = 0; i < N; i++){
+        string lang = langpairs[i].first + "-" + langpairs[i].second;
+        string pred = argv[1] + lang + "/predictions.txt";
+        string orig = "LangData/RDFParsed/" + lang + ".txt";
+        string used =  "sampleconfigs/Use26Gen1-Paths/" + lang + "/langpathlist.txt";//modify
+        string prefix = argv[1] + lang + "/";
+        int num_used = 26; //modify - number of langpairs used as input
+        Compare Cx(langpairs[i].first, langpairs[i].second, pred, orig, used, num_used, prefix);
+        CountbyPOS CPx(lang, orig, prefix);
+    }
+}

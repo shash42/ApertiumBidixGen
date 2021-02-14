@@ -1,6 +1,8 @@
-#include "Graph.h"
-#include "Biconnected.h"
-#include "Graph.cpp"
+//Code used for testing direct apertium bidix parsing, filepaths outdated
+
+#include "../Graph.h"
+#include "../Biconnected.h"
+#include "../Graph.cpp"
 
 #include<set>
 #include<iostream>
