@@ -58,7 +58,7 @@ You can refer to "ApertiumRaw-langfile-list.txt" provided in the download as an 
 
 The way to convert Apertium data to the internal format is by using  <code>./parsebidix path_to_lang-file-list [path_to_destination-folder] </code>.  The path_to_destination-folder is an optional argument, by default the parsed results will go to <code> /LangData/Parsed. </code>Similarly for RDF, it is expected that the RDF data is available in a CSV format, where there are spaces before and after the comma. The usage command is similar, <code>./parsecsvrdf path_to_lang-file-list [path_to_destination-folder] .</code> </code> Once again, the path_to_destination-folder is optional, this time the default being <code> /LangData/RDFParsed</code><br>
 
-Currently, most (>90% expected) Apertium entries can be parsed except those mentioned here: !!!*add link*!!!. Majorly, the issue is with entries using regex or some other unconventional mode of description. All valid RDF CSV data should be parse-able. It is recommended to directly use Apertium data though as RDF data is itself a parsed version of Apertium which loses or changes some information.
+Currently, most (>90% expected) Apertium entries can be parsed. Majorly, the issue is with entries using regex or some other unconventional mode of description. All valid RDF CSV data should be parse-able. It is recommended to directly use Apertium data though as RDF data is itself a parsed version of Apertium which loses or changes some information.
 
 <h2> Usage Guidelines </h2>
 
