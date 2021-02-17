@@ -1,5 +1,3 @@
-Last updated on August 30.
-
 # ApertiumBidixGen
 
 ### Bilingual Dictionary Generation via Graph Exploration
